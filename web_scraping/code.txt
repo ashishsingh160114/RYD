@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import re
+#import re
 
 headers = {
     'Access-Control-Allow-Origin': '*',
