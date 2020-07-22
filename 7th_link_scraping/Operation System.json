@@ -1,0 +1,179 @@
+[
+    [
+        "1) Which of the following is a service not supported by the operating system:?",
+        "a) Protection",
+        "b) Accounting",
+        "c) Compilation",
+        "d) I/O operation",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "2) Concurrent processes are processes that",
+        "a) do not overlap in time",
+        "b) overlap in time",
+        "c) are executed by a processor at the same time",
+        "d) no one of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "3) Sector interleaving in disks is done by",
+        "a) single user system",
+        "b) non-multiprogramming system",
+        "c) nom-multitasking system",
+        "d) none of these",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "4) Dijkstras banking algorithm in an operating system solves the problem of",
+        "a) deadlock avoidance",
+        "b) deadlock recovery",
+        "c) mutual exclusion",
+        "d) context switching",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "5) Which of the following page replacement algorithms suffers from Beladys anomaly?",
+        "a) Shortest job first",
+        "b) Round robin",
+        "c) First come first serve",
+        "d) Elevator",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "6) If there are 32 segments, each of size 1 k bytes, then the logical address should have",
+        "a) 13 bits",
+        "b) 14 bits",
+        "c) 15 bits",
+        "d) 16 bits",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "7) A system with multiple CUPs is called",
+        "a) time sharing system",
+        "b) desktop system",
+        "c) client severe system",
+        "d) parallel system",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "8) Bootstrap loader is always stored in",
+        "a) cache",
+        "b) ROM",
+        "c) Ram",
+        "d) Disk",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "9) A single is a virtual interrupt which is created by which of the following",
+        "a) Hardware",
+        "b) OS",
+        "c) PCB",
+        "d) TLB",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "10) Petersons algorithm is the solution of which of the following problem.",
+        "a) deadlock",
+        "b) mutual exclusion",
+        "c) trashing",
+        "d) paging",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "11) Consider an address of 16 bit, with 4 bit as segment number, then maximum possible augment size is..",
+        "a) 16",
+        "b) 65536",
+        "c) 4096",
+        "d) 12",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "12) The cylinder skew problem is concern with which of the following",
+        "a) Semaphore",
+        "b) Thrashing",
+        "c) Interleaving",
+        "d) Deadlock",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "13) Determine the page faults when FIFO is applied to the following string with 3 frames 2,4,3,1,5,3,2,5,3,1,4,2",
+        "b) 12",
+        "c) 9",
+        "d) 7",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "14) The only state transition that is initiated by the user process itself is",
+        "a) block",
+        "b) Dispatch",
+        "c) wakeup",
+        "d) none of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "15) The size of the virtual memory depends on the size of the ",
+        "a) data bus",
+        "b) main memory",
+        "c) address bus",
+        "d) none of these",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "16) Which of the following scheduling algorithms gives minimum average waiting time?",
+        "a) FCFS",
+        "b) SJF",
+        "c) Round-robin",
+        "d) Priority",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "17) Which of the following scheduler reduces the degree of multiprogramming?",
+        "a) Long-term scheduler",
+        "b) Short-term scheduler",
+        "c) mid-term scheduler",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "18) Which of the following is the solution of priority inversion problem?",
+        "a) Kill the higher-priority process",
+        "b) Kill the lower-priority process",
+        "c) priority-inheritance protocol",
+        "d) semaphore",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "19) Where does the swap space residable?",
+        "a) RAM",
+        "b) Disk",
+        "c) ROM",
+        "d) on-chip cache",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "20) When a computer is  swapping it is",
+        "a) moving data from the hard drive to the floppy drive",
+        "b) moving data from memory to the swap file on the hard drive",
+        "c) moving data between registers in memory ",
+        "d) none of the above",
+        "View AnswerOption \u2013 b"
+    ]
+]

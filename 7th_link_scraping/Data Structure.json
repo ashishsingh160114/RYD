@@ -1,0 +1,243 @@
+[
+    [
+        "1)The number of possible binary search trees with 3 nodes is",
+        "a) 12",
+        "b) 13",
+        "c) 5",
+        "d) 15",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "2) Which of the following sorting algorithm has the worst time complexity of nlog (n) ?",
+        "a) Heap Sort",
+        "b) Quick sort",
+        "c) Insertion sort",
+        "d) Selection sort",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "3)You are asked to sort 15 randomly generated numbers. You should prefer",
+        "a) bubble sort",
+        "b) Selection sort",
+        "c) insertion sort",
+        "d) heap sort",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "4) Which of the following traversal techniques lists the nodes of a binary search tree in ascending order?",
+        "a) post-order",
+        "b) in-order",
+        "c) pre-order",
+        "d) none of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "5) The depth of a complete binary tree with n nodes is (log is to the base two)",
+        "a) log (n+1)- 1",
+        "b) log (n)",
+        "c) log (n-1) +1",
+        "d) log (n) +1",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "6) Which of the following abstract data types can be used to represent a many to many relation?",
+        "a) Tree",
+        "b) Stack",
+        "c) Graph",
+        "d) Queue",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "7) The order of the binary search algorithm is",
+        "a) n",
+        "b) n2",
+        "c) nlog(n)",
+        "d) log(m)",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "8) Which of the following is useful in implementing quick sort?",
+        "a) Stack",
+        "b) Set",
+        "c) List",
+        "d) Queue",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "9) The minimum number of edges in a connected cyclic graph on n vertices is",
+        "a) n-1",
+        "b) n",
+        "c) n+1",
+        "d) none of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "10) A machine took 200 sec to sort 200 names, using bubble sort. In 800 sec, it can approximately sort",
+        "a) 400 names",
+        "b) 800 names",
+        "c) 750 names",
+        "d) 800 names",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "11) Stack is useful for implementing",
+        "a) recursion",
+        "b) breadth first search",
+        "c) depth first search",
+        "d) both (a) and (c)",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "12) The maximum degree of any vertex in a simple graph with n vertices is",
+        "a) n",
+        "b) n-1",
+        "c) n+1",
+        "d) 2n-1",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "13) Which f the following need not be a binary tree ?",
+        "a) Search tree",
+        "b) Heap",
+        "c) AVL-Tree",
+        "d) B-Tree",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "14) The process of accessing data stored in tape is similar to manipulating data on a",
+        "a) Stack",
+        "b) Set",
+        "c) List",
+        "d) Heap",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "15) Likned lists are not suitable for implementing",
+        "a) insertion sort",
+        "b) binary search",
+        "c) radix sort",
+        "d) polynomial manipulation",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "16) In the above Question the average access time will be",
+        "a) 268 unit",
+        "b) 256 units",
+        "c) 293 units",
+        "d) 210 unit",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "17) The smallest element of an arrays index is called its",
+        "a) Lower bound",
+        "b) Upper bound",
+        "d) Extraction",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "18) Which of the following is not good for linked list?",
+        "a) Sorting",
+        "b) Queues",
+        "c) Binary reach",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "19)  is called self referential structure",
+        "a) linked list",
+        "b) Stack",
+        "c) queue",
+        "d) graph",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "20) A complete binary tree of level 5 has how many nodes?",
+        "a) 15",
+        "b) 25",
+        "c) 63",
+        "d) 33",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "21) The average successful search time taken by binary search on a sorted aray of 10 items is",
+        "a) 2.6",
+        "b) 2.7",
+        "c) 2.8",
+        "d) 2.9",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "22) In the previous questions, which of the following characters will have codes of length?",
+        "a) Only c",
+        "b) only b",
+        "c) b and c",
+        "d) only d",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "23) The average number of comparisons performed by the merge sort algorithm, in merging two sorted lists of length 2 is",
+        "a) 8/3",
+        "b) 8/5",
+        "c) 11/7",
+        "d) 11/6",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "24) The number of binary trees with 3 nodes which when traversed in post-order gives the sequence A,B,C is",
+        "a) 3",
+        "b) 9",
+        "c) 7",
+        "d) 5",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "25) The number of edges in a regular graph of degree d and n vertices is ",
+        "a) maximum of n,d",
+        "b) n + d",
+        "c) nd",
+        "d) nd/2",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "26) Assume 5 buffer pages are available to sort a file of 105 pages. The cost of sorting using m-way merge sort is",
+        "a) 206",
+        "b) 618",
+        "c) 840",
+        "d) 926",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "27) The number of binary relation on a set with n element is",
+        "a) n2",
+        "b) 2n",
+        "c) 2n2",
+        "d) none of the above",
+        "View AnswerOption \u2013 c"
+    ]
+]
