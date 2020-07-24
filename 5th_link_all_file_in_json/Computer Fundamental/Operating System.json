@@ -1,0 +1,631 @@
+[
+    [
+        "1. If there are multiple recycle bin for a hard disk",
+        "A. You can set different size for each recycle bin",
+        "B. You can choose which recycle bin to use to store your deleted files",
+        "C. You can make any one of them default recycle bin",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "2. Identify false statement",
+        "A. You can find deleted files in recycle bin",
+        "B. You can restore any files in recycle bin if you ever need",
+        "C. You can increase free space of disk by sending files in recycle bin",
+        "D. You can right click and choose Empty Recycle Bin to clean it at once",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "3. If the displayed system time and date is wrong, you can reset it using",
+        "A. Write",
+        "B. Calendar",
+        "C. Write file",
+        "D. Control panel",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "4. You should save your computer from?",
+        "A. Viruses",
+        "B. Time bombs",
+        "C. Worms",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "5. World Wide Web is being standard by",
+        "A. Worldwide corporation",
+        "B. W3C",
+        "C. World Wide Consortium",
+        "D. World Wide Web Standard",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "6. A co-processor",
+        "A. Is relatively easy to support in software",
+        "B. Causes all processor to function equally",
+        "C. Works with any application",
+        "D. Is quite common in modern computer",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "7. A Microsoft Windows is  a(n)",
+        "A. Operating system",
+        "B. Graphic program",
+        "C.  Word Processing",
+        "D. Database program",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "8. Which of the following is program group?",
+        "A. Accessories",
+        "B. Paint",
+        "C. Word",
+        "D. All of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "9. Which is not application software?",
+        "A. Windows NT",
+        "B. Page Maker",
+        "C. WinWord XP",
+        "D. Photoshop",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "10. The ...... program compresses large files into a smaller file",
+        "A. WinZip",
+        "B. WinShrink",
+        "C. WinStyle",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "11. Which of the following is an example of a real time operating system?",
+        "A. Lynx",
+        "B. MS DOS",
+        "C. Windows XP",
+        "D. Process Control",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "12. Which of the following operating system does not implement the multitasking truly?",
+        "A. Windows 98",
+        "B. Windows NT",
+        "C. Windows XP",
+        "D. MS DOS",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "13. Which of the following windows version support 64 bit processor?",
+        "A. Windows 98",
+        "B. Windows 2000",
+        "C. Windows XP",
+        "D. Windows 95",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "14. What program runs first after computer is booted and loading GUI?",
+        "A. Desktop Manager",
+        "B. File Manager",
+        "C. Windows Explorer",
+        "D. Authentication",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "15. Which of the following operating system do you choose to implement a client server network?",
+        "A. MS DOS",
+        "B. Windows",
+        "C. Windows 98",
+        "D. Windows 2000",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "16. Which of the following Operating systems is better for implementing a Client-Server network",
+        "A. MS DOS",
+        "B. Windows 95",
+        "C. Windows 98",
+        "D. Windows 2000",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "17. My Computer was introduced from",
+        "A. Windows 3.1",
+        "B. Windows 3.11",
+        "C. Windows 95",
+        "D. Windows 98",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "18. Which of the following Windows do not have Start button",
+        "A. Windows Vista",
+        "B. Windows 7",
+        "C. Windows 8",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "19. Which is the latest version of MS Windows?",
+        "A. Windows 2007",
+        "B. Windows 8.1",
+        "C. Windows 2008",
+        "D. Windows 10",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "20. Which operating system doesn't support networking between computers?",
+        "A. Windows 3.1",
+        "B. Windows 95",
+        "C. Windows 2000",
+        "D. Windows NT",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "21. Which of the following does not support more than one program at a time?",
+        "A. DOS",
+        "B. Linux",
+        "C. Windows",
+        "D. Unix",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "22. Which of the following is not an operating system?",
+        "A. DOS",
+        "B. Linux",
+        "C. Windows",
+        "D. Oracle",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "23. Linux is a(n) ....... operating system",
+        "A. Open source",
+        "B. Microsoft",
+        "C. Windows",
+        "D. Mac",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "24. Which operating system can you give smallest file name?",
+        "A. Ps/2",
+        "B. Dos",
+        "C. Windows",
+        "D. Windows NT",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "25. Which one is not operating system?",
+        "A. P11",
+        "B. OS/2",
+        "C. Windows",
+        "D. Unix",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "26. Which of the following is not a multitasking operating system?",
+        "A. Windows",
+        "B. Linux",
+        "C. Win NT",
+        "D. DOS",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "27. You should choose Sleep option when",
+        "A. The computer is tired after working for the whole day",
+        "B. You are leaving for a very short time and want to resume you work shortly",
+        "C. When computer gets hanged frequently. Let it sleep for some time",
+        "D. You finish working and going to bed",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "28. The ..... displays the name of every computer user on the computer",
+        "A. Wish list screen",
+        "B. Command screen",
+        "C. Welcome screen",
+        "D. None of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "29. The category of software most appropriate for controlling the design and layout of complex document like newsletters and brochure is:",
+        "A. Word processing",
+        "B. Computer aided design",
+        "C. Web page authoring",
+        "D. Desktop publishing",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "30. Which one is not a system tool?",
+        "A. Backup",
+        "B. Disk defragment",
+        "C. Virus scanning",
+        "D. All of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "31. The memory which allocates space for DOS and application is called",
+        "A. Expanded memory",
+        "B. Cache memory",
+        "C. Virtual memory",
+        "D. Conventional memory",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "32. The operating system creates _____ from the physical computer",
+        "A. Virtual space",
+        "B. Virtual computers",
+        "C. Virtual device",
+        "D. None",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "33. Which menu bar selection would you access to open file?",
+        "A. Option",
+        "B. Help",
+        "C. View",
+        "D. None of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "34. Which mode loads minimal set of drivers when starting Windows?",
+        "A. Safe Mode",
+        "B. Normal Mode",
+        "C. VGA Mode",
+        "D. Network Support Mode",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "35. Which of the following are loaded in safe mode?",
+        "A. Keyboard driver",
+        "B. Mouse driver",
+        "C. VGA drive",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "36. A ....... is a named location on a disk where files are stored",
+        "A. Folder",
+        "B. Pod",
+        "C. Version",
+        "D. None of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "37. Which type of command requires additional files to perform specific operations?",
+        "A. Internal commands",
+        "B. External commands",
+        "C. Valuable commands",
+        "D. Primary commands",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "38. Which of the following is system software?",
+        "A. Operating system",
+        "B. Compiler",
+        "C. Utilities",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "39. A user-interface that is easy to use is considered to be",
+        "A. User-happy",
+        "B. User-simple",
+        "C. User-friendly",
+        "D. None of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "40. A ..... is a flash memory storage device that plugins into a USB port",
+        "A. USB snap drive",
+        "B. USB flash drive",
+        "C. USB memory maker drive",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "41. The ....... is the drive containing the files to be copied",
+        "A. Source drive",
+        "B. Destination drive",
+        "C. USB drive",
+        "D. None of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "42. Which one of the following is not a multitasking operating system?",
+        "A. DOS",
+        "B. Windows",
+        "C. Unix",
+        "D. Linux",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "43. The most recent version of MAC OS is based on the ...... operating system",
+        "A. Windows",
+        "B. Linux",
+        "C. Unix",
+        "D. CMOS",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "44. In Windows, start button is used to",
+        "A. Run applications",
+        "B. Device setting",
+        "C. Turn off the system",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "45. Which one is true for unconditional disk formatting?",
+        "A. Destroys every byte of data on a disk by overwriting it with with blank spaces",
+        "B. Do not check/scan surface after format",
+        "C. Transfer system files after format",
+        "D. All of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "46. Once text has been cut to the clipboard, you can ...... that text into another document",
+        "A. Paste",
+        "B. Copy",
+        "C. Transfer",
+        "D. None of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "47. What is the function of radio button?",
+        "A. To select multiple option",
+        "B. To select single option",
+        "C. To select all option",
+        "D. All of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "48. The Banker's algorithm is used",
+        "A. to rectify deadlock",
+        "B. to detect deadlock",
+        "C. to prevent deadlock",
+        "D. to solve deadlock",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "49. The primary purpose of an operating system is:",
+        "A. To make the most efficient use of the computer hardware",
+        "B. To allow people to use the computer",
+        "C. To keep systems programmers employed",
+        "D. To make computers easier to use",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "50. You can use print manage window",
+        "A. To check status of files in the print queue",
+        "B. To cancel the print job",
+        "C. To interrupt printing",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "51. Which of the following operating system reads and reacts in actual time?",
+        "A. Quick Response System",
+        "B. Real Time System",
+        "C. Time Sharing System",
+        "D. Batch Processing System",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "52. All of the following are TRUE regarding virtual memory EXCEPT",
+        "A. Any amount of RAM can be allocated to virtual memory",
+        "B. The setting for the amount of hard disk drive space to allocate virtual memory can be manually change",
+        "C. This temporary storage is called the swap file or page file",
+        "D. Virtual memory is the physical space o the hard drive",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "53. The essential difference between an operating system like Linux and one like Windows is that",
+        "A. Windows can run with an Intel processor, whereas Linux cannot",
+        "B. Linux is a proprietary whereas Windows is not",
+        "C. There are multiple versions of Linux, but only one version of Windows",
+        "D. Any programmer can modify Linux code which is not permitted with Windows",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "54. What is dispatch latency?",
+        "A. The time taken by the dispatcher to stop one process and start another",
+        "B. The time taken by the processor to write a file into disk",
+        "C. The whole time taken by all processor",
+        "D. None of Above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "55. A page fault occurs when",
+        "A. the Deadlock happens",
+        "B. the Segmentation starts",
+        "C. the page is found in the memory",
+        "D. the page is not found in the memory",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "56. Whenever you move a directory from one location to another",
+        "A. All files inside the directory are moved",
+        "B. All the subdirectory inside that directory are moved",
+        "C. The directory is moved the source file is not moved",
+        "D. Both A and B",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "57. The Basic Input Output System (BIOS) resides in",
+        "A. RAM",
+        "B. ROM",
+        "C. The CPU",
+        "D. Memory Cache",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "58. Which of the following does not occur during the power-on-self-test (POST)?",
+        "A. The scan disk utility begins to run",
+        "B. The video card and video memory are tested",
+        "C. The BIOS identification process occurs",
+        "D. Memory chip are checked to ensure that they are working properly",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "59. The maximum size of a write file is limited to only",
+        "A. Name of the file",
+        "B. Extension of the file",
+        "C. The amount of memory in your computer",
+        "D. All of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "60. Which of the following is drop down list?",
+        "A. List",
+        "B. Combo box",
+        "C. Text area",
+        "D. None",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "61. Recently deleted files are stored in",
+        "A. Recycle bin",
+        "B. Desktop",
+        "C. Taskbar",
+        "D. My computer",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "62. Which components appear in the initial Windows start up display?",
+        "A. Dialog boxes",
+        "B. Start menu",
+        "C. Taskbar",
+        "D. All of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "63. A small part of taskbar that has icons of background running applications is",
+        "A. Start button",
+        "B. Quick launch",
+        "C. Task bar",
+        "D. System tray",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "64. An operating system version designed for use with a media center PC is Microsoft Windows XP",
+        "A. Home edition",
+        "B. Media center edition",
+        "C. Tablet PC edition",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "65. An operating system version designed for use with a tablet PC is Microsoft Windows XP",
+        "A. Home edition",
+        "B. Media center edition",
+        "C. Tablet PC edition",
+        "D. None of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "66. If you hard disk is partitioned into 3 drives, the number of recycle bin for that hard disk is",
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "67. The date and time displays on",
+        "A. Taskbar",
+        "B. Status bar",
+        "C. System tray",
+        "D. Launch pad",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "68. ...... runs on a computer hardware and serves as a platform for other system to run on",
+        "A. Operating system",
+        "B. Application system",
+        "C. System software",
+        "D. All of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "69. Which runs on computer hardware and serve as platform for other software to run on?",
+        "A. Operating System",
+        "B. Application Software",
+        "C. System Software",
+        "D. All",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "70. Which is the first program run on a computer when the computer boots up?",
+        "A. System software",
+        "B. Operating system",
+        "C. System operations",
+        "D. None",
+        "Answer: Option "
+    ]
+]

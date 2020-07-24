@@ -1,0 +1,670 @@
+[
+    [
+        "1. A light sensitive device that converts drawing, printed text or other images into digital form is",
+        "A. Keyboard",
+        "B. Plotter",
+        "C. Scanner",
+        "D. OMR",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "2. Which protocol provides e-mail facility among different hosts?",
+        "A. FTP",
+        "B. SMTP",
+        "C. TELNET",
+        "D. SNMP",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "3. The basic architecture of computer was developed by",
+        "A. John Von Neumann",
+        "B. Charles Babbage",
+        "C. Blaise Pascal",
+        "D. Garden Moore",
+        "E. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "4. In order to tell Excel that we are entering a formula in cell, we must begin with an operator such as",
+        "A. $",
+        "B. @",
+        "C. +",
+        "D. =",
+        "E. #",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "5. In how many generations a computer can be classified?",
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "6. Fifth generation computers are based on",
+        "A. Artificial Intelligence",
+        "B. Programming Intelligence",
+        "C. System Knowledge",
+        "D. VVLSI",
+        "E. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "7. First generation of computer was based on which technology?",
+        "A. Transistor",
+        "B. LSI",
+        "C. VLSI",
+        "D. Vaccum Tube",
+        "E. None of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "8. Microprocessor was introduced in which generation of computer?",
+        "A. Second Generation",
+        "B. Fourth Generation",
+        "C. Both (A) and (B)",
+        "D. Third Generation",
+        "E. Allof these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "9. Second generation computers are made of",
+        "A. Vaccum Tubes",
+        "B. Transistors",
+        "C. LSI",
+        "D. VLSI",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "10. Which of the following memory is non-volatile?",
+        "A. SRAM",
+        "B. DRAM",
+        "C. ROM",
+        "D. All of the above",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "11. GUI stands for",
+        "A. Graph Use Interface",
+        "B. Graphical Universal Interface",
+        "C. Graphical User Interface",
+        "D. Graphical Unique Interface",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "12. Any data or instruction entered into the memory of a computer is considered as",
+        "A. Storage",
+        "B. Output",
+        "C. Input",
+        "D. Information",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "13. Time during which a job is processed by the computer is:",
+        "A. Execution Time",
+        "B. Delay Time",
+        "C. Real Time",
+        "D. Waiting Time",
+        "E. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "14. Which of the following circuit is used as a 'Memory device' in computers?",
+        "A. Rectifier",
+        "B. Flip Flop",
+        "C. Comparator",
+        "D. Attenuator",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "15. The memory sizes in mainframe computers and advanced technology micro computer are expressed as",
+        "A. Bytes",
+        "B. Kilobytes",
+        "C. Bits",
+        "D. Megabytes",
+        "E. None of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "16. Which one of the following is not an application software package?",
+        "A. Red Hat Linux",
+        "B. Microsoft Office",
+        "C. Adobe Pagemaker",
+        "D. Open Office",
+        "E. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "17. Which of the following statement is wrong?",
+        "A. Photoshop is a graphical design tool by Adobe",
+        "B. Linux is free and open source software",
+        "C. Linux is owned and sold by Microsoft",
+        "D. Windows XP is an operating system",
+        "E. None of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "18. An error is also known as:",
+        "A. Bug",
+        "B. Debug",
+        "C. Cursor",
+        "D. Icon",
+        "E. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "19. Microsoft Word is an example of ",
+        "A. an operating system",
+        "B. Processing device",
+        "C. Application software",
+        "D. an input device",
+        "E. System Software",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "20. Who invented the supercomputer?",
+        "A. Charles Babbage",
+        "B. JH Van Tassell",
+        "C. Charles Ginsberg",
+        "D. Seymour Cray",
+        "E. None of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "21. Graphical pictures that represent an object like file, folder etc are:",
+        "A. Task bar",
+        "B. Windows",
+        "C. Icons",
+        "D. Desktop",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "22. Which of the following is not an advantage of magnetic disk storage?",
+        "A. The access time of magnetic disk is much less than that of magnetic tape",
+        "B. Disk storage is less expensive than tape storage",
+        "C. Disk storage is longer lasting than magnetic tape",
+        "D. None of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "23. The 0 and 1 in the binary numbering system are called Binary Digits or",
+        "A. Bytes",
+        "B. Kilobytes",
+        "C. Decimal bytes",
+        "D. Bits",
+        "E. None of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "24. The size of commonly used floppy disk is",
+        "A. 4.5\"",
+        "4.5\"",
+        "B. 3.5\"",
+        "3.5\"",
+        "C. 3.25\"",
+        "3.25\"",
+        "D. 5.5\"",
+        "5.5\"",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "25. The 'IC' chip, used in computers, is made of",
+        "A. Chomium",
+        "B. Iron Oxide",
+        "C. Silica",
+        "D. Silicon",
+        "E. None of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "26. Which of the following operating systems is produced by IBM?",
+        "A. OS-2",
+        "B. Windows",
+        "C. DOS",
+        "D. UNIX",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "27. The processor which performs arithmetical and logical operations is called",
+        "A. Control",
+        "B. ALU",
+        "C. Register",
+        "D. Cache Memory",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "28. Which was an early mainframe computer?",
+        "A. UNIC",
+        "B. FUNTRIA",
+        "C. BRAINIA",
+        "D. ENIAC",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "29. Where is the headquarters of Intel located?",
+        "A. Redmond, Washington",
+        "B. Tucson, Arizona",
+        "C. Santa Clara, California",
+        "D. Richmond, Virginia",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "30. Which of the following was the first Intel processor introduced?",
+        "A. 3080",
+        "B. 4004",
+        "C. 8080",
+        "D. 8086",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "31. Window's settings are recorded in",
+        "A. WINDOWS.INI",
+        "B. WIN.INI",
+        "C. SYSTEM.INI",
+        "D. GROUP.INI",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "32. Which network protocol is used to send Email?",
+        "A. FTP",
+        "B. SSH",
+        "C. POP3",
+        "D. SMTP",
+        "E. None of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "33. When was the first e-mail sent?",
+        "A. 1963",
+        "B. 1969",
+        "C. 1971",
+        "D. 1974",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "34. Operating System is the most common type of _________ software.",
+        "A. Communication",
+        "B. Application",
+        "C. System",
+        "D. Word Processing Software",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "35. Arithmetic logic unit",
+        "A. I only",
+        "B. II only",
+        "C. I and II only",
+        "D. I and III only",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "36. RAM chips",
+        "A. allow the computer to store data electronically",
+        "B. store data indefinitely unless you delete it",
+        "C. are secondary memory",
+        "D. All of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "37. Super computers are mainly useful for",
+        "A. Mathematical intensive scientific applications",
+        "B. Data-retrieval operations",
+        "C. Input-output intensive processing",
+        "D. All of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "38. The operating system manages",
+        "A. Memory",
+        "B. Processor",
+        "C. Disk and I/O Devices",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "39. Which memory is non volatile and may be written only once?",
+        "A. RAM",
+        "B. EEPROM",
+        "C. EPROM",
+        "D. PROM",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "40. The memory which is programmed at the time it is manufactured is",
+        "A. RAM",
+        "B. ROM",
+        "C. PROM",
+        "D. EPROM",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "41. Which of the following memory is volatile",
+        "A. RAM",
+        "B. ROM",
+        "C. EPROM",
+        "D. PROM",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "42. Which of the following is the fastest",
+        "A. CPU",
+        "B. Magnetic Tapes and Disks",
+        "C. Video Terminal",
+        "D. Sensors, Mechanical Controllers",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "43. A kilobyte also referred to as KB, is equal to:",
+        "A. 1000 bytes",
+        "B. 1024 bytes",
+        "C. 2048 bytes",
+        "D. 512 bytes",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "44. Which is the device that converts computer output into a form that can be transmitted over a telephone line?",
+        "A. Teleport",
+        "B. Multiplexer",
+        "C. Concentrator",
+        "D. Modem",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "45. Which of the following items is not used in Local Area Networks (LANs)",
+        "A. Computers",
+        "B. Modem",
+        "C. Printer",
+        "D. Cable",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "46. ROM is needed for storing an initial program called _______.",
+        "A. Computer Startup Loader",
+        "B. OS Version",
+        "C. Kernel",
+        "D. Bootstrap Loader",
+        "E. None of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "47. Computer Virus is a _______.",
+        "A. Hardware",
+        "B. Software",
+        "C. Bacteria",
+        "D. Freeware",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "48. EEPROM stands for",
+        "A. Electronically Erasable Programmable Read-Only Memory",
+        "B. Electrically Erasable Programmable Read-Only Memory",
+        "C. Electrically Enabled Programmable Read Only Memory",
+        "D.  Electronically Enabled Programmable Read Only Memory",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "49. The most advanced form of ROM is?",
+        "A. PROM",
+        "B. RAM",
+        "C. EEPROM",
+        "D. Cache Memory",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "50. Another term for Main Memory is",
+        "A. Hard Disk",
+        "B. ROM",
+        "C. Floppy Disk",
+        "D. RAM",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "51. The file extension of MS-Word document in Office 2007 is _______.",
+        "A. .doc",
+        "B. .docx",
+        "C. .pdf",
+        "D. .txt",
+        "E. .xls",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "52. A computer port is used to?",
+        "A. Communicate with hard disks",
+        "B. Donwload files",
+        "C. Communicate with other computer peripherals",
+        "D. None of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "53. One MB is equal to?",
+        "A. 1024 Byte",
+        "B. 1024 KB",
+        "C. 1000 KB ",
+        "D. 1024 GB",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "54. Dot-matrix, Deskjet, Inkjet and Laser are all types of which computer peripherals?",
+        "A. Printers",
+        "B. Software",
+        "C. Monitors",
+        "D. Keyboards",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "55. Internet Explorer is a type of",
+        "A. Operating System",
+        "B. Browser",
+        "C. IP address",
+        "D. Compiler",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "56. AVI(Audio Video Interleave) format was developed by?",
+        "A. IBM",
+        "B. Apple",
+        "C. Microsoft",
+        "D. Macromedia",
+        "E. Adobe",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "57. ______ is the high speed memory used in the computer.",
+        "A. RAM",
+        "B. Hard Disk",
+        "C. Cache",
+        "D. BIOS",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "58. In a client/server model, a client program _______.",
+        "A. Asks for information",
+        "B. Provides information and files",
+        "C. Serves software files to other computers",
+        "D. Distributes data files to other computers",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "59. Which one of the following is an example of Operating System?",
+        "A. Microsoft Word",
+        "B. Microsoft Excel",
+        "C. Microsoft Access",
+        "D. Microsoft Windows",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "60. Which of the following is not used as secondary storage?",
+        "A. Semiconductor memory",
+        "B. Magnetic Disks",
+        "C. magnetic Drums",
+        "D. Magnetic Tapes",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "61. General purpose computers are those that can be adopted to countless uses simply by changing its",
+        "A. Output Device",
+        "B. Input Device",
+        "C. Program",
+        "D. Processor",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "62. A collection of 8 bits is called",
+        "A. Byte",
+        "B. Record",
+        "C. Word",
+        "D. Nibble",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "63. A typical modern computer uses",
+        "A. Magnetic cores for secondary storage",
+        "B. LSI chips",
+        "C. Magnetic tape for primary memory",
+        "D. More than 10,000 vaccum tubes",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "64. The term 'memory' applies to which one of the following",
+        "A. Logic",
+        "B. Storage",
+        "C. Input Device",
+        "D. Output Device",
+        "E. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "65. The device primarily used to provide hardcopy is the",
+        "A. CRT",
+        "B. Computer Console",
+        "C. Printer",
+        "D. Card Reader",
+        "E. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "66. Which of the following is the most powerful type of the computer?",
+        "A. Mainframe",
+        "B. Super conductor",
+        "C. Micro computer",
+        "D. Super computer",
+        "E. None of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "67. Which of the following is true about primary storage?",
+        "A. It is a part of the CPU",
+        "B. It allows very fast access to data",
+        "C. It is relatively more expensive",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "68. A list of instructions used by a computer is called",
+        "A. Text",
+        "B. CPU",
+        "C. Program",
+        "D. Output",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "69. The process of copying data from a memory location is called",
+        "A. Writing",
+        "B. Controlling",
+        "C. Booting",
+        "D. Reading",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "70. The process of putting data into a storage location is called",
+        "A. Reading",
+        "B. Writing",
+        "C. Controlling",
+        "D. Hand Shaking",
+        "Answer: Option B"
+    ]
+]

@@ -1,0 +1,631 @@
+[
+    [
+        "1. Which tab is not available on left panel when you open a presentation?",
+        "A. Outline",
+        "B. Slides",
+        "C. Notes",
+        "D. All of above are available",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "2. Which of the following statements is not true?",
+        "A. You can type text directly into a PowerPoint slide but typing in text box is more convenient.",
+        "B. From Insert menu choose Picture and then File to insert your images into slides.",
+        "C. You can view a PowerPoint presentation in Normal, Slide Sorter or Slide Show view.",
+        "D. You can show or hide task pane from View >> Toolbars.",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "3. To start Microsoft PowerPoint application",
+        "A. Click on Start > Programs > All Programs > Microsoft PowerPoint",
+        "B. Hit Ctrl + R then type ppoint.exe and Enter",
+        "C. Click Start > Run then type powerpnt then press Enter",
+        "D. All of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "4. Which of the following section does not exist in a slide layout?",
+        "A. Titles",
+        "B. Lists",
+        "C. Charts",
+        "D. Animations",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "5. PowerPoint presentations are widely used as",
+        "A. Note outlines for teachers",
+        "B. Project presentations by students",
+        "C. Communication of planning",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "6. ________ controls all the main slide control tasks for your presentation.",
+        "A. Task Pane",
+        "B. Task Bar",
+        "C. Control Panel",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "7. Which of the following cannot be toggled from View > Toolbars?",
+        "A. Control Toolbox",
+        "B. Slides",
+        "C. Revisions",
+        "D. Reviewing",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "8. Which of the following pane is not available in Task Pane?",
+        "A. Getting Started",
+        "B. Clip Art",
+        "C. Word Art",
+        "D. Search Results",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "9. Which of the following pane is NOT available in Task Pane?",
+        "A. Slide Design",
+        "B. Master Slide",
+        "C. Slide Layout",
+        "D. Slide Transition",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "10. A new presentation can be created from",
+        "A. Blank Presentation",
+        "B. From Existing Presentation",
+        "C. From Design Template",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "11. In slide layout panel how many layouts are available for text layout by default?",
+        "A. 4",
+        "B. 7",
+        "C. 12",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "12. Which of the following statement is false?",
+        "A. If you choose to select from one of the pre-made slide layouts, you can change the positioning",
+        "B. If you choose to select from the pre-made slide layouts, you cannot delete the objects in the layout",
+        "C. Blank Slide is at the top of the \u2018Content Layouts\u2019 area in the Slide Layout panel",
+        "D. All of above are false statements",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "13. What lets you to create new presentation by selecting ready-made font color and graphics effects?",
+        "A. Presentation Template",
+        "B. Master Slide",
+        "C. Design Template",
+        "D. Animation Scheme",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "14. Which command will you use in PowerPoint if you need to change the color of different objects without changing content?",
+        "A. Design Template",
+        "B. Color Scheme",
+        "C. Font Color",
+        "D. Object Color",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "15. What PowerPoint feature will you use to apply motion effects to different objects of a slide?",
+        "A. Slide Transition",
+        "B. Slide Design",
+        "C. Animation Objects",
+        "D. Animation Scheme",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "16. What feature will you use to apply motion effects in between a slide exits and another enters?",
+        "A. Slide Transition",
+        "B. Slide Design",
+        "C. Animation Objects",
+        "D. Animation Scheme",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "17. The difference between Slide Design and Auto Content Wizard is",
+        "A. Both are same",
+        "B. Auto Content Wizard is just the wizard version of Slide Design",
+        "C. Slide Design does not provide sample content but Auto Content Wizard provides sample content too!",
+        "D. Slide Design asks your choice in steps but Auto Content Wizard does not let you make choices",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "18. In which menu can you find features like Slide Design, Slide Layout etc.?",
+        "A. Insert Menu",
+        "B. Format Menu",
+        "C. Tools Menu",
+        "D. Slide Show Menu",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "19. Which menu provides you options like Animation Scheme, custom Animation, Slide Transition?",
+        "A. Insert Menu",
+        "B. Format Menu",
+        "C. Tools Menu",
+        "D. Slide Show Menu",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "20. How many steps are there between Start and Finish in AutoContent Wizard?",
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "21. Which short cut key inserts a new slide in current presentation?",
+        "A. Ctrl+N",
+        "B. Ctrl+M",
+        "C. Ctrl+S",
+        "D. All of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "22. What happens if you select first and second slide and then click on New Slide button on toolbar?",
+        "A. A new slide is inserted as first slide in presentation",
+        "B. A new slide is inserted as second slide in presentation",
+        "C. A new slide is inserted as third slide in presentation",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "23. Which of the following method can insert a new slide in current presentation?",
+        "A. Right click on the Slide panel and choose New Slide",
+        "B. From Insert menu choose New Slide",
+        "C. Click on New Slide button on toolbar",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "24. Which of the following is not a part of Slide Design",
+        "A. Design Template",
+        "B. Color Scheme",
+        "C. Animation Scheme",
+        "D. Slide Layout",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "25. What is the best way to create another copy of a slide?",
+        "A. Click the slide then press Ctrl+A and paste in new slide",
+        "B. From Insert Menu choose Duplicate Slide",
+        "C. Redo everything on a new slide that you had done on previous slide",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "26. From which menu you can access Picture, Test Box, Chart etc?",
+        "A. File",
+        "B. Edit",
+        "C. Insert",
+        "D. View",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "27. If you want to insert some slides from other presentation into current one choose",
+        "A. From Insert menu choose Slides from Files",
+        "B. From Insert menu choose Slides from Presentation",
+        "C. From Insert menu choose Slides",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "28. What are the three options available in Insert > Picture menu?",
+        "A. Clipart, Pictures, Shapes",
+        "B. Clipart, From File, Shapes",
+        "C. Clipart, From Files, AutoShapes",
+        "D. Clipart, Pictures, AutoShapes",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "29. To insert slide numbers",
+        "A. Insert a text box and select Insert > Page Number",
+        "B. Insert a textbox and select Insert > Number > PageNumber",
+        "C. Choose Insert > Slide Number",
+        "D. Insert a new text box and select Insert > slide Number",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "30. In a PowerPoint presentation",
+        "A. Sound clips can be inserted but not movie clips",
+        "B. Movie clips can be inserted but not sound clips",
+        "C. Both cannot be inserted",
+        "D. Both can be inserted",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "31. To insert a hyperlink in a slide",
+        "A. Choose Insert >> Hyperlink",
+        "B. Press Ctrl + K",
+        "C. Hyperlinks can\u2019t be inserted in slides",
+        "D. Both A and B",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "32. List Box and Text box",
+        "A. Are some other than that in a list box the bullets are enabled",
+        "B. Are different. List boxes are used to present lists and can\u2019t be created with text boxes",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "33. Which of the following statement is true",
+        "A. You can insert text boxes from drawing toolbar in PowerPoint",
+        "B. You cannot insert text boxes from drawing toolbar in PowerPoint",
+        "C. Text boxes are provides when you choose a layout and can\u2019t be inserted afterwards",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "34. When you delete a text box object from a slide in PowerPoint Presentation",
+        "A. The object is deleted but text box and the text inside is left on the slide",
+        "B. The text box is deleted and the text is pasted on the slide",
+        "C. The text box and text both are deleted",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "35. Which of the following font effect is available in PowerPoint Font dialog box?",
+        "A. Underline",
+        "B. Shadow",
+        "C. Emboss",
+        "D. Strikethrough",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "36. What happens if you edited an image inserted in PowerPoint",
+        "A. The original file that was inserted is not changed",
+        "B. The original file that was inserted is changed",
+        "C. The original file is changed when you save presentation",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "37. If you select Insert > Picture > From File",
+        "A. You can insert pictures and clipart",
+        "B. You can insert clipart only",
+        "C. You can insert pictures only",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "38. The effect applied to display when slides changes in slide show view is",
+        "A. Slide Animation",
+        "B. Custom Animation",
+        "C. Custom Transition",
+        "D. Slide Transition",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "39. To start slide show of a presentation",
+        "A. Hit F5 key",
+        "B. From Slide Show menu choose View Show option",
+        "C. From Slide Show menu choose Rehearse timing",
+        "D. Both A and B",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "40. Which file format can be added to a PowerPoint show?",
+        "A. .jpg",
+        "B. .gif",
+        "C. .wav",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "41. In Microsoft PowerPoint, two kinds of sound effects files that can be added to the presentation are",
+        "A. .wav files and .mid files",
+        "B. .wav files and .gif files",
+        "C. .wav files and .jpg files",
+        "D. .jpg files and .gif files",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "42. Material consisting of text and numbers is best presented as",
+        "A. A table slide",
+        "B. A bullet slide",
+        "C. A title slide",
+        "D. All of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "43. What is a motion path?",
+        "A. A type of animation entrance effect",
+        "B. A method of advancing slides",
+        "C. A method of moving items on a slide",
+        "D. All of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "44. What is a slide-title master pair?",
+        "A. The title area and text area of a specific slide",
+        "B. A slide master and title master merged into a single slide",
+        "C. A slide master and title master for a specific design template",
+        "D. All of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "45. Which of the following should you use if you want all the slides in the presentation to have the same 'look' ?",
+        "A. The slide layout option",
+        "B. Add a slide option",
+        "C. Outline view",
+        "D. A presentation design template",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "46. In the context of animations, what is a trigger?",
+        "A. An action button that advances to the next slide",
+        "B. An item on the slide that performs an action when clicked",
+        "C. The name of a motion path",
+        "D. All of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "47. If you have a PowerPoint show you created and want to send using email to another teacher you can add the show to your email message as a (an)",
+        "A. Inclusion",
+        "B. Attachment",
+        "C. Reply",
+        "D. Forward",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "48. In order to edit a chart, you can",
+        "A. Triple click the chart object",
+        "B. Click and drag the chart object",
+        "C. Double click the chart object",
+        "D. Click the chart object",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "49. To exit the PowerPoint",
+        "A. Click the application minimize button",
+        "B. Click the document close button",
+        "C. Double click the applications control menu icon",
+        "D. Double click the document control menu icon",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "50. To preview a motion path effect using the custom animation task pane, you should",
+        "A. Click the play button",
+        "B. Click the show effect button",
+        "C. Double click the motion path",
+        "D. All of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "51. You can create a new presentation by completing all of the following except",
+        "A. Clicking the new button on the standard toolbar",
+        "B. Clicking file, new",
+        "C. Clicking file open",
+        "D. Pressing ctrl + N",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "52. You can embed a MS-Organization Chart in a slide by",
+        "A. Clicking the object command on the edit menu",
+        "B. Clicking the insert new slide button the standard toolbar, then double click the organization chart button on the formatting toolbar",
+        "C. clicking the ms organization chart button on the formatting toolbar",
+        "D. Clicking the MS-Organization Chart button on the standard toolbar",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "53. To select one hyperlink after another during a slide presentation, what do you press?",
+        "A. Tab",
+        "B. Ctrl + K",
+        "C. Ctrl + H",
+        "D. All of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "54. Special effects used to introduce slides in a presentation are called",
+        "A. Effects",
+        "B. Custom animations",
+        "C. Transitions",
+        "D. Present animations",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "55. You can edit an embedded organization chart object by",
+        "A. Clicking edit object",
+        "B. Double clicking the organization chart object",
+        "C. Right clicking the chart object, then clicking edit MS-Organization Chart object",
+        "D. B and C both",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "56. What is the term used when you press and hold the left mouse key and move the mouse around the slide?",
+        "A. Highlighting",
+        "B. Dragging",
+        "C. Selecting",
+        "D. Moving",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "57. Which of the following toolbars provide different options in various master views?",
+        "A. Common tasks toolbar",
+        "B. Drawing toolbar",
+        "C. Formatting toolbar",
+        "D. Standard toolbar",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "58. How can you create a uniform appearance by adding a background image to all slides?",
+        "A. Create a template",
+        "B. Edit the slide master",
+        "C. Use the autocorrect wizard",
+        "D. All of the above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "59. How do you create speaker note pages that show the slides, related notes, and your company logo on each page?",
+        "A. Edit the notes master and add your company logo",
+        "B. Edit the slide master and insert your company logo and notes pane",
+        "C. Edit the handout master to include your company logo and one slide per page with additional note space",
+        "D. All of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "60. Which option on the custom animation task pane allows you to apply a preset or custom motion path?",
+        "A. Add effect",
+        "B. Emphasis",
+        "C. Animate now",
+        "D. All of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "61. What is the term used when a clip art image changes the direction of faces?",
+        "A. Group",
+        "B. Flip",
+        "C. Rotate",
+        "D. All of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "62. The slide that is used to introduce a topic and set the tone for the presentation is called the",
+        "A. table slide",
+        "B. graph slide",
+        "C. bullet slide",
+        "D. title slide",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "63. Which of the following features should you use when typing in the notes text box?",
+        "A. Slide show",
+        "B. Insert",
+        "C. Slide maser",
+        "D. Zoom",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "64. Which option allows you to select line, curve, freeform or scribble tools?",
+        "A. Create effect",
+        "B. Insert motion path",
+        "C. Draw custom path",
+        "D. All of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "65. Which of the following should be used when you want to add a slide to an existing presentation?",
+        "A. File, add a new slide",
+        "B. Insert, New slide",
+        "C. File Open",
+        "D. File, New",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "66. The size of the organization chart object",
+        "A. Is determined by the presentation design and cannot be changed",
+        "B. Is determined by the presentation design but can be changed in PowerPoint",
+        "C. Is dependent on the amount of text within the organization chart",
+        "D. b and c",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "67. Which of the following is the default page setup orientation of slide in PowerPoint",
+        "A. Vertical",
+        "B. Landscape",
+        "C. Portrait",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "68. Want a PowerPoint photo album slide show to play continuously?",
+        "A. Use random slide transitions",
+        "B. Launch an online broadcast",
+        "C. Loop continuously",
+        "D. All of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "69. What is defined by the handout master?",
+        "A. Slide formatting",
+        "B. Layout of audience handout notes",
+        "C. Handout content formatting for Microsoft word export",
+        "D. All of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "70. Which of the following tool enables you to add text to a slide without using the standard placeholders?",
+        "A. Text tool box",
+        "B. Line tool",
+        "C. Drawing tool",
+        "D. Auto shapes tool",
+        "Answer: Option A"
+    ]
+]

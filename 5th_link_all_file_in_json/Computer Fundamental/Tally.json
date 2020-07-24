@@ -1,0 +1,640 @@
+[
+    [
+        "1. Tally package is developed by",
+        "A. Peutronics",
+        "B. Tally Solutions",
+        "C. Coral Softwares",
+        "D. Vedika Softwares",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "2. in general the financial year from shall be from",
+        "A. 1st April of any year",
+        "B. 31st March of any year",
+        "C. All of them are true",
+        "D. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "3. Which menu appears after starting Tally for the first time",
+        "A. Gateway of Tally",
+        "B. Company Info",
+        "C. Display",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "4. Which option is used in Tally to make changes in created company",
+        "A. Select Company",
+        "B. Shut Company",
+        "C. Alter",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "5. Which option from Company Info. menu is selected to create a new Company in Tally",
+        "A. Company Create",
+        "B. Create Company",
+        "C. Create",
+        "D. New Company",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "6. Which option is selected from Company Info Menu to divide company data into two financial years",
+        "A. Change Tally Vault",
+        "B. Alter",
+        "C. Split Company Data",
+        "D. New Company",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "7. Which option is used to copy company's data into pendrive or CD",
+        "A. Backup",
+        "B. Restore",
+        "C. Split Company Data",
+        "D. Copy Data",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "8. Which option is used to place data taken in pen drive or CD to Appropriate place in Tally",
+        "A. Backup",
+        "B. Restore",
+        "C. Split Company Data",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "9. Which option is used to open company created in Tally",
+        "A. Create Company",
+        "B. Alter",
+        "C. Select Company",
+        "D. Shut Company",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "10. Which option is used in Tally to close opened Company",
+        "A. Alter",
+        "B. Shut Company",
+        "C. Create Company",
+        "D. Select Company",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "11. Which option is used to move from one company to another when more than one companies are open",
+        "A. Company Info",
+        "B. Shut Company",
+        "C. Select Company",
+        "D. Company",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "12. Which menu is used to create new ledgers, groups and voucher types in Tally",
+        "A. Reports",
+        "B. Import",
+        "C. Transactions",
+        "D. Masters",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "13. Which submenu is used to create new ledgers, groups and voucher types in Tally",
+        "A. Account Info ",
+        "B. Inventory Info ",
+        "C. Accounting Vouchers",
+        "D. Inventory Vouchers",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "14. Which submenu is used for voucher entry in Tally",
+        "A. Vouchers",
+        "B. Accounting Vouchers",
+        "C. Accounts Info ",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "15. Salary Account comes under which head",
+        "A. Indirect Incomes",
+        "B. Indirect Expenses",
+        "C. Direct Incomes",
+        "D. Direct Expenses",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "16. How many groups are pre-defined in Tally",
+        "A. 28",
+        "B. 30",
+        "C. 15",
+        "D. 19",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "17. How many primary groups are there in Tally",
+        "A. 19",
+        "B. 28",
+        "C. 15",
+        "D. 20",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "18. How many secondary groups are there in Tally",
+        "A. 15",
+        "B. 13",
+        "C. 28",
+        "D. 3",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "19. Which option is used to view list of Primary and Secondary groups in Tally",
+        "A. List of Accounts",
+        "B. Accounts",
+        "C. List",
+        "D. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "20. Which ledger is created by Tally automatically as soon as we create a new company",
+        "A. Cash",
+        "B. Profit & Loss A/c ",
+        "C. Capital A/c ",
+        "D. A and B both",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "21. Which option is used to make changes in created Groups of Ledgers in Tally",
+        "A. Create",
+        "B. Display",
+        "C. Alter",
+        "D. Change",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "22. How many voucher types are readily available in Tally",
+        "A. 18",
+        "B. 16",
+        "C. 20",
+        "D. 28",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "23. Which voucher type is used to transfer amount from one bank to another",
+        "A. Contra",
+        "B. Payment",
+        "C. Receipt",
+        "D. Post-Dated",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "24. Rs.20,000 withdrawn from State Bank. In which voucher type this transaction will be recorded",
+        "A. Payment",
+        "B. Receipt",
+        "C. Contra",
+        "D. Post-Dated",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "25. Where do we record transactions of salary, rent or interest paid",
+        "A. Contra",
+        "B. Journal",
+        "C. Receipt",
+        "D. Payment",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "26. Where do we record interest received, commission received or rent received in Tally",
+        "A. Contra",
+        "B. Payment",
+        "C. Receipt",
+        "D. Journal",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "27. Where do we record cash sales in Tally",
+        "A. Contra",
+        "B. Receipt",
+        "C. Payment",
+        "D. Journal",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "28. Where do we record credit purchase of furniture in Tally",
+        "A. Purchase",
+        "B. Payment",
+        "C. Receipt",
+        "D. Journal",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "29. Where do we record purchase return, sales return, depreciation, bad debts etc.in Tally",
+        "A. Journal",
+        "B. Payment",
+        "C. Contra",
+        "D. Receipt",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "30. Which of the following equation is true for balance sheet",
+        "A. Assets = Liabilities +Capital",
+        "B. Liabilities = Assets + Capital",
+        "C. Capital = Assets + Liabilities",
+        "D. All of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "31. How many options related to Company Features are there in \"F11: Features\" in Tally",
+        "A. 3",
+        "B. 2",
+        "C. 4",
+        "D. 5",
+        "Answer: Option D ",
+        "1. Accounting Features",
+        "2. Inventory Features",
+        "3. Statutory and Taxation",
+        "4. Tally Software Services (TSS) Features",
+        "5. Add-on Features",
+        ""
+    ],
+    [
+        "32. Which unit is created for stock items like grain, pulse, sugar, oil, ghee etc.",
+        "A. Lts  ",
+        "B. Nos  ",
+        "C. Kgs  ",
+        "D. Box ",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "33. Which option is used to view Trial Balance from Gateway of Tally?",
+        "A. Gateway of Tally > Reports > Trial Balance",
+        "B. Gateway of Tally > Trial Balance",
+        "C. Gateway of Tally > Display > Trial Balance",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "34. Which option is true for viewing Profit & Loss A/C in Gateway of Tally",
+        "A. Gateway of Tally > Reports > Profit & Loss A/C",
+        "B. Gateway of Tally > Display > Profit & Loss A/C",
+        "C. Gateway of Tally > Account Books > Profit & Loss A/C",
+        "D. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "35. By default, which mode is on in Purchase and Sales voucher",
+        "A. Normal Mode",
+        "B. Item Invoice Mode",
+        "C. Particulars Mode",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "36. Which step is followed to view Purchase Register",
+        "A. Gateway of Tally > Display > Sales Register",
+        "B. Gateway of Tally > Account Books > Sales Register",
+        "C. Gateway of Tally > Display > Account Books > Purchase Register",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "37. Which of the following is not compulsory to create while entry in Accounts with Inventory",
+        "A. Stock Groups",
+        "B. Stock Items",
+        "C. Stock Categories",
+        "D. Units of Measure",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "38. Which reports are prepared monthly in Tally?",
+        "A. Profit & Loss A/C",
+        "B. Balance Sheet",
+        "C. Trial Balance",
+        "D. Cash Flow of Funds Flow",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "39. By which option Purchase or Sales register can be viewed",
+        "A. Statutory Books",
+        "B. Inventory Books",
+        "C. Accounts Books",
+        "D. Display",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "40. Which option is used to view Stock Items or Group Summary",
+        "A. Accounts Books",
+        "B. Inventory Books",
+        "C. Statutory Books",
+        "D. Display",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "41. We can change the Company Information from",
+        "A. A Company Info > Back up",
+        "B. Company Info > Alter",
+        "C. Company Info > Split Company Data",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "42. Company Restore option is available in",
+        "A. Company Features",
+        "B. Company Information",
+        "C. Configuration",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "43. We can modify an existing Company from",
+        "A. Company Info > Alter",
+        "B. Company Info > Alter Company",
+        "C. Gateway of Tally > Modify Company",
+        "D. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "44. Party account can be created through",
+        "A. Group creation window",
+        "B. Ledger creation window",
+        "C. Inventory creation window",
+        "D. Any one of them",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "45. What is the utility of Tally Vault Password",
+        "A. It will lock the period of Company",
+        "B. It will lock all voucher entries for that Company",
+        "C. It will not show the Company Name in the Company Select List ",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "46. We can show Bill wise details of Debtors and Creditors by activating",
+        "A. Maintain Bill by bill",
+        "B. Maintain Bill wise Details",
+        "C. Maintain References",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "47. How many inbuilt Accounts group are in tally by default",
+        "A. 29",
+        "B. 31",
+        "C. 25",
+        "D. 34",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "48. Suspense Account Group is defined under",
+        "A. Income",
+        "B. Expenditure",
+        "C. Liabilities",
+        "D. Assets",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "49. Manufacturing Journal creates based on",
+        "A. Journal",
+        "B. Receipt Note",
+        "C. Stock Journal",
+        "D. Purchase Quotation",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "50. To create Manufacturing Journal which option must be activated",
+        "A. Use Common Narration",
+        "B. Narrations for each entry",
+        "C. Prefilled with Zero",
+        "D. Use as manufacturing Journal",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "51. How many types of Measurement Units we can create in Tally",
+        "A. 2",
+        "B. 3",
+        "C. 5",
+        "D. Unlimited",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "52. To activate Job Costing which options require to be activated",
+        "A. Maintain Cost Centre",
+        "B. Use Cost Centre for Job Costing",
+        "C. Both a & b",
+        "D. None of these",
+        "Answer: Option C ",
+        "1. Go to Gateway of Tally > F11: Company Features ( F1: Accounting features ).",
+        "2. Set the option 'Maintain cost centres?' to Yes .",
+        "3. 'Use cost centre for job costing?' to Yes",
+        "4. Press Crl+A to save.                      ",
+        ""
+    ],
+    [
+        "53. In Tally, there are ________ predefined ledgers.",
+        "A. One ",
+        "B. Two ",
+        "C. Three ",
+        "D. Four",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "54. We can see list of Memorandum Vouchers from",
+        "A. Cash/Bank Books",
+        "B. Exception Reports",
+        "C. Accounts Books",
+        "D. Trail Balance",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "55. We can see Working Capital figure changing",
+        "A. Voucher configuration",
+        "B. Profit & Loss configuration",
+        "C. Balance Sheet configuration",
+        "D. Ledger configuration",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "56. We can create multiple users in Tally activating",
+        "A. Tally Audit",
+        "B. Use Security Control",
+        "C. Both (a) and (b)",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "57. 'Allow components list details (Bill of Materials)' option is activated for",
+        "A. Ledgers",
+        "B. Cost Category",
+        "C. Stock Items",
+        "D. Budgets",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "58. Retained Earnings is an alias of",
+        "A. Indirect Income",
+        "B. Reserve and Surplus",
+        "C. Capital Account",
+        "D. Investments",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "59. We can use Stock Journal for",
+        "A. Production and Consumption",
+        "B. Inter Godown transfer for stock",
+        "C. Both (a) and (b)",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "60. Discount Column is available in",
+        "A. Sales Invoice",
+        "B. Purchase Invoice",
+        "C. Both (a) and (b)",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "61. We can get the report of Interest from",
+        "A. Account Books",
+        "B. Cash and Fund flow",
+        "C. Inventory Books",
+        "D. Statements of Accounts",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "62. To see reports of Job Work Analysis",
+        "A. Display > Statements of Accounts > Job Work Analysis",
+        "B. Display > Job Work In Reports > Job Work Analysis",
+        "C. Display > Statements of Accounts> Cost Centre > Job Work Analysis",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "63. To create Scenario which option requires to be activated",
+        "A. Use Rev Journal & Optional voucher in F12",
+        "B. Use Optional voucher in F11",
+        "C. Use Reversing voucher in F11",
+        "D. Use Rev journal & Optional voucher in F11",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "64. Optional Voucher is one type of",
+        "A. Conventional Voucher",
+        "B. Unconventional Voucher",
+        "C. Both (a) & (b)",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "65. List of Optional Voucher we can get from",
+        "A. Cash Bank Books",
+        "B. Exceptional Reports",
+        "C. Accounts Books",
+        "D. Balance Sheet",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "66. Single Entry mode is applicable for",
+        "A. Receipt Voucher",
+        "B. Contra Voucher",
+        "C. Payment Voucher",
+        "D. All of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "67. Reversing journal is a",
+        "A. Conventional Voucher",
+        "B. Unconventional Voucher",
+        "C. Both (a) and (b)",
+        "D. None of these",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "68. To hide the name of the Company you need to define",
+        "A. Security Control",
+        "B. Tally Audit",
+        "C. Create at least one User",
+        "D. Tally Vault Password",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "69. Goods returning to a Creditor after challan but before bill we need to pass",
+        "A. Debit Note",
+        "B. Receipt Note",
+        "C. Rejection Out",
+        "D. Rejection In",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "70. Branch / Division is a group defined under",
+        "A. Liabilities",
+        "B. Assets",
+        "C. Income",
+        "D. Expenditure",
+        "Answer: Option "
+    ]
+]

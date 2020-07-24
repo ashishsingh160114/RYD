@@ -1,0 +1,632 @@
+[
+    [
+        "1. Which of the following format you can decide to apply or not in AutoFormat dialog box?",
+        "A. Number format",
+        "B. Border format",
+        "C. Font format",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "2. How can you remove borders applied in cells?",
+        "A. Choose None on Border tab of Format cells",
+        "B. Open the list on Border tool in Format Cell toolbar then choose first tool (none)",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "3. Where can you set the shading color for a range of cells in Excel?",
+        "A. Choose required color form Patterns tab of Format Cells dialog box",
+        "B. Choose required color on Fill Color tool in Formatting toolbar",
+        "C. Choose required color on Fill Color tool in Drawing toolbar",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "4. You can set Page Border in Excel from",
+        "A. From Border tab in Format Cells dialog box",
+        "B. From Border tool in Formatting toolbar",
+        "C. From Line Style tool in Drawing toolbar",
+        "D. You can not set page border in Excel",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "5. When all the numbers between 0 and 100 in a range should be displayed in Red Color, apply",
+        "A. Use =if() function to format the required numbers red",
+        "B. Apply Conditional Formatting command on Format menu",
+        "C. Select the cells that contain number between 0 and 100 then click Red color on Text Color tool",
+        "D. All of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "6. You can check the conditions against __________ when applying conditional formatting",
+        "A. Cell value",
+        "B. Formula",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "7. Which of the following is not true regarding Conditional Formatting?",
+        "A. You can add more than one condition to check",
+        "B. You can set condition to look for Bold and apply Italics on them",
+        "C. You can apply Font, border and pattern formats that meets the specified conditions",
+        "D. You can delete any condition from Conditional Formatting dialog box if it is not requried",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "8. Which of the following is invalid statement?",
+        "A. Sheet tabs can be colored",
+        "B. Some picture can be applied as a background of a sheet",
+        "C. You can set the column width automatically fit the amount of text",
+        "D. The width of a row and be specified manually or fit automatically",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "9. You can use the formula palette to",
+        "A. Format cells containing numbers",
+        "B. Create and edit formula containing functions",
+        "C. Enter assumptions data",
+        "D. Copy a range of cells",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "10. When a range is selected, how can you activate the previous cell?",
+        "A. Press the Alt key",
+        "B. Press Tab",
+        "C. Press Enter",
+        "D. None of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "11. Which tool you will use to join some cells and place the content at the middle of joined cell?",
+        "A. From Format Cells dialog box click on Merge Cells check box",
+        "B. From Format Cells dialog box select the Centered alignment",
+        "C. From Format Cells dialog box choose Merge and Center check box",
+        "D. Click on Merge and Center tool on formatting toolbar",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "12. Tab scroll buttons are place on Excel screen",
+        "A. Towards the bottom right corner",
+        "B. Towards the bottom left corner",
+        "C. Towards the top right corner",
+        "D. Towards the top left corner",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "13. The Name box on to the left of formula bar",
+        "A. Shows the name of workbook currently working on",
+        "B. Shows the name of worksheet currently working on",
+        "C. Shows the name of cell or range currently working on",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "14. Each excel file is a workbook that contains different sheets. Which of the following can not be a sheet in workbook?",
+        "A. Work sheet",
+        "B. Chart sheet",
+        "C. Macro sheet",
+        "D. Data sheet",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "15. Which of the following is not the correct method of editing the cell content?",
+        "A. Press the Alt key",
+        "B. Press the F2 key",
+        "C. Click the formula bar",
+        "D. Double click the cell",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "16. You can merge the main document with data source in Excel. In mail merge operation, Word is usually",
+        "A. Server",
+        "B. Source",
+        "C. Client",
+        "D. None of the above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "17. How can you update the values of formula cells if Auto Calculate mode of Excel is disabled?",
+        "A. F8",
+        "B. F9",
+        "C. F10",
+        "D. F11",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "18. You want to set such that when you type Baishakh and drag the fill handle, Excel should produce Jestha, Aashadh and so on. What will you set to effect that?",
+        "A. Custom List",
+        "B. Auto Fill Options",
+        "C. Fill Across Worksheet",
+        "D. Fill Series",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "19. Where can you change automatic or manual calculation mode in Excel?",
+        "A. Double CAL indicator on status bar",
+        "B. Go to File > Options > Formulas > Calculation Option - and mark the corresponding radio button",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "20. How can you show or hide the gridlines in Excel Worksheet?",
+        "A. Go to Tools > Options > View tab and mark or remove the check box named Gridline",
+        "B. Click Gridline tool on Forms toolbar",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "21. Which of the following Excel screen components can NOT be turned on or off?",
+        "A. Formula Bar",
+        "B. Status Bar",
+        "C. Tool Bar",
+        "D. None of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "22. What happens when you press Ctrl + X after selecting some cells in Excel?",
+        "A. The cell content of selected cells disappear from cell and stored in clipboard",
+        "B. The cells selected are marked for cutting",
+        "C. The selected cells are deleted and the cells are shifted left",
+        "D. The selected cells are deleted and cells are shifted up",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "23. Which of the following option is not available in Paste Special dialog box?",
+        "A. Add",
+        "B. Subtract",
+        "C. Divide",
+        "D. SQRT",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "24. Which command will you choose to convert a column of data into row?",
+        "A. Cut and Paste",
+        "B. Paste Special > Transpose",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "25. It is acceptable to let long text flow into adjacent cells on a worksheet when",
+        "A. Data will be entered in the adjacent cells",
+        "B. No data will be entered in the adjacent cells",
+        "C. There is no suitable abbreviation for the text",
+        "D. There is not time to format the text",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "26. Which of the cell pointer indicates you that you can make selection?",
+        "A. Doctor\u2019s symbol (Big Plus)",
+        "B. Small thin plus icon",
+        "C. Mouse Pointer with anchor at the tip",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "27. Which of the cell pointer indicates that you can fill series?",
+        "A. Doctor\u2019s symbol (Big Plus)",
+        "B. Small thin plus icon",
+        "C. Mouse Pointer with anchor at the tip",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "28. Which of the cell pointer indicate that you can move the content to other cell?",
+        "A. Doctor\u2019s symbol (Big Plus)",
+        "B. Small thin plus icon",
+        "C. Mouse Pointer with anchor at the tip",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "29. You can auto fit the width of column by",
+        "A. Double clicking on the column name on column header",
+        "B. Double click on the cell pointer in worksheet",
+        "C. Double clicking on column right border on column header",
+        "D. Double clicking on the column left border of column header",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "30. Long text can be broken down into many lines within a cell. You can do this through",
+        "A. Wrap Text in Format > Cells",
+        "B.  Justify in Edit > Cells",
+        "C. Text Wrapping in Format > Cells",
+        "D. All of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "31. MS Excel provides the default value for step in Fill Series dialog box",
+        "A. 0",
+        "B. 1",
+        "C. 5",
+        "D. 10",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "32. When a row of data is to be converted into columns",
+        "A. Copy the cells in row, select the same number of cells in row and paste",
+        "B. Copy the cells in column then choose Paste Special, then click Transpose and OK",
+        "C. Copy the cells then go to Cells then on Alignment tab click Transpose check box and click OK",
+        "D. Select the cells then place the cell pointer on new cell and choose Paste Special, mark Transpose check box and click OK",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "33. Ctrl + D shortcut key in Excel will",
+        "A. Open the font dialog box",
+        "B. Apply double underline for the active cell",
+        "C. Fill down in the selection",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "34. The shortcut key Ctrl + R is used in Excel to",
+        "A. Right align the content of cell",
+        "B. Remove the cell contents of selected cells",
+        "C. Fill the selection with active cells to the right",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "35. The command Edit > Fill Across Worksheet is active only when",
+        "A. One sheet is selected",
+        "B. When many sheets are selected",
+        "C. When no sheet is selected",
+        "D. None of above",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "36. Which of the following series type is not valid for Fill Series dialog box?",
+        "A. Linear",
+        "B. Growth",
+        "C. Autofill",
+        "D. Time",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "37. Which of the following you can paste selectively using Paste Special command?",
+        "A. Validation",
+        "B. Formats",
+        "C. Formulas",
+        "D. All of above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "38. Paste Special allows some operation while you paste to new cell. Which of the following operation is valid?",
+        "A. Square",
+        "B. Percentage",
+        "C. Goal Seek",
+        "D. Divide",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "39. Edit > Delete command",
+        "A. Deletes the content of a cell",
+        "B. Deletes Formats of cell",
+        "C. Deletes the comment of cell",
+        "D. Deletes selected cells",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "40. To remove the content of selected cells you must issue ______ command",
+        "A. Delete",
+        "B. Clear Contents",
+        "C. Clear All",
+        "D. Clear Delete",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "41. The Delete key of keyboard is assigned to which command in Excel?",
+        "A. Edit > Clear > Contents",
+        "B. Edit > Clear > All",
+        "C. Edit > Delete",
+        "D. All of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "42. If you need to remove only the formatting done in a range (numbers and formula typed there should not be removed), you must",
+        "A. From Edit menu choose Clear and then Formats",
+        "B. From Edit menu choose Delete",
+        "C. Click on Remove Formatting tool on Standard Toolbar",
+        "D. Double click the Format Painter and then press Esc key in keyboard",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "43. By default Excel provides 3 worksheets. You need only two of them, how will you delete the third one?",
+        "A. Right click on Sheet Tab of third sheet and choose Delete from the context menu",
+        "B. Click on Sheet 3 and from Edit menu choose Delete",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "44. Which of the following action removes a sheet from workbook?",
+        "A. Select the sheet, then choose Edit > Delete Sheet",
+        "B. Select the sheet then choose Format > Sheet > Hide",
+        "C. Both of above",
+        "D. None of above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "45. While Finding and Replacing some data in Excel, which of the following statement is valid?",
+        "A. You can Find and Replace within the sheet or workbook",
+        "B. Excel does not have option to match case for find",
+        "C. Both are valid",
+        "D. None are valid",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "46. Which of the following is not true about Find and Replace in Excel",
+        "A. You can search for bold and replace with italics",
+        "B. You can decide whether to look for the whole word or not",
+        "C. You can search in formula too",
+        "D. You can search by rows or columns or sheets",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "47. You can move a sheet from one workbook into new book by",
+        "A. From Edit menu choose Move or Copy sheet, mark the Create a ccopy and Click OK",
+        "B. From Edit menu choose Move of Copy then choose (Move to end) and click OK",
+        "C. From Edit menu choose Move or Copy then select (new book) from To Book list and click OK",
+        "D. None of above",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "48. What is the shortcut key to replace a data with another in sheet?",
+        "A. Ctrl + R",
+        "B. Ctrl + Shift + R",
+        "C. Ctrl + H",
+        "D. Ctrl + F",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "49. Comments can be added to cells using ________",
+        "A. Home > Comments",
+        "B. Insert > Comment",
+        "C. Data > Comments",
+        "D. View > Comments",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "50. Which menu option can be used to split windows into two?",
+        "A. Review > Window",
+        "B. View > Window > Split",
+        "C. Window > Split",
+        "D. View > Split",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "51. Getting data from a cell located in a different sheet is called ________",
+        "A. Accessing",
+        "B. Referencing",
+        "C. Updating",
+        "D. Functioning",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "52. Which of the following is not a valid data type in Excel?",
+        "A. Number",
+        "B. Character",
+        "C. Label",
+        "D. Date/Time",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "53. Which elements of a worksheet can be protected from accidental modification?",
+        "A. Contents",
+        "B. Objects",
+        "C. Scenarios",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "54. A numeric value can be treated as label value if ________ precedes it.",
+        "A. Apostrophe ( \u2018 )",
+        "B. Exclamation ( ! )",
+        "C. Hash ( # )",
+        "D. Tilde ( ~ )",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "55. Concatenation of text can be done using",
+        "A. Apostrophe ( \u2018 )",
+        "B. Exclamation ( ! )",
+        "C. Hash ( # ) ",
+        "D. Ampersand ( & )",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "56. Which area in an Excel window allows entering values and formulas?",
+        "A. Title Bar",
+        "B. Menu Bar",
+        "C. Formula Bar",
+        "D. Standard Tool Bar",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "57. Multiple calculations can be made in a single formula using ________",
+        "A. Standard Formulas",
+        "B. Array Formula",
+        "C. Complex Formulas",
+        "D. Smart Formula",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "58. An Excel Workbook is a collection of ________",
+        "A. Workbooks",
+        "B. Worksheets",
+        "C. Charts",
+        "D. Worksheets and Charts",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "59. What do you mean by a Workspace?",
+        "A. Group of Columns",
+        "B. Group of Worksheets",
+        "C. Group of Rows",
+        "D. Group of Workbooks",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "60. MS-EXCEL is based on ________",
+        "A. WINDOWS",
+        "B. DOS",
+        "C. UNIX",
+        "D. OS/2",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "61. In EXCEL, you can sum a large range of data by simply selecting a tool button called ________.",
+        "A. AutoFill",
+        "B. Auto correct",
+        "C. Auto sum",
+        "D. Auto format",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "62. To select an entire column in MS-EXCEL, press?",
+        "A. CTRL + C",
+        "B. CTRL + Arrow key",
+        "C. CTRL + S",
+        "D. None of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "63. To return the remainder after a number is divided by a divisor in EXCEL we use the function?",
+        "A. ROUND ( )",
+        "B. FACT ( )",
+        "C. MOD ( )",
+        "D. DIV ( )",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "64. Which function is not available in the Consolidate dialog box?",
+        "A. Pmt",
+        "B. Average",
+        "C. Max",
+        "D. Sum",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "65. Which is not the function of \"Edit, Clear\" command?",
+        "A. Delete contents",
+        "B. Delete notes",
+        "C. Delete cells",
+        "D. Delete formats",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "66. Microsoft Excel is a powerful ________",
+        "A. Word processing package",
+        "B. Spreadsheet package",
+        "C. Communication S/W Package",
+        "D. DBMS package",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "67. How do you rearrange the data in ascending or descending order?",
+        "A. Data, Sort",
+        "B. Data, Form",
+        "C. Data, Table",
+        "D. Data Subtotals",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "68. Which Chart can be created in Excel?",
+        "A. Area",
+        "B. Line",
+        "C. Pie",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "69. What will be the output if you format the cell containing 5,436.8 as '#,##0.00' ?",
+        "A. 5430",
+        "B. 5436.80",
+        "C. 5436.8",
+        "D. 6.8",
+        "6.8",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "70. How do you display current date and time in MS Excel?",
+        "A. Date ()",
+        "B. Today ()",
+        "C. Now ()",
+        "D. Time ()",
+        "Answer: Option C"
+    ]
+]
