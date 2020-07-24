@@ -1,0 +1,638 @@
+[
+    [
+        "1. Water vapour is:",
+        "A. A gas",
+        "B. A cloud droplet",
+        "C. A rain drop",
+        "D. A snowflake",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "2. What is the cause of the Exxon Valdez?",
+        "A. Oil Tanker which sank in 1989 along the coast of Alaska and marine life seriously affected. ",
+        "B. a plane which crashed and caused death of human life ",
+        "C. a ship which wrecked on the coast of India ",
+        "D. none of these.",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "3. In calm air the air temperature is -10o C, if the wind speed should increase to 30 knots (with no change in air temperature) the thermometer would indicate:",
+        "A. A much higher temperature than -10o C",
+        "B. A much lower temperature than -10o C",
+        "C. A temperature of -10o C",
+        "D. A temperature of -30o C",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "4. Infrared and visible satellite images might provide:",
+        "A. A way of determining cloud thickness and altitude.",
+        "B. A way of distinguishing between wet and dry clouds.",
+        "C. A way of identifying clouds suitable for cloud seeding.",
+        "D. A way of distinguishing between \"new\" and \"old\" clouds.",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "5. At what time of day is the relative humidity normally at a minimum?",
+        "A. When the air temperature is highest",
+        "B. Just before sunrise",
+        "C. About midnight",
+        "D. When the air temperature is lowest",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "6. The atmospheric greenhouse effect is produced mainly by the:",
+        "A. Absorption and re-emission of visible light by the atmosphere",
+        "B. Absorption and re-emission of ultraviolet radiation by the atmosphere ",
+        "C. Absorption and re-emission of infrared radiation by the atmosphere",
+        "D. Absorption and re-emission of visible light by clouds",
+        "E. Absorption and re-emission of visible light by the ground",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "7. The blueness of the sky is mainly due to:",
+        "A. The scattering of sunlight by air molecules",
+        "B. The presence of water vapor",
+        "C. Absorption of blue light by the air",
+        "D. Emission of blue light by the atmosphere",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "8. The atmosphere near the earth's surface is \"heated from below.\" Which of the following does not significantly contribute to this heating?",
+        "A. Conduction of heat upward from a hot surface",
+        "B. Convection from a hot surface ",
+        "C. Absorption of infrared energy that has been radiated from the surface",
+        "D. Heat energy from the earth's interior",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "9. The gradual physiological adjustment to slowly changing new environmental conditions is known as",
+        "A. Selection",
+        "B. Introduction",
+        "C. Acclimatization",
+        "D. Quarantine",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "10. Salinization is ___________.",
+        "A. Accumulation of salts in water ",
+        "B. Accumulation of salts in soil ",
+        "C. Accumulation of salts in body ",
+        "D. Accumulation of salts in animals",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "11. Acid deposition causes  ",
+        "A. the greenhouse effect to lessen",
+        "B. lakes and forests to die",
+        "C. acid indigestion in humans",
+        "D. all the above are correct",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "12. Melanornia (skin cancer) is associated with  ",
+        "A. ozone accumulation",
+        "B. ozone depletion",
+        "C. acid rain",
+        "D. allergens",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "13. When oil and gas resources are burnt they kill many forests and lakes by  ",
+        "A. deforestation",
+        "B. water pollution",
+        "C. acid rain",
+        "D. forest fire",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "14. Soil pollution is caused by",
+        "A. Aerosol ",
+        "B. Ozone ",
+        "C. Acid rain ",
+        "D. PAN",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "15. What is hibernation and aestivation?",
+        "A. Thermal adaptation shown by animals ",
+        "B. wind adaptation shown by animals",
+        "C. adaptation of animals to escape from predators ",
+        "D. none",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "16. Fog that most often forms as warm rain falls into a cold layer of surface air is called:",
+        "A. Radiation fog",
+        "B. Evaporation (mixing) fog",
+        "C. Advection fog",
+        "D. Upslope fog",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "17. Fine organic or inorganic particles suspended in air is called",
+        "A. particulate pollutant",
+        "B. gaseous pollutant",
+        "C. aerosol",
+        "D. none of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "18. CFCs are used as  ",
+        "A. refrigerants",
+        "B. insulators",
+        "C. aerosol propellants",
+        "D. all the above ",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "19. Ramsar Convention refers to the conservation of ____________",
+        "A. Deserts ",
+        "B. Wetlands ",
+        "C. Agriculture lands, ",
+        "D. Forest land",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "20. The earth's atmosphere is divided into layers based on the vertical profile of:",
+        "A. Air pressure",
+        "B. Air temperature",
+        "C. Air density",
+        "D. Wind speed",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "21. The temperature at which water boils depends mainly on:",
+        "A. Air temperature",
+        "B. Relative humidity",
+        "C. Air pressure",
+        "D. Air density",
+        "E. The specific heat of air",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "22. In a temperature inversion:",
+        "A. Air temperature increases with increasing height",
+        "B. Air temperature decreases with increasing height",
+        "C. Air temperature remains constant with increasing height",
+        "D. It is warmer at night than during the day",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "23. A term biotype means  ",
+        "A. all individuals having same phenotype",
+        "B. all individuals having same genotype",
+        "C. all individual with different phenotype",
+        "D. all individuals with different genotype ",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "24. Fatal degenerative lung disease caused by particulate asbestos is referred to as  ",
+        "A. asbestosis",
+        "B. asthma",
+        "C. allergy",
+        "D. sinusitis ",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "25. Radiations are harmful as it ",
+        "A. causes skin cancer",
+        "B. causes anemia",
+        "C. alters body tissues",
+        "D. is unstable ",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "26. In middle latitudes, which cloud will have the lowest base?",
+        "A. Cirrostratus",
+        "B. Stratocumulus",
+        "C. Altocumulus",
+        "D. Cirrus",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "27. Which association below is not correct?",
+        "A. Cumulus congestus - anvil top",
+        "B. Cumulus - fair weather cumulus",
+        "C. Altocumulus castellanus - resemble \"little castles\"",
+        "D. Stratus fractus - scud",
+        "E. Cumulonimbus - thunderstorm clouds",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "28. The wind direction is:",
+        "A. The direction from which the wind is blowing",
+        "B. The direction to which the wind is blowing",
+        "C. Always directly from high toward low pressure",
+        "D. Always directly from low toward high pressure",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "29. The pyramid of energy in any ecosystem is",
+        "A. Always upright",
+        "B. May be upright or invented",
+        "C. Always inverted",
+        "D. None of the above",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "30. Barnacles growing on the back of whale is an example for",
+        "A. mutualism",
+        "B. parasitism",
+        "C. amensalism",
+        "D. commensalism",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "31. Pencillium does not swallow the growth of bacterium Staphylococcus. This sort of relationship is called",
+        "A. commensalism",
+        "B. predation",
+        "C. amensalism",
+        "D. mutualism",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "32. The Salim Ali Bird sanctuary is located at",
+        "A. Pondicherry, ",
+        "B. Thattekad, ",
+        "C. Anakkatti ",
+        "D. Kalakkad",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "33. The instrument that measures temperature, pressure, and humidity at various altitudes in the atmosphere:",
+        "A. Barograph",
+        "B. Radiosonde",
+        "C. Aneroid barometer",
+        "D. Altimeter",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "34. The species that flower are called",
+        "A. gymnosperms ",
+        "B. bryophytes ",
+        "C. angiosperms ",
+        "D. algae",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "35. Basidiospores are considered to be a major source of  ",
+        "A. airborne allergens",
+        "B. water borne allergens",
+        "C. animal faeces",
+        "D. bioweapon",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "36. An example of an abiotic component",
+        "A. Plants ",
+        "B. Soil ",
+        "C. Animals ",
+        "D. Bacteria",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "37. Pollutants that are introduced into the environment by human activity are called as",
+        "A. qualitative pollutants",
+        "B. quantitative pollutants",
+        "C. anthropogenic pollutants",
+        "D. all of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "38. When clouds are viewed near the horizon, the individual cloud elements usually:",
+        "A. Appear closer together than is actually the case",
+        "B. Appear farther apart than is actually the case",
+        "C. Appear lighter in color than is actually the case",
+        "D. Appear to have more vertical development than is actually the case",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "39. Which sea is referred to as an oceanic desert?",
+        "A. Red Sea",
+        "B. Sargasso Sea",
+        "C. Arabian Sea",
+        "D. Sea of Japan ",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "40. At night, low clouds:",
+        "A. Enhance the atmospheric greenhouse effect",
+        "B. Weaken the atmospheric greenhouse effect",
+        "C. Are often caused by the atmospheric greenhouse effect",
+        "D. Have no effect on the atmospheric greenhouse effect",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "41. Particulate pollutants are",
+        "A. are small solid particles and liquid droplets",
+        "B. liquid droplets in atmosphere",
+        "C. are small solid particles released into the atmosphere",
+        "D. all of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "42. Which of the following gases has role an important in maintaining atmospheric temperature?",
+        "A. Nitrogen",
+        "B. Oxygen",
+        "C. Argon",
+        "D. Carbon dioxide",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "43. Harmful trace metals in fly ash:",
+        "A. antimony",
+        "B. cadmium",
+        "C. arsenic",
+        "D. all of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "44. The term Ecosystem was coined by  ",
+        "A. Odum",
+        "B. Clements",
+        "C. Arthur G Tansley",
+        "D. Elton ",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "45. _________ ecosystems are maintained artificially by man.",
+        "A. Man-made",
+        "B. Marine",
+        "C. Artificial",
+        "D. Brackish",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "46. Cement factory labourers are prone to",
+        "A. leukemia",
+        "B. bone marrow disease",
+        "C. asbestosis",
+        "D. cytosilicosis",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "47. In India, tropical evergreen forests occur in",
+        "A. Himachal Pradesh ",
+        "B. Madhya Pradesh ",
+        "C. Assam ",
+        "D. Tamil Nadu",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "48. The state which constituted green bench",
+        "A. Kerala ",
+        "B. Tamilnadu ",
+        "C. Assam ",
+        "D. Madhya Pradesh",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "49. The one-horned Rhinoceros is now restricted to which state?",
+        "A. Maharashtra ",
+        "B. Gujarat ",
+        "C. Assam ",
+        "D. Uttar Pradesh",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "50. What is symbiosis?",
+        "A. Study of distribution of related species ",
+        "B. Association between members of same species ",
+        "C. Association between members of two species ",
+        "D. None",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "51. Where are the days and nights of equal length all year long?",
+        "A. At 66.5o",
+        "B. Nowhere",
+        "C. At 23.5o",
+        "D. At the Equator",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "52. During the winter solstice in the Northern Hemisphere:",
+        "A. Astronomical winter begins in the Northern Hemisphere",
+        "B. The noon sun is overhead at 23.5o S latitude",
+        "C. At middle latitudes in the Northern Hemisphere, this marks the longest night of the year",
+        "D. All of the above",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "53. The largest annual ranges of temperatures are found:",
+        "A. At polar latitudes over land",
+        "B. At polar latitudes over water",
+        "C. At middle latitudes near large bodies of water",
+        "D. At the Equator",
+        "E. In the Northern Central Plains of the United States",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "54. Night time temperatures rarely drop below the dew point temperature because",
+        "A. The dew will absorb all the heat",
+        "B. Saturation vapor pressures always increase at night",
+        "C. At saturation, latent heat of condensation is released into the air",
+        "D. Both (b) and (c)",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "55. The time of day when the relative humidity reaches a maximum value is usually",
+        "A. At the time when the air temperature is highest",
+        "B. In the middle of the afternoon",
+        "C. At the time when the air temperature is lowest",
+        "D. Just before sunrise",
+        "E. About midnight",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "56. The deepest radiation inversion would be observed:",
+        "A. At the equator any day of the year",
+        "B. In polar regions in winter",
+        "C. At the top of a high mountain in winter",
+        "D. On a desert in winter",
+        "E. In a deep valley during the summer",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "57. The abiotic and biotic components constitute the structure of an  ",
+        "A. energy flow",
+        "B. environment",
+        "C. atmosphere",
+        "D. Ecosystem ",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "58. All species on earth together with their environments collectively comprise  ",
+        "A. lithosphere",
+        "B. hydrosphere",
+        "C. atmosphere",
+        "D. biosphere ",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "59. The practical problem in hydrogen production is its  ",
+        "A. weight",
+        "B. valency",
+        "C. atomicity",
+        "D. chemical property",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "60. In the northern hemisphere, the number of hours of daylight begin to shorten after the",
+        "A. Spring equinox",
+        "B. Summer solstice",
+        "C. Autumn equinox",
+        "D. Winter solstice",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "61. Climate includes",
+        "A. Seasonal variation",
+        "B. General patterns of atmosphere conditions",
+        "C. Average weather of an area",
+        "D. All of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "62. An example of nitrogen fixing bacteria in the soil",
+        "A. Rhizobium ",
+        "B. Nostoc ",
+        "C. Azotobacter ",
+        "D. Nitrobacter",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "63. In a food chain of grassland ecosystem the top consumers are",
+        "A. Herbivorous",
+        "B. Carnivorous",
+        "C. Bacteria",
+        "D. Either carnivorous or herbivorous",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "64. The algal booin often releases  __________ in water",
+        "A. acidic",
+        "B. toxins",
+        "C. bacteria",
+        "D. virus",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "65. The first protected area in India is ____________",
+        "A. Silent valley",
+        "B. Corbett National Park",
+        "C. Bandipur sanctuary",
+        "D. Nagar-Hole",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+           "66. Centre of Modern nuclear technology in India",
+        "A. CRAS ",
+        "B. SARC ",
+        "C. BARC ",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "67. The north-facing side of a hill in a mountainous region in the US tends to:",
+        "A. Receive less sunlight during a year than the south-facing side",
+        "B. Grow a variety of trees that are typically observed at higher elevation",
+        "C. Be a better location for a ski run than the south-facing side",
+        "D. Have snow on the ground for a longer period of time in winter compared to the south-facing side",
+        "E. All of the above",
+        "Answer: Option E ",
+        ""
+    ],
+    [
+        "68. What scale is useful to record the force of wind ?",
+        "A. Decibel",
+        "B. Richter",
+        "C. Beau fort",
+        "D. Fajita",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "69. Organisms which are predominantly found living on, in or near bed sediments of rivers or lakes are known as  ",
+        "A. nektonic",
+        "B. neuston",
+        "C. benthic",
+        "D. planktonic ",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "70. Unleaded petrol contains  __________ which are known as carcinogenic compounds",
+        "A. nitrates",
+        "B. sulphates",
+        "C. benzene",
+        "D. phosphates ",
+        "Answer: Option C"
+    ]
+]

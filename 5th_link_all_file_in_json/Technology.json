@@ -1,0 +1,633 @@
+[
+    [
+        "1. In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+        "A. 1850s",
+        "B. 1880s",
+        "C. 1930s",
+        "D. 1950s",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "2. What is part of a database that holds only one type of information?",
+        "A. Report",
+        "B. Field",
+        "C. Record",
+        "D. File",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "3. 'OS' computer abbreviation usually means ?",
+        "A. Order of Significance",
+        "B. Open Software",
+        "C. Operating System",
+        "D. Optical Sensor",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "4. In which decade with the first transatlantic radio broadcast occur?",
+        "A. 1850s",
+        "B. 1860s",
+        "C. 1870s",
+        "D. 1900s",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "5. '.MOV' extension refers usually to what kind of file?",
+        "A. Image file",
+        "B. Animation/movie file",
+        "C. Audio file",
+        "D. MS Office document",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "6. In which decade was the SPICE simulator introduced?",
+        "A. 1950s",
+        "B. 1960s",
+        "C. 1972s",
+        "D. 1980s",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "7. Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+        "A. Sound",
+        "B. Remote control",
+        "C. Color balance",
+        "D. High voltage",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "8. Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+        "A. Flash",
+        "B. Flange",
+        "C. Fury",
+        "D. FRAM",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "9. The purpose of choke in tube light is ?",
+        "A. To decrease the current",
+        "B. To increase the current",
+        "C. To decrease the voltage momentarily",
+        "D. To increase the voltage momentarily",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "10. '.MPG' extension refers usually to what kind of file?",
+        "A. WordPerfect Document file",
+        "B. MS Office document",
+        "C. Animation/movie file",
+        "D. Image file",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "11. Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?",
+        "A. Alan Turing",
+        "B. Jeff Bezos",
+        "C. George Boole",
+        "D. Charles Babbage",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "12. Who developed Yahoo?",
+        "A. Dennis Ritchie & Ken Thompson",
+        "B. David Filo & Jerry Yang",
+        "C. Vint Cerf & Robert Kahn",
+        "D. Steve Case & Jeff Bezos",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "13. Made from a variety of materials, such as carbon, which inhibits the flow of current...?",
+        "A. Choke",
+        "B. Inductor",
+        "C. Resistor",
+        "D. Capacitor",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "14. The most common format for a home video recorder is VHS. VHS stands for...?",
+        "A. Video Home System",
+        "B. Very high speed",
+        "C. Video horizontal standard",
+        "D. Voltage house standard",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "15. What does VVVF stand for?",
+        "A. Variant Voltage Vile Frequency",
+        "B. Variable Velocity Variable Fun",
+        "C. Very Very Vicious Frequency",
+        "D. Variable Voltage Variable Frequency",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "16. What frequency range is the High Frequency band?",
+        "A. 100 kHz",
+        "B. 1 GHz",
+        "C. 30 to 300 MHz",
+        "D. 3 to 30 MHz",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "17. The first step to getting output from a laser is to excite an active medium. What is this process called?",
+        "A. Pumping",
+        "B. Exciting",
+        "C. Priming",
+        "D. Raising",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "18. What is the relationship between resistivity r and conductivity s?",
+        "A. R = s2",
+        "B. R = s",
+        "C. R > s",
+        "D. R = 1/s",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "19. Which motor is NOT suitable for use as a DC machine?",
+        "A. Permanent magnet motor",
+        "B. Series motor",
+        "C. Squirrel cage motor",
+        "D. Synchronous motor",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "20. A given signal's second harmonic is twice the given signal's __________ frequency?",
+        "A. Fourier",
+        "B. Foundation",
+        "C. Fundamental",
+        "D. Field",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "21. In which year was MIDI(dress) introduced?",
+        "A. 1987",
+        "B. 1983",
+        "C. 1973",
+        "D. 1977",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "22. What does the term PLC stand for?",
+        "A. Programmable Lift Computer",
+        "B. Program List Control",
+        "C. Programmable Logic Controller",
+        "D. Piezo Lamp Connector",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "23. When measuring the characteristics of a small-signal amplifier, say for a radio receiver, one might be concerned with its \"Noise...\"?",
+        "A. Fundamental",
+        "B. Fall",
+        "C. Force",
+        "D. Figure",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "24. 'DB' computer abbreviation usually means ?",
+        "A. Database",
+        "B. Double Byte",
+        "C. Data Block",
+        "D. Driver Boot",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "25. '.INI' extension refers usually to what kind of file?",
+        "A. Image file",
+        "B. System file",
+        "C. Hypertext related file",
+        "D. Image Color Matching Profile file",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "26. The sampling rate, (how many samples per second are stored) for a CD is...?",
+        "A. 48.4 kHz",
+        "48.4 kHz",
+        "B. 22,050 Hz",
+        "C. 44.1 kHz",
+        "44.1 kHz",
+        "D. 48 kHz",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "27. Who created Pretty Good Privacy (PGP)?",
+        "A. Phil Zimmermann",
+        "B. Tim Berners-Lee",
+        "C. Marc Andreessen",
+        "D. Ken Thompson",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "28. What do we call a network whose elements may be separated by some distance? It usually involves two or more small networks and dedicated high-speed telephone lines.",
+        "A. URL (Universal Resource Locator)",
+        "B. LAN (Local Area Network)",
+        "C. WAN (Wide Area Network)",
+        "D. World Wide Web",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "29. After the first photons of light are produced, which process is responsible for amplification of the light?",
+        "A. Blackbody radiation",
+        "B. Stimulated emission",
+        "C. Planck's radiation",
+        "D. Einstein oscillation",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "30. Which is NOT an acceptable method of distributing small power outlets throughout an open plan office area?",
+        "A. Power Poles",
+        "B. Power Skirting",
+        "C. Flush Floor Ducting",
+        "D. Extension Cords",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "31. Sometimes computers and cache registers in a foodmart are connected to a UPS system. What does UPS mean?",
+        "A. United Parcel Service",
+        "B. Uniform Product Support",
+        "C. Under Paneling Storage",
+        "D. Uninterruptable Power Supply",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "32. Who co-founded Hotmail in 1996 and then sold the company to Microsoft?",
+        "A. Shawn Fanning",
+        "B. Ada Byron Lovelace",
+        "C. Sabeer Bhatia",
+        "D. Ray Tomlinson",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "33. '.TMP' extension refers usually to what kind of file?",
+        "A. Compressed Archive file",
+        "B. Image file",
+        "C. Temporary file",
+        "D. Audio file",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "34. In the UK, what type of installation requires a fireman's switch?",
+        "A. Neon Lighting",
+        "B. High Pressure Sodium Lighting",
+        "C. Water Features",
+        "D. Hotel Rooms",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "35. The electromagnetic coils on the neck of the picture tube or tubes which pull the electron beam from side to side and up and down are called a...?",
+        "A. Transformer",
+        "B. Yoke",
+        "C. Capacitor",
+        "D. Diode",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "36. In the United States the television broadcast standard is?",
+        "A. PAL",
+        "B. NTSC",
+        "C. SECAM",
+        "D. RGB",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "37. In a color television set using a picture tube a high voltage is used to accelerate electron beams to light the screen. That voltage is about?",
+        "A. 500 volts",
+        "B. 5 thousand volts",
+        "C. 25 thousand volts",
+        "D. 100 thousand volts",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "38. The transformer that develops the high voltage in a home television is commonly called as?",
+        "A. Tesla coil",
+        "B. Flyback",
+        "C. Yoke",
+        "D. Van de Graaf",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "39. Which consists of two plates separated by a dielectric and can store a charge?",
+        "A. Inductor",
+        "B. Capacitor",
+        "C. Transistor",
+        "D. Relay",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "40. What do we call a collection of two or more computers that are located within a limited distance of each other and that are connected to each other directly or indirectly?",
+        "A. Inernet",
+        "B. Interanet",
+        "C. Local Area Network",
+        "D. Wide Area Network",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "41. '.JPG' extension refers usually to what kind of file?",
+        "A. System file",
+        "B. Animation/movie file",
+        "C. MS Encarta document",
+        "D. Image file",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "42. What does AM mean?",
+        "A. Angelo marconi",
+        "B. Anno median",
+        "C. Amplitude modulation",
+        "D. Amperes",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "43. In what year was the \"@\" chosen for its use in e-mail addresses?",
+        "A. 1976",
+        "B. 1972",
+        "C. 1980",
+        "D. 1984",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "44. '.TXT' extension refers usually to what kind of file?",
+        "A. Text File",
+        "B. Image file",
+        "C. Audio file",
+        "D. Adobe Acrobat file",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "45. What was the first ARPANET message?",
+        "A. lo",
+        "B. Hello World",
+        "C. cyberspace, the final frontier",
+        "D. Marry had a little lamb.",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "46. The NTSC (National Television Standards Committee) is also used in the country of...?",
+        "A. Japan",
+        "B. France",
+        "C. Germany",
+        "D. England",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "47. \"FET\" is a type of transistor, Its full name is ________ Effect Transistor?",
+        "A. Field",
+        "B. Factor",
+        "C. Flash",
+        "D. Force",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "48. What are three types of lasers?",
+        "A. Gas, metal vapor, rock",
+        "B. Pointer, diode, CD",
+        "C. Diode, inverted, pointer",
+        "D. Gas, solid state, diode",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "49. What will a UPS be used for in a building?",
+        "A. To provide power to essential equipment",
+        "B. To monitor building electricity use",
+        "C. To carry messages between departments",
+        "D. To control lighting and power systems",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "50. Who built the world's first binary digit computer: Z1?",
+        "A. Konrad Zuse",
+        "B. Ken Thompson",
+        "C. Alan Turing",
+        "D. George Boole",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "51. Compact discs, (according to the original CD specifications) hold how many minutes of music?",
+        "A. 74 mins",
+        "B. 56 mins",
+        "C. 60 mins",
+        "D. 90 mins",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "52. Once the active medium is excited, the first photons of light are produced by which physical process?",
+        "A. Blackbody radiation",
+        "B. Spontaneous emission",
+        "C. Synchrotron radiation",
+        "D. Planck's oscillation",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "53. 'DTP' computer abbreviation usually means ?",
+        "A. Digital Transmission Protocol",
+        "B. DeskTop Publishing",
+        "C. Data Type Programming",
+        "D. Document Type Processing",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "54. The average power (in watts) used by a 20 to 25 inch home color television is...?",
+        "A. 70-100",
+        "B. 25-50",
+        "C. 500-800",
+        "D. Over 1000",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "55. What does AC and DC stand for in the electrical field?",
+        "A. Alternating Current and Direct Current",
+        "B. A Rock Band from Australia",
+        "C. Average Current and Discharged Capacitor",
+        "D. Atlantic City and District of Columbia",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "56. In which decade was the ARRL founded?",
+        "A. 1940s",
+        "B. 1930s",
+        "C. 1920s",
+        "D. 1910s",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "57. 'CD' computer abbreviation usually means ?",
+        "A. Command Description",
+        "B. Change Data",
+        "C. Copy Density",
+        "D. Compact Disc",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "58. '.BAK' extension refers usually to what kind of file?",
+        "A. Backup file",
+        "B. Audio file",
+        "C. Animation/movie file",
+        "D. MS Encarta document",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "59. Where is the headquarters of Intel located?",
+        "A. Redmond, Washington",
+        "B. Tucson, Arizona",
+        "C. Santa Clara, California",
+        "D. Richmond, Virginia",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "60. Who co-created the UNIX operating system in 1969 with Dennis Ritchie?",
+        "A. Bjarne Stroustrup",
+        "B. Steve Wozniak",
+        "C. Ken Thompson",
+        "D. Niklaus Wirth",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "61. Voltage is sometimes referred to as EMF, or Electromotive...?",
+        "A. Field",
+        "B. Factor",
+        "C. Flash",
+        "D. Force",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "62. What does AM mean?",
+        "A. Angelo marconi",
+        "B. Anno median",
+        "C. Amplitude modulation",
+        "D. Amperes",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "63. '.BAT' extension refers usually to what kind of file?",
+        "A. Compressed Archive file",
+        "B. System file",
+        "C. Audio file",
+        "D. Backup file",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "64. What is the term to ask the computer to put information in order numerically or alphabetically?",
+        "A. Crop",
+        "B. Report",
+        "C. Record",
+        "D. Sort",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "65. The input used by an antenna or cable to a TV set uses frequencies called:",
+        "A. IF",
+        "B. RF",
+        "C. AF",
+        "D. SAP",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "66. Larger buildings may be supplied with a medium voltage electricity supply, and will required a substation or mini-sub. What is the main item of equipment contained in these?",
+        "A. Transformer",
+        "B. Transponder",
+        "C. Transducer",
+        "D. Converter",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "67. What was the active medium used in the first working laser ever constructed?",
+        "A. A diamond block",
+        "B. Helium-neon gas",
+        "C. A ruby rod",
+        "D. Carbon dioxide gas",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "68. What does EPROM stand for?",
+        "A. Electric Programmable Read Only Memory",
+        "B. Erasable Programmable Read Only Memory",
+        "C. Evaluable Philotic Random Optic Memory",
+        "D. Every Person Requires One Mind",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "69. Blue is what number on the resistor color code?",
+        "A. 1",
+        "B. 4",
+        "C. 2",
+        "D. 6",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "70. Changing computer language of 1's and 0's to characters that a person can understand is:",
+        "A. Highlight",
+        "B. Clip art",
+        "C. Decode",
+        "D. Execute",
+        "Answer: Option "
+    ]
+]
