@@ -1,0 +1,633 @@
+[
+    [
+        "1. Which planet is known as the 'Watery Planet' ?",
+        "A. Mercury",
+        "B. Earth",
+        "C. Mars",
+        "D. Jupiter",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "2. In order of their distances from the Sun, which of the following planets lie between Mars and Uranus?",
+        "A. Earth and Jupiter",
+        "B. Jupiter and Saturn",
+        "C. Saturn and Earth",
+        "D. Saturn and Neptune",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "3. A blackhole is a ________ ",
+        "A. Contracted star with intense gravitational pull",
+        "B. Star with very low surface temperature",
+        "C. Star with no atmosphere",
+        "D. Pulsating star",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "4. Messenger satellite has been launched by NASA for the study of",
+        "A. Mercury",
+        "B. Venus",
+        "C. Saturn",
+        "D. Jupiter",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "5. Which of the following is indicated by the colour of a star?",
+        "A. Weight",
+        "B. Distance",
+        "C. Temperature",
+        "D. Size",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "6. Milky Way Galaxy was first seen by",
+        "A. Galileo",
+        "B. Martin Schmidt",
+        "C. Marconi",
+        "D. Newton",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "7. Halley's comet appears once in a period of ________ ",
+        "A. 24 years",
+        "B. 32 years",
+        "C. 76 years",
+        "D. 84 years",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "8. The radiant energy of the sun is transmitted in the form of ________ ",
+        "A. Short waves",
+        "B. Long waves",
+        "C. Particles",
+        "D. None of these",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "9. \"Sirius\", the brightest star outside of the Solar System, is also called ________.",
+        "A. Cat star",
+        "B. Dog star",
+        "C. Fox star",
+        "D. Lion star",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "10. Which of the following is called \"Blue Planet\"?",
+        "A. Saturn",
+        "B. Earth",
+        "C. Jupiter",
+        "D. Mars",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "11. Which of the planets is nearest to the earth?",
+        "A. Jupiter",
+        "B. Venus",
+        "C. Mercury",
+        "D. Mars",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "12. Which of the following is the brightest planet?",
+        "A. Mercury",
+        "B. Venus",
+        "C. Mars",
+        "D. Jupiter",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "13. Which planet is known as 'Morning Star'?",
+        "A. Mercury",
+        "B. Venus",
+        "C. Mars",
+        "D. Jupiter",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "14. Parsec is the unit of measurement of ________ ",
+        "A. Density of stars",
+        "B. Astronomical distance",
+        "C. Brightness of heavenly bodies",
+        "D. Orbital velocity of giant stars",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "15. Which of the following planets is known as Earth's twin?",
+        "A. Mars",
+        "B. Saturn",
+        "C. Uranus",
+        "D. Venus",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "16. Rotational axis of which of the following planet is highly tilted?",
+        "A. Earth",
+        "B. Uranus",
+        "C. Neptune",
+        "D. Jupiter",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "17. Which of the following is not related to solar system?",
+        "A. Small planet",
+        "B. Comets",
+        "C. Planet",
+        "D. Nebula",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "18. Comets revolve around ________ ",
+        "A. Sun",
+        "B. Earth",
+        "C. Venus",
+        "D. No single heavenly body",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "19. Which one of the following planets takes the same number of days for rotation and revolution?",
+        "A. Mars",
+        "B. Venus",
+        "C. Mercury",
+        "D. Jupiter",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "20. The Planets that have no natural satellites are ________.",
+        "A. Mercury and Venus",
+        "B. Earth and Mars",
+        "C. Jupiter and Saturn",
+        "D. Uranus and Neptune",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "21. The darkest part of the shadow during eclipse is",
+        "A. Halo",
+        "B. Umbra",
+        "C. Penumbra",
+        "D. Black Hole",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "22. The sunspots cause ________ ",
+        "A. Aurora borealis and aurora australis",
+        "B. Magnetic storms on the surface of the sun",
+        "C. Polar auroras",
+        "D. All of these",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "23. Which of these is a dwarf planet?",
+        "A. Neptune",
+        "B. Titan",
+        "C. Eris",
+        "D. Hydra",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "24. The altitudes of heavenly bodies appear to be greater than they actually are. This is due to ________ ",
+        "A. Vertical motion of these heavenly bodies",
+        "B. Motions of the earth",
+        "C. Atmospheric refraction",
+        "D. These are visible because of light of the sun reflected from their surface",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "25. The Planet amongst the following (other than Saturn), that shows a faint ring is ________.",
+        "A. Earth",
+        "B. Jupiter",
+        "C. Mars",
+        "D. Pluto",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "26. Comets are celestial bodies moving about the solar system in",
+        "A. Elliptical or hyperbolic orbits, usually accompanied by a shining tail",
+        "B. Elliptical orbits usually accompanied by a long shining tail",
+        "C. Hyperbolic orbit always accompanied by a shining head",
+        "D. Hyperbolic orbit without projecting any tail or head",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "27. The period of one revolution of sun around the centre of galaxy is called ________ ",
+        "A. Parsec",
+        "B. Astronomical year",
+        "C. Cosmic year",
+        "D. Light year",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "28. Which is the hottest planet in the solar system?",
+        "A. Jupiter",
+        "B. Saturn",
+        "C. Venus",
+        "D. Uranus",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "29. Which is the brightest planet of the solar system?",
+        "A. Jupiter",
+        "B. Mercury",
+        "C. Uranus",
+        "D. Venus",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "30. The planet that is nearly comparable to Earth as regards its size and mass is",
+        "A. Pluto",
+        "B. Mars",
+        "C. Venus",
+        "D. Mercury",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "31. Which planet of the solar system spins on its axis at the fastest rate?",
+        "A. Mercury",
+        "B. Earth",
+        "C. Jupiter",
+        "D. Saturn",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "32. To a space traveller on moon, the lunar sky during day time appears ________ ",
+        "A. White",
+        "B. Blue",
+        "C. Black",
+        "D. Red",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "33. The time required by moonlight to reach the earth is ________ ",
+        "A. 1 sec",
+        "B. 1.3 sec",
+        "1.3 sec",
+        "C. 2 sec",
+        "D. 2.3 sec",
+        "2.3 sec",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "34. Comets moves around the",
+        "A. Earth",
+        "B. Venus",
+        "C. Sun",
+        "D. Jupiter",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "35. The planets are kept in motion in their respective orbits by ________ ",
+        "A. Their great size and spherical shape",
+        "B. The rotation and density",
+        "C. Gravitation and centrifugal force",
+        "D. Rotation of the sun on its axis",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "36. Which of the following celestial bodies bear, 'The Sea of Tranquility' and 'The Ocean of Storms' ?",
+        "A. Mars",
+        "B. Venus",
+        "C. Moon",
+        "D. Sun",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "37. Who founded the word \"Geography\"?",
+        "A. Ptolemy",
+        "B. Eratosthenes",
+        "C. Hicatus",
+        "D. Herodotus",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "38. The Saturn rings were discovered by ________ ",
+        "A. Copernicus",
+        "B. Newton",
+        "C. Galileo",
+        "D. None of these",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "39. The same side of the moon always faces the Earth because ________ ",
+        "A. Moon and the Earth have gravitational force",
+        "B. Moon cannot change its position",
+        "C. The period of rotation of the Moon on its axis and period of revolution around' the Earth is almost the same",
+        "D. The period of rotation of the Moon is not equal to the period of rotation of the Earth",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "40. The orbits of planets around the Sun, or of satellites around the Earth, can be ________ ",
+        "A. Circular and elliptic",
+        "B. Circular and hyperbolic",
+        "C. Elliptic and parabolic",
+        "D. Parabolic and hyperbolic",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "41. The light coming from stars gives the idea of their ________ ",
+        "A. Size",
+        "B. Rotational speed",
+        "C. Mass",
+        "D. Temperature",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "42. Stars which appear single to the naked eye but are double stars when observed by a telescope, are known as ________ ",
+        "A. Cosmic stars",
+        "B. Quasars",
+        "C. Binaries",
+        "D. Novae and supernovae",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "43. Asteroids have their orbits between the planets ________ ",
+        "A. Mercury and Venus",
+        "B. Earth and Mars",
+        "C. Mars and Jupiter",
+        "D. Jupiter and Saturn",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "44. Which one of the following statements is correct with reference to our solar system?",
+        "A. The Earth is the densest of all the planets in our solar system",
+        "B. The predominant element in the composition of Earth is silicon",
+        "C. The Sun contains 75 percent of the mass of the solar system",
+        "D. The diameter of the Sun is 190 times that of the Earth",
+        "Answer: Option A ",
+        ""
+    ],
+    [
+        "45. The correct sequence of the following planets in terms of gravity, in the descending order is ________ ",
+        "A. Saturn, Earth, Neptune, Uranus",
+        "B. Neptune, Uranus, Saturn, Earth",
+        "C. Uranus, Earth, Saturn, Neptune",
+        "D. Earth, Uranus, Neptune, Saturn",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "46. Consider the following astral bodies:1. Sirius2. Venus3. MarsThe correct sequence in decreasing order of their brightness is",
+        "A. 2, 3, 1",
+        "B. 1, 2, 3",
+        "C. 3, 2, 1",
+        "D. 2, 1, 3",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "47. Which planet is considered as the Dwarf planet?",
+        "A. Earth",
+        "B. Jupiter",
+        "C. Pluto",
+        "D. Saturn",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "48. Which of the following is the largest of the inner planets?",
+        "A. Venus",
+        "B. Mercury",
+        "C. Mars",
+        "D. Earth",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "49. Which of the following scientist had proven that every planet has an elongated path?",
+        "A. Galileo",
+        "B. Newton",
+        "C. Copernicus",
+        "D. Kepler",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "50. The orbit in which of the following planet is nearest to the Sun?",
+        "A. Saturn",
+        "B. Jupiter",
+        "C. Mars",
+        "D. Uranus",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "51. Among the following which planet takes maximum time for one revolution around the Sun?",
+        "A. Earth",
+        "B. Jupiter",
+        "C. Mars",
+        "D. Venus",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "52. The only planet whose period of rotation is longer than the period of revolution around the Sun?",
+        "A. Mercury",
+        "B. Jupiter",
+        "C. Venus",
+        "D. Neptune",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "53. The planet with the maximum number of satellites is ________.",
+        "A. Uranus",
+        "B. Jupiter",
+        "C. Saturn",
+        "D. Neptune",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "54. The outermost layer of Sun is called ________ ",
+        "A. Convection zone",
+        "B. Photosphere",
+        "C. Chromosphere",
+        "D. Corona",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "55. Which of the following celestial bodies is located farthermost to the Earth?",
+        "A. Saturn",
+        "B. Uranus",
+        "C. Neptune",
+        "D. Pluto",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "56. In how many parts the shadow of Earth is divided during solar or lunar eclipse?",
+        "A. Five",
+        "B. Two",
+        "C. Four",
+        "D. Three",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "57. Which one of the following is correct? Great Bear is a ________ ",
+        "A. Galaxy",
+        "B. Planet",
+        "C. Star",
+        "D. Constellation",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "58. In astrophysics, what is the name of hole in outer space which emits stars and energy?",
+        "A. Black Hole",
+        "B. Ozone Hole",
+        "C. Asteroid Belt",
+        "D. White Hole",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "59. The Srnith-tuttle comet will crash with Earth in ________ ",
+        "A. 2106 AD",
+        "B. 2116 AD",
+        "C. 2126 AD",
+        "D. 2136 AD",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "60. Which is the nearest planet to Sun?",
+        "A. Earth",
+        "B. Mercury",
+        "C. Mars",
+        "D. Venus",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "61. If there is no Sun, the colour of the sky would be ________ ",
+        "A. Orange",
+        "B. Blue",
+        "C. Yellow",
+        "D. Black",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "62. The planet Mercury is difficult to be observed most of the time because ________ ",
+        "A. It gets hidden behind Venus",
+        "B. It goes too far away from the Earth",
+        "C. It being too close to the Sun, gets hidden by the glare of the Sun",
+        "D. It cannot be seen at night as at that time no sunlight falls on it.",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "63. The correct sequence of planets in the descending order of their equatorial diameter is ________ ",
+        "A. Mars, Mercury, Uranus, Earth",
+        "B. Earth, Mars, Mercury, Uranus",
+        "C. Mercury, Uranus, Mars, Earth",
+        "D. Uranus, Earth, Mars, Mercury",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "64. Foucault experiment is proof of which one of the following?",
+        "A. Revolution of Earth",
+        "B. Rotation of Earth",
+        "C. Rotation of Moon",
+        "D. Revolution of Moon",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "65. The distance between the Earth and the Sun (in million kms) is ________ ",
+        "A. 111",
+        "B. 149",
+        "C. 168",
+        "D. 193",
+        "Answer: Option B ",
+        ""
+    ],
+    [
+        "66. Which of the following is called Red Planet?",
+        "A. Venus",
+        "B. Mercury",
+        "C.  Mars",
+        "D. Jupiter",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "67. Which of the following statements is/are correct with regard to Milky Way?1. It is a spiral galaxy.2. The solar system resides in one of its spiral arms.Select the correct answer using the codes given below",
+        "A. 1 only",
+        "B. 2 only",
+        "C. Both 1 and 2",
+        "D. Neither 1 nor 2",
+        "Answer: Option C ",
+        ""
+    ],
+    [
+        "68. The planet having thirteen moons is ________ ",
+        "A. Venus",
+        "B. Mars",
+        "C. Uranus",
+        "D. Neptune",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "69. The exact time taken by the earth for single rotation on its own axis is ________ ",
+        "A. 24 hrs",
+        "B. 24 hrs 35 sec",
+        "C. 23 hrs 50 minutes 7.2 sec",
+        "D. 23 hrs 56 minutes 4.09 sec",
+        "Answer: Option D ",
+        ""
+    ],
+    [
+        "70. The Planet which comes close to the size of Earth is ________.",
+        "A. Venus",
+        "B. Jupiter",
+        "C. Saturn",
+        "D. Mercury",
+        "Answer: Option B"
+    ]
+]
