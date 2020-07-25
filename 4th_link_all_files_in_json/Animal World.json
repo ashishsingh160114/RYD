@@ -1,0 +1,748 @@
+[
+    [
+        "Q1. How many hearts does an octopus have",
+        "(A) 9",
+        "(B) 5",
+        "(C) 3",
+        "(D) 2",
+        "Answer: (C) 3 ",
+        "Q"
+    ],
+    [
+        "Q2. An earthworm breathe with the help of ",
+        "(A) Lungs",
+        "(B) Ears",
+        "(C) Nose",
+        "(D) Skin",
+        "Answer: (D) Skin ",
+        "Q"
+    ],
+    [
+        "Q3. Which bird can fly backwards",
+        "(A) Peacock",
+        "(B) Hummingbird",
+        "(C) Cardinal Bird",
+        "(D) Crimson Sunbird",
+        "Answer: (B) Hummingbird ",
+        "Q"
+    ],
+    [
+        "Q4. Which species of bird flies at the highest elevation",
+        "(A) Bar-headed Goose",
+        "(B) Swift",
+        "(C) Canvasback",
+        "(D) Teal",
+        "Answer: (A) Bar-headed Goose ",
+        "Q"
+    ],
+    [
+        "Q5. Which animal has largest brain in the World",
+        "(A) Dolphin",
+        "(B) Octopus",
+        "(C) Blue Whale",
+        "(D) Sperm Whale",
+        "Answer: (D) Sperm Whale ",
+        "Q"
+    ],
+    [
+        "Q6. How many muscles in each ear of a cat",
+        "(A) 6",
+        "(B) 12",
+        "(C) 32",
+        "(D) 41",
+        "Answer: (C) 32 ",
+        "Q"
+    ],
+    [
+        "Q7. Which animal exclusively eat only eucalyptus leaves and nothing else",
+        "(A) Koala",
+        "(B) Greater Glider",
+        "(C) Common Wombat",
+        "(D) Kangaroo",
+        "Answer: (A) Koala ",
+        "Q"
+    ],
+    [
+        "Q8. How far can an owl rotate its head",
+        "(A) 90 degree",
+        "(B) 160degree",
+        "(C) 235 degree",
+        "(D) 270 degree",
+        "Answer: (D) 270 degree ",
+        "Q"
+    ],
+    [
+        "Q9. The age of a lion can be determined from its",
+        "(A) Color of nose",
+        "(B) Length of tail",
+        "(C) Length of nails",
+        "(D) Color of its hair",
+        "Answer: (A) Color of nose ",
+        "Q"
+    ],
+    [
+        "Q10. One horn rhino is found in ",
+        "(A) Sumatra",
+        "(B) Africa",
+        "(C) India",
+        "(D) Sri Lanka",
+        "Answer: (C) India ",
+        "Q"
+    ],
+    [
+        "Q11. Rhino horn is made up of ",
+        "(A) Keratin",
+        "(B) Elastin",
+        "(C) Collagen",
+        "(D) Fibroin",
+        "Answer: (A) Keratin ",
+        "Q"
+    ],
+    [
+        "Q12. Name the only country where both tigers and lions are found",
+        "(A) South Africa",
+        "(B) India",
+        "(C) Kenya",
+        "(D) Bangladesh",
+        "Answer: (B) India ",
+        "Q"
+    ],
+    [
+        "Q13. How many subspecies of tiger found in the world",
+        "(A) 3",
+        "(B) 7",
+        "(C) 9",
+        "(D) 12",
+        "Answer: (C) 9 ",
+        "Q"
+    ],
+    [
+        "Q14. Which one is the largest in size among the subspecies of tiger ",
+        "(A) Siberian tiger",
+        "(B) Indochinese tiger",
+        "(C) Sumatran tiger",
+        "(D) Bengal tiger",
+        "Answer: (A) Siberian tiger ",
+        "Q"
+    ],
+    [
+        "Q15. What is the scientific name of Bengal Tiger ",
+        "(A) Panthera tigris corbetti",
+        "(B) Panthera tigris amoyensis",
+        "(C) Panthera tigris altaica",
+        "(D) Panthera tigris tigris ",
+        "Answer: (D) Panthera tigris tigris ",
+        "Q"
+    ],
+    [
+        "Q16.How many stripes on each side of a Grevy's zebra have",
+        "(A) 24",
+        "(B) 29",
+        "(C) 60",
+        "(D) 80",
+        "Answer: (D) 80 ",
+        "Q"
+    ],
+    [
+        "Q17. Which animal can create the loudest sound among any living creature",
+        "(A) Whale shark",
+        "(B) Gibbon",
+        "(C) Humpback whales",
+        "(D) Howler Monkey",
+        "Answer: (C) Humpback whales ",
+        "Q"
+    ],
+    [
+        "Q18. Which animal has no vocal chords",
+        "(A) Lion",
+        "(B) Zebra",
+        "(C) Dolphin",
+        "(D) Giraffes",
+        "Answer: (D) Giraffes ",
+        "Q"
+    ],
+    [
+        "Q19. Total number of brains available in a Leech",
+        "(A) 2",
+        "(B) 3",
+        "(C) 16",
+        "(D) 32",
+        "Answer: (D) 32 ",
+        "Q"
+    ],
+    [
+        "Q20. Name the only mammal with hair on the soles of its feet",
+        "(A) Polar bears",
+        "(B) Panda",
+        "(C) Gorilla",
+        "(D) Bats",
+        "Answer: (A) Polar bears ",
+        "Q"
+    ],
+    [
+        "Q21. How many legs does an insect have",
+        "(A) 2",
+        "(B) 6",
+        "(C) 8",
+        "(D) 12",
+        "Answer: (B) 6 ",
+        "Q"
+    ],
+    [
+        "Q22. Which big cat species has the longest canine teeth as compared to body size",
+        "(A) Indian Tiger",
+        "(B) Clouded Leopard",
+        "(C) African Lion",
+        "(D) Siberian Tiger",
+        "Answer: (B) Clouded Leopard ",
+        "Q"
+    ],
+    [
+        "Q23. Giant Panda from Chine subsist almost entirely on ",
+        "(A) Bambo",
+        "(B) Eucalyptus",
+        "(C) Banana Leaf",
+        "(D) None of the above",
+        "Answer: (A) Bambo ",
+        "Q"
+    ],
+    [
+        "Q24. Arctic Tern Birds makes migration each year between Antarctica and\u00a0 ",
+        "(A) Iceland",
+        "(B) Canada",
+        "(C) Geenland",
+        "(D) Russia",
+        "Answer: (C) Geenland ",
+        "Q"
+    ],
+    [
+        "Q25. In which continent the largest overland migration takes place on",
+        "(A) Asia",
+        "(B) North America",
+        "(C) Australia",
+        "(D) Africa",
+        "Answer: (D) Africa ",
+        "Q"
+    ],
+    [
+        "Q26. A baby kangaroo is also known as ",
+        "(A) Joey",
+        "(B) Boomer",
+        "(C) Flyer",
+        "(D) None of the above",
+        "Answer: (A) Joey ",
+        "Q"
+    ],
+    [
+        "Q27. Which animal can see both infrared and ultraviolet light",
+        "(A) Viper snake",
+        "(B) Goldfish",
+        "(C) Greyhound Dog",
+        "(D) Butterfly",
+        "Answer: (B) Goldfish ",
+        "Q"
+    ],
+    [
+        "Q28. The liger is a hybrid cross between ",
+        "(A) Male lion and female tiger",
+        "(B) Male tiger and female leopard",
+        "(C) Male tiger and female lion",
+        "(D) None of the above",
+        "Answer: (A) Male lion and female tiger ",
+        "Q"
+    ],
+    [
+        "Q29.Which animal is shown on the logo of WWF (World Wildlife Fund) ",
+        "(A) Elephant",
+        "(B) Polar Bear",
+        "(C) Panda",
+        "(D) Rhino",
+        "Answer: (C) Panda ",
+        "Q"
+    ],
+    [
+        "Q30.Only in which continent Lama is found ",
+        "(A) North America",
+        "(B) South America",
+        "(C) Europe",
+        "(D) Autralia",
+        "Answer: (B) South America ",
+        "Q"
+    ],
+    [
+        "Q31.Which country is the home of largest population of tigers in the wild",
+        "(A) Sumatra",
+        "(B) India",
+        "(C) Russia",
+        "(D) Malaysia",
+        "Answer: (B) India ",
+        "Q"
+    ],
+    [
+        "Q32.Which animal has the sharpest hearing in the world",
+        "(A) Rat",
+        "(B) Dolphin",
+        "(C) Owl",
+        "(D) Moth",
+        "Answer: (D) Moth ",
+        "Q"
+    ],
+    [
+        "Q33.By which process Pigeons navigates using",
+        "(A) Magnetic waves",
+        "(B) Sound waves",
+        "(C) Position of star",
+        "(D) Color of soil",
+        "Answer: (B) Sound waves ",
+        "Q"
+    ],
+    [
+        "Q34.Why part of the body is used by snake to smell",
+        "(A) Skin",
+        "(B) Tongue",
+        "(C) Eye",
+        "(D) Ear",
+        "Answer: (B) Tongue ",
+        "Q"
+    ],
+    [
+        "Q35.Which animal is known as the best rain detector",
+        "(A) Dog",
+        "(B) Crow",
+        "(C) Mouse",
+        "(D) Elephant",
+        "Answer: (D) Elephant ",
+        "Q"
+    ],
+    [
+        "Q36.Which one is the only bird that can see the colour blue",
+        "(A) Owl",
+        "(B) Parrot",
+        "(C) Dove",
+        "(D) Vulture",
+        "Answer: (A) Owl ",
+        "Q"
+    ],
+    [
+        "Q37.How many stomach does a giraffe have",
+        "(A) 1",
+        "(B) 2",
+        "(C) 3",
+        "(D) 4",
+        "Answer: (D) 4 ",
+        "Q"
+    ],
+    [
+        "Q38.The age of a giraffe can be calculated from its",
+        "(A) length of tail",
+        "(B) length of legs",
+        "(C) color of body spots",
+        "(D) color of the nose",
+        "Answer: (C) color of body spots ",
+        "Q"
+    ],
+    [
+        "Q39.Who many legs does a spider have",
+        "(A) 4",
+        "(B) 6",
+        "(C) 8",
+        "(D) 12",
+        "Answer: (C) 8 ",
+        "Q"
+    ],
+    [
+        "Q40.How many wings does a bee have",
+        "(A) 2",
+        "(B) 4",
+        "(C) 6",
+        "(D) 8",
+        "Answer: (B) 4 ",
+        "Q"
+    ],
+    [
+        "Q41.Which one is the slowest moving land animal",
+        "(A) Gal\u00e1pagos tortoise",
+        "(B) Snail",
+        "(C) Three-toed Sloth",
+        "(D) Koala Bears",
+        "Answer: (C) Three-toed Sloth ",
+        "Q"
+    ],
+    [
+        "Q42.Which one is the slowest animal under water",
+        "(A) Seahorse",
+        "(B) Star Fish",
+        "(C) Tortoise",
+        "(D) Slug",
+        "Answer: (A) Seahorse ",
+        "Q"
+    ],
+    [
+        "Q43.Which one has the largest eye of any land animal",
+        "(A) Elephant",
+        "(B) Ostrich",
+        "(C) Giraffe",
+        "(D) Hippopotamus ",
+        "Answer: (B) Ostrich ",
+        "Q"
+    ],
+    [
+        "Q44.How many stomachs does a Ostrich have",
+        "(A) 2",
+        "(B) 3",
+        "(C) 4",
+        "(D) 6",
+        "Answer: (B) 3 ",
+        "Q"
+    ],
+    [
+        "Q45.How many teeth does a bear have",
+        "(A) 12",
+        "(B) 20",
+        "(C) 32",
+        "(D) 42",
+        "Answer: (D) 42 ",
+        "Q"
+    ],
+    [
+        "Q46.Which part of the body is used by elephant to control the body temperature",
+        "(A) Trunk",
+        "(B) Tail",
+        "(C) Teeth",
+        "(D) Ear",
+        "Answer: (D) Ear ",
+        "Q"
+    ],
+    [
+        "Q47.A group of whales is known as",
+        "(A) Pod",
+        "(B) Crash",
+        "(C) Gaggle",
+        "(D) Mob",
+        "Answer: (A) Pod ",
+        "Q"
+    ],
+    [
+        "Q48.Bee Hummingbird is only found in",
+        "(A) Poland",
+        "(B) Argentina",
+        "(C) Cuba",
+        "(D) Madagascar",
+        "Answer: (C) Cuba ",
+        "Q"
+    ],
+    [
+        "Q49.Which one from the cat family can not retract it's claws",
+        "(A) Lion",
+        "(B) Cheetah",
+        "(C) Tiger",
+        "(D) Leopard",
+        "Answer: (B) Cheetah ",
+        "Q"
+    ],
+    [
+        "Q50.Which animal has the highest blood pressure than any other",
+        "(A) Hippopotamus",
+        "(B) Monkey",
+        "(C) Crocodile",
+        "(D) Giraffe",
+        "Answer: (D) Giraffe ",
+        "Q"
+    ],
+    [
+        "Q51. An adult male gorilla is also known ",
+        "(A) Pride",
+        "(B) Mob",
+        "(C) Silverback",
+        "(D) Blackback",
+        "Answer: (C) Silverback ",
+        "Q"
+    ],
+    [
+        "Q52.In which country kiwi bird found",
+        "(A) Autralia",
+        "(B) New Zealand",
+        "(C) Fiji",
+        "(D) South Africa",
+        "Answer: (B) New Zealand ",
+        "Q"
+    ],
+    [
+        "Q53.In which era did dinosaurs exist ",
+        "(A) Paleozoic",
+        "(B) Cenozoic",
+        "(C) Mesozoic",
+        "(D) Peroterozoic",
+        "Answer: (C) Mesozoic ",
+        "Q"
+    ],
+    [
+        "Q54.In which era the first mammals evolved in the earth",
+        "(A) Triassic",
+        "(B) Jurassic",
+        "(C) Permian",
+        "(D) Silurian",
+        "Answer: (A) Triassic ",
+        "Q"
+    ],
+    [
+        "Q55.Which one from the below can change their gender",
+        "(A) Piranha",
+        "(B) Turtles",
+        "(C) Oysters",
+        "(D) Shrimp",
+        "Answer: (C) Oysters ",
+        "Q"
+    ],
+    [
+        "Q56.Which is the only animal in which the male gives birth their young",
+        "(A) Seahorses",
+        "(B) Anemonefish",
+        "(C) Parrotfish",
+        "(D) Hyena",
+        "Answer: (A) Seahorses ",
+        "Q"
+    ],
+    [
+        "Q57.The blood color of octopus is",
+        "(A) Red",
+        "(B) Blue",
+        "(C) Green",
+        "(D) Yellow",
+        "Answer: (B) Blue ",
+        "Q"
+    ],
+    [
+        "Q58.Which animal has teeth in its stomach",
+        "(A) Tarantula",
+        "(B) Boa constrictor",
+        "(C) Lobster",
+        "(D) Snail",
+        "Answer: (C) Lobster ",
+        "Q"
+    ],
+    [
+        "Q59.Which one is the only flying mammal in earth",
+        "(A) Bat",
+        "(B) Draco lizards ",
+        "(C) Albatross",
+        "(D) Flying frog",
+        "Answer: (A) Bat ",
+        "Q"
+    ],
+    [
+        "Q60.How much weight a rhinoceros beetle can carry comapred to its body weight",
+        "(A) 100 times",
+        "(B) 350 times",
+        "(C) 500 times",
+        "(D) 850 times",
+        "Answer: (D) 850 times ",
+        "Q"
+    ],
+    [
+        "Q61.Which one is the smallest in size of all living tiger subspecies",
+        "(A) Indochinese tiger",
+        "(B) Bengal tiger",
+        "(C) Sumatran tiger",
+        "(D) Siberian tiger",
+        "Answer: (C) Sumatran tiger ",
+        "Q"
+    ],
+    [
+        "Q62.Which one is the only large island inhabited by tigers",
+        "(A) Bali",
+        "(B) Sumatra",
+        "(C) Sri Lanka",
+        "(D) Japan",
+        "Answer: (B) Sumatra ",
+        "Q"
+    ],
+    [
+        "Q63.Insects belongs to the class of",
+        "(A) Annelid",
+        "(B) Ctenophora",
+        "(C) Arthropoda",
+        "(D) Nematoda",
+        "Answer: (C) Arthropoda ",
+        "Q"
+    ],
+    [
+        "Q64.Which one is the largest invertebrate in the world",
+        "(A) Colossal Squid",
+        "(B) Drosophila",
+        "(C) Arthropoda",
+        "(D) Sea snail",
+        "Answer: (A) Colossal Squid ",
+        "Q"
+    ],
+    [
+        "Q65.Which one is the heaviest flying bird in the World",
+        "(A) Cranes",
+        "(B) Dalmatian Pelican",
+        "(C) Buller's Shearwater",
+        "(D) Ostrich",
+        "Answer: (B) Dalmatian Pelican ",
+        "Q"
+    ],
+    [
+        "Q66.Fennec fox or Desert fox is found in",
+        "(A) Gobi Desert",
+        "(B) Sahara Desert",
+        "(C) Great Victoria Desert",
+        "(D) Kalahari Desert",
+        "Answer: (B) Sahara Desert ",
+        "Q"
+    ],
+    [
+        "Q67.How many humps in the back of Bactrian camel have",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) None of the above",
+        "Answer: (B) Two ",
+        "Q"
+    ],
+    [
+        "Q68.Koalas are only found in the country",
+        "(A) New Zealand",
+        "(B) South Africa",
+        "(C) Fiji",
+        "(D) Australia",
+        "Answer: (D) Australia ",
+        "Q"
+    ],
+    [
+        "Q69.In which continent, piranhas are found ",
+        "(A) Asia",
+        "(B) North America",
+        "(C) South America",
+        "(D) Europe",
+        "Answer: (C) South America ",
+        "Q"
+    ],
+    [
+        "Q70.Rocky Mountain goat found only in ",
+        "(A) Australia",
+        "(B) North America",
+        "(C) South America",
+        "(D) Africa",
+        "Answer: (B) North America ",
+        "Q"
+    ],
+    [
+        "Q71.Which one is the largest carnivorous animal in the world ",
+        "(A) Blue whale",
+        "(B) Polar Bear",
+        "(C) Hippopotamus",
+        "(D) Southern elephant seal",
+        "Answer: (D) Southern elephant seal ",
+        "Q"
+    ],
+    [
+        "Q72.How many chambers does a cow's stomach have ",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        "Answer: (D) Four ",
+        "Q"
+    ],
+    [
+        "Q73.Which one is the largest chamber of stomach a ruminant animal ",
+        "(A) Reticulum",
+        "(B) Rumen",
+        "(C) Omasum",
+        "(D) Abomasum",
+        "Answer: (B) Rumen ",
+        "Q"
+    ],
+    [
+        "Q74.Which Animal Has the longest tail",
+        "(A) Horse",
+        "(B) Giraffe",
+        "(C) Lion",
+        "(D) Elephant",
+        "Answer: (B) Giraffe ",
+        "Q"
+    ],
+    [
+        "Q75.How many parts of a Butterfly life cycle have",
+        "(A) 3",
+        "(B) 4",
+        "(C) 6",
+        "(D) 7",
+        "Answer: (B) 4 ",
+        "Q"
+    ],
+    [
+        "Q76. Which fish can swim with fastest speed in seas or oceans",
+        "(A) Blue shark",
+        "(B) Sailfish",
+        "(C) Blue fin tuna",
+        "(D) Striped Marlin",
+        "Answer: (B) Sailfish ",
+        "Q"
+    ],
+    [
+        "Q77. Which animal take breathes through skin",
+        "(A) Snake",
+        "(B) Fish",
+        "(C) Frog",
+        "(D) Cockroach",
+        "Answer: (C) Frog ",
+        "Q"
+    ],
+    [
+        "Q78. The camel's hump is composed of ________ tissue",
+        "(A) Muscular",
+        "(B) Adipose",
+        "(C) Skeletal",
+        "(D) Areolar",
+        "Answer: (B) Adipose ",
+        "Q"
+    ],
+    [
+        "Q79. Which one is world's tallest flying bird",
+        "(A) Ostrich",
+        "(B) Southern Cassowary",
+        "(C) Sarus Crane",
+        "(D) Emu",
+        "Answer: (C) Sarus Crane ",
+        "Q"
+    ],
+    [
+        "Q80. The only snake that builds a nest is",
+        "(A) Chain viper",
+        "(B) King Cobra",
+        "(C) Krait",
+        "(D) Saw-scaled viper",
+        "Answer: (B) King Cobra ",
+        "Q"
+    ],
+    [
+        "Q81. The tusks of an Elephant are modified ________",
+        "(A) Molars",
+        "(B) Pre-molars",
+        "(C) Second Incisors",
+        "(D) Canines",
+        "Answer: (C) Second Incisors ",
+        "Q"
+    ],
+    [
+        "Q82. Which one of these animals is jawless",
+        "(A) Shark",
+        "(B) Trygon",
+        "(C) Myxine",
+        "(D) Sphyma",
+        "Answer: (C) Myxine ",
+        "Q"
+    ],
+    [
+        "Q83. Which one of these sea creatures changes its colour",
+        "(A) Octopus",
+        "(B) Sea Horse",
+        "(C) Jelly Fish",
+        "(D) Star Fish",
+        "Answer: (A) Octopu"
+    ]
+]
