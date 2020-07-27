@@ -1,0 +1,917 @@
+[
+    [
+        "Q1. Which of the following is a valid MAC address",
+        "(a) AA-65-EC-6F-C4-YZ",
+        "(b) 44-FF-AB",
+        "(c) 30-65-EC-6F-C4-58",
+        "(d) A9-B6-4D-3B",
+        "Answer: (c) 30-65-EC-6F-C4-58 ",
+        ""
+    ],
+    [
+        "Q2. In respect of IPv4 and IPv6, which one is NOT True",
+        "(a) IPv4 uses 64 bits for addressing",
+        "(b) IPv6 uses 128 bits for addressing",
+        "(d) The number of networks in classes A, B and C are/ were respectively 27, 214 and 221",
+        "Answer: (a) IPv4 uses 64 bits for addressing ",
+        ""
+    ],
+    [
+        "Q3. What does EDI stand for",
+        "(a) Electronic Data Interchange",
+        "(b) Electronic Data Interaction",
+        "(c) Electronic Data Interface",
+        "(d) E-Commerce Data Interface",
+        "Answer: (c) Electronic Data Interface ",
+        ""
+    ],
+    [
+        "Q4. A data _________ is a repository of information collected from multiple sources, over a history of time, stored under a unified schema. and used for data analysis and decision support",
+        "(a) Warehouse",
+        "(b) Repository",
+        "(c) Mine",
+        "(d) None of the above",
+        "Answer: (a) Warehouse ",
+        ""
+    ],
+    [
+        "Q5. A digital signature is",
+        "(a) A scanned signature",
+        "(b) Signature in binary form",
+        "(c) Encrypting information",
+        "(d) Signature stored in cloud",
+        "Answer: (c) Encrypting information ",
+        ""
+    ],
+    [
+        "Q6. What kind of architecture does mobile computing deploy",
+        "(a) Two layered",
+        "(b) Three layered",
+        "(c) Four layered",
+        "(d) Five layered",
+        "Answer: (b) Three layered ",
+        ""
+    ],
+    [
+        "Q7. Which segment do eBay.com, Amazon.com belong to",
+        "(a) C2C",
+        "(b) B2C",
+        "(c) C2B",
+        "(d) B2B",
+        "Answer: (b) B2C ",
+        ""
+    ],
+    [
+        "Q8. Typical speed of current fastest super computers is measured in",
+        "(a) Petaflops",
+        "(b) GigaHertz",
+        "(c) MIPS",
+        "(d) None of the above",
+        "Answer: (a) Petaflops ",
+        ""
+    ],
+    [
+        "Q9. Parallel Virtual Machine (PVM) refers to a",
+        "(a) Software tool",
+        "(b) Work station",
+        "(c) Super computer",
+        "(d) None of the above",
+        "Answer: (a) Software tool ",
+        ""
+    ],
+    [
+        "Q10. Which of the following is not a phase during the communication via circuit switching",
+        "(a) Data Transfer",
+        "(b) Circuit Disconnect",
+        "(c) Tunneling",
+        "(d) None of the above",
+        "Answer: (c) Tunneling ",
+        ""
+    ],
+    [
+        "Q11. The ___________ greatly reduces the time required to access a single record, without sacrificing the sequential nature of the file",
+        "(a) Sequential file",
+        "(b) Indexed sequential file",
+        "(c) Direct file",
+        "(d) Relative file",
+        "Answer: (b) Indexed sequential file ",
+        ""
+    ],
+    [
+        "Q12. When customers of a Web site are unable to access it due to flooding of fake network traffic, it is known as",
+        "(a) Virus",
+        "(b) Torjan horse",
+        "(c) Cracking",
+        "(d) Denial of Service attack",
+        "Answer: (d) Denial of Service attack ",
+        ""
+    ],
+    [
+        "Q13. Which web browser was developed by Google",
+        "(a) Internet Explorer",
+        "(b) Firefox",
+        "(c) Safari",
+        "(d) Chrome",
+        "Answer: (d) Chrome ",
+        ""
+    ],
+    [
+        "Q14. Safari browser is installed with which Operating System by default",
+        "(a) Windows",
+        "(b) Linux",
+        "(c) Mac",
+        "(d) Ubuntu",
+        "Answer: (c) Mac ",
+        ""
+    ],
+    [
+        "Q15. Arrange the following memory types in the decreasing order of their access speed",
+        "(a) Registers, Cache, Hard disk drive, Magnetic tape",
+        "(b) Cache, Registers, Hard disk drive, Magnetic tape",
+        "(c) Registers, Cache, Magnetic tape, Hard disk drive",
+        "(d) Magnetic tape, Hard disk drive, Cache, Registers",
+        "Answer: (a) Registers, Cache, Hard disk drive, Magnetic tape ",
+        ""
+    ],
+    [
+        "Q16. Who is also known as the Father of Modern Computer",
+        "(a) Charles Babbage",
+        "(b) Alan Turing",
+        "(c) John von Neumann",
+        "(d) Kurt G\u00f6del",
+        "Answer: (b) Alan Turing ",
+        ""
+    ],
+    [
+        "Q17. The digital computer is based on",
+        "(a) Charles Babbage architecture",
+        "(b) John von Neumann architecture",
+        "(c) Alan Turing architecture",
+        "(d) None of the above",
+        "Answer: (b) John von Neumann architecture ",
+        ""
+    ],
+    [
+        "Q18. A computer program that manages computer hardware resources is known as",
+        "(a) Memory manager",
+        "(b) Database management system",
+        "(c) Operating system",
+        "(d) System software",
+        "Answer: (c) Operating system ",
+        ""
+    ],
+    [
+        "Q19. The time needed to move the head to a specific track in a hard disk is called",
+        "(a) Rotational latency",
+        "(b) Reach time",
+        "(c) Track Find Time (TFT)",
+        "(d) Seek time",
+        "Answer: (d) Seek time ",
+        ""
+    ],
+    [
+        "Q20. Identify the correct arrangement of networks in the descending order of their geographic area coverage",
+        "(a) LAN, WAN, MAN",
+        "(b) WAN, LAN, MAN",
+        "(c) LAN, MAN, WAN",
+        "(d) WAN, MAN, LAN",
+        "Answer: (d) WAN, MAN, LAN ",
+        ""
+    ],
+    [
+        "Q21. NTFS stands for",
+        "(a) Network File System",
+        "(b) Nano Technology File System",
+        "(c) New Technology File System",
+        "(d) Non Tamperable File System",
+        "Answer: (c) New Technology File System ",
+        ""
+    ],
+    [
+        "Q22. Identify the correct statement",
+        "(a) TCP is connection oriented protocol and UDP is connectionless",
+        "(b) TCP is connectionless protocol and UDP is connection oriented",
+        "(c) Both TCP and UDP are connectionless",
+        "(d) Both TCP and UDP are connection oriented",
+        "Answer: (a) TCP is connection oriented protocol and UDP is connectionless ",
+        ""
+    ],
+    [
+        "Q23. Identify the correct statement",
+        "(a) Firewall is a software that monitors network traffic and strains out potentially harmful data",
+        "(b) Firewall works at the network protocol level",
+        "(c) Both (a) and (b) are correct",
+        "(d) Neither (a) nor (b) is correct",
+        "Answer: (c) Both (a) and (b) are correct ",
+        ""
+    ],
+    [
+        "Q24. ASCII is a",
+        "(a) 7 bit code",
+        "(b) 8 bit code",
+        "(c) 16 bit code",
+        "(d) 32 bit code",
+        "Answer: (a) 7 bit code ",
+        ""
+    ],
+    [
+        "Q25. A computer program that translates high level language into machine language is known as",
+        "(a) Macro processor",
+        "(b) Micro processor",
+        "(c) Compiler",
+        "(d) Assembler",
+        "Answer: (c) Compiler ",
+        ""
+    ],
+    [
+        "Q26. In the architecture of a computer, ALU stands for",
+        "(a) Analytical Unit",
+        "(b) Arithmetic Logic Unit",
+        "(c) Abstraction Logic Unit",
+        "(d) None of the above",
+        "Answer: (b) Arithmetic Logic Unit ",
+        ""
+    ],
+    [
+        "Q27. Which of the following can be used for searching and downloading files from internet",
+        "(a) Browser",
+        "(b) Compiler",
+        "(c) Interpreter",
+        "(d) Assembler",
+        "Answer: (a) Browser ",
+        ""
+    ],
+    [
+        "Q28. Technology used in the first generation computer is",
+        "(a) Integrated circuit",
+        "(b) Vacuum tubes",
+        "(c) Transistors",
+        "(d) All of these",
+        "Answer: (b) Vacuum tubes ",
+        ""
+    ],
+    [
+        "Q29. Without user knowledge, collecting user information can be done using",
+        "(a) Hardware",
+        "(b) Software",
+        "(c) Freeware",
+        "(d) Spyware",
+        "Answer: (d) Spyware ",
+        ""
+    ],
+    [
+        "Q30. A device that takes physiological information about a person and stores in a computer",
+        "(a) Software",
+        "(b) Digital camera",
+        "(c) Microphone",
+        "(d) Biometric",
+        "Answer: (d) Biometric ",
+        ""
+    ],
+    [
+        "Q31. Mnemonics symbols are used in which language",
+        "(a) Assembly",
+        "(b) High level",
+        "(c) BASIC",
+        "(d) FORTRAN",
+        "Answer: (a) Assembly ",
+        ""
+    ],
+    [
+        "Q32. Which one is a voice based personal assistant in Windows 10 devices for performing search and settings",
+        "(a) Windows Hellow",
+        "(b) Google Glass",
+        "(c) Oculus Rift",
+        "(d) Cortana",
+        "Answer: (d) Cortana ",
+        ""
+    ],
+    [
+        "Q33. A temporary storage area, attached to the CPU, for I/O operations is a",
+        "(a) chip",
+        "(b) buffer",
+        "(c) register",
+        "(d) core",
+        "Answer: (b) buffer ",
+        ""
+    ],
+    [
+        "Q34. A temporary storage area, attached to the CPU, for I/O operations is a",
+        "(a) John McAfee",
+        "(b) Fred Cohen",
+        "(c) Ted Nelson",
+        "(d) Lance Hoffman",
+        "Answer: (b) Fred Cohen ",
+        ""
+    ],
+    [
+        "Q35. The number of processes completed per unit time is known as",
+        "(a) output",
+        "(b) throughput",
+        "(c) efficiency",
+        "(d) capacity",
+        "Answer: (b) throughput ",
+        ""
+    ],
+    [
+        "Q36. An exception is another name for a",
+        "(a) compile error",
+        "(b) logic error",
+        "(c) runtime error",
+        "(d) syntax error",
+        "Answer: (c) runtime error ",
+        ""
+    ],
+    [
+        "Q37. What does IDE stand for",
+        "(a) Integrated development environment",
+        "(b) Integrated design environment",
+        "(c) Interior development environment",
+        "(d) Interior design environment",
+        "Answer: (a) Integrated development environment ",
+        ""
+    ],
+    [
+        "Q38. The ability to temporarily halt the CPU and use this time to send information on buses is called",
+        "(a) direct memory access",
+        "(b) vectoring the interrupt",
+        "(c) polling",
+        "(d) cycle stealing",
+        "Answer: (d) cycle stealing ",
+        ""
+    ],
+    [
+        "Q39. Register variable is stored in",
+        "(a) processor",
+        "(b) RAM",
+        "(c) ROM",
+        "(d) peripheral memory",
+        "Answer: (a) processor ",
+        ""
+    ],
+    [
+        "Q40. Where does the swap space reside",
+        "(a) RAM",
+        "(b) Disc",
+        "(c) ROM",
+        "(d) On chip cache",
+        "Answer: (b) Disc ",
+        ""
+    ],
+    [
+        "Q41. In round robin scheduling, as the time quantum is increased, the average turn-around time",
+        "(a) increases",
+        "(b) decreases",
+        "(c) remains constant",
+        "(d) varies irregularly",
+        "Answer: (d) varies irregularly ",
+        ""
+    ],
+    [
+        "Q42. FIFO scheduling is",
+        "(a) preemptive scheduling",
+        "(b) non-preemptive scheduling",
+        "(c) deadlock scheduling",
+        "(d) fare-share scheduling",
+        "Answer: (b) non-preemptive scheduling ",
+        ""
+    ],
+    [
+        "Q43. Which of the following can correct error",
+        "(a) CRC",
+        "(b) Hamming code",
+        "(c) Parity",
+        "(d) Check digit",
+        "Answer: (b) Hamming code ",
+        ""
+    ],
+    [
+        "Q44. The mechanism that brings a page into memory only when it is needed is called",
+        "(a) segmentation",
+        "(b) fragmentation",
+        "(c) demand paging",
+        "(d) page replacement",
+        "Answer: (c) demand paging ",
+        ""
+    ],
+    [
+        "Q45. What is a shell",
+        "(a) It is a hardware component",
+        "(b) It is a command interpreter",
+        "(c) It is a part of compiler",
+        "(d) It is a tool in CPU scheduling",
+        "Answer: (b) It is a command interpreter ",
+        ""
+    ],
+    [
+        "Q46. Which one of the following is a high-level data model",
+        "(a) Network model",
+        "(b) Hierarchical model",
+        "(c) ER model",
+        "(d) None of the above",
+        "Answer: (c) ER model ",
+        ""
+    ],
+    [
+        "Q47. A bottom \u2013 up Parser generates",
+        "(a) left most derivation",
+        "(b) right most derivation",
+        "(c) right most derivation in reverse",
+        "(d) left most derivation in reverse",
+        "Answer: (c) right most derivation in reverse ",
+        ""
+    ],
+    [
+        "Q48. In a compiler , grouping of characters into tokens is done by the",
+        "(a) Scanner",
+        "(b) Parser",
+        "(c) Code generator",
+        "(d) Code Optimizer",
+        "Answer: (a) Scanner ",
+        ""
+    ],
+    [
+        "Q49. The tags elements in XML are",
+        "(a) case-insensitive",
+        "(b) case-sensitive",
+        "(c) browser dependent",
+        "(d) none of these",
+        "Answer: (b) case-sensitive ",
+        ""
+    ],
+    [
+        "Q50. HTML is a subset of",
+        "(a) SGMT",
+        "(b) SGML",
+        "(c) SGMD",
+        "(d) none of these",
+        "Answer: (b) SGML ",
+        ""
+    ],
+    [
+        "Q51. Which of the following is a tool in design phase",
+        "(a) Abstraction",
+        "(b) refinement",
+        "(c) information hiding",
+        "(d) all of these",
+        "Answer: (d) all of these ",
+        ""
+    ],
+    [
+        "Q52. Which of the following is the desirable property of a module",
+        "(a) Independency",
+        "(b) low cohesiveness",
+        "(c) high coupling",
+        "(d) multifunctional",
+        "Answer: (a) Independency ",
+        ""
+    ],
+    [
+        "Q53. To create your application on a remote server which option you will choose in ASP.NET",
+        "(a) FTP",
+        "(b) HTTPS",
+        "(c) File System",
+        "(d) none of these",
+        "Answer: (a) FTP ",
+        ""
+    ],
+    [
+        "Q54. Cache memory acts as a buffer between",
+        "(a) RAM and ROM",
+        "(b) RAM and CPU",
+        "(c) ROM and CPU",
+        "(d) CPU and Hard disk",
+        "Answer: (b) RAM and CPU ",
+        ""
+    ],
+    [
+        "Q55. Which OSPF message is used to discover who the neighbors are",
+        "(a) Link state update",
+        "(b) Database description",
+        "(c) Link state request",
+        "(d) Hello",
+        "Answer: (d) Hello ",
+        ""
+    ],
+    [
+        "Q56. A flip-flop whose state changes on the rising or falling edge of a clock pulse is said to be",
+        "(a) Edge triggered flip flop",
+        "(b) Level triggered flip flop",
+        "(c) Edge and Level triggered flip flop",
+        "(d) Triggering",
+        "Answer: (a) Edge triggered flip flop ",
+        ""
+    ],
+    [
+        "Q57. A multiplexer is also known as",
+        "(a) data provider",
+        "(b) data selector",
+        "(c) selector",
+        "(d) multiplier",
+        "Answer: (b) data selector ",
+        ""
+    ],
+    [
+        "Q58. _____ is the separation of user logical memory from physical memory",
+        "(a) Main Memory",
+        "(b) Cache Memory",
+        "(c) Virtual Memory",
+        "(d) External Memory",
+        "Answer: (c) Virtual Memory ",
+        ""
+    ],
+    [
+        "Q59. Which one access allows a user to transfer files without having an account on the remote system",
+        "(a) Main Memory",
+        "(b) Arbitrary",
+        "(c) Anonymous",
+        "(d) Remote",
+        "Answer: (c) Anonymous ",
+        ""
+    ],
+    [
+        "Q60. ____ consists of all processes residing on disk awaiting allocation of main memory",
+        "(a) Job Pool",
+        "(b) CPU Pool",
+        "(c) Memory Pool",
+        "(d) Interrupt Pool",
+        "Answer: (a) Job Pool ",
+        ""
+    ],
+    [
+        "Q61. A cloud environment available via the internet to any one willing to pay is",
+        "(a) Public cloud",
+        "(b) Remote cloud",
+        "(c) Hybrid cloud",
+        "(d) Private cloud",
+        "Answer: (a) Public cloud ",
+        ""
+    ],
+    [
+        "Q62. Which RAID level represents an Error - correcting codes (ECC) can be used directly in disk arrays by striping bytes across disks",
+        "(a) RAID level1",
+        "(b) RAID level2",
+        "(c) RAID level3",
+        "(d) RAID level5",
+        "Answer: (b) RAID level2 ",
+        ""
+    ],
+    [
+        "Q63. A file that records information about every HTTP request processed by the server",
+        "(a) Web Server Log",
+        "(b) Message Log",
+        "(c) Directory Log",
+        "(d) Access Log",
+        "Answer: (d) Access Log ",
+        ""
+    ],
+    [
+        "Q64. The process of preventing or inhibiting the normal use or management of communication facilities is called as",
+        "(a) Masquerade",
+        "(b) Replay",
+        "(c) Denial of service",
+        "(d) Blocking",
+        "Answer: (c) Denial of service ",
+        ""
+    ],
+    [
+        "Q65. The Digital Signature Standard (DSS) makes use of _____ algorithm",
+        "(a) Super Hash Algorithm",
+        "(b) Secure Hash Algorithm",
+        "(c) Signature Hack Algorithm",
+        "(d) Signature Hide Algorithm",
+        "Answer: (b) Secure Hash Algorithm ",
+        ""
+    ],
+    [
+        "Q66. The universal logic gates are",
+        "(a) AND, OR and NOT",
+        "(b) EXOR and OR",
+        "(c) AND and OR",
+        "(d) NAND and NOR",
+        "Answer: (d) NAND and NOR ",
+        ""
+    ],
+    [
+        "Q67. Special type of table, which can only be accessed and updated by the database system itself is called",
+        "(a) Data Storage",
+        "(b) Data Dictionary",
+        "(c) DBMS",
+        "(d) Tuples",
+        "Answer: (b) Data Dictionary ",
+        ""
+    ],
+    [
+        "Q68. Num Lock + * is the shortcut keys in File explorer to",
+        "(a) Display all subfolders under the selected folder",
+        "(b) Change the size and appearance of file and folder icons",
+        "(c) Open the Properties dialog box for the selected item",
+        "(d) Select the address bar",
+        "Answer: (a) Display all subfolders under the selected folder ",
+        ""
+    ],
+    [
+        "Q69. A bootstrap is",
+        "(a) A memory device",
+        "(b) A program to start up a computer",
+        "(c) Hardware of computer used to check memory",
+        "(d) An assembler",
+        "Answer: (b) A program to start up a computer ",
+        ""
+    ],
+    [
+        "Q70. CentOS and Ubuntu is an example of",
+        "(a) Types of Computers",
+        "(b) Application software",
+        "(c) Operating systems",
+        "(d) Network software",
+        "Answer: (c) Operating systems ",
+        ""
+    ],
+    [
+        "Q71. Who is the founder of Pascal programming language",
+        "(a) Grace Hopper",
+        "(b) Niklaus Wirth",
+        "(c) Thomas E. Kurtz",
+        "(d) Michael J. Carey",
+        "Answer: (b) Niklaus Wirth ",
+        ""
+    ],
+    [
+        "Q72. Bandwidth refers to which of the following",
+        "(a) The amount of information a peer-to-peer network can store",
+        "(b) Conversion rate of analog signals to digital signals and vice versa",
+        "(c) The cost of cable required to implement LAN or WAN in an area",
+        "(d) The amount of information a communication medium can transfer in a given time",
+        "Answer: (d) The amount of information a communication medium can transfer in a given time ",
+        ""
+    ],
+    [
+        "Q73. .tmp extension usually refers to what kind of files",
+        "(a) System file",
+        "(b) Archieve file",
+        "(c) Image file",
+        "(d) Temorary file",
+        "Answer: (d) Temorary file ",
+        ""
+    ],
+    [
+        "Q74. Where do we find Insert Endnote in MS Word",
+        "(a) File Menu",
+        "(b) References Menu",
+        "(c) Mailings Menu",
+        "(d) Design Menu",
+        "Answer: (b) References Menu ",
+        ""
+    ],
+    [
+        "Q75. Which of the following acronyms is normally used to describe unsolicited junk e-mails",
+        "(a) CRAM",
+        "(b) DRAM",
+        "(c) JAM",
+        "(d) SPAM",
+        "Answer: (d) SPAM ",
+        ""
+    ],
+    [
+        "Q76. In a computer, the parity bit is added for the purpose of",
+        "(a) Coding",
+        "(b) Error detection",
+        "(c) Controlling",
+        "(d) Indexing",
+        "Answer: (b) Error detection ",
+        ""
+    ],
+    [
+        "Q77. What is the tool for recording the amount of time spent for slide presentation",
+        "(a) Rehearse timing",
+        "(b) Slide time setting ",
+        "(c) Slide timer",
+        "(d) Timing recorder",
+        "Answer: (a) Rehearse timing ",
+        ""
+    ],
+    [
+        "Q78. What is the first computer that used a stored program concept",
+        "(a) EDSAC",
+        "(b) ENIAC",
+        "(c) UNIVAC",
+        "(d) SPCC",
+        "Answer: (b) ENIAC ",
+        ""
+    ],
+    [
+        "Q79. A group of four bits is also called",
+        "(a) Nibble",
+        "(b) Quarted",
+        "(c) Bit Set",
+        "(d) Byte",
+        "Answer: (a) Nibble ",
+        ""
+    ],
+    [
+        "Q80. What is the register that contains the address of the next instruction",
+        "(a) Instruction register",
+        "(b) Accumulator",
+        "(c) Container",
+        "(d) Program counter",
+        "Answer: (d) Program counter ",
+        ""
+    ],
+    [
+        "Q81. One GHz is one _____ cycles per second",
+        "(a) thousand",
+        "(b) million",
+        "(c) billion",
+        "(d) trillion",
+        "Answer: (c) billion ",
+        ""
+    ],
+    [
+        "Q82. The DES algorithm has a key length of",
+        "(a) 16 bits",
+        "(b) 32 bits",
+        "(c) 64 bits",
+        "(d) 128 bits",
+        "Answer: (c) 64 bits ",
+        ""
+    ],
+    [
+        "Q83. The average number of transaction completed in a given time is called as",
+        "(a) response time",
+        "(b) throughput",
+        "(c) commit",
+        "(d) serial schedule",
+        "Answer: (b) throughput ",
+        ""
+    ],
+    [
+        "Q84. ISDN is an example of ___ network",
+        "(a) Circuit switched",
+        "(b) Packet switched",
+        "(c) Electric switch",
+        "(d) None",
+        "Answer: (a) Circuit switched ",
+        ""
+    ],
+    [
+        "Q85. When a packet is lost in transit, it should be handled by ____",
+        "(a) error control",
+        "(b) loss control",
+        "(c) sequence control",
+        "(d) duplication control",
+        "Answer: (c) sequence control ",
+        ""
+    ],
+    [
+        "Q86. Which is not a valid join in SQL",
+        "(a) left outer join",
+        "(b) partial outer join",
+        "(c) full outer join",
+        "(d) natural full outer join",
+        "Answer: (b) partial outer join ",
+        ""
+    ],
+    [
+        "Q87. A term used to describe the process of reorganizing a hard drive\u2019s data to help increase the proficiency of accessing the data is",
+        "(a) Defragmentation",
+        "(b) Deceleration",
+        "(c) Disk Management",
+        "(d) Disk Duplexing",
+        "Answer: (a) Defragmentation ",
+        ""
+    ],
+    [
+        "Q88. What is the full name of CCTV",
+        "(a) Closed Contact Television",
+        "(b) Closed Circuit Television",
+        "(c) Closed Circuit Transmission",
+        "(d) Closed Circuit Translation",
+        "Answer: (b) Closed Circuit Television ",
+        ""
+    ],
+    [
+        "Q89. The first mechanical computer designed by Charles Babbage was called",
+        "(a) Abacus",
+        "(b) Process Engine",
+        "(c) Analytical Engine",
+        "(d) Digital Engine",
+        "Answer: (c) Analytical Engine ",
+        ""
+    ],
+    [
+        "Q90. In the field of computer, VIRUS stands for",
+        "(a) Very Intelligent Result Until Source",
+        "(b) Vital Information Resource Under Siege",
+        "(c) Viral Important Record User Searched",
+        "(d) Very Interchanged Resource Under Search",
+        "Answer: (b) Vital Information Resource Under Siege ",
+        ""
+    ],
+    [
+        "Q91. Who among the following is considered as the 'father of artificial intelligence'",
+        "(a) John McCarthy",
+        "(b) Alan Turing",
+        "(c) Donald Knuth",
+        "(d) John von Neumann",
+        "Answer: (a) John McCarthy ",
+        ""
+    ],
+    [
+        "Q92. Which one is a parent company of Google",
+        "(a) Calico",
+        "(b) Alphabet Inc.",
+        "(d) Berkshire Hathaway",
+        "Answer: (b) Alphabet Inc. ",
+        ""
+    ],
+    [
+        "Q93. \"Macintosh\" operating system was developed by",
+        "(a) Google",
+        "(b) IBM",
+        "(c) Microsoft",
+        "(d) Apple",
+        "Answer: (d) Apple ",
+        ""
+    ],
+    [
+        "Q94. Which function key provide enter and exit fullscreen mode in all modern Internet browsers",
+        "(a) F8",
+        "(b) F10",
+        "(c) F11",
+        "(d) F12",
+        "Answer: (c) F11 ",
+        ""
+    ],
+    [
+        "Q95. Which combination of keys forces a complete refresh of the web page, clearing the cache and downloading all contents of the page again",
+        "(a) Ctrl+F5",
+        "(b) Alt+F5",
+        "(c) Ctrl+F2",
+        "(d) Alt+F2",
+        "Answer: (a) Ctrl+F5 ",
+        ""
+    ],
+    [
+        "Q96. RAM (random access memory) was invented in 1968 by",
+        "(a) John Bardeen",
+        "(b) Robert Dennard",
+        "(c) Robert Metcalfe",
+        "(d) Douglas Engelbart",
+        "Answer: (b) Robert Dennard ",
+        ""
+    ],
+    [
+        "Q97. The first message over internet was transmitted in the year",
+        "(a) 1969",
+        "(b) 1972",
+        "(c) 1987",
+        "(d) 1993",
+        "Answer: (a) 1969 ",
+        ""
+    ],
+    [
+        "Q98. Who is known as the inventor of email",
+        "(a) Paul Baran",
+        "(b) Vint Cerf",
+        "(c) Ray Tomlinson",
+        "(d) Shiva Ayyadurai",
+        "Answer: (c) Ray Tomlinson ",
+        ""
+    ],
+    [
+        "Q99. The \"BCC\" in the email body is stands for",
+        "(a) Blind content copy",
+        "(b) Below content copy",
+        "(c) Bold carbon copy",
+        "(d) Blind carbon copy",
+        "Answer: (d) Blind carbon copy ",
+        ""
+    ],
+    [
+        "Q100. Indian computer scientist Abhay Bhushan plays a major role in the development of",
+        "(a) FTP",
+        "(b) ROM",
+        "(c) Chat",
+        "(d) VoIP",
+        "Answer: (a) FTP ",
+        ""
+    ],
+    [
+        "Q101. Microsoft released Windows 10 in the year",
+        "(a) 2013",
+        "(b) 2014",
+        "(c) 2015",
+        "(d) 2016",
+        "Answer: (c) 2015 ",
+        ""
+    ],
+    [
+        "Q102. Who is considered as the first programmer in computer history",
+        "(a) Charles Babbage",
+        "(b) Ada Lovelace",
+        "(c) Alan Turing",
+        "(d) Rosalind Franklin",
+        "Answer: (b) Ada Lovelace"
+    ]
+]

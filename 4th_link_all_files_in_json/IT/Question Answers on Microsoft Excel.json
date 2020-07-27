@@ -1,0 +1,289 @@
+[
+    [
+        "Q1. The intesection of rows and columns are called",
+        "(a) Sheet",
+        "(b) Cell",
+        "(c) Workbook",
+        "(d) None of the above",
+        "Answer: (b) Cell ",
+        ""
+    ],
+    [
+        "Q2. What is the maximum number of rows supported in a Excel 2007 worksheet",
+        "(a) 65,357",
+        "(b) 78,487",
+        "(c) 1,028,176",
+        "(d) 1,048,576",
+        "Answer: (d) 1,048,576 ",
+        ""
+    ],
+    [
+        "Q3. What is the maximum number of columns supported in a Excel 2007 worksheet",
+        "(a) 12,357",
+        "(b) 16,384",
+        "(c) 21,783",
+        "(d) 26,263",
+        "Answer: (b) 16,384 ",
+        ""
+    ],
+    [
+        "Q4. What is the default extention of Microsoft Excel 2003 saved file",
+        "(a) .xls",
+        "(b) .xsl",
+        "(c) .xlsx",
+        "(d) .xlxs",
+        "Answer: (a) .xls ",
+        ""
+    ],
+    [
+        "Q5. VBA in MS-Excel was used from which version",
+        "(a) Excel 4",
+        "(b) Excel 5",
+        "(c) Excel 6",
+        "(d) Excel 7",
+        "Answer: (b) Excel 5 ",
+        ""
+    ],
+    [
+        "Q6. Total number of characters that a cell can contain",
+        "(a) 24,221",
+        "(b) 27,685",
+        "(c) 32,767",
+        "(d) 39,802",
+        "Answer: (c) 32,767 ",
+        ""
+    ],
+    [
+        "Q7. Which function key generates a bar graph from the values enterd in excel",
+        "(a) F9",
+        "(b) F10",
+        "(c) F11",
+        "(d) F12",
+        "Answer: (c) F11 ",
+        ""
+    ],
+    [
+        "Q8. All formulas in MS Excel is start with _______ sign",
+        "(a) $",
+        "(b) =",
+        "(c) ()",
+        "(d) !",
+        "Answer: (b) = ",
+        ""
+    ],
+    [
+        "Q9. If \"A1\" is displayed in Name Box, then is indicates which one",
+        "(a) First column (by A) and first row (by 1)",
+        "(b) First column (by 1) and first row (by A)",
+        "(c) First sheet",
+        "(d) None of the above",
+        "Answer: (a) First column (by A) and first row (by 1) ",
+        ""
+    ],
+    [
+        "Q10. Which commanad need to excute from \"run window\" to open a new excel file",
+        "(a) ms excel",
+        "(b) win excel",
+        "(c) office excel",
+        "(d) excel",
+        "Answer: (d) excel ",
+        ""
+    ],
+    [
+        "Q11. In which year, Microsoft released the first version of Excel for Windows version",
+        "(a) 1983",
+        "(b) 1985",
+        "(c) 1987",
+        "(d) 1989",
+        "Answer: (c) 1987 ",
+        ""
+    ],
+    [
+        "Q12. In excel, which chart is also known as X Y chart",
+        "(a) Pie chart",
+        "(b) Bar chart",
+        "(c) Area chart",
+        "(d) Scatter chart",
+        "Answer: (d) Scatter chart ",
+        ""
+    ],
+    [
+        "Q13. In excel, which one chart type is not available",
+        "(a) Radar",
+        "(b) Buble",
+        "(c) Doughnut",
+        "(d) Sphere",
+        "Answer: (d) Sphere ",
+        ""
+    ],
+    [
+        "Q14. Which one/are the Chart Tool tab/tabs that adds in the ribbon when you display a chart",
+        "(a) Design",
+        "(b) Layout",
+        "(c) Format",
+        "(d) All of the above",
+        "Answer: (d) All of the above ",
+        ""
+    ],
+    [
+        "Q15. In Excel 2007, Axes option can be found in ",
+        "(a) Design",
+        "(b) Layout",
+        "(c) Format",
+        "(d) Formulas",
+        "Answer: (b) Layout ",
+        ""
+    ],
+    [
+        "Q16. Which one is not available in print area selection option when you print a Excel document",
+        "(a) Entire workbook",
+        "(b) Columns",
+        "(c) Active Sheet(s)",
+        "(d) Table",
+        "Answer: (b) Columns ",
+        ""
+    ],
+    [
+        "Q17. Strikethrough, Superscript and Subscript are the _______ in Excel",
+        "(a) Design",
+        "(b) Text Control",
+        "(c) Effects",
+        "(d) Style",
+        "Answer: (c) Effects ",
+        ""
+    ],
+    [
+        "Q18. Zoom slider option is available in",
+        "(a) Status bar",
+        "(b) Formula bar",
+        "(c) Standard bar",
+        "(d) Quick Access Toolbar",
+        "Answer: (a) Status bar ",
+        ""
+    ],
+    [
+        "Q19. In Excel Options, the Auto Correct Option can be found in",
+        "(a) Popular",
+        "(b) Formulas",
+        "(c) Proofing",
+        "(d) Advanced",
+        "Answer: (c) Proofing ",
+        ""
+    ],
+    [
+        "Q20. A function inside another function is known as",
+        "(a) Nested function",
+        "(b) Mode function",
+        "(c) HLOOKUP function",
+        "(d) Indirect function",
+        "Answer: (a) Nested function ",
+        ""
+    ],
+    [
+        "Q21. Which function returns the most common value in a data set",
+        "(a) LOGINV function",
+        "(b) INDIRECT function",
+        "(c) COVAR function",
+        "(d) MODE function",
+        "Answer: (d) MODE function ",
+        ""
+    ],
+    [
+        "Q22. Where you can change the \"number of Recent Documents\" shown option in Excel Office button",
+        "(a) Save",
+        "(b) Customize",
+        "(c) Add-Ins",
+        "(d) Advanced",
+        "Answer: (d) Advanced ",
+        ""
+    ],
+    [
+        "Q23. Maximum column width in Excel sheet is",
+        "(a) 226 Characters",
+        "(b) 254 Characters",
+        "(c) 255 Characters",
+        "(d) 256 Characters",
+        "Answer: (c) 255 Characters ",
+        ""
+    ],
+    [
+        "Q24. The process of keep the top row visible while scrolling through the rest of the worksheet is known as",
+        "(a) Freeze Panes",
+        "(b) Page Breaks",
+        "(c) Margins",
+        "(d) Sorting",
+        "Answer: (a) Freeze Panes ",
+        ""
+    ],
+    [
+        "Q25. What is the syntax of Minimum function ()",
+        "(a) =minimum(number1,number2,...)",
+        "(b) =min(number1,number2,...)",
+        "(c) =minimum{number1,number2,...}",
+        "(d) =min(number1:number2:...)",
+        "Answer: (b) =min(number1,number2,...) ",
+        ""
+    ],
+    [
+        "Q26. The Chart title option is available in",
+        "(a) Format",
+        "(b) Design",
+        "(c) Developer",
+        "(d) Layout",
+        "Answer: (d) Layout ",
+        ""
+    ],
+    [
+        "Q27. In Excel all styles are ___________ styles",
+        "(a) cell",
+        "(b) tab",
+        "(c) sheet",
+        "(d) data",
+        "Answer: (a) cell ",
+        ""
+    ],
+    [
+        "Q28. The function that counts the number of cells in a range that are not blank is known as ________ function",
+        "(a) COUNTA",
+        "(b) COUNTB",
+        "(c) COUNT",
+        "(d) COUNTIF",
+        "Answer: (a) COUNTA ",
+        ""
+    ],
+    [
+        "Q29. Which chart displays values as percentages of the whole",
+        "(a) Scatter Chart",
+        "(b) Bar Chart",
+        "(c) Surface Chart",
+        "(d) Doughnut Chart",
+        "Answer: (d) Doughnut Chart ",
+        ""
+    ],
+    [
+        "Q30. Which function is use to display the current date and time in a cell",
+        "(a) today",
+        "(b) now",
+        "(c) day",
+        "(d) current",
+        "Answer: (b) now ",
+        ""
+    ],
+    [
+        "Q31. Which of the following alignments will apply by default when some text is entered in a cell in a worksheet of Microsoft Excel",
+        "(a) Centre",
+        "(b) Left",
+        "(c) Right",
+        "(d) None of the above",
+        "Answer: (b) Left ",
+        ""
+    ],
+    [
+        "Q32. Which of the following addressing modes can be used for writing formulas in a cell in a worksheet in Microsoft Excel",
+        "(a) Relative",
+        "(b) Absolute",
+        "(c) Mixed",
+        "(d) All of the above",
+        "Answer: (d) All of the above"
+    ]
+]

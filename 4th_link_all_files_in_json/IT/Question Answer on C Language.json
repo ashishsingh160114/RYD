@@ -1,0 +1,289 @@
+[
+    [
+        "Q1. The _________ is a computer program that translates the source code into corresponding object code",
+        "(a) Compiler",
+        "(b) Assembler",
+        "(c) COBOL",
+        "(d) Interpreter",
+        "Answer: (a) Compiler ",
+        ""
+    ],
+    [
+        "Q2. Which one is a special function in C system to tell the computer where the program start",
+        "(a) go()",
+        "(b) sub()",
+        "(c) main()",
+        "(d) event()",
+        "Answer: (c) main() ",
+        ""
+    ],
+    [
+        "Q3. In a passage of text individual words and punctuation marks are called",
+        "(a) Tokens",
+        "(b) Strings",
+        "(c) Operator",
+        "(d) Identifier",
+        "Answer: (a) Tokens ",
+        ""
+    ],
+    [
+        "Q4. Which of the following is not a data type in c",
+        "(a) Primary data type",
+        "(b) Secondary data type",
+        "(c) Derived data type",
+        "(d) User defined data type",
+        "Answer: (b) Secondary data type ",
+        ""
+    ],
+    [
+        "Q5. If a=14, b=4 then a/b = ",
+        "(a) 2",
+        "(b) 3",
+        "(c) 4",
+        "(d) 5",
+        "Answer: (b) 3 ",
+        ""
+    ],
+    [
+        "Q6. If a=14, b=4 then a%b = ",
+        "(a) 2",
+        "(b) 4",
+        "(c) 5",
+        "(d) 6",
+        "Answer: (a) 2 ",
+        ""
+    ],
+    [
+        "Q7. If m=5, y=m++ then value of y and m would be _____ and _______",
+        "(a) 2 and 4",
+        "(b) 3 and 5",
+        "(c) 4 and 6",
+        "(d) 5 and 6",
+        "Answer: (d) 5 and 6 ",
+        ""
+    ],
+    [
+        "Q8. An _______ is a fixed size sequence collection of elements of the same data type",
+        "(a) integer",
+        "(b) function",
+        "(c) array",
+        "(d) pointer",
+        "Answer: (c) array ",
+        ""
+    ],
+    [
+        "Q9. What is the action of strcat() function",
+        "(a) compare two strings",
+        "(b) concatenates two strings",
+        "(c) finds the length of a string",
+        "(d) copies one string over another",
+        "Answer: (b) concatenates two strings ",
+        ""
+    ],
+    [
+        "Q10. What is the action of strcmp() function",
+        "(a) compare two strings",
+        "(b) copies one string over another",
+        "(c) finds the length of a string",
+        "(d) cut one string over another",
+        "Answer: (a) compare two strings ",
+        ""
+    ],
+    [
+        "Q11. Automatic variable also referred to as",
+        "(a) Internal variable",
+        "(b) Global variable",
+        "(c) Local variable",
+        "(d) External variable",
+        "Answer: (a) Internal variable ",
+        ""
+    ],
+    [
+        "Q12. The precedence of member operator is _________ than all arithmatic and relational operator",
+        "(a) lower",
+        "(b) higher",
+        "(c) equal",
+        "(d) None of the above",
+        "Answer: (b) higher ",
+        ""
+    ],
+    [
+        "Q13. A bit field is a set of adjacent bits whose size can be from _________ bits in length",
+        "(a) 1 to 8",
+        "(b) 1 to 12",
+        "(c) 1 to 14",
+        "(d) 1 to 16",
+        "Answer: (d) 1 to 16 ",
+        ""
+    ],
+    [
+        "Q14. Which of the following function is used for sets the position to a desired point in the file",
+        "(a) putc()",
+        "(b) putw()",
+        "(c) fseek()",
+        "(d) getw()",
+        "Answer: (c) fseek() ",
+        ""
+    ],
+    [
+        "Q15. Which of the following function is used for sets the position to the beginning of the file",
+        "(a) putw()",
+        "(b) getw()",
+        "(c) setw()",
+        "(d) rewind()",
+        "Answer: (d) rewind() ",
+        ""
+    ],
+    [
+        "Q16. Which of the following function gives the current position in the file",
+        "(a) putw()",
+        "(b) ftell()",
+        "(c) fseek()",
+        "(d) getw()",
+        "Answer: (b) ftell() ",
+        ""
+    ],
+    [
+        "Q17. Which one is a collection of one or more variables, possibly of different types, grouped together under a single name for convenient handling",
+        "(a) Pointer",
+        "(b) Matrix",
+        "(c) Array",
+        "(d) Structure",
+        "Answer: (d) Structure ",
+        ""
+    ],
+    [
+        "Q18. Which function converts a string of digits into its numeric equivalent",
+        "(a) atan()",
+        "(b) atoi()",
+        "(c) calloc()",
+        "(d) strcat()",
+        "Answer: (b) atoi() ",
+        ""
+    ],
+    [
+        "Q19. Which of the following is not a storage class supported by C++",
+        "(a) register",
+        "(b) auto",
+        "(c) mutable",
+        "(d) dynamic",
+        "Answer: (d) dynamic ",
+        ""
+    ],
+    [
+        "Q20. The following program segment in C++",
+        "(a) Compile time error",
+        "(b) run time error",
+        "(c) prints 1111",
+        "(d) print 1011",
+        "Answer: (a) Compile time error ",
+        ""
+    ],
+    [
+        "Q21. Following declaration in C++ -",
+        "(a) true",
+        "(b) false",
+        "(c) sometimes true",
+        "(d) none of these",
+        "Answer: (b) false ",
+        ""
+    ],
+    [
+        "Q22. In C++ , following statement -",
+        "(a) multiple inheritance",
+        "(b) Multilevel Inheritance",
+        "(c) linear Inheritance",
+        "(d) none of these",
+        "Answer: (a) multiple inheritance ",
+        ""
+    ],
+    [
+        "Q23. In C++ Overloading is otherwise called as",
+        "(a) virtual polymorphism",
+        "(b) transient polymorphism",
+        "(c) pseudo polymorphism",
+        "(d) ad \u2013hoc polymorphism",
+        "Answer: (d) ad \u2013hoc polymorphism ",
+        ""
+    ],
+    [
+        "Q24. For a method to be an interface between the outside world and a class , it has to be declared",
+        "(a) private",
+        "(b) public",
+        "(c) external",
+        "(d) protected",
+        "Answer: (b) public ",
+        ""
+    ],
+    [
+        "Q25. The maximum number of dimension an array can have in C is",
+        "(a) 3",
+        "(b) 5",
+        "(c) 6",
+        "(d) Compiler dependent",
+        "Answer: (d) Compiler dependent ",
+        ""
+    ],
+    [
+        "Q26. Which of the following feature of \u2018C\u2019 language is meant to provide reliable access to special memory locations",
+        "(a) static_const",
+        "(b) Pragma",
+        "(c) Volatile",
+        "(d) immutable",
+        "Answer: (c) Volatile ",
+        ""
+    ],
+    [
+        "Q27. Which of the following are syntactically correct in C language",
+        "(a) for();",
+        "(b) for (;);",
+        "(c) for (,);",
+        "(d) for (; ;);",
+        "Answer: (d) for (; ;); ",
+        ""
+    ],
+    [
+        "Q28. In C language a << 1 is equivalent to ",
+        "(a) multiplying a by 2",
+        "(b) dividing a by 2",
+        "(c) adding 2 to a",
+        "(d) none of these",
+        "Answer: (d) none of these ",
+        ""
+    ],
+    [
+        "Q29. The following statement in\u2018C\u2019 language : int **a ;",
+        "(a) is illegal",
+        "(b) is legal but meaningless",
+        "(c) syntactically and semantically is correct",
+        "(d) none of these",
+        "Answer: (c) syntactically and semantically is correct ",
+        ""
+    ],
+    [
+        "Q30. ______ is an example of compile time polymorphism",
+        "(a) Virtual function",
+        "(b) Member function",
+        "(c) Function overloading",
+        "(d) Friend function",
+        "Answer: (c) Function overloading ",
+        ""
+    ],
+    [
+        "Q31. Which header file is used for dynamic memory allocation in C",
+        "(a) math.h",
+        "(b) stdio.h",
+        "(c) conio.h",
+        "(d) stdlib.h",
+        "Answer: (d) stdlib.h ",
+        ""
+    ],
+    [
+        "Q32. A preprocessor directive is always preceded by a symbol",
+        "(a) *",
+        "(b) //",
+        "(c) #",
+        "(d) %",
+        "Answer: (c) #"
+    ]
+]

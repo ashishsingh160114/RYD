@@ -1,0 +1,343 @@
+[
+    [
+        "Q1. ___________ acts as an intermediary between the computer user and the computer hardware",
+        "(a) Software",
+        "(b) Mainframe",
+        "(c) ROM",
+        "(d) Operating System",
+        "Answer: (d) Operating System ",
+        ""
+    ],
+    [
+        "Q2. Software may trigger an interrupt by executing a special operation called a",
+        "(a) Recovery call",
+        "(b) System call",
+        "(c) Process call",
+        "(d) Package call",
+        "Answer: (b) System call ",
+        ""
+    ],
+    [
+        "Q3. System call is also known as",
+        "(a) Monitor call",
+        "(b) CPU call",
+        "(c) Execution call",
+        "(d) Process call",
+        "Answer: (a) Monitor call ",
+        ""
+    ],
+    [
+        "Q4. General-purpose computers run most of their programs from rewritable memory, called",
+        "(a) Main memory",
+        "(b) Secondary memory",
+        "(c) Peripheral memory",
+        "(d) Primary memory",
+        "Answer: (a) Main memory ",
+        ""
+    ],
+    [
+        "Q5. Main memory commonly is implemented in a semiconductor technology called",
+        "(a) MRAM",
+        "(b) SDRAM",
+        "(c) DRAM",
+        "(d) PRAM",
+        "Answer: (c) DRAM ",
+        ""
+    ],
+    [
+        "Q6. Jobs are kept initially on the disk in the",
+        "(a) Schedule pool",
+        "(b) Process pool",
+        "(c) System pool",
+        "(d) Job pool",
+        "Answer: (d) Job pool ",
+        ""
+    ],
+    [
+        "Q7. There are two types of separate mode of operation in OS, ______ mode and ________ mode",
+        "(a) process, kernel",
+        "(b) system, process",
+        "(c) user, kernel",
+        "(d) user, system",
+        "Answer: (c) user, kernel ",
+        ""
+    ],
+    [
+        "Q8. Which mode bit is used to indicate kernel mode",
+        "(a) 0",
+        "(b) 1",
+        "(c) 2",
+        "(d) 3",
+        "Answer: (a) 0 ",
+        ""
+    ],
+    [
+        "Q9. Which mode bit is used to indicate user mode",
+        "(a) -1",
+        "(b) 1",
+        "(c) 3",
+        "(d) 5",
+        "Answer: (b) 1 ",
+        ""
+    ],
+    [
+        "Q10. A buffer where the data will be read into and written from is",
+        "(a) LPVOID Buffer",
+        "(b) LPOut Buffer",
+        "(c) LPIN Buffer",
+        "(d) LBLOCK Buffer",
+        "Answer: (a) LPVOID Buffer ",
+        ""
+    ],
+    [
+        "Q11. The number of bytes read during the last read is known as _______ bytesRead",
+        "(a) HANDLE",
+        "(b) DWORD",
+        "(c) LPDWORD",
+        "(d) LPOVERLAPPED",
+        "Answer: (c) LPDWORD ",
+        ""
+    ],
+    [
+        "Q12. A control card is a ________ system concept",
+        "(a) time-sharing",
+        "(b) network",
+        "(c) batch",
+        "(d) distributed",
+        "Answer: (c) batch ",
+        ""
+    ],
+    [
+        "Q13. There are two types of interproccess communication, _________ and __________",
+        "(a) message receiving, dedicated memory",
+        "(b) message passing,shared memory",
+        "(c) information sharing, primary memory",
+        "(d) message passing, dedicated memory",
+        "Answer: (b) message passing,shared memory ",
+        ""
+    ],
+    [
+        "Q14. When the instructions are being executed, this state is known as",
+        "(a) New",
+        "(b) Ready",
+        "(c) Waiting",
+        "(d) Running",
+        "Answer: (d) Running ",
+        ""
+    ],
+    [
+        "Q15. The list of processes waiting for a particular I/0 device is called a",
+        "(a) Device list",
+        "(b) Device pool",
+        "(c) Device queue",
+        "(d) Device state",
+        "Answer: (c) Device queue ",
+        ""
+    ],
+    [
+        "Q16. Long term scheduler are also known as",
+        "(a) CPU scheduler",
+        "(b) Job scheduler",
+        "(c) Device scheduler",
+        "(d) Event scheduler",
+        "Answer: (b) Job scheduler ",
+        ""
+    ],
+    [
+        "Q17. When a process terminates then all its children must also be terminated. This phenomenon is called",
+        "(a) Progressive termination",
+        "(b) Recursive termination",
+        "(c) Cascading termination",
+        "(d) Followup termination",
+        "Answer: (c) Cascading termination ",
+        ""
+    ],
+    [
+        "Q18. The many-to-one model maps many user-level threads to one",
+        "(a) Kernel thread",
+        "(b) User thread",
+        "(c) Memory thread",
+        "(d) Batch thread",
+        "Answer: (a) Kernel thread ",
+        ""
+    ],
+    [
+        "Q19. The approach in which one thread immediately terminates the target thread is known as ___________ cancellation",
+        "(a) Deferred",
+        "(b) Asynchronous",
+        "(c) Synchronous",
+        "(d) Multithread",
+        "Answer: (b) Asynchronous ",
+        ""
+    ],
+    [
+        "Q20. The target thread periodically checks whether it should terminate, allowing it an opportunity to terminate itself in an orderly fashion is ___________ cancellation",
+        "(a) Deferred",
+        "(b) Random",
+        "(c) Synchronous",
+        "(d) Multithread",
+        "Answer: a) Deferred ",
+        ""
+    ],
+    [
+        "Q21. The target thread periodically checks whether it should terminate, allowing it an opportunity to terminate itself in an orderly fashion is ___________ cancellation",
+        "(a) Deferred",
+        "(b) Random",
+        "(c) Synchronous",
+        "(d) Multithread",
+        "Answer: (a) Deferred ",
+        ""
+    ],
+    [
+        "Q22. Which one is a major problem with priority scheduling algorithm",
+        "(a) Restriction",
+        "(b) Timing",
+        "(c) Starvation",
+        "(d) Differentiation",
+        "Answer: (c) Starvation ",
+        ""
+    ],
+    [
+        "Q23. A solution to the problem of starvation of low-priority processes is",
+        "(a) Aging",
+        "(b) Deadlock",
+        "(c) Scheduling",
+        "(d) Priority",
+        "Answer: (a) Aging ",
+        ""
+    ],
+    [
+        "Q24. Which one scheduling algorithm is designed especially for time sharing systems",
+        "(a) First-come, first-served scheduling",
+        "(b) Shortest Remaining time",
+        "(c) Preemptive priority Scheduling",
+        "(d) Round-robin scheduling",
+        "Answer: (d) Round-robin scheduling ",
+        ""
+    ],
+    [
+        "Q25. Push migration and pull migration are two types of ________ approach",
+        "(a) Load balancing",
+        "(b) Processor Affinity",
+        "(c) Symmetric Multithreading",
+        "(d) Synchronous Multithreading",
+        "Answer: (a) Load balancing ",
+        ""
+    ],
+    [
+        "Q26. Two general approaches are used to handle critical sections in operating systems which are preemptive and nonpreemptive ________",
+        "(a) user",
+        "(b) kernels",
+        "(c) pipes",
+        "(d) memory",
+        "Answer: (b) kernels ",
+        ""
+    ],
+    [
+        "Q27. A _______ is a technique for passing information from one program process to another",
+        "(a) job",
+        "(b) pipe",
+        "(c) user",
+        "(d) network",
+        "Answer: (b) pipe ",
+        ""
+    ],
+    [
+        "Q28. The value of a binary semaphore can range between",
+        "(a) 0 and 1",
+        "(b) -1 and 1",
+        "(c) 1 and 2",
+        "(d) 0 and 2",
+        "Answer: (a) 0 and 1 ",
+        ""
+    ],
+    [
+        "Q29. Binary semaphores are also known as",
+        "(a) Simple locks",
+        "(b) Boolean locks",
+        "(c) Mutex locks",
+        "(d) Simplex lock",
+        "Answer: (c) Mutex locks ",
+        ""
+    ],
+    [
+        "Q30. A collection of instructions (or operations) that performs a single logical function is called a",
+        "(a) Job",
+        "(b) Events",
+        "(c) Transaction",
+        "(d) Schedule",
+        "Answer: (c) Transaction ",
+        ""
+    ],
+    [
+        "Q31. Which one operation signifies that the transaction has terminated its execution",
+        "(a) Commit",
+        "(b) Abort",
+        "(c) Hang",
+        "(d) Modify",
+        "Answer: (a) Commit ",
+        ""
+    ],
+    [
+        "Q32. Which one is an example of race condition",
+        "(a) Simple Switch",
+        "(b) Light Switch",
+        "(c) Smart Switch",
+        "(d) Enterprise Switch",
+        "Answer: (b) Light Switch ",
+        ""
+    ],
+    [
+        "Q33. In deadlock,only one process at a time can use the resource,this condition is called",
+        "(a) Single exclusion",
+        "(b) Exclusive exclusion",
+        "(c) Smart exclusion",
+        "(d) Mutual exclusion",
+        "Answer: (d) Mutual exclusion ",
+        ""
+    ],
+    [
+        "Q34. ________ is solved by Dijkstra\u2019s banking algorithm",
+        "(a) Deadlock recurrence",
+        "(b) Deadlock avoidance",
+        "(c) Deadlock exclusion",
+        "(d) Deadlock recovery",
+        "Answer: (b) Deadlock avoidance ",
+        ""
+    ],
+    [
+        "Q35. The run-time mapping from virtual to physical addresses is done by a hardware device called",
+        "(a) Process Management Unit",
+        "(b) CPU Management Unit",
+        "(c) Memory Management Unit",
+        "(d) Event Management Unit",
+        "Answer: (c) Memory Management Unit ",
+        ""
+    ],
+    [
+        "Q36. Whenever the CPU scheduler decides to execute a process, it calls the ",
+        "(a) Dispatcher",
+        "(b) Scheduler",
+        "(c) Performer",
+        "(d) None of the above",
+        "Answer: (a) Dispatcher ",
+        ""
+    ],
+    [
+        "Q37. The total transfer time is ________ to the amount of memory swapped",
+        "(a) directly proportional",
+        "(b) indirectly proportional",
+        "(c) equal",
+        "(d) None of the above",
+        "Answer: (a) directly proportional ",
+        ""
+    ],
+    [
+        "Q38. Which one is a memory-management scheme that permits the physical address space of a process to be noncontiguous",
+        "(a) scheduling",
+        "(b) swapping",
+        "(c) paging",
+        "(d) segmentation",
+        "Answer: (c) paging"
+    ]
+]

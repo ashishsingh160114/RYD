@@ -1,0 +1,198 @@
+[
+    [
+        "Q1. Which command can be used to check the name of a computer system in linux",
+        "(a) compname",
+        "(b) computername",
+        "(c) hostname",
+        "(d) myname",
+        "Answer: (c) hostname ",
+        ""
+    ],
+    [
+        "Q2. Which command cannot be used to edit a text file from command line",
+        "(a) touch",
+        "(b) cat",
+        "(c) vi",
+        "(d) vim",
+        "Answer: (a) touch ",
+        ""
+    ],
+    [
+        "Q3. Which command is used to save and exit after editing a text file via vi command",
+        "(a) :nw",
+        "(b) :qw",
+        "(c) :wq",
+        "(d) :wn",
+        "Answer: (c) :wq ",
+        ""
+    ],
+    [
+        "Q4. The \"se nu\" command in vi editor will ",
+        "(a) display sequential line numbers",
+        "(b) hide sequential line numbers",
+        "(c) add a new blank column",
+        "(d) delete the first column",
+        "Answer: (a) display sequential line numbers ",
+        ""
+    ],
+    [
+        "Q5. Which command will display the kernel version of linux operating system",
+        "(a) uname -a",
+        "(b) uname -r",
+        "(c) uname -k",
+        "(d) uname -v",
+        "Answer: (b) uname -r ",
+        ""
+    ],
+    [
+        "Q6. What is the default permission value for a file created in linux",
+        "(a) 644",
+        "(b) 664",
+        "(c) 774",
+        "(d) 777",
+        "Answer: (a) 644 ",
+        ""
+    ],
+    [
+        "Q7. The core component of Linux Operating System which interacts directly with hardware and provides low level services to upper layer components is known as",
+        "(a) Interface",
+        "(b) Shell",
+        "(c) Kernel",
+        "(d) Library",
+        "Answer: (c) Kernel ",
+        ""
+    ],
+    [
+        "Q8. The first edition of Unix was released on",
+        "(a) 1970",
+        "(b) 1971",
+        "(c) 1973",
+        "(d) 1974",
+        "Answer: (b) 1971 ",
+        ""
+    ],
+    [
+        "Q9. Which one is a virtual filesystem",
+        "(a) etc",
+        "(b) dev",
+        "(c) mnt",
+        "(d) proc",
+        "Answer: (d) proc ",
+        ""
+    ],
+    [
+        "Q10. What is the maximum file size supported by Ext4 filesystem",
+        "(a) 2 TB",
+        "(b) 8 TB",
+        "(c) 16 TB",
+        "Answer: (c) 16 TB ",
+        ""
+    ],
+    [
+        "Q11. What is the default permission value for a directory created in linux",
+        "(a) 644",
+        "(b) 664",
+        "(c) 755",
+        "(d) 775",
+        "Answer: (c) 755 ",
+        ""
+    ],
+    [
+        "Q12. In Linux operating system, each process is represented by a/an",
+        "(a) I node",
+        "(b) process control block",
+        "(c) process number",
+        "(d) process state",
+        "Answer: (b) process control block ",
+        ""
+    ],
+    [
+        "Q13. In Unix ,which of the following are not filter programs",
+        "(a) date",
+        "(b) Sort",
+        "(c) cat",
+        "(d) grep",
+        "Answer: (a) date ",
+        ""
+    ],
+    [
+        "Q14. In Unix the PID of the kernel process is",
+        "(a) 0",
+        "(b) 1",
+        "(c) 2",
+        "(d) undefined",
+        "Answer: (a) 0 ",
+        ""
+    ],
+    [
+        "Q15. In Unix, system identifies a file by its",
+        "(a) name",
+        "(b) path",
+        "(c) file owner",
+        "(d) inode number",
+        "Answer: (d) inode number ",
+        ""
+    ],
+    [
+        "Q16. In Unix ,the call pipe(p); is valid if p had been declared as",
+        "(a) int p",
+        "(b) int p[2]",
+        "(c) char *p",
+        "(d) FILE * p",
+        "Answer: (b) int p[2] ",
+        ""
+    ],
+    [
+        "Q17. Which of the following metacharacters will be recognized by the shell , even if it comes within double quotes",
+        "(a) $",
+        "(b) ?",
+        "(c) *",
+        "(d) None of the above",
+        "Answer: (a) $ ",
+        ""
+    ],
+    [
+        "Q18. In Unix , Which of the following calls never return error",
+        "(a) getpid",
+        "(b) fork",
+        "(c) ioctl",
+        "(d) open",
+        "Answer: (a) getpid ",
+        ""
+    ],
+    [
+        "Q19. Which of the following displays the exit status of the last executed command in Unix",
+        "(a) echo $#",
+        "(b) echo $$",
+        "(c) echo $?",
+        "(d) echo $!",
+        "Answer: (c) echo $? ",
+        ""
+    ],
+    [
+        "Q20. In Unix , which of the following programs are not interactive",
+        "(a) passwd",
+        "(b) sh",
+        "(c) grep",
+        "(d) All of the above",
+        "Answer: (c) grep ",
+        ""
+    ],
+    [
+        "Q21. Which one is not a main task of kernel",
+        "(a) Process management",
+        "(b) I/O management",
+        "(c) Memory management",
+        "(d) Hard disk management",
+        "Answer: (d) Hard disk management ",
+        ""
+    ],
+    [
+        "Q22. Ext4 in Linux is a",
+        "(a) folder name",
+        "(b) file system name",
+        "(c) memory name",
+        "(d) None of the above",
+        "Answer: (b) file system nam"
+    ]
+]

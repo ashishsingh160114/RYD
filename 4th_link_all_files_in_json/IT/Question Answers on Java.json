@@ -1,0 +1,946 @@
+[
+    [
+        "Q1. Java was developed by",
+        "(a) Apple",
+        "(b) IBM",
+        "(c) Ericsson",
+        "(d) Sun Microsystems",
+        "Answer: (d) Sun Microsystems ",
+        ""
+    ],
+    [
+        "Q2. In which year Java programming language was developed ",
+        "(a) 1991",
+        "(b) 1993",
+        "(c) 1995",
+        "(d) 1996",
+        "Answer: (a) 1991 ",
+        ""
+    ],
+    [
+        "Q3. Which one was the initial name of Java",
+        "(a) Oak",
+        "(b) CDL",
+        "(c) CS-4",
+        "(d) Usenet",
+        "Answer: (a) Oak ",
+        ""
+    ],
+    [
+        "Q4. Which one is correct \u2014 \u201cjava is a _________\u201d",
+        "(a) platform dependent language",
+        "(b) platform independent language",
+        "(c) OS dependent language",
+        "(d) OS independent language",
+        "Answer: (b) platform independent language ",
+        ""
+    ],
+    [
+        "Q5. A special kind of Java program that is designed to be transmitted over the Internet and automatically executed by a Java-compatible web browser is",
+        "(a) Servlets",
+        "(b) JSP",
+        "(c) Applet",
+        "(d) Bytecode",
+        "Answer: (c) Applet ",
+        ""
+    ],
+    [
+        "Q6. Java is a",
+        "(a) Static language",
+        "(b) Dynamic language",
+        "(c) Assembly language",
+        "(d) Binary language",
+        "Answer: (b) Dynamic language ",
+        ""
+    ],
+    [
+        "Q7. A highly optimized set of instructions designed to be executed by the Java run-time system, is called",
+        "(a) Objectcode",
+        "(b) Bitcode",
+        "(c) Bytecode",
+        "(d) Floatcode",
+        "Answer: (c) Bytecode ",
+        ""
+    ],
+    [
+        "Q8. Which one is commonly used to extend the applications hosted by web servers",
+        "(a) JSP",
+        "(b) IDE",
+        "(c) Applet",
+        "(d) Servlet",
+        "Answer: (d) Servlet ",
+        ""
+    ],
+    [
+        "Q9. Java is a _____________",
+        "(a) Logic-based language",
+        "(b) Stack-based language",
+        "(c) Data-structured language",
+        "(d) Object oriented programming language",
+        "Answer: (d) Object oriented programming language ",
+        ""
+    ],
+    [
+        "Q10. The act of representing essential features without including the background details or explanations is called",
+        "(a) Abstraction",
+        "(b) Polymorphism",
+        "(c) Encapsulation",
+        "(d) Inheritance",
+        "Answer: (a) Abstraction ",
+        ""
+    ],
+    [
+        "Q11. Name of the process by which objects of one class acquire the properties of objects of another is called",
+        "(a) Information Hiding",
+        "(b) Inheritance",
+        "(c) Polymorphism",
+        "(d) Encapsulation",
+        "Answer: (b) Inheritance ",
+        ""
+    ],
+    [
+        "Q12. Dynamic binding calls at",
+        "(a) Start time",
+        "(b) Compile time",
+        "(c) Run time",
+        "(d) Execution time",
+        "Answer: (c) Run time ",
+        ""
+    ],
+    [
+        "Q13. Static binding calls at",
+        "(a) Start time",
+        "(b) Compile time",
+        "(c) Process time",
+        "(d) Execution time",
+        "Answer: (b) Compile time ",
+        ""
+    ],
+    [
+        "Q14. Which one was the first browser to support Java applets",
+        "(a) Internet Explorer",
+        "(b) Safari",
+        "(c) HotJava",
+        "(d) NetJava",
+        "Answer: (c) HotJava ",
+        ""
+    ],
+    [
+        "Q15. Which one is not a Java Comment type",
+        "(a) Single line comment",
+        "(b) Two line comment",
+        "(c) Multi line comment",
+        "(d) Documentation comment",
+        "Answer: (b) Two line comment ",
+        ""
+    ],
+    [
+        "Q16. HotJava Browser was developed in the year",
+        "(a) 1990",
+        "(b) 1992",
+        "(c) 1995",
+        "(d) 1996",
+        "Answer: (c) 1995 ",
+        ""
+    ],
+    [
+        "Q17. Which of the following is a multi line comment syntax",
+        "(a) begin with / and end with /",
+        "(b) begin with /* and end with */",
+        "(c) begin with # and end with #",
+        "(d) begin with /@ and end with @/",
+        "Answer: (b) begin with /* and end with */ ",
+        ""
+    ],
+    [
+        "Q18. Which of the following is a single line comment syntax",
+        "(a) / comment",
+        "(b) // comment",
+        "(c) /* comment */",
+        "(d) //* comment */",
+        "Answer: (b) // comment ",
+        ""
+    ],
+    [
+        "Q19. Which one is not a java access modifiers",
+        "(a) Private",
+        "(b) Default",
+        "(c) Protected",
+        "(d) Abstract",
+        "Answer: (d) Abstract ",
+        ""
+    ],
+    [
+        "Q20. Access modifier which is accessible only within class is called",
+        "(a) Private",
+        "(b) Default",
+        "(c) Protected",
+        "(d) Public",
+        "Answer: (a) Private ",
+        ""
+    ],
+    [
+        "Q21. The protected access modifier is accessible within package and outside the package but through __________ only",
+        "(a) Encasulation",
+        "(b) Abstraction",
+        "(c) Inheritance",
+        "(d) Polymorphism",
+        "Answer: (c) Inheritance ",
+        ""
+    ],
+    [
+        "Q22. The protected access modifier can be applied on",
+        "(a) Members",
+        "(b) Class",
+        "(c) Method",
+        "(d) Interface",
+        "Answer: (a) Members ",
+        ""
+    ],
+    [
+        "Q23. Which one is a correct if statement",
+        "(a) if{condition} (statement)",
+        "(b) if condition {statement}",
+        "(c) if(condition) {statement}",
+        "(d) if{condition} statement",
+        "Answer: (c) if(condition) {statement} ",
+        ""
+    ],
+    [
+        "Q24. A loop in java ends with",
+        "(a) Colon",
+        "(b) Semicolon",
+        "(c) Dot",
+        "(d) Slash",
+        "Answer: (b) Semicolon ",
+        ""
+    ],
+    [
+        "Q25. Exit for loop is an example of",
+        "(a) Do while loop",
+        "(b) While loop",
+        "(c) For loop",
+        "(d) None of the above",
+        "Answer: (a) Do while loop ",
+        ""
+    ],
+    [
+        "Q26. Which one loop is also known as Entry Control loop",
+        "(a) Infinite loop",
+        "(b) Do while loop",
+        "(c) For loop",
+        "(d) While loop",
+        "Answer: (d) While loop ",
+        ""
+    ],
+    [
+        "Q27. The range of Short is",
+        "(a) \u201327,568 to 27,567",
+        "(b) \u201330,453 to 30,453",
+        "(c) \u201332,768 to 32,767",
+        "(d) \u201334,563 to 34,563",
+        "Answer: (c) \u201332,768 to 32,767 ",
+        ""
+    ],
+    [
+        "Q28. A Signed 64-bit type is named as",
+        "(a) Byte",
+        "(b) Short",
+        "(c) Int",
+        "(d) Long",
+        "Answer: (d) Long ",
+        ""
+    ],
+    [
+        "Q29. Float has _____ bits of storage",
+        "(a) 16",
+        "(b) 32",
+        "(c) 64",
+        "(d) 128",
+        "Answer: (b) 32 ",
+        ""
+    ],
+    [
+        "Q30. The range of floating point is",
+        "(a) -128 to +127",
+        "(b) 1.4e\u2013045 to 3.4e+038",
+        "(c) -2147483648 to + 2147483647",
+        "(d) -32768 to + 32767",
+        "Answer: (b) 1.4e\u2013045 to 3.4e+038 ",
+        ""
+    ],
+    [
+        "Q31. For storing a value, double uses",
+        "(a) 24 bit",
+        "(b) 32 bit",
+        "(c) 64 bit",
+        "(d) 128 bit",
+        "Answer: (c) 64 bit ",
+        ""
+    ],
+    [
+        "Q32. Approximate range of double is",
+        "(a) 4.9e\u2013324 to 1.8e+308",
+        "(b) 1.4e-045 to 3.4e+038",
+        "(c) -2147483648 to + 2147483647",
+        "(d) 0 to 65535",
+        "Answer: (a) 4.9e\u2013324 to 1.8e+308 ",
+        ""
+    ],
+    [
+        "Q33. For logical value, which primitive type is used",
+        "(a) Float",
+        "(b) Long",
+        "(c) Double",
+        "(d) Boolean",
+        "Answer: (d) Boolean ",
+        ""
+    ],
+    [
+        "Q34. Which of the following is intrinsic data type",
+        "(a) Classes",
+        "(b) Arrays",
+        "(c) Integer",
+        "(d) Interface",
+        "Answer: (c) Integer ",
+        ""
+    ],
+    [
+        "Q35. Which of the following is derived data type",
+        "(a) Floating point",
+        "(b) Interface",
+        "(c) Character",
+        "(d) Boolean",
+        "Answer: (b) Interface ",
+        ""
+    ],
+    [
+        "Q36. Assigning a value of one type to a variable of another type is known as",
+        "(a) Type compression",
+        "(b) Type casting",
+        "(c) Type correction",
+        "(d) Type inheritance",
+        "Answer: (b) Type casting ",
+        ""
+    ],
+    [
+        "Q37. The syntax \"type variable = (type) variable2\" is used for",
+        "(a) Type casting",
+        "(b) Type compression",
+        "(c) Type inheritance",
+        "(d) Type correction",
+        "Answer: (a) Type casting ",
+        ""
+    ],
+    [
+        "Q38. Which type of conversions do not lose information about the magnitude of a value",
+        "(a) String",
+        "(b) Capture",
+        "(c) Narrowing",
+        "(d) Widening",
+        "Answer: (d) Widening ",
+        ""
+    ],
+    [
+        "Q39. Assigning a larger type to a smaller one is known as _________ conversion in Java",
+        "(a) Identity",
+        "(b) Narrowing",
+        "(c) Boxing",
+        "(d) Capture",
+        "Answer: (b) Narrowing ",
+        ""
+    ],
+    [
+        "Q40. What is the default value of int",
+        "(a) 0.0F",
+        "(b) 0L",
+        "(c) 0",
+        "(d) 1",
+        "Answer: (c) 0 ",
+        ""
+    ],
+    [
+        "Q41. What is the default value of boolean in java",
+        "(a) True",
+        "(b) False",
+        "(c) Null",
+        "(d) 0.0d",
+        "Answer: (b) False ",
+        ""
+    ],
+    [
+        "Q42. What are typically used to store information in Java",
+        "(a) Variables",
+        "(b) Constant",
+        "(c) Conversion",
+        "(d) None of the above",
+        "Answer: (a) Variables ",
+        ""
+    ],
+    [
+        "Q43. Which of the variables serve as symbolic constants",
+        "(a) Boolean",
+        "(b) Char",
+        "(c) Float",
+        "(d) Final",
+        "Answer: (d) Final ",
+        ""
+    ],
+    [
+        "Q44. Arithmetic operators in java can not be applied to",
+        "(a) Long",
+        "(b) Char",
+        "(c) Float",
+        "(d) Boolean",
+        "Answer: (d) Boolean ",
+        ""
+    ],
+    [
+        "Q45. Java has a distinction of supporting special operators known as",
+        "(a) Bitwise operators",
+        "(b) Unary Operators",
+        "(c) Conditional Operators",
+        "(d) Type Comparison Operator",
+        "Answer: (a) Bitwise operators ",
+        ""
+    ],
+    [
+        "Q46. The operator sign \u2018|\u2019 is used for Bitwise ______",
+        "(a) AND",
+        "(b) OR",
+        "(c) XOR",
+        "(d) Complement",
+        "Answer: (b) OR ",
+        ""
+    ],
+    [
+        "Q47. Which of the following operator has higher precedence",
+        "(a) +",
+        "(b) -",
+        "(c) *",
+        "(d) ||",
+        "Answer: (c) * ",
+        ""
+    ],
+    [
+        "Q48. When a=9, b=12, c=3 then output of following statement is: x = a-b/3+c*2-1",
+        "(a) 8",
+        "(b) 10",
+        "(c) 12",
+        "(d) 15",
+        "Answer: (b) 10 ",
+        ""
+    ],
+    [
+        "Q49. Unary minus \u2018-\u2018 has associativity from",
+        "(a) Right to left",
+        "(b) Left to right",
+        "(c) Not associative",
+        "(d) None of the above",
+        "Answer: (a) Right to left ",
+        ""
+    ],
+    [
+        "Q50. Which one returns the smallest whole number greater than or equal to x is",
+        "(a) rint(x)",
+        "(b) sqrt(x)",
+        "(c) log(x)",
+        "(d) ceil(x)",
+        "Answer: (d) ceil(x) ",
+        ""
+    ],
+    [
+        "Q51. What is the action of rint() in Java",
+        "(a) Returns the absolute value of the argument",
+        "(b) Returns the smallest of the two arguments",
+        "(c) Returns the double value that is closest in value to the argument",
+        "(d) Returns the largest integer that is less than or equal to the argument",
+        "Answer: (c) Returns the double value that is closest in value to the argument ",
+        ""
+    ],
+    [
+        "Q52. Which one will returns the absolute value of a",
+        "(a) rint(a)",
+        "(b) log(a)",
+        "(c) abs(a)",
+        "(d) exp(a)",
+        "Answer: (c) abs(a) ",
+        ""
+    ],
+    [
+        "Q53. One if or else if statement inside another if or else if statement is",
+        "(a) if statement",
+        "(b) if-else statement",
+        "(c) if-else-if ladder",
+        "(d) nested if statement",
+        "Answer: (d) nested if statement ",
+        ""
+    ],
+    [
+        "Q54. Built-in multiway decision statement in Java is known as",
+        "(a) Switch",
+        "(b) Oprator",
+        "(c) Break",
+        "(d) Continue",
+        "Answer: (a) Switch ",
+        ""
+    ],
+    [
+        "Q55. Case and break are used in ___ ",
+        "(a) Jump",
+        "(b) if-else",
+        "(c) nested-if",
+        "(d) Switch",
+        "Answer: (d) Switch ",
+        ""
+    ],
+    [
+        "Q56. Which one jump statement is not supported in Java",
+        "(a) Else",
+        "(b) Break",
+        "(c) Return",
+        "(d) Continue",
+        "Answer: (a) Else ",
+        ""
+    ],
+    [
+        "Q57. ____ leaves a loop, ____ jumps to the next iteration",
+        "(a) break,continue",
+        "(b) continue,break",
+        "(c) switch,break",
+        "(d) break,switch",
+        "Answer: (a) break,continue ",
+        ""
+    ],
+    [
+        "Q58. In Java, the functions are called ",
+        "(a) Fields",
+        "(b) Methods",
+        "(c) Operator",
+        "(d) Class",
+        "Answer: (b) Methods ",
+        ""
+    ],
+    [
+        "Q59. Header should always be declared independently separated by",
+        "(a) Dot",
+        "(b) Slash",
+        "(c) Commas",
+        "(d) Pipe",
+        "Answer: (c) Commas ",
+        ""
+    ],
+    [
+        "Q60. Which one enables an object to initialize itself when it is created",
+        "(a) Validator",
+        "(b) Arguments",
+        "(c) Parameters",
+        "(d) Constructor",
+        "Answer: (d) Constructor ",
+        ""
+    ],
+    [
+        "Q61. Constructors have the same name as the ________",
+        "(a) Class",
+        "(b) Int",
+        "(c) Void",
+        "(d) String",
+        "Answer: (a) Class ",
+        ""
+    ],
+    [
+        "Q62. Method __________ has same name but different parameter list and different definition",
+        "(a) Binding",
+        "(b) Overriding",
+        "(c) Overloading",
+        "(d) Polymorphism",
+        "Answer: (c) Overloading ",
+        ""
+    ],
+    [
+        "Q63. Polymorphism in Java is of two tytpes, namely ________ and _______",
+        "(a) Static type, Dynamic type",
+        "(b) Start time, End time",
+        "(c) Run time, Compile time",
+        "(d) Variable type, Static type",
+        "Answer: (c) Run time, Compile time ",
+        ""
+    ],
+    [
+        "Q64. Runtime polymorphism is also known as _______",
+        "(a) Static binding",
+        "(b) Early binding",
+        "(c) Dynamic method dispatch",
+        "(d) Method overloading",
+        "Answer: (c) Dynamic method dispatch ",
+        ""
+    ],
+    [
+        "Q65. When reference variable of Parent class refers to the object of Child class, then it is known as ",
+        "(a) Side casting",
+        "(b) Upcasting",
+        "(c) Top casting",
+        "(d) Downcasting",
+        "Answer: (b) Upcasting ",
+        ""
+    ],
+    [
+        "Q66. Polymorphism that is resolved during compiler time is known as",
+        "(a) Dynamic polymorphism",
+        "(b) Static polymorphism",
+        "(c) Special Polymorphism",
+        "(d) None of the above",
+        "Answer: (b) Static polymorphism ",
+        ""
+    ],
+    [
+        "Q67. Which one of the followings is false for static method",
+        "(a) They can only call other static methods",
+        "(b) They can only access static data",
+        "(c) They can only access static data",
+        "(d) They can only access dynamic data",
+        "Answer: (d) They can only access dynamic data ",
+        ""
+    ],
+    [
+        "Q68. In inheritance, the old class is known as",
+        "(a) Start class",
+        "(b) Base class",
+        "(c) Derived class",
+        "(d) Sub class",
+        "Answer: (b) Base class ",
+        ""
+    ],
+    [
+        "Q69. Base class is also known as",
+        "(a) Super class",
+        "(b) Child class",
+        "(c) Sub class",
+        "(d) Derived class",
+        "Answer: (a) Super class ",
+        ""
+    ],
+    [
+        "Q70. When a class extends a class, which extends another class then this is called ______ inheritance",
+        "(a) Single level",
+        "(b) Two level",
+        "(c) Multi level",
+        "(d) Many level",
+        "Answer: (c) Multi level ",
+        ""
+    ],
+    [
+        "Q71. When more than one child classes have the same parent class then it is called as ",
+        "(a) Single inheritance",
+        "(b) Multilevel inheritance",
+        "(c) Class inheritance",
+        "(d) Hierarchical inheritance",
+        "Answer: (d) Hierarchical inheritance ",
+        ""
+    ],
+    [
+        "Q72. A class that cannot be subclassed is called a _______",
+        "(a) Parent class",
+        "(b) Child class",
+        "(c) Revised class",
+        "(d) Final class",
+        "Answer: (d) Final class ",
+        ""
+    ],
+    [
+        "Q73. Class Subclass-name extends Superclass-name",
+        "(a) Inheritance",
+        "(b) Polymorphism",
+        "(c) Encaptulation",
+        "(d) All of the above",
+        "Answer: (a) Inheritance ",
+        ""
+    ],
+    [
+        "Q74. _________ classes cannot be instantiated",
+        "(a) String",
+        "(b) Mutable",
+        "(c) Wrapper",
+        "(d) Abstract",
+        "Answer: (d) Abstract ",
+        ""
+    ],
+    [
+        "Q75. ______ is a process of hiding the implementation details and showing only functionality to the user",
+        "(a) Abstract",
+        "(b) Network",
+        "(c) System",
+        "(d) Anonymous",
+        "Answer: (a) Abstract ",
+        ""
+    ],
+    [
+        "Q76. ______ is a group of related data items that share a common name with same data type",
+        "(a) String",
+        "(b) Array",
+        "(c) Parameter",
+        "(d) Arguments",
+        "Answer: (b) Array ",
+        ""
+    ],
+    [
+        "Q77. Which one of the following is false",
+        "(a) type arrayname[];",
+        "(b) arrayname [] type;",
+        "(c) type [] arrayname;",
+        "(d) None of the above",
+        "Answer: (b) arrayname [] type; ",
+        ""
+    ],
+    [
+        "Q78. Which of the following is not a wrapper class",
+        "(a) Integer",
+        "(b) Byte",
+        "(c) Random",
+        "(d) Short",
+        "Answer: (a) Integer ",
+        ""
+    ],
+    [
+        "Q79. Which of the following is false",
+        "(a) It is convenient to use vectors to store objects",
+        "(b) Vector can be used to store a list of objects that may vary in size",
+        "(c) Vector ia a StringBuffer",
+        "(d) We can add and delete objects from the list as and when required",
+        "Answer: (c) Vector ia a StringBuffer ",
+        ""
+    ],
+    [
+        "Q80. We can use_________ to convert primitive data types to wrapper class types automatically",
+        "(a) Auto boxing",
+        "(b) Unboxing",
+        "(c) Annotations",
+        "(d) Both A and B",
+        "Answer: (d) Both A and B ",
+        ""
+    ],
+    [
+        "Q81. ______________ method is used to convert primitive numbers to object numbers in wrapper classes",
+        "(a) String() Method",
+        "(b) Constructor Methods",
+        "(c) Parsing Method",
+        "(d) None of the above",
+        "Answer: (b) Constructor Methods ",
+        ""
+    ],
+    [
+        "Q82. ________ gives the number of objects present",
+        "(a) list.size()",
+        "(b) list.copyInto(array)",
+        "(c) list.removeElement(item)",
+        "(d) Both A and B",
+        "Answer: (a) list.size() ",
+        ""
+    ],
+    [
+        "Q83. Which are true",
+        "(a) An interface can sub interfaced from other interface",
+        "(b) Interface support extending",
+        "(c) Interface can\u2019t support extending",
+        "(d) Both A and B",
+        "Answer: (d) Both A and B ",
+        ""
+    ],
+    [
+        "Q84. _________ package is classes for networking",
+        "(a) java.io",
+        "(b) java.net",
+        "(c) java.awt",
+        "(d) java.applet",
+        "Answer: (b) java.net ",
+        ""
+    ],
+    [
+        "Q85. Dead state can be compared with ______ method of applets",
+        "(a) stop()",
+        "(b) paint()",
+        "(c) destroy()",
+        "(d) init()",
+        "Answer: (c) destroy() ",
+        ""
+    ],
+    [
+        "Q86. ________ method is used to find out that a thread is still running or no",
+        "(a) Alive()",
+        "(b) CheckRun()",
+        "(c) isAlive()",
+        "(d) Run()",
+        "Answer: (c) isAlive() ",
+        ""
+    ],
+    [
+        "Q87. Default value of priority variable MIN_PRIORITY",
+        "(a) 1",
+        "(b) 10",
+        "(c) 100",
+        "(d) 1000",
+        "Answer: (a) 1 ",
+        ""
+    ],
+    [
+        "Q88. Default value of priority variable MAX_PRIORITY",
+        "(a) 5",
+        "(b) 10",
+        "(c) 50",
+        "(d) 100",
+        "Answer: (b) 10 ",
+        ""
+    ],
+    [
+        "Q89. Dividing an integer by zero is a ______error",
+        "(a) Compile",
+        "(b) Syntax",
+        "(c) Runtime",
+        "(d) Logic",
+        "Answer: (c) Runtime ",
+        ""
+    ],
+    [
+        "Q90. An exception is a condition that is caused by a ________ error in the program",
+        "(a) Compile",
+        "(b) Execution",
+        "(c) Runtime",
+        "(d) Syntax",
+        "Answer: (c) Runtime ",
+        ""
+    ],
+    [
+        "Q91. SecurityException is for",
+        "(a) Caused when there's not enough memory to allocate a new object",
+        "(b) Caused when an applet tries to perform an action not allowed by the browser's security setting",
+        "(c) Caused when the system runs out of stack space",
+        "(d) Caused by referencing a null object",
+        "Answer: (b) Caused when an applet tries to perform an action not allowed by the browser's security setting ",
+        ""
+    ],
+    [
+        "Q92. Which of the following is true \u201cAn applet can play an audio file represented by the AudioClip interface in the java, applet package Causes the audio clip to replay continually for______\u201d",
+        "(a) public void stop()",
+        "(b) public void play()",
+        "(c) public void loop()",
+        "(d) Both A and B",
+        "Answer: (c) public void loop() ",
+        ""
+    ],
+    [
+        "Q93. ________ method is called only once during the run time of your applet",
+        "(a) init()",
+        "(b) start()",
+        "(c) stop()",
+        "(d) destroy()",
+        "Answer: (a) init() ",
+        ""
+    ],
+    [
+        "Q94. How many reserved keywords are currently defined in the Java language",
+        "(a) 32",
+        "(b) 39",
+        "(c) 45",
+        "(d) 50",
+        "Answer: (d) 50 ",
+        ""
+    ],
+    [
+        "Q95. Output of relational operators is",
+        "(a) Short",
+        "(b) Integer",
+        "(c) Boolean",
+        "(d) All of above",
+        "Answer: (c) Boolean ",
+        ""
+    ],
+    [
+        "Q96. Which operator is used to allocate memory to array variable in Java",
+        "(a) calloc",
+        "(b) new",
+        "(c) malloc",
+        "(d) None of above",
+        "Answer: (b) new ",
+        ""
+    ],
+    [
+        "Q97. Which one is not a keyword in Java",
+        "(a) Private",
+        "(b) Throw",
+        "(c) Void",
+        "(d) Run",
+        "Answer: (d) Run ",
+        ""
+    ],
+    [
+        "Q98. Which of the following operator in Java have context dependent meaning",
+        "(a) +",
+        "(b) ++",
+        "(c) &",
+        "(d) All of the above",
+        "Answer: (d) All of the above ",
+        ""
+    ],
+    [
+        "Q99. Which of the following does not have a superclass in Java",
+        "(a) System",
+        "(b) Object",
+        "(c) Lang",
+        "(d) Exception",
+        "Answer: (c) Lang ",
+        ""
+    ],
+    [
+        "Q100. Which of the following statements will result in compilation error in Java",
+        "(a) signed int abc;",
+        "(b) unsigned int abc;",
+        "(c) signed byte abc;",
+        "(d) All of the above",
+        "Answer: (d) All of the above ",
+        ""
+    ],
+    [
+        "Q101. In Java Garbage collector frees the programmer from worrying about",
+        "(a) Memory issues",
+        "(b) dangling references",
+        "(c) creating new objects",
+        "(d) recursion",
+        "Answer: (b) dangling references ",
+        ""
+    ],
+    [
+        "Q102. In Java, Is null an object",
+        "(a) Yes",
+        "(b) No",
+        "(c) Sometimes Yes",
+        "(d) None of the above",
+        "Answer: (b) No ",
+        ""
+    ],
+    [
+        "Q103. Which of the following component is not used to act as a input/output stream in Java",
+        "(a) file",
+        "(b) class",
+        "(c) a pipe",
+        "(d) array of bytes",
+        "Answer: (b) class ",
+        ""
+    ],
+    [
+        "Q104. What is the immediate super class of Applet Class",
+        "(a) Object",
+        "(b) Window",
+        "(c) Panel",
+        "(d) Component",
+        "Answer: (c) Panel ",
+        ""
+    ],
+    [
+        "Q105. In Javascript each window object has sub-object, which called",
+        "(a) Features",
+        "(b) Properties",
+        "(c) Characteristics",
+        "(d) Qualifiers",
+        "Answer: (b) Propertie"
+    ]
+]

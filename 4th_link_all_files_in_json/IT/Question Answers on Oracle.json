@@ -1,0 +1,91 @@
+[
+    [
+        "Q1. In Oracle , What do the schema objects comprise of",
+        "(a) table",
+        "(b) index",
+        "(c) cluster",
+        "(d) All of the above",
+        "Answer: (d) All of the above ",
+        ""
+    ],
+    [
+        "Q2. Which is the smallest unit of storage in an Oracle database",
+        "(a) Data block",
+        "(b) Segment",
+        "(c) Data File",
+        "(d) None of these",
+        "Answer: (a) Data block ",
+        ""
+    ],
+    [
+        "Q3. When a transaction modifies the database, Oracle copies the original data before modifying it. The original copy of the modified data is called",
+        "(a) Undone data",
+        "(b) Archive data",
+        "(c) Redo data",
+        "(d) Undo data",
+        "Answer: (d) Undo data ",
+        ""
+    ],
+    [
+        "Q4. Which of the following object types below cannot be replicated in Oracle",
+        "(a) Data",
+        "(b) Trigger",
+        "(c) View",
+        "(d) Sequence",
+        "Answer: (d) Sequence ",
+        ""
+    ],
+    [
+        "Q5. In Oracle, where is data dictionary kept",
+        "(a) System Tablespace",
+        "(b) Stack Space",
+        "(c) Data File",
+        "(d) None of the above",
+        "Answer: (a) System Tablespace ",
+        ""
+    ],
+    [
+        "Q6. In Oracle, which of the following package procedure is UNRESTRICTED",
+        "(a) CALL_INPUT",
+        "(b) CLEAR_BLOCK",
+        "(c) USER_EXIT",
+        "(d) EXECUTE_QUERY",
+        "Answer: (c) USER_EXIT ",
+        ""
+    ],
+    [
+        "Q7. In Oracle , POST-BLOCK trigger is also a",
+        "(a) Transaction Trigger",
+        "(b) Navigator Trigger",
+        "(c) Key Trigger",
+        "(d) None of these",
+        "Answer: (b) Navigator Trigger ",
+        ""
+    ],
+    [
+        "Q8. The Oracle environment of database is called as",
+        "(a) Database Schema",
+        "(b) Database instances",
+        "(c) Data structure",
+        "(d) Database Tables",
+        "Answer: (b) Database instances ",
+        ""
+    ],
+    [
+        "Q9. In Oracle, which of below are types of segments",
+        "(a) permanent segment",
+        "(b) object segment",
+        "(c) data segment",
+        "(d) class segment",
+        "Answer: (c) data segment ",
+        ""
+    ],
+    [
+        "Q10. __________ is a virtual machine technology presently owned by Oracle that can run various operating systems",
+        "(a) V machine",
+        "(b) Virtual box",
+        "(c) Thought police",
+        "(d) Virtual share",
+        "Answer: (b) Virtual box"
+    ]
+]

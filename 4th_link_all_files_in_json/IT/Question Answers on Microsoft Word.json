@@ -1,0 +1,288 @@
+[
+    [
+        "Q1. Which command will executes a new Word file in a windows machine",
+        "(a) word",
+        "(b) msword",
+        "(c) winword",
+        "(d) None of the above",
+        "Answer: (c) winword ",
+        ""
+    ],
+    [
+        "Q2. Maximum number of columns supported by a table in a Word file is",
+        "(a) 35",
+        "(b) 47",
+        "(c) 56",
+        "(d) 63",
+        "Answer: (d) 63 ",
+        ""
+    ],
+    [
+        "Q3. A Word 97-2003 document will be save in which extention",
+        "(a) .doc",
+        "(b) .dox",
+        "(c) .docx",
+        "(d) .doxc",
+        "Answer: (a) .doc ",
+        ""
+    ],
+    [
+        "Q4. Maximum number of text column supported by a word document is",
+        "(a) 12",
+        "(b) 13",
+        "(c) 14",
+        "(d) 15",
+        "Answer: (b) 13 ",
+        ""
+    ],
+    [
+        "Q5. Which function you will use to add names and addressess of different recepient for each copy of the letter",
+        "(a) Envelopes",
+        "(b) Labels",
+        "(c) Mail Merge",
+        "(d) Drop Cap",
+        "Answer: (c) Mail Merge ",
+        ""
+    ],
+    [
+        "Q6. Maximum line supported in the Drop Cap is",
+        "(a) 8",
+        "(b) 10",
+        "(c) 13",
+        "(d) 15",
+        "Answer: (b) 10 ",
+        ""
+    ],
+    [
+        "Q7. What is the default font of a Microsoft Word 2007 document",
+        "(a) Calibri",
+        "(b) Vrinda",
+        "(c) Times New Roman",
+        "(d) Cambria",
+        "Answer: (a) Calibri ",
+        ""
+    ],
+    [
+        "Q8. If we press the F7 in a word file, it will ___________ ",
+        "(a) Spelling and Grammar",
+        "(b) Count total number of words in the page",
+        "(c) Create next paragraph",
+        "(d) Select the line",
+        "Answer: (a) Spelling and Grammar ",
+        ""
+    ],
+    [
+        "Q9. Which one is the short cut command for Thesaurus",
+        "(a) Ctrl + }",
+        "(b) Shift + F2",
+        "(c) Shift + F4",
+        "(d) Shift + F7",
+        "Answer: (d) Shift + F7 ",
+        ""
+    ],
+    [
+        "Q10. What is the maximum zoom value supported in a word page",
+        "(a) 300",
+        "(b) 400",
+        "(c) 500",
+        "(d) 600",
+        "Answer: (c) 500 ",
+        ""
+    ],
+    [
+        "Q11. Maximum number of styles supported in 2007 Word document is",
+        "(a) 961",
+        "(b) 1,590",
+        "(c) 2,812",
+        "(d) 4,079",
+        "Answer: (d) 4,079 ",
+        ""
+    ],
+    [
+        "Q12. What is the maximum size of a file that Word can open",
+        "(a) 45 MB",
+        "(b) 256 MB",
+        "(c) 320 MB",
+        "(d) 512 MB",
+        "Answer: (d) 512 MB ",
+        ""
+    ],
+    [
+        "Q13. In MS Word, the maximum file size is limited to",
+        "(a) 8 MB",
+        "(b) 32 MB",
+        "(c) 48 MB",
+        "(d) 56 MB",
+        "Answer: (b) 32 MB ",
+        ""
+    ],
+    [
+        "Q14. Which language is used to build the Macros in Word document",
+        "(a) C ++",
+        "(b) Visual Basic",
+        "(c) COBOL",
+        "(d) MS SQL",
+        "Answer: (b) Visual Basic ",
+        ""
+    ],
+    [
+        "Q15. The protect document option can be found in the _____ tab of the Ribbon",
+        "(a) Insert",
+        "(b) References",
+        "(c) Review",
+        "(d) Developer",
+        "Answer: (c) Review ",
+        ""
+    ],
+    [
+        "Q16. A \"Ctrl + Enter\" command will __________ ",
+        "(a) Open a new document",
+        "(b) Create a new page",
+        "(c) Create a new Paragraph",
+        "(d) Create a new line",
+        "Answer: (b) Create a new page ",
+        ""
+    ],
+    [
+        "Q17. Which option is not available in the Page setup group of Page Layout tab",
+        "(a) Page Borders",
+        "(c) Orientation",
+        "(d) Line Numbers",
+        "Answer: (a) Page Borders ",
+        ""
+    ],
+    [
+        "Q18. A font size can be maximized up to",
+        "(a) 72",
+        "(b) 482",
+        "(c) 936",
+        "(d) 1638",
+        "Answer: (d) 1638 ",
+        ""
+    ],
+    [
+        "Q19. Which type of file cannot be inserted in a word document via Insert Object option",
+        "(a) Adobe Acrobat Document",
+        "(b) Bitmap Image",
+        "(c) MP3 file",
+        "(d) Video Clip",
+        "Answer: (c) MP3 file ",
+        ""
+    ],
+    [
+        "Q20. In which year the MS Office was first released under the name Multi-Tool Word",
+        "(a) 1983",
+        "(b) 1985",
+        "(c) 1987",
+        "(d) 1991",
+        "Answer: (a) 1983 ",
+        ""
+    ],
+    [
+        "Q21. Which document view option is not available in MS Word file",
+        "(a) Web Layout",
+        "(b) Outline",
+        "(c) Draft",
+        "(d) Paragraph Layout",
+        "Answer: (d) Paragraph Layout ",
+        ""
+    ],
+    [
+        "Q22. Which function will be activate if you press Shift+F7 in MS Word",
+        "(a) Spelling and Grammar",
+        "(b) Thesaurus",
+        "(c) Research",
+        "(d) Word Count",
+        "Answer: (b) Thesaurus ",
+        ""
+    ],
+    [
+        "Q23. Which command is used to replace selected text",
+        "(a) Ctrl+H",
+        "(b) Ctrl+R",
+        "(c) Ctrl+C",
+        "(d) Ctrl+F",
+        "Answer: (a) Ctrl+H ",
+        ""
+    ],
+    [
+        "Q24. Ctrl+K command is used to",
+        "(a) Insert a line",
+        "(b) Insert a hyperlink",
+        "(c) Insert a page",
+        "(d) Insert a footnote",
+        "Answer: (b) Insert a hyperlink ",
+        ""
+    ],
+    [
+        "Q25. Which command is used to increase font size one value",
+        "(a) Ctrl+Shift+>",
+        "(b) Ctrl+Shift++",
+        "(c) Ctrl+>",
+        "(d) Ctrl+Shift+I",
+        "Answer: (a) Ctrl+Shift+> ",
+        ""
+    ],
+    [
+        "Q26. What is the minimum font size available in MS Word",
+        "(a) 6",
+        "(b) 8",
+        "(c) 10",
+        "(d) 11",
+        "Answer: (b) 8 ",
+        ""
+    ],
+    [
+        "Q27. To select a whole line you have to press F8 for how many times",
+        "(a) 1",
+        "(b) 2",
+        "(c) 3",
+        "(d) 4",
+        "Answer: (c) 3 ",
+        ""
+    ],
+    [
+        "Q28. Pressing Ctrl+F9 will insert which brackets",
+        "(a) Parentheses '( )'",
+        "(b) Braces '{ }'",
+        "(c) Square Bracket '[ ]' ",
+        "(d) None of the above",
+        "Answer: (b) Braces '{ }' ",
+        ""
+    ],
+    [
+        "Q29. Protrait and Landscape are",
+        "(a) Orientation",
+        "(b) Margins",
+        "(c) Size",
+        "(d) Page Borders",
+        "Answer: (a) Orientation ",
+        ""
+    ],
+    [
+        "Q30. The default number of recent documents display on MS Word",
+        "(a) 10",
+        "(b) 12",
+        "(c) 15",
+        "(d) 17",
+        "Answer: (d) 17 ",
+        ""
+    ],
+    [
+        "Q31. Which one is not a Font Effects",
+        "(a) Shadow",
+        "(b) Outline",
+        "(c) Small caps",
+        "(d) Scale",
+        "Answer: (d) Scale ",
+        ""
+    ],
+    [
+        "Q32. Which function key open the Save as window in Microsoft Word",
+        "(a) F1",
+        "(b) F4",
+        "(c) F8",
+        "(d) F12",
+        "Answer: (d) F12"
+    ]
+]

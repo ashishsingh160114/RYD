@@ -1,0 +1,1817 @@
+[
+    [
+        "Q1. Who programmed the first computer game 'Spacewar!' in 1962",
+        "(a) Steave Russell",
+        "(b) Konard Zuse",
+        "(c) Alan Emtage",
+        "(d) Tim Berners-Lee",
+        "Answer: (a) Steave Russell ",
+        ""
+    ],
+    [
+        "Q2. Who is known as the father of supercomputing",
+        "(a) David J. Brown",
+        "(b) Gene Amdahl",
+        "(c) Adam Dunkels",
+        "(d) Seymour Cray",
+        "Answer: (d) Seymour Cray ",
+        ""
+    ],
+    [
+        "Q3. Who created the C programming Language",
+        "(a) Ken Thompson",
+        "(b) Dennis Ritchie",
+        "(c) Robin Milner",
+        "(d) Frieder Nake",
+        "Answer: (b) Dennis Ritchie ",
+        ""
+    ],
+    [
+        "Q4. When NASSCOM (National Association of Software and Services Companies) was eastablished",
+        "(a) 1988",
+        "(b) 1997",
+        "(c) 1993",
+        "(d) 1882",
+        "Answer: (a) 1988 ",
+        ""
+    ],
+    [
+        "Q5. Who is known as the father of internet",
+        "(a) Alan Perlis",
+        "(b) Jean E. Sammet",
+        "(c) Vint Cerf",
+        "(d) Steve Lawrence",
+        "Answer: (c) Vint Cerf ",
+        ""
+    ],
+    [
+        "Q6. Which one is the first high level programming language",
+        "(a) C",
+        "(b) COBOL",
+        "(c) FORTRAN",
+        "(d) C++",
+        "Answer: (c) FORTRAN ",
+        ""
+    ],
+    [
+        "Q7. Which one is the first word processor application",
+        "(a) MS Word",
+        "(b) Apple i Work",
+        "(c) Sun StarOffice",
+        "(d) WordStar",
+        "Answer: (d) WordStar ",
+        ""
+    ],
+    [
+        "Q8. Which one is the current fastest Supercomputer in India",
+        "(a) Aaditya",
+        "(b) SAGA-220",
+        "(c) SahasraT",
+        "(d) HP Apollo 6000",
+        "Answer: (c) SahasraT ",
+        ""
+    ],
+    [
+        "Q9. India's first Super Computer PARAM 8000 was installed in",
+        "(b) 1991",
+        "(c) 1995",
+        "(d) 1982",
+        "Answer: (b) 1991 ",
+        ""
+    ],
+    [
+        "Q10. Who developed Java Programming Language",
+        "(a) James Gosling",
+        "(b) Douglas Engelbart",
+        "(c) Edmund M. Clarke",
+        "(d) James D. Foley",
+        "Answer: (a) James Gosling ",
+        ""
+    ],
+    [
+        "Q11. Which one is volatile memory in a computer system",
+        "(a) HardDisk",
+        "(b) RAM",
+        "(c) ROM",
+        "(d) Optical Drive",
+        "Answer: (b) RAM ",
+        ""
+    ],
+    [
+        "Q12. One Terabyte (1 TB) is equal to",
+        "(a) 1028 GB",
+        "(b) 1012GB",
+        "(c) 1000 GB",
+        "(d) 1024 GB",
+        "Answer: (d) 1024 GB ",
+        ""
+    ],
+    [
+        "Q13. Who first developed QWERTY keyboard used in computers and phones",
+        "(a) Raphael Finkel",
+        "(b) Wim Ebbinkhuijsen",
+        "(c) Shafi Goldwasser",
+        "(d) Christopher Latham\tSholes",
+        "Answer: (d) Christopher Latham Sholes ",
+        ""
+    ],
+    [
+        "Q14. Which operating system is developed and used by Apple Inc",
+        "(a) Windows",
+        "(b) Android",
+        "(c) iOS",
+        "(d) UNIX",
+        "Answer: (c) iOS ",
+        ""
+    ],
+    [
+        "Q15. Linus Torvalds develop which operating system ",
+        "(a) Windows",
+        "(b) Mac OS",
+        "(c) UNIX",
+        "(d) Linux",
+        "Answer: (d) Linux ",
+        ""
+    ],
+    [
+        "Q16. Which one is the first search engine in internet",
+        "(a) Google",
+        "(b) Archie",
+        "(c) Altavista",
+        "(d) WAIS",
+        "Answer: (b) Archie ",
+        ""
+    ],
+    [
+        "Q17. Number of bit used by the IPv6 address",
+        "(a) 32 bit",
+        "(b) 64 bit",
+        "(c) 128 bit",
+        "(d) 256 bit",
+        "Answer: (c) 128 bit ",
+        ""
+    ],
+    [
+        "Q18. Which one is the first web browser invented in 1990",
+        "(a) Internet Explorer",
+        "(b) Mosaic",
+        "(c) Mozilla",
+        "(d) Nexus",
+        "Answer: (d) Nexus ",
+        ""
+    ],
+    [
+        "Q19. Which of the following programming language is used to create programs like applets?",
+        "(a) COBOL",
+        "(b) C Language",
+        "(c) Java",
+        "(d) BASIC",
+        "Answer: (c) Java ",
+        ""
+    ],
+    [
+        "Q20. First computer virus is known as ",
+        "(a) Rabbit",
+        "(b) Creeper Virus",
+        "(c) Elk Cloner",
+        "(d) SCA Virus",
+        "Answer: (b) Creeper Virus ",
+        ""
+    ],
+    [
+        "Q21. Which one programming language is exclusively used for artificial intelligence",
+        "(a) C",
+        "(b) Java",
+        "(c) J2EE",
+        "(d) Prolog",
+        "Answer: (d) Prolog ",
+        ""
+    ],
+    [
+        "Q22. Firewall in computer is used for ",
+        "(a) Security",
+        "(b) Data Transmission",
+        "(c) Authentication",
+        "(d) Monitoring",
+        "Answer: (a) Security ",
+        ""
+    ],
+    [
+        "Q23. A dual layer Blue-ray Disc can store data upto ",
+        "(a) 20GB",
+        "(b) 35 GB",
+        "(c) 12 GB",
+        "(d) 50 GB",
+        "Answer: (d) 50 GB ",
+        ""
+    ],
+    [
+        "Q24. Which of the following is not an operating system",
+        "(a) DOS",
+        "(b) Mac",
+        "(c) C",
+        "(d) Linux",
+        "Answer: (c) C ",
+        ""
+    ],
+    [
+        "Q25. Which of the following is not a database management software",
+        "(a) MySQL",
+        "(b) Oracle",
+        "(c) Sybase",
+        "(d) COBOL",
+        "Answer: (d) COBOL ",
+        ""
+    ],
+    [
+        "Q26. Number of layers in the OSI (Open Systems Interconnection) Model",
+        "(a) 9",
+        "(b) 3",
+        "(c) 7",
+        "(d) 11",
+        "Answer: (c) 7 ",
+        ""
+    ],
+    [
+        "Q27. 1024 bit is equal to how many byte",
+        "(a) 1 Byte",
+        "(b) 128 Byte",
+        "(c) 32 Byte",
+        "(d) 64 Byte",
+        "Answer: (b) 128 Byte ",
+        ""
+    ],
+    [
+        "Q28. Mac Operating System is developed by which company",
+        "(a) IBM",
+        "(b) Apple",
+        "(c) Microsoft",
+        "(d) Samsung",
+        "Answer: (b) Apple ",
+        ""
+    ],
+    [
+        "Q29. Where is the headquter of Microsoft office located",
+        "(a) Texas",
+        "(b) NewYork",
+        "(c) California",
+        "(d) Washington",
+        "Answer: (d) Washington ",
+        ""
+    ],
+    [
+        "Q30. .gif is an extension of ",
+        "(a) Image file",
+        "(b) Video file",
+        "(c) Audio file",
+        "(d) Word file",
+        "Answer: (a) Image file ",
+        ""
+    ],
+    [
+        "Q31. Which one is the first fully supported 64-bit operating system ",
+        "(a) Windows Vista",
+        "(b) Mac",
+        "(c) Linux",
+        "(d) Windows XP",
+        "Answer: (c) Linux ",
+        ""
+    ],
+    [
+        "Q32. Computer Hard Disk was first introduced in 1956 by",
+        "(a) Dell",
+        "(b) Apple",
+        "(c) Microsoft",
+        "(d) IBM",
+        "Answer: (d) IBM ",
+        ""
+    ],
+    [
+        "Q33. Which of the following is not a web browser",
+        "(a) MOSAIC",
+        "(b) WWW",
+        "(c) Facebook",
+        "(d) Netscape navigator",
+        "Answer: (c) Facebook ",
+        ""
+    ],
+    [
+        "Q34. In computer world, Trojan refer to ",
+        "(a) Virus",
+        "(b) Malware",
+        "(c) Worm",
+        "(d) Spyware",
+        "Answer: (b) Malware ",
+        ""
+    ],
+    [
+        "Q35. Which one of the followings is a programming language ",
+        "(a) HTTP",
+        "(b) HTML",
+        "(c) HPML",
+        "(d) FTP",
+        "Answer: (b) HTML ",
+        ""
+    ],
+    [
+        "Q36. Which protocol is used to received e-mail ",
+        "(a) SMTP",
+        "(b) POP3",
+        "(c) HTTP",
+        "(d) FTP",
+        "Answer: (b) POP3 ",
+        ""
+    ],
+    [
+        "Q37. Which protocol is used to send e-mail ",
+        "(a) HTTP",
+        "(b) POP3",
+        "(c) SMTP",
+        "(d) SSH",
+        "Answer: (c) SMTP ",
+       
+    ],
+    [
+        "Q39. Which computer program converts assembly language to machine language ",
+        "(a) Interpreter",
+        "(b) Compiler",
+        "(c) Assembler",
+        "(d) Comparator",
+        "Answer: (c) Assembler ",
+        ""
+    ],
+    [
+        "Q40. In which year '@' sign was first chosen for its use in e-mail address ",
+        "(a) 1976",
+        "(b) 1980",
+        "(c) 1977",
+        "(d) 1972",
+        "Answer: (d) 1972 ",
+        ""
+    ],
+    [
+        "Q41. Which one is the latest one from PARAM SuperSries computers ",
+        "(a) PARAM Yuva II",
+        "(b) PARAM 10000",
+        "(c) PARAM Padma",
+        "(d) PARAMnet",
+        "Answer: (a) PARAM Yuva II ",
+        ""
+    ],
+    [
+        "Q42. Who is also know as the father of Indian Supercomputing ",
+        "(a) Ragunath Mashelkar",
+        "(b) Vijay Bhatkar",
+        "(c) Jayant Narlikar",
+        "(d) Nandan Nilekani",
+        "Answer: (b) Vijay Bhatkar ",
+        ""
+    ],
+    [
+        "Q43. A folder in windows computer can't be made with the name ",
+        "(a) can",
+        "(b) con",
+        "(c) mak",
+        "(d) make",
+        "Answer: (b) con ",
+        ""
+    ],
+    [
+        "Q44. A computer use which type of number system to calculate and to store data",
+        "(a) decimal",
+        "(b) octal",
+        "(c) binary",
+        "(d) hexadecimal",
+        "Answer: (c) binary ",
+        ""
+    ],
+    [
+        "Q45. What is the extension type of the excel 2007 files",
+        "(a) .xls",
+        "(b) .xlsx",
+        "(c) .xsl",
+        "(d) None of the above",
+        "Answer: (b) .xlsx ",
+        ""
+    ],
+    [
+        "Q46. The basic units of a excel spreedsheet where we enter data is called",
+        "(a) Tab",
+        "(b) Box",
+        "(c) Cell",
+        "(d) None of the above",
+        "Answer: (c) Cell ",
+        ""
+    ],
+    [
+        "Q47. The maximum number of rows supported by Excel 2003 spreadsheet is",
+        "(a) 10,000 ",
+        "(b) 35,356",
+        "(c) 55,782",
+        "(d) 65,536",
+        "Answer: (d) 65,536 ",
+        ""
+    ],
+    [
+        "Q48. The maximum number of rows supported by Excel 2007 spreadsheet is",
+        "(a) 9,68,576",
+        "(b) 12,15,857",
+        "(c) 13,42,554",
+        "(d) 10,48,576",
+        "Answer: (d) 10,48,576 ",
+        ""
+    ],
+    [
+        "Q49. Which one is a 'text editor' for Microsoft Windows",
+        "(a) MS Word",
+        "(b) Ms Excel",
+        "(c) WordPad",
+        "(d) Notepad",
+        "Answer: (d) Notepad ",
+        ""
+    ],
+    [
+        "Q50. Which one is the default 'Word Processor' for Microsoft Windows",
+        "(a) MS Word",
+        "(b) Ms Paint",
+        "(c) WordPad",
+        "(d) Notepad",
+        "Answer: (c) WordPad ",
+        ""
+    ],
+    [
+        "Q51. What is the maximum size of a word document created",
+        "(a) 1 MB",
+        "(b) 32 MB",
+        "(c) 16MB",
+        "(d) 999KB",
+        "Answer: (b) 32 MB ",
+        ""
+    ],
+    [
+        "Q52. What is the maximum number of Primary Partitions that can be created on a Hard-disk",
+        "(a) 2",
+        "(b) 3",
+        "(c) 4",
+        "(d) 1",
+        "Answer: (c) 4 ",
+        ""
+    ],
+    [
+        "Q53. How many layers in the TCP/IP protocol layers",
+        "(a) 7",
+        "(b) 5",
+        "(c) 4",
+        "(d) 11",
+        "Answer: (c) 4 ",
+        ""
+    ],
+    [
+        "Q54. What is the binary value of 'A'",
+        "(a) 01000100",
+        "(b) 11000001",
+        "(c) 01100001",
+        "(d) 01000001",
+        "Answer: (d) 01000001 ",
+        ""
+    ],
+    [
+        "Q55. Which key combination is used to minimize all open windows and displays in the screen",
+        "(a) Alt+M",
+        "(b) Shift+M",
+        "(c) Windows Key+D",
+        "(d) CTRL+D",
+        "Answer: (c) Windows Key+D ",
+        ""
+    ],
+    [
+        "Q56. How many users can access a share folder simultaneously from a Windows XP machine",
+        "(a) 20",
+        "(b) 10",
+        "(c) 15",
+        "(d) Unlimited",
+        "Answer: (b) 10 ",
+        ""
+    ],
+    [
+        "Q57. How many users can access a share folder simultaneously from a Windows 7 machine",
+        "(a) 10",
+        "(b) 15",
+        "(c) 20",
+        "(d) 50",
+        "Answer: (c) 20 ",
+        ""
+    ],
+    [
+        "Q58. Which key combination is used to close a open application in Windows machine",
+        "(a) Alt+F8",
+        "(b) CTRL+X",
+        "(c) Alt+F4",
+        "(d) Shift+P",
+        "Answer: (c) Alt+F4 ",
+        ""
+    ],
+    [
+        "Q59. Total number of function keys in a computer keyboard",
+        "(a) 10",
+        "(b) 12",
+        "(c) 14",
+        "(d) 8",
+        "Answer: (b) 12 ",
+        ""
+    ],
+    [
+        "Q60. Which one is the latest release of Windows Client Operating System",
+        "(a) Windows XP",
+        "(b) Windows 7",
+        "(c) Windows 8",
+        "(d) Windows 10",
+        "Answer: (d) Windows 10 ",
+        ""
+    ],
+    [
+        "Q61. Which function key needs to be press during reboot to enter in Safe Mode of a Windows machine",
+        "(a) F8",
+        "(b) F2",
+        "(c) F1",
+        "(d) F9",
+        "Answer: (a) F8 ",
+        ""
+    ],
+    [
+        "Q62. 'Linux' is an example of ",
+        "(a) Software",
+        "(b) Application",
+        "(c) Operating System",
+        "(d) Browser",
+        "Answer: (c) Operating System ",
+        ""
+    ],
+    [
+        "Q63. Which key combination is used to permantly delete a file or folder ",
+        "(a) Shift+delete",
+        "(b) Alt+delete",
+        "(c) CTRL+delete",
+        "(d) Delete",
+        "Answer: (a) Shift+delete ",
+        ""
+    ],
+    [
+        "Q64. Which is an Input device ",
+        "(a) Monitor",
+        "(b) Printer",
+        "(c) Mouse",
+        "(d) None of the above",
+        "Answer: (c) Mouse ",
+        ""
+    ],
+    [
+        "Q65. Which one is an example of connectionless protocols ",
+        "(a) TCP",
+        "(b) IPX/SPX",
+        "(c) Frame Relay",
+        "(d) UDP",
+        "Answer: (d) UDP ",
+        ""
+    ],
+    [
+        "Q66. A common boundary between two computer systems is known as",
+        "(a) Intradiction",
+        "(b) Surface",
+        "(c) Interface",
+        "(d) None of the above",
+        "Answer: (c) Interface ",
+        ""
+    ],
+    [
+        "Q67. Which one of the following is not a computer language",
+        "(a) BASIC",
+        "(b) LOTUS",
+        "(c) C++",
+        "(d) JAVA",
+        "Answer: (b) LOTUS ",
+        ""
+    ],
+    [
+        "Q68. Which one is used for making presentation file from Microsoft Office package",
+        "(a) MS Outlook",
+        "(b) MS Excel",
+        "(c) MS Word",
+        "(d) MS Powerpoint",
+        "Answer: (d) MS Powerpoint ",
+        ""
+    ],
+    [
+        "Q69. Network Interface Card (NIC) is generally used for",
+        "(a) Connectivity",
+        "(b) Programming",
+        "(c) Printing",
+        "(d) None of the above",
+        "Answer: (a) Connectivity ",
+        ""
+    ],
+    [
+        "Q70. Total number of pins in a traditional parallel port is",
+        "(a) 5",
+        "(b) 14",
+        "(c) 25",
+        "(d) 27",
+        "Answer: (c) 25 ",
+        ""
+    ],
+    [
+        "Q71. Which web browser is developed by the Google",
+        "(a) IE",
+        "(b) FireFox",
+        "(c) Safri",
+        "(d) Chrome",
+        "Answer: (d) Chrome ",
+        ""
+    ],
+    [
+        "Q72. Which web browser is provided default with a Windows machine",
+        "(a) Opera",
+        "(b) IE",
+        "(c) Chrome",
+        "(d) Mosaic",
+        "Answer: (b) IE ",
+        ""
+    ],
+    [
+        "Q73. Which company first developed the Java programming language",
+        "(a) Microsoft",
+        "(b) Google",
+        "(c) Sun Microsystems",
+        "(d) IBM",
+        "Answer: (c) Sun Microsystems ",
+        ""
+    ],
+    [
+        "Q74. Which company bought the popular video teleconferencing software 'Skype' ",
+        "(a) Google",
+        "(b) Accenture",
+        "(c) Oracle",
+        "(d) Microsoft",
+        "Answer: (d) Microsoft ",
+        ""
+    ],
+    [
+        "Q75. Mark Zuckerberg is the owner of ",
+        "(a) Facebook",
+        "(b) Google",
+        "(c) Linux",
+        "(d) Linkedln",
+        "Answer: (a) Facebook ",
+        ""
+    ],
+    [
+        "Q76. In which year, the Microsoft company was founded ",
+        "(a) 1972",
+        "(b) 1975",
+        "(c) 1980",
+        "(d) 1984",
+        "Answer: (b) 1975 ",
+        ""
+    ],
+    [
+        "Q77. The main page of a Web site is known as ",
+        "(a) Home page",
+        "(b) Book mark page",
+        "(c) Content page",
+        "(d) Navigator page",
+        "Answer: (a) Home page ",
+        ""
+    ],
+    [
+        "Q78. Who is known as the founder of IBM Company",
+        "(a) Steve Jobs",
+        "(b) Thomas J. Watson",
+        "(c) Nolan Bushnell",
+        "(d) Alan Turing",
+        "Answer: (b) Thomas J. Watson ",
+        ""
+    ],
+    [
+        "Q79. What is the full form of PDF",
+        "(a) Printed Document Format",
+        "(b) Public Document Format",
+        "(c) Portable Document Format",
+        "(d) Published Document Format",
+        "Answer: (c) Portable Document Format ",
+        ""
+    ],
+    [
+        "Q80. The Simplest CPU scheduling algorithm is _____________",
+        "(a) Multilevel Scheduling algorithm",
+        "(b) FCFS Scheduling algorithm",
+        "(c) SJF Scheduling algorithm",
+        "(d) Round-robin scheduling algorithm",
+        "Answer: (b) FCFS Scheduling algorithm ",
+        ""
+    ],
+    [
+        "Q81. Microsoft Office's personal information manager is",
+        "(a) Outlook",
+        "(b) Internet Explorer",
+        "(c) Organizer",
+        "(d) Access",
+        "Answer: (a) Outlook ",
+        ""
+    ],
+    [
+        "Q82. Which of the following is not used as secondary storage",
+        "(a) Semiconductor memory",
+        "(b) Magnetic disk",
+        "(c) Magnetic drum",
+        "(d) Magnetic tape",
+        "Answer: (b) Magnetic disk ",
+        ""
+    ],
+    [
+        "Q83. Binary system uses the power of",
+        "(a) 2",
+        "(b) 4",
+        "(c) 8",
+        "(d) 16",
+        "Answer: (a) 2 ",
+        ""
+    ],
+    [
+        "Q84. Which of the following is not a search engine",
+        "(a) Google",
+        "(b) Yahoo",
+        "(c) Firefox Mozilla",
+        "(d) Altavista",
+        "Answer: (c) Firefox Mozilla ",
+        ""
+    ],
+    [
+        "Q85. A _____________ is a collection of spreadsheet pages",
+        "(a) Workbook",
+        "(b) Artbook",
+        "(c) Worksheet",
+        "(d) Documents",
+        "Answer: (c) Worksheet ",
+        ""
+    ],
+    [
+        "Q86. A hyperlink means",
+        "(a) text connected to page",
+        "(b) plain text",
+        "(c) coloured text",
+        "(d) None of the above",
+        "Answer: (a) text connected to page ",
+        ""
+    ],
+    [
+        "Q87. The default page size for word document is",
+        "(a) Letter",
+        "(b) Legal",
+        "(c) A4",
+        "(d) A3",
+        "Answer: (c) A4 ",
+        ""
+    ],
+    [
+        "Q88. ___________ folder contains the recently viewed Web pages content",
+        "(a) Explorer",
+        "(b) History",
+        "(c) Windows",
+        "(d) Temporary Internet Files",
+        "Answer: (d) Temporary Internet Files ",
+        ""
+    ],
+    [
+        "Q89. The GUI means",
+        "(a) General User Interaction",
+        "(b) Graphical User Interface",
+        "(c) Guided User Interface",
+        "(d) General User Interface",
+        "Answer: (b) Graphical User Interface ",
+        ""
+    ],
+    [
+        "Q90. Total number of pins in a serial port is",
+        "(a) 5",
+        "(b) 7",
+        "(c) 9",
+        "(d) 15",
+        "Answer: (c) 9 ",
+        ""
+    ],
+    [
+        "Q91. What does the letter \"S\" stand for in the Web terminology \"HTTPS\"",
+        "(a) Safe",
+        "(b) Secure",
+        "(c) Short",
+        "(d) Shorter",
+        "Answer: (b) Secure ",
+        ""
+    ],
+    [
+        "Q92. Which one is the default extention of 2007 office word document",
+        "(a) .doc",
+        "(b) .docx",
+        "(c) .xls",
+        "(d) .pdf",
+        "Answer: (b) .docx ",
+        ""
+    ],
+    [
+        "Q93. Which one is not a part of a computer device or system",
+        "(a) Mother Board",
+        "(b) CPU",
+        "(c) Keyboard",
+        "(d) Scanner",
+        "Answer: (d) Scanner ",
+        ""
+    ],
+    [
+        "Q94. Who is the founder of Bluetooth",
+        "(a) Ericsson",
+        "(b) IBM",
+        "(c) Apple",
+        "(d) Dell",
+        "Answer: (a) Ericsson ",
+        ""
+    ],
+    [
+        "Q95. The maximum speed at which the data can be transmitted on each channel of a standard PCM stream is",
+        "(a) 64 Kbps",
+        "(b) 128 Kbps",
+        "(c) 1 Mbps",
+        "(d) 4 Mbps",
+        "Answer: (a) 64 Kbps ",
+        ""
+    ],
+    [
+        "Q96. When a computer is turned on, a special type of absolute loader is executed known as",
+        "(a) Compile and Go' Loader",
+        "(b) PreBoot Loader",
+        "(c) Relating Loader",
+        "(d) Bootstrap Loader",
+        "Answer: (d) Bootstrap Loader ",
+        ""
+    ],
+    [
+        "Q97. Which one is a direct entry input device",
+        "(a) Key-to-doskette",
+        "(b) Mouse",
+        "(c) Punched card",
+        "(d) Computer Terminal",
+        "Answer: (b) Mouse ",
+        ""
+    ],
+    [
+        "Q98. Which one IP address cannot be assign to a computer system in a network",
+        "(a) 192.168.1.1",
+        "(b) 127.0.0.1",
+        "(c) 192.1.1.27",
+        "(d) None of the above",
+        "Answer: (b) 127.0.0.1 ",
+        ""
+    ],
+    [
+        "Q99. The type of computers which can executes millions of instruction and billions of data per second is known as",
+        "(a) Laptop",
+        "(b) Mini Computer",
+        "(c) Mainframe Computer",
+        "(d) Personal Computer",
+        "Answer: (c) Mainframe Computer ",
+        ""
+    ],
+    [
+        "Q100. ORACLE is a",
+        "(a) Operating System",
+        "(b) RDBMS",
+        "(c) Interpreter",
+        "(d) Compiler",
+        "Answer: (b) RDBMS ",
+        ""
+    ],
+    [
+        "Q101. Repeaters function in the _________ layer",
+        "(a) Physical",
+        "(b) Data Link",
+        "(c) Network",
+        "(d) Presentation",
+        "Answer: (a) Physical ",
+        ""
+    ],
+    [
+        "Q102. Moving processes from the main memory to disk is called",
+        "(a) Scheduling",
+        "(b) Catching",
+        "(c) Swapping",
+        "(d) Spooling",
+        "Answer: (c) Swapping ",
+        ""
+    ],
+    [
+        "Q103. Basic Interface in ISDN refers to the transmission speed of",
+        "(a) 64 Kbps",
+        "(b) 128 Kbps",
+        "(c) 144 Kbps",
+        "(d) 1.54 Mbps",
+        "Answer: (c) 144 Kbps ",
+        ""
+    ],
+    [
+        "Q104. What is the port number of POP3",
+        "(a) 21",
+        "(b) 58",
+        "(c) 80",
+        "(d) 110",
+        "Answer: (d) 110 ",
+        ""
+    ],
+    [
+        "Q105. What is the port number of SMTP",
+        "(a) 25",
+        "(b) 28",
+        "(c) 30",
+        "(d) 52",
+        "Answer: (a) 25 ",
+        ""
+    ],
+    [
+        "Q106. IC chips for computer are usually made of",
+        "(a) Silver",
+        "(b) Aluminium",
+        "(c) Copper",
+        "(d) Silicon",
+        "Answer: (d) Silicon ",
+        ""
+    ],
+    [
+        "Q107. The formula in Excel are made of",
+        "(a) Arithmetical operators and functions",
+        "(b) Only functions",
+        "(c) Only arithmetic operators",
+        "(d) Only symbols",
+        "Answer: (a) Arithmetical operators and functions ",
+        ""
+    ],
+    [
+        "Q108. Which one of the following is not a special program in MS-Office",
+        "(a) Office Art",
+        "(b) Clip Art",
+        "(c) Word Art",
+        "(d) Paint Art",
+        "Answer: (d) Paint Art ",
+        ""
+    ],
+    [
+        "Q109. Which type of files cannot be navigated using Clip Art browser",
+        "(a) AVI",
+        "(b) BMP",
+        "(c) WAV",
+        "(d) MP3",
+        "Answer: (d) MP3 ",
+        ""
+    ],
+    [
+        "Q110. A connection from one HTML to another HTML document is called",
+        "(a) Hyper Link",
+        "(b) Connecting Link",
+        "(c) Icon",
+        "(d) All of these",
+        "Answer: (a) Hyper Link ",
+        ""
+    ],
+    [
+        "Q111. From which toolbar can we change chart type",
+        "(a) Formatting toolbar",
+        "(b) Chart toolbar",
+        "(c) Formula bar",
+        "(d) Clipboard bar",
+        "Answer: (b) Chart toolbar ",
+        ""
+    ],
+    [
+        "Q112. Whic one of the following is the founder of \u2018Wikileaks\u2019",
+        "(a) Evans Williams",
+        "(b) Jack Dorsey",
+        "(c) Julian Assange",
+        "(d) Noah Glass",
+        "Answer: (c) Julian Assange ",
+        ""
+    ],
+    [
+        "Q113. Which one is the full form of .pst",
+        "(a) Portable Storage Table",
+        "(b) Personal System Table",
+        "(c) Personal Storage Table",
+        "(d) Portable System Table",
+        "Answer: (c) Personal Storage Table ",
+        ""
+    ],
+    [
+        "Q114. The comprehensive software system that builds, maintains and provides access to a database is",
+        "(a) CPU",
+        "(b) DASD",
+        "(c) CAI",
+        "(d) DBMS",
+        "Answer: (d) DBMS ",
+        ""
+    ],
+    [
+        "Q115. ASCII has how many codes",
+        "(a) 64",
+        "(b) 128",
+        "(c) 256",
+        "(d) 382",
+        "Answer: (b) 128 ",
+        ""
+    ],
+    [
+        "Q116. What is the limit of characters for a tweet on Twitter",
+        "(a) 110",
+        "(b) 120",
+        "(c) 140",
+        "(d) 150",
+        "Answer: (c) 140 ",
+        ""
+    ],
+    [
+        "Q117. In a personal computer with the Windows Operating System, Ctrl-Alt-Delete is the combination of keyboard keys that the computer user can press at the same time for",
+        "(a) Terminating an application task",
+        "(b) Rebooting the Operating System",
+        "(c) Setting the pixels and brightness of the screen",
+        "(d) Both (a) and (b) above",
+        "Answer: (d) Both (a) and (b) above ",
+        ""
+    ],
+    [
+        "Q118. Which one of the following represents the binary equivalent of the decimal number 23",
+        "(a) 01011",
+        "(b) 10111",
+        "(c) 10011",
+        "(d) 11011",
+        "Answer: (b) 10111 ",
+        ""
+    ],
+    [
+        "Q119. In context of MS-Word let a letter of common contents is to be sent to 100 recipients. If address of individual recipient is to be added in each letter, we will use",
+        "(a) Embedding",
+        "(b) Mail-Merge",
+        "(c) Letters Code",
+        "(d) Hyperlink",
+        "Answer: (b) Mail-Merge ",
+        ""
+    ],
+    [
+        "Q120. You can activate a \"cell\" in MS-Excel by",
+        "(a) Pressing the Tab Key",
+        "(b) Clicking the Cell",
+        "(c) Pressing an Arrow Key",
+        "(d) All of these",
+        "Answer: (d) All of these ",
+        ""
+    ],
+    [
+        "Q121. In currently open PowerPoint presentation, a new slide is inserted using shortcut key",
+        "(a) Ctrl + N",
+        "(b) Ctrl + S",
+        "(c) Ctrl + M",
+        "(d) Shift + N",
+        "Answer: (c) Ctrl + M ",
+        ""
+    ],
+    [
+        "Q122. Box that identifies the patterns and colours that are assigned to the data series or categories in a chart created in MS-Excel is called",
+        "(a) Legend",
+        "(b) Chart area",
+        "(c) Data label",
+        "(d) Plot area",
+        "Answer: (a) Legend ",
+        ""
+    ],
+    [
+        "Q123. MS-Excel function to return the accrued interest for a security that pays interest at maturity is",
+        "(a) DDB",
+        "(b) ACCRINTM",
+        "(c) INT_ACCRUED",
+        "(d) MINTACCR",
+        "Answer: (b) ACCRINTM ",
+        ""
+    ],
+    [
+        "Q124. Which of the following is not valid data type in MS-Excel",
+        "(a) Number",
+        "(b) Character",
+        "(c) Label",
+        "(d) Date/Time",
+        "Answer: (b) Character ",
+        ""
+    ],
+    [
+        "Q125. What is the intersection of a column and row on a worksheet called",
+        "(a) Column",
+        "(b) Value",
+        "(c) Address",
+        "(d) Cell",
+        "Answer: (d) Cell ",
+        ""
+    ],
+    [
+        "Q126. Generally, which language is used to construct World Wide Web pages",
+        "(a) URL",
+        "(b) IRC",
+        "(c) NIH",
+        "(d) HTML",
+        "Answer: (d) HTML ",
+        ""
+    ],
+    [
+        "Q127. USB Port stands for",
+        "(a) United Serial Bus Port",
+        "(b) Universal Serial Bus Port",
+        "(c) Universal Sequential Bus Port",
+        "(d) Universal Serial BIOS Port",
+        "Answer: (b) Universal Serial Bus Port ",
+        ""
+    ],
+    [
+        "Q128. In context of Computers, FAT stands for",
+        "(a) Folder Access Table",
+        "(b) File Access Table",
+        "(c) File Allocation Table",
+        "(d) Folder Allocation Table",
+        "Answer: (c) File Allocation Table ",
+        ""
+    ],
+    [
+        "Q129. MS Word is an example of",
+        "(a) Operating System",
+        "(b) Processing Device",
+        "(c) Application Software",
+        "(d) Input Device",
+        "Answer: (c) Application Software ",
+        ""
+    ],
+    [
+        "Q130. Which of the following is not a mandatory component of a URL",
+        "(a) Resource Path",
+        "(b) Protocol",
+        "(c) Port Number",
+        "(d) None of these",
+        "Answer: (d) None of these ",
+        ""
+    ],
+    [
+        "Q131. The ________ lists the location of the files on the disk",
+        "(a) FAT",
+        "(b) Boot sector",
+        "(c) Data area",
+        "(d) Root Folder",
+        "Answer: (a) FAT ",
+        ""
+    ],
+    [
+        "Q132. Where are cookies stored",
+        "(a) On the client",
+        "(b) In HTML",
+        "(c) In web.xml",
+        "(d) None of these",
+        "Answer: (a) On the client ",
+        ""
+    ],
+    [
+        "Q133. To add an internal card to a computer, it must have an open ________ ",
+        "(a) USB Port",
+        "(b) Expansion slot",
+        "(c) Bus",
+        "(d) Bay",
+        "Answer: (b) Expansion slot ",
+        ""
+    ],
+    [
+        "Q134. The _________ interface transmits one bit at a time",
+        "(a) Parallel",
+        "(b) SCSI",
+        "(c) Serial",
+        "(d) Fiber",
+        "Answer: (c) Serial ",
+        ""
+    ],
+    [
+        "Q135. Data moves through the network in a structure called ____________",
+        "(a) Payload",
+        "(b) Payback",
+        "(c) Packets",
+        "(d) Datagram",
+        "Answer: (c) Packets ",
+        ""
+    ],
+    [
+        "Q136. Which type of processing speed measurement is used primarily with supercomputer",
+        "(a) Gigahertz",
+        "(b) MIPS",
+        "(c) Flops",
+        "(d) Nacron",
+        "Answer: (c) Flops ",
+        ""
+    ],
+    [
+        "Q137. 802.11 describes ___________ networks",
+        "(a) Coaxial",
+        "(b) Wireless",
+        "(c) Fiber Optic",
+        "(d) Copper",
+        "Answer: (b) Wireless ",
+        ""
+    ],
+    [
+        "Q138. Saving a file from the Internet onto your desktop is called",
+        "(a) Downloading",
+        "(b) Uploading",
+        "(c) Transfering",
+        "(d) Storing",
+        "Answer: (a) Downloading ",
+        ""
+    ],
+    [
+        "Q139. The ____________ protect systems from hackers",
+        "(a) Antivirus",
+        "(b) Backup",
+        "(c) Hard disk",
+        "(d) Firewall",
+        "Answer: (d) Firewall ",
+        ""
+    ],
+    [
+        "Q140. Errors in computer programmes are called",
+        "(a) Follies",
+        "(b) Mistake",
+        "(c) Bugs",
+        "(d) Spam",
+        "Answer: (c) Bugs ",
+        ""
+    ],
+    [
+        "Q141. Which American Computer Company is also known by the nick name \"Big Blue\"",
+        "(a) Microsoft",
+        "(b) Apple",
+        "(c) Compaq Corporation",
+        "(d) IBM",
+        "Answer: (d) IBM ",
+        ""
+    ],
+    [
+        "Q142. Who invented mail system and @ symbol for addresses",
+        "(a) Ian Murdock",
+        "(b) David Bowie",
+        "(c) Paul Buchheit",
+        "(d) Raymond Samuel Tomlinson",
+        "Answer: (d) Raymond Samuel Tomlinson ",
+        ""
+    ],
+    [
+        "Q143. What is the full form of Li-Fi network",
+        "(a) Light Fidelity",
+        "(b) Laser Frequency",
+        "(c) Limitless Finite",
+        "(d) Light Field",
+        "Answer: (a) Light Fidelity ",
+        ""
+    ],
+    [
+        "Q144. With reference to computer network, the exact meaning of the term VPN is",
+        "(a) Virtual Protected Network",
+        "(b) Virus Protected Network",
+        "(c) Virus Proof Network",
+        "(d) Virtual Private Network",
+        "Answer: (d) Virtual Private Network ",
+        ""
+    ],
+    [
+        "Q145. Who is considered as the father of computing",
+        "(a) Claude Shannon",
+        "(b) Charles Babbage",
+        "(c) Von Neumann",
+        "(d) Graham Bell",
+        "Answer: (b) Charles Babbage ",
+        ""
+    ],
+    [
+        "Q146. USB Hard disk is a ________ type of storage device",
+        "(a) Primary",
+        "(b) Secondary",
+        "(c) Tertiary",
+        "(d) Auxillary",
+        "Answer: (b) Secondary ",
+        ""
+    ],
+    [
+        "Q147. An online discussion group that allows direct \"live\" communication is known as",
+        "(a) Webcrawler",
+        "(b) Chat group",
+        "(c) Hyperlink",
+        "(d) E-mail",
+        "Answer: (b) Chat group ",
+        ""
+    ],
+    [
+        "Q148. Connection or link to other documents or Web Pages that contain related information is called",
+        "(a) Dial-up",
+        "(b) Electronic Commerce",
+        "(c) Hyperlink",
+        "(d) E-cash",
+        "Answer: (c) Hyperlink ",
+        ""
+    ],
+    [
+        "Q149. Who is known as the Father of SMS",
+        "(a) Samir Bhatia",
+        "(b) Anuj Gupta",
+        "(c) Matti Makkonen",
+        "(d) Thomas Kurian",
+        "Answer: (c) Matti Makkonen ",
+        ""
+    ],
+    [
+        "Q150. 'IoT' refers to",
+        "(a) Internet of Things",
+        "(b) Intranet of Teleservices",
+        "(c) International Organisation of Teleservices",
+        "(d) Internet Organisation of Telecommunication",
+        "Answer: (a) Internet of Things ",
+        ""
+    ],
+    [
+        "Q151. A packet of information that travels between a browser and the web server is known as",
+        "(a) Malware",
+        "(b) Adware",
+        "(c) Spyware",
+        "(d) Cookie",
+        "Answer: (d) Cookie ",
+        ""
+    ],
+    [
+        "Q152. The device used by Banks to automatically read those special numbers on the bottom of cheques is",
+        "(a) MICR",
+        "(b) OMR",
+        "(c) UPC",
+        "(d) UDIC",
+        "Answer: (a) MICR ",
+        ""
+    ],
+    [
+        "Q153. When a computer suddenly stops working, it is said to be",
+        "(a) Crashed",
+        "(b) Bugged",
+        "(c) Hanged",
+        "(d) Held up",
+        "Answer: (c) Hanged ",
+        ""
+    ],
+    [
+        "Q154. A computer cannot \"boot\" if it does not have the",
+        "(a) Compiler",
+        "(b) Loader",
+        "(c) Assembler",
+        "(d) Operating System",
+        "Answer: (d) Operating System ",
+        ""
+    ],
+    [
+        "Q155. A compiler that automatically detects parallelisms is known as",
+        "(a) Optimising compiler",
+        "(b) Run-time compiler",
+        "(c) Interpreter",
+        "(d) None of the above",
+        "Answer: (a) Optimising compiler ",
+        ""
+    ],
+    [
+        "Q156. The information transfer between CPU and cache is in terms of",
+        "(a) Bytes",
+        "(b) Bits",
+        "(c) Words",
+        "(d) None of the above",
+        "Answer: (c) Words ",
+        ""
+    ],
+    [
+        "Q157. Magnetic disc is an example of",
+        "(a) Online storage",
+        "(b) Offline storage",
+        "(c) Offset storage",
+        "(d) None of the above",
+        "Answer: (b) Offline storage ",
+        ""
+    ],
+    [
+        "Q158. Caches are usually built out of",
+        "(a) SRAMS",
+        "(b) DRAMS",
+        "(c) PROM",
+        "(d) EEPROM",
+        "Answer: (a) SRAMS ",
+        ""
+    ],
+    [
+        "Q159. Which of the following languages is usually implemented with an interpreter",
+        "(a) PASCAL",
+        "(b) Assembly",
+        "(c) COBOL",
+        "(d) BASIC",
+        "Answer: (b) Assembly ",
+        ""
+    ],
+    [
+        "Q160. In reference to a computer, an assembler is a",
+        "(a) Program",
+        "(b) Person who assembles the parts",
+        "(c) Symbol",
+        "(d) None of the above",
+        "Answer: (a) Program ",
+        ""
+    ],
+    [
+        "Q161. Virus is a computer __________ ",
+        "(a) File",
+        "(b) Database",
+        "(c) Network",
+        "(d) Program",
+        "Answer: (d) Program ",
+        ""
+    ],
+    [
+        "Q162. COBOL stands for",
+        "(a) Common Bulck Language",
+        "(b) Common Block Oriented Language",
+        "(c) Common Business Oriented Language",
+        "(d) None of the above",
+        "Answer: (c) Common Business Oriented Language ",
+        ""
+    ],
+    [
+        "Q163. SQL stands for",
+        "(a) Structured Query Language",
+        "(b) Standard Query Language",
+        "(c) Simple Query Language",
+        "(d) Standard Quality Language",
+        "Answer: (a) Structured Query Language ",
+        ""
+    ],
+    [
+        "Q164. Which of the following is used to store large amount of data",
+        "(a) Primary memory",
+        "(b) Auxiliary storage",
+        "(c) Cache memory",
+        "(d) Random access memory",
+        "Answer: (b) Auxiliary storage ",
+        ""
+    ],
+    [
+        "Q165. Give the value of Terabyte",
+        "(a) 210",
+        "(b) 220",
+        "(c) 230",
+        "(d) 240",
+        "Answer: (d) 240 ",
+        ""
+    ],
+    [
+        "Q166. In the process of communication the first step is",
+        "(a) Encoding",
+        "(b) Message",
+        "(c) Decoding",
+        "(d) Receiving",
+        "Answer: (a) Encoding ",
+        ""
+    ],
+    [
+        "Q167. How many printing characters are there in ASCII",
+        "(a) 62",
+        "(b) 79",
+        "(c) 85",
+        "(d) 94",
+        "Answer: (d) 94 ",
+        ""
+    ],
+    [
+        "Q168. Logarithm table was invented by",
+        "(a) John Douglas",
+        "(b) John Doe",
+        "(c) John Harrison",
+        "(d) John Napier",
+        "Answer: (d) John Napier ",
+        ""
+    ],
+    [
+        "Q169. Which one is the World's fastest Super computer (till August-2017)",
+        "(a) Tianhe-2",
+        "(b) Titan",
+        "(c) Trinity",
+        "(d) Sunway TaihuLight",
+        "Answer: (d) Sunway TaihuLight ",
+        ""
+    ],
+    [
+        "Q170. URL stands for",
+        "(a) Uniform Resource Locator",
+        "(b) Universal Resource Locator",
+        "(c) Unique Resource Locator",
+        "(d) Uniform Reserve Locator",
+        "Answer: (a) Uniform Resource Locator ",
+        ""
+    ],
+    [
+        "Q171. UPS stands for",
+        "(a) Universal Power Supply",
+        "(b) Universal Power Source",
+        "(c) Uninterruptible Power Standby",
+        "(d) Uninterruptible Power Supply",
+        "Answer: (d) Uninterruptible Power Supply ",
+        ""
+    ],
+    [
+        "Q172. Flip flop circuit store ________ of data",
+        "(a) One bit",
+        "(b) One byte",
+        "(c) 8 bit",
+        "(d) 8 byte",
+        "Answer: (a) One bit ",
+        ""
+    ],
+    [
+        "Q173. A computer executes Programs in the sequence of",
+        "(a) Decode, Fetch, Execute",
+        "(b) Execute,Decode, Fetch",
+        "(c) Fetch, Decode, Execute",
+        "(d) Store, Fetch, Execute",
+        "Answer: (a) Decode, Fetch, Execute ",
+        ""
+    ],
+    [
+        "Q174. Which of the following is in the ascending order of Data hierarchy",
+        "(a) Bit-Byte-Record-Field-Database-File",
+        "(c) Bit-Byte-Field-Record-File-Database",
+        "(d) Field-Byte-Bit-Record-Database-File",
+        "Answer: (c) Bit-Byte-Field-Record-File-Database ",
+        ""
+    ],
+    [
+        "Q175. In a Database Management System (DBMS), the content and the location of the data is defined by the",
+        "(a) Subdata",
+        "(b) Sequence data",
+        "(c) Multi Dimensional data",
+        "(d) Meta data",
+        "Answer: (d) Meta data ",
+        ""
+    ],
+    [
+        "Q176. Who is known as the inventor of Computer mouse",
+        "(a) Douglas Engelbart",
+        "(b) Herman Hollerith",
+        "(c) Tom Cranston",
+        "(d) Jack Kilby",
+        "Answer: (a) Douglas Engelbart ",
+        ""
+    ],
+    [
+        "Q177. The place where accessories are connected in computer is known as",
+        "(a) Port",
+        "(b) Ring",
+        "(c) Bus",
+        "(d) Zip",
+        "Answer: (a) Port ",
+        ""
+    ],
+    [
+        "Q178. How many numbers of home pages a web site can contain",
+        "(a) One",
+        "(b) As many as one would like to have",
+        "(c) Depends upon the size of the website",
+        "(d) Depends upon the size of contents",
+        "Answer: (a) One ",
+        ""
+    ],
+    [
+        "Q179. Which of the following is not the function of an Operating System",
+        "(a) Memory Management",
+        "(b) Input/Output Management",
+        "(c) Job Scheduling",
+        "(d) Database Management",
+        "Answer: (d) Database Management ",
+        ""
+    ],
+    [
+        "Q180. System software is an interface between ____________",
+        "(a) Hardware and Application Software",
+        "(b) Application software and User",
+        "(c) RAM and ROM",
+        "(d) CPU and UPS",
+        "Answer: (a) Hardware and Application Software ",
+        ""
+    ],
+    [
+        "Q181. The speed of operations of cache memory used in computers is slower than that of ______",
+        "(a) RAM",
+        "(b) ROM",
+        "(c) HDD",
+        "(d) Registers in CPU",
+        "Answer: (d) Registers in CPU ",
+        ""
+    ],
+    [
+        "Q182. A compiler is a",
+        "(a) A combination of computer hardware",
+        "(b) A software utility that translates a program written in machine language into high level language",
+        "(c) A software utility that translates a program written in high language into machine level language",
+        "(d) A combination of computer hardware and software",
+        "Answer: (c) A software utility that translates a program written in high language into machine level language ",
+        ""
+    ],
+    [
+        "Q183. The full form of BCD is ______________",
+        "(a) Bit Coded Decimal",
+        "(b) Binary Coded Decimal",
+        "(c) Bit Coded Digit",
+        "(d) Binary Coded Digit",
+        "Answer: (b) Binary Coded Decimal ",
+        ""
+    ],
+    [
+        "Q184. Instructions and memory addresses in the RAM of a computer are stored using _________",
+        "(a) Binary Digits",
+        "(b) Decimal Digits",
+        "(c) Octal Digits",
+        "(d) Parity Bits",
+        "Answer: (a) Binary Digits ",
+        ""
+    ],
+    [
+        "Q185. A computer on Internet is uniquely identified by __________",
+        "(a) Memory address",
+        "(b) E-mail address",
+        "(c) IP address",
+        "(d) Virtual address",
+        "Answer: (c) IP address ",
+        ""
+    ],
+    [
+        "Q186. On the Internet, moving from one web site to another is known as ________",
+        "(a) Uploading",
+        "(b) Downloading",
+        "(c) Searching",
+        "(d) Browsing",
+        "Answer: (d) Browsing ",
+        ""
+    ],
+    [
+        "Q187. The output printed by a computer through a printer on the paper is called",
+        "(a) Virtual copy",
+        "(b) Hard copy",
+        "(c) Soft copy",
+        "(d) None of the Above",
+        "Answer: (b) Hard copy ",
+        ""
+    ],
+    [
+        "Q188. In which of the following, Documents, Movies, Images and Photographs etc. are stored",
+        "(a) Print Server",
+        "(b) Media Server",
+        "(c) Web Server",
+        "(d) File Server",
+        "Answer: (d) File Server ",
+        ""
+    ],
+    [
+        "Q189. Which are the operations that are performed on RAM",
+        "(a) Write only",
+        "(b) Read only",
+        "(c) Read and Write both",
+        "(d) It depends on the user",
+        "Answer: (c) Read and Write both ",
+        ""
+    ],
+    [
+        "Q190. Which of the following is the outcome of data processing",
+        "(a) Software Program",
+        "(b) Data",
+        "(c) System",
+        "(d) Information ",
+        "Answer: (d) Information ",
+        ""
+    ],
+    [
+        "Q191. Which of the following is the outcome of data processing",
+        "(a) Software Program",
+        "(b) Data",
+        "(c) System",
+        "(d) Information",
+        "Answer: (d) Information ",
+        ""
+    ],
+    [
+        "Q192. DNS in Internet technology stands for",
+        "(a) Domain Name System",
+        "(b) Dynamic Name System",
+        "(c) Distributed Name System",
+        "(d) Data Name System",
+        "Answer: (a) Domain Name System ",
+        ""
+    ],
+    [
+        "Q193. Which of the following operations is not performed by a computer",
+        "(a) Control",
+        "(b) Output",
+        "(c) Understand",
+        "(d) Input",
+        "Answer: (c) Understand ",
+        ""
+    ],
+    [
+        "Q194. The \"folders\" in an operating system are based on ________ structure",
+        "(a) Doubly linked",
+        "(b) Queue",
+        "(c) Inverted tree",
+        "(d) Graph",
+        "Answer: (c) Inverted tree ",
+        ""
+    ],
+    [
+        "Q195. What is a hyperlink",
+        "(a) It is used to save the web site",
+        "(b) It is used to link web pages",
+        "(c) It is a link which is hypersensitive to user",
+        "(d) None of the above",
+        "Answer: (b) It is used to link web pages ",
+        ""
+    ],
+    [
+        "Q196. Which of the following is not a component in multimedia",
+        "(a) Audio",
+        "(b) Video",
+        "(c) Data ",
+        "(d) Pen drive",
+        "Answer: (d) Pen drive ",
+        ""
+    ],
+    [
+        "Q197. Which of the following devices can be used to connect a computer to the Internet through a telephone line",
+        "(a) Modem",
+        "(b) Hub",
+        "(c) Extension Board",
+        "(d) Switch",
+        "Answer: (a) Modem ",
+        ""
+    ],
+    [
+        "Q198. Which of the following does not work on the principles of magnetization",
+        "(a) Hard Disk Drive",
+        "(b) Floppy Disk Drive",
+        "(c) Magnetic Tape",
+        "(d) Pen Drive",
+        "Answer: (d) Pen Drive ",
+        ""
+    ],
+    [
+        "Q199. Internet is an exmple of ________",
+        "(a) Local Area Network",
+        "(b) Metropolitan Area Network",
+        "(c) Wide Area Network",
+        "(d) Storage Network",
+        "Answer: (c) Wide Area Network ",
+        ""
+    ],
+    [
+        "Q200. Which mobile company first introduced the Emoji internationally on their mobile devices",
+        "(a) Apple",
+        "(b) Samsung",
+        "(c) Motorola",
+        "(d) Blackberry",
+        "Answer: (a) Apple ",
+        ""
+    ],
+    [
+        "Q201. Encryption and decryption of data is performed in",
+        "(a) Presentation layer",
+        "(b) Physical layer",
+        "(c) Data link layer",
+        "(d) Session layer",
+        "Answer: (a) Presentation layer ",
+        ""
+    ],
+    [
+        "Q202. Which of the following uses UDP as the transport protocol",
+        "(a) HTTP",
+        "(b) SMTP",
+        "(c) DNS",
+        "(d) Telnet",
+        "Answer: (c) DNS ",
+        ""
+    ],
+    [
+        "Q203. End to end connectivity is provided from host to host in the",
+        "(a) Network layer",
+        "(b) Transport layer",
+        "(c) Session layer",
+        "(d) Data link layer",
+        "Answer: (b) Transport layer"
+    ]
+]

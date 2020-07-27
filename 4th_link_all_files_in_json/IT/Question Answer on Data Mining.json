@@ -1,0 +1,455 @@
+[
+    [
+        "Q1. ________ is a subject-oriented, integrated,time-varying, nonvolatile collection of data in support of management decisions \u2013making process.",
+        "(a) Data structure",
+        "(b) Data warehouse",
+        "(c) Data base",
+        "(d) Data analytics",
+        "Answer: (b) Data warehouse ",
+        ""
+    ],
+    [
+        "Q2. The full form of OLAP is",
+        "(a) Online Advanced Program",
+        "(b) Online Analytical Program",
+        "(c) Online Advanced Processing",
+        "(d) Online Analytical Processing",
+        "Answer: (d) Online Analytical Processing ",
+        ""
+    ],
+    [
+        "Q3. What is the full form of OLTP",
+        "(a) Online Transaction Processing",
+        "(b) Online Transaction Program",
+        "(c) Oracle Transaction Processing",
+        "(d) Online Terminal Processing",
+        "Answer: (a) Online Transaction Processing ",
+        ""
+    ],
+    [
+        "Q4. The data is stored, retrieved and updated in",
+        "(a) OLTP",
+        "(b) OLAP",
+        "(c) DBMS",
+        "(d) MPP",
+        "Answer: (a) OLTP ",
+        ""
+    ],
+    [
+        "Q5. State true or false : \"An OLAP system is market-oriented and is used for data analysis by knowledge workers, including managers, executives, and analysts.\"",
+        "(a) True",
+        "(b) False",
+        "Answer: (a) True ",
+        ""
+    ],
+    [
+        "Q6. Fact constellation is a good alternative to the",
+        "(a) Galaxy Schema",
+        "(b) Snowflake schema",
+        "(c) Star Schema",
+        "(d) None of the above",
+        "Answer: (c) Star Schema ",
+        ""
+    ],
+    [
+        "Q7. Which operation mainly used to access the live data online and analyse it",
+        "(a) ROLAP",
+        "(b) OLAP",
+        "(c) MOLAP",
+        "(d) HOLAP",
+        "Answer: (b) OLAP ",
+        ""
+    ],
+    [
+        "Q8. In data mining, the slice operation performs a selection on _______",
+        "(a) One dimension",
+        "(b) Two dimension",
+        "(c) Multi dimension",
+        "(d) None of the above",
+        "Answer: (a) One dimension ",
+        ""
+    ],
+    [
+        "Q9. In data mining, the dice operation performs a selection on",
+        "(a) Single dimension",
+        "(b) Only on Two dimension",
+        "(c) Two or more dimension",
+        "(d) None of the above",
+        "Answer: (c) Two or more dimension ",
+        ""
+    ],
+    [
+        "Q10. In star schema there is _________ relationship between fact table and dimension table",
+        "(a) M:N",
+        "(b) 1:N",
+        "(c) 2:N",
+        "(d) 3:N",
+        "Answer: (b) 1:N ",
+        ""
+    ],
+    [
+        "Q11. Fact constellation is also known as",
+        "(a) Star Schema",
+        "(b) Snowflake Schema",
+        "(c) Micro Schema",
+        "(d) Galaxy Schema",
+        "Answer: (d) Galaxy Schema ",
+        ""
+    ],
+    [
+        "Q12. __________ is the bridge between data warehouse and decision support application.",
+        "(a) Logical data",
+        "(b) Complex data",
+        "(c) Nominal data",
+        "(d) Metadata",
+        "Answer: (d) Metadata ",
+        ""
+    ],
+    [
+        "Q13. Which one referes to the finding of relevant and useful information from databases",
+        "(a) Data mining",
+        "(b) Data warehouse",
+        "(c) Data management",
+        "(d) Data query",
+        "Answer: (a) Data mining ",
+        ""
+    ],
+    [
+        "Q14. Preprocessing step is used in Data _______",
+        "(a) cleaning",
+        "(b) integration",
+        "(c) transformation",
+        "(d) reduction",
+        "Answer: (a) cleaning ",
+        ""
+    ],
+    [
+        "Q15. True or False : \"Selection and interpretation is a data mining functionality\"",
+        "(a) True",
+        "(b) False",
+        "Answer: (b) False ",
+        ""
+    ],
+    [
+        "Q16. Strategic value of data mining is",
+        "(a) Case sensitive",
+        "(b) Time sensitive",
+        "(c) System sensitive",
+        "(d) Technology sensitive",
+        "Answer: (b) Time sensitive ",
+        ""
+    ],
+    [
+        "Q17. The full form of KDD is",
+        "(a) Knowledge Data Developer",
+        "(b) Knowledge Develop Database",
+        "(c) Knowledge Discovery Database",
+        "(d) None of the above",
+        "Answer: (c) Knowledge Discovery Database ",
+        ""
+    ],
+    [
+        "Q18. Which of the following is true",
+        "(a) The output of KDD is data",
+        "(b) The output of KDD is Query",
+        "(c) The output of KDD is Informaion",
+        "(d) The output of KDD is useful information",
+        "Answer: (d) The output of KDD is useful information ",
+        ""
+    ],
+    [
+        "Q19. Which one is a data mining function that assigns items in a collection to target categories or classes",
+        "(a) Selection",
+        "(b) Classification",
+        "(c) Integration",
+        "(d) Reduction",
+        "Answer: (b) Classification ",
+        ""
+    ],
+    [
+        "Q20. State which one is correct",
+        "(a) The data warehouse view exposes the information being captured, stored, and managed by operational systems",
+        "(b) The top-down view exposes the information being captured, stored, and managed by operational systems",
+        "(c) The business query view exposes the information being captured, stored, and managed by operational systems",
+        "(d) The data source view exposes the information being captured, stored, and managed by operational systems",
+        "Answer: (d) The data source view exposes the information being captured, stored, and managed by operational systems ",
+        ""
+    ],
+    [
+        "Q21. State which one is correct",
+        "(a) The data warehouse view allows the selection of the relevant information necessary for the data warehouse",
+        "(b) The top-down view allows the selection of the relevant information necessary for the data warehouse",
+        "(c) The business query view allows the selection of the relevant information necessary for the data warehouse",
+        "(d) The data source view allows the selection of the relevant information necessary for the data warehouse",
+        "Answer: (b) The top-down view allows the selection of the relevant information necessary for the data warehouse ",
+        ""
+    ],
+    [
+        "Q22. Which one is not a kind of data warehouse application",
+        "(a) Information processing",
+        "(b) Analytical processing",
+        "(c) Transaction processing",
+        "(d) Data mining",
+        "Answer: (c) Transaction processing ",
+        ""
+    ],
+    [
+        "Q23. Which one is true",
+        "(a) The data Warehouse is write only",
+        "(b) The data warehouse is read only",
+        "(c) The data warehouse is read write only",
+        "(d) None of the above is true",
+        "Answer: (b) The data warehouse is read only ",
+        ""
+    ],
+    [
+        "Q24. What is the full form of DSS in Data Warehouse",
+        "(a) Decisive selection system",
+        "(b) Decision support system",
+        "(c) Decision support solution",
+        "(d) Decision solution system",
+        "Answer: (b) Decision support system ",
+        ""
+    ],
+    [
+        "Q25. Usually _________ years is the time horizon in data warehouse",
+        "(a) 1-3",
+        "(b) 3-5",
+        "(c) 5-10",
+        "(d) 10-15",
+        "Answer: (c) 5-10 ",
+        ""
+    ],
+    [
+        "Q26. Which one is the heart of the warehouse",
+        "(a) Data mining database servers",
+        "(b) Data warehouse database servers",
+        "(c) Data mart database servers",
+        "(d) Relational database servers",
+        "Answer: (b) Data warehouse database servers ",
+        ""
+    ],
+    [
+        "Q27. State true or false \"Operational metadata defines the structure of the data held in operational databases and used byoperational applications\"",
+        "(a) True",
+        "(b) False",
+        "Answer: (a) True ",
+        ""
+    ],
+    [
+        "Q28. Which type of metadata is held in the catalog of the warehouse database system",
+        "(a) Algorithmic level metadata",
+        "(b) Right management metadata",
+        "(c) Application level metadata",
+        "(d) Structured level metadata",
+        "Answer: (a) Algorithmic level metadata ",
+        ""
+    ],
+    [
+        "Q29. Which metadata consists of information in the enterprise that is not in classical form",
+        "(a) Linear metadata",
+        "(b) Star metadata",
+        "(c) Mushy metadata",
+        "(d) Increamental metadata",
+        "Answer: (c) Mushy metadata ",
+        ""
+    ],
+    [
+        "Q30. The number of fact table in star schema is",
+        "(a) 1",
+        "(b) 2",
+        "(c) 3",
+        "(d) 4",
+        "Answer: (a) 1 ",
+        ""
+    ],
+    [
+        "Q31. The time horizon in operational environment is",
+        "(a) 10-30 days",
+        "(b) 30-60 days",
+        "(c) 60-90 days",
+        "(d) 90-120 days",
+        "Answer: (c) 60-90 days ",
+        ""
+    ],
+    [
+        "Q32. Which databases are owned by particular departments or business groups",
+        "(a) Operational",
+        "(b) Transactional",
+        "(c) Rational",
+        "(d) Informational",
+        "Answer: (a) Operational ",
+        ""
+    ],
+    [
+        "Q33. State true or false : 'Data can be updated in operational environment'",
+        "(a) True",
+        "(b) False",
+        "Answer: (a) True ",
+        ""
+    ],
+    [
+        "Q34. Which one is not a Knowledge Discovery in Databases (KDD) process",
+        "(a) Selection",
+        "(b) Transformation",
+        "(c) Data Mining",
+        "(d) Understanding",
+        "Answer: (d) Understanding ",
+        ""
+    ],
+    [
+        "Q35. Total number of stages in KDD is",
+        "(a) 3",
+        "(b) 4",
+        "(c) 5",
+        "(d) 6",
+        "Answer: (c) 5 ",
+        ""
+    ],
+    [
+        "Q36. In the data warehouse, which data have the greatest level of details stored",
+        "(a) Micro Data",
+        "(b) Atomic Data",
+        "(c) Macro Data",
+        "(d) Dimensional Data",
+        "Answer: (b) Atomic Data ",
+        ""
+    ],
+    [
+        "Q37. In Transient data, after changes with the the records, the previous version of the records will be",
+        "(a) Added",
+        "(b) Eliminated",
+        "(c) Separately stored",
+        "(d) Remain same",
+        "Answer: (b) Eliminated ",
+        ""
+    ],
+    [
+        "Q38. The process of upgrading the existing quality of data before it is moved into a data warehouse is known as",
+        "(a) Data Scrubbing",
+        "(b) Data Polishing",
+        "(c) Data Auditing",
+        "(d) Data Aggregation",
+        "Answer: (a) Data Scrubbing ",
+        ""
+    ],
+    [
+        "Q39. Which one is true about a Fact Table ",
+        "(a) Contains Hierarchies",
+        "(b) Contains Descriptive attributes",
+        "(c) Contains Quantitative information",
+        "(d) Located at the edges of the star schema",
+        "Answer: (c) Contains Quantitative information ",
+        ""
+    ],
+    [
+        "Q40. A decision tree where the target variable takes a continuous value, usually numbers, are called",
+        "(a) Classification Trees",
+        "(b) Regression Trees",
+        "(c) Agression Tree",
+        "(d) Expanded Tree",
+        "Answer: (b) Regression Trees ",
+        ""
+    ],
+    [
+        "Q41. Which one is a method of incremental conceptual clustering",
+        "(a) DBWEB",
+        "(b) OLAD",
+        "(c) COBWEB",
+        "(d) CATWEB",
+        "Answer: (c) COBWEB ",
+        ""
+    ],
+    [
+        "Q42. Data warehouse architecture is based on",
+        "(a) DBMS",
+        "(b) RDBMS",
+        "(c) SQL",
+        "(d) ORACLE",
+        "Answer: (b) RDBMS ",
+        ""
+    ],
+    [
+        "Q43. In OLAP cubes, data (measures) are categorized by",
+        "(a) Length",
+        "(b) Angles",
+        "(c) Dimensions",
+        "(d) Breadth",
+        "Answer: (c) Dimensions ",
+        ""
+    ],
+    [
+        "Q44. Which type of database can be used for optimizing data warehousing and OLAP (online analytical processing)",
+        "(a) Retional",
+        "(b) Relational",
+        "(c) Structural",
+        "(d) Multidimensional",
+        "Answer: (d) Multidimensional ",
+        ""
+    ],
+    [
+        "Q45. ODS stands for",
+        "(a) Online Data Store",
+        "(b) Online Data Storage",
+        "(c) Operational Data Stand",
+        "(d) Operational Data Store",
+        "Answer: (d) Operational Data Store ",
+        ""
+    ],
+    [
+        "Q46. Which one is not a Data Transformation strategy",
+        "(a) Aggregation",
+        "(b) Normalization",
+        "(c) Generalization",
+        "(d) Compression",
+        "Answer: (d) Compression ",
+        ""
+    ],
+    [
+        "Q47. A subset of the data warehouse that contains all the data about a particular topic is known as",
+        "(a) Data Pocket",
+        "(b) Metadata",
+        "(c) Data Mart",
+        "(d) Data Mining",
+        "Answer: (c) Data Mart ",
+        ""
+    ],
+    [
+        "Q48. Which one is the last step of Data Mart Implementation process",
+        "(a) Designing",
+        "(b) Acessing",
+        "(c) Managing",
+        "(d) Populating",
+        "Answer: (c) Managing ",
+        ""
+    ],
+    [
+        "Q49. Which one is not a data reduction strategy",
+        "(a) Data Generalization",
+        "(b) Dimension reduction",
+        "(c) Data compression",
+        "(d) Data cube aggregation",
+        "Answer: (a) Data Generalization ",
+        ""
+    ],
+    [
+        "Q50. Which one algorithm is developed by Ross Quinlan",
+        "(a) C4.5",
+        "(b) k-means",
+        "(c) Apriori",
+        "(d) AdaBoost",
+        "Answer: (a) C4.5 ",
+        ""
+    ],
+    [
+        "Q51. Which is not considered as data mining technique",
+        "(a) Parsing",
+        "(b) Decision tree",
+        "(c) Artificial neural network",
+        "(d) Regression",
+        "Answer: (a) Parsing"
+    ],
+    [
+        ""
+    ]
+]
