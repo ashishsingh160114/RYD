@@ -1,0 +1,403 @@
+[
+    [
+        "Q1. A man is walking at a speed of 10 km/hr. After every",
+        "(a) 96 minutes",
+        "(b) 100 minutes",
+        "(c) 60 minutes",
+        "(d) 90 minutes",
+        ""
+    ],
+    [
+        "Q2. A car completes a journey in 11 hours, the first half",
+        "(a) 250 km",
+        "(b) 375 km",
+        "(c) 300 km",
+        "(d) 400 km",
+        ""
+    ],
+    [
+        "Q3. A car moves at the speed of 72 km/hr. What is the",
+        "(a) 15 metre/sec",
+        "(b) 18 metre/sec",
+        "(c) 20 metre/sec",
+        "(d) 26 metre/sec",
+        ""
+    ],
+    [
+        "Q4. A car moving at the speed of 36 km/hr crosses a",
+        "(a) 2000 metres",
+        "(b) 3000 metres",
+        "(c) 3500 metres",
+        "(d) 4500 metres",
+        "Answer: (b) 3000 metres",
+        ""
+    ],
+    [
+        "Q5. If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is",
+        "(a) 30 Km",
+        "(b) 45 Km",
+        "(c) 50 Km",
+        "(d) 60 Km",
+        "Answer: (c) 50 Km",
+        ""
+    ],
+    [
+        "Q6. A car starts a journey of 290 km with the speed of 50 km/hr. After every two hours the speed of the car increase by 10 km/hr. So how much time will it take to cover the distance",
+        "(a) 2 hr 10 min",
+        "(b) 4 hr",
+        "(c) 4 hr 45 min",
+        "(d) 5 hr",
+        "Answer: (d) 5 hr",
+        ""
+    ],
+    [
+        "Q7. A is twice as fast as B and B is thrice as fast as C. The journey covered by C in 42 minutes will be covered by A in",
+        "(a) 7 minutes",
+        "(b) 14 minutes",
+        "(c) 16 minutes",
+        "(d) 20 minutes",
+        "Answer: (a) 7 minutes ",
+        ""
+    ],
+    [
+        "Q8. A man performs 4/15 of the total journey by rail, 9/20 by bus and the remaining 5 km by walking. His total journey is",
+        "(a) 16 km",
+        "(b) 17.647 km",
+        "(c) 17.476 km",
+        "(d) 17.764 km",
+        "Answer: (b) 17.647 km ",
+        ""
+    ],
+    [
+        "Q9. The speeds of three cars are in the ratio 2 : 3 : 5. The ratio of the times taken by these cars to travel the same distance is",
+        "(a) 2 : 3 : 5",
+        "(b) 3 : 2 : 5",
+        "(c) 4 : 6 : 10",
+        "(d) 15 : 10 : 6",
+        "Answer: (d) 15 : 10 : 6 ",
+        ""
+    ],
+    [
+        "Q10. A police is 108 m behind a thief. The police runs 21 m and the thief run 15 m in a minute. In what time will the police catch the thief",
+        "(a) 12 minute",
+        "(b) 16 minute",
+        "(c) 18 minute",
+        "(d) 20 minute",
+        "Answer: (c) 18 minute ",
+        ""
+    ],
+    [
+        "Q11. An athlete runs 400 meters race in 25 seconds. His speed is",
+        "(a) 16 m/sec",
+        "(b) 37 m/sec",
+        "(c) 42 m/sec",
+        "(d) 45 m/sec",
+        "Answer: (a) 16 m/sec ",
+        ""
+    ],
+    [
+        "Q12. A man riding his bicycle covers 150 meters in 25 seconds. What is his speed in km per hour ?",
+        "(a) 21.6 km/h",
+        "(b) 23.3 km/h",
+        "(c) 25.7 km/h",
+        "(d) 26.9 km/h",
+        "Answer: (a) 21.6 km/h ",
+        ""
+    ],
+    [
+        "Q13. A student walks from his house at 2\u00bd km/h and reaches his school late by 6 minutes. Next day, he increases his speed by 1 km/hr and reaches 6 minutes before school time. How far is the school from his house ?",
+        "(a) 3/5 km",
+        "(b) 5/3 km",
+        "(c) 7/3 km",
+        "(d) 7/4 km",
+        "Answer: (d) 7/4 km ",
+        ""
+    ],
+    [
+        "Q14. A and B start simultaneously from a certain point in North and South directions on motor cycles. The speed of A is 72 km/hr and that of B is 60 km/hr. What is the distance between A and B after 10 minutes ?",
+        "(a) 22 km",
+        "(b) 25 km",
+        "(c) 27 km",
+        "(d) 31 km",
+        "Answer: (a) 22 km ",
+        ""
+    ],
+    [
+        "Q15. A constable is 160 m behind a thief. The constable runs 20 m and the thief 12 m in a minute. In what time will the constable catch the thief ?",
+        "(a) 20 minutes",
+        "(b) 23 minutes",
+        "(c) 26 minutes",
+        "(d) 29 minutes",
+        "Answer: (a) 20 minutes ",
+        ""
+    ],
+    [
+        "Q16. A walks at a uniform rate of 5 km an hour and 5 hours after his start, B cycles after him at the uniform rate of 10 km an hour. How far from the starting point will B catch A ?",
+        "(a) 39 Km",
+        "(b) 42 Km",
+        "(c) 47 Km",
+        "(d) 50 Km",
+        "Answer: (d) 50 Km ",
+        ""
+    ],
+    [
+        "Q17. By walking at \u00bd of his usual speed, a man reaches his office 10 minutes later than ususal. His usual time is",
+        "(a) 8 minute",
+        "(b) 10 minute",
+        "(c) 13 minute",
+        "(d) 15 minute",
+        "Answer: (b) 10 minute ",
+        ""
+    ],
+    [
+        "Q18. A takes 3 hours more than B to walk d km. If A doubles his speed then he can make it in 2 hours less than B. How much time does B required for walking d km ?",
+        "(a) 5 hr",
+        "(b) 6 hr",
+        "(c) 7 hr",
+        "(d) 9 hr",
+        "Answer: (c) 7 hr ",
+        ""
+    ],
+    [
+        "Q19. If a student walks from his house to school at 4 km/hr, he is late 20 minutes. However, if he walks at 5 km/hr, he is late by 5 minutes only. The distance of his school from his house is",
+        "(a) 5 km",
+        "(b) 6 km",
+        "(c) 8 km",
+        "(d) 9 km",
+        "Answer: (a) 5 km ",
+        ""
+    ],
+    [
+        "Q20. Bipul coveres a distance by walking for 5 hours. While returning his speed decreases by 1 km/hr and he takes 10 hours to cover the same distance. What was his speed in return journey ?",
+        "(a) 0.5 km/hr",
+        "(b) 1 km/hr",
+        "(c) 1.5 km/hr",
+        "(d) 2 km/hr",
+        "Answer: (b) 1 km/hr ",
+        ""
+    ],
+    [
+        "Q21. A car completes a certain journey in 8 hours. It coveres half of the distance at 30 km/hr and the rest at 50 km/hr. The length of the journey is ",
+        "(a) 250 km",
+        "(b) 265 km",
+        "(c) 280 km",
+        "(d) 300 km",
+        "Answer: (d) 300 km ",
+        ""
+    ],
+    [
+        "Q22. A man walking at 3 km/hr crosses a square field diagonally in 4 minutes. The area of the field is",
+        "(a) 15000 m2",
+        "(b) 17000 m2",
+        "(c) 20000 m2",
+        "(d) 25000 m2",
+        "Answer: (c) 20000 m2 ",
+        ""
+    ],
+    [
+        "Q23. Convert 60 km/hr into m/sec",
+        "(a) 15\u00bd m/sec",
+        "(b) 162/3 m/sec",
+        "(c) 16\u00bc m/sec",
+        "(d) 17\u00be m/sec",
+        "Answer: (b) 162/3 m/sec ",
+        ""
+    ],
+    [
+        "Q24. Convert 20 m/sec into km/hr",
+        "(a) 55 km/hr",
+        "(b) 59 km/hr",
+        "(c) 63 km/hr",
+        "(d) 72 km/hr",
+        "Answer: (d) 72 km/hr ",
+        ""
+    ],
+    [
+        "Q25. A man walks from his house to the railway station. If he walks at 6 km/h, he misses a train by 6 minutes. However, if he walks at 7 km/h, he reaches the station 4 minutes before the diparture of the train. Find the distance covered by him to reach the station.",
+        "(a) 7 km",
+        "(b) 9 km",
+        "(c) 10 km",
+        "(d) 12 km",
+        "Answer: (a) 7 km ",
+        ""
+    ],
+    [
+        "Q26. A man covers a certain distance by walk at 6 km/hr and returns back to the starting point riding on scooter at 50 km/hr. Find his average speed of the whole journey.",
+        "(a) 32.48 km/h",
+        "(b) 49.12 km/h",
+        "(c) 54.54 km/h",
+        "(d) 59.65 km/h",
+        "Answer: (c) 54.54 km/h ",
+        ""
+    ],
+    [
+        "Q27. A goods train leaves a station at a certain time and at a fixed speed. After 6 hours, an express train leaves the same station and moves in the same direction at a uniform speed of 90 km/h. This train catches up the goods train in 4 hours. Find the speed of the goods train.",
+        "(a) 29 km/h",
+        "(b) 32 km/h",
+        "(c) 36 km/h",
+        "(d) 41 km/h",
+        "Answer: (c) 36 km/h ",
+        ""
+    ],
+    [
+        "Q28. The ratio between the speeds of two trains is 4:6. If the first train runs 280 km in 4 hours, the speed of the second train is",
+        "(a) 85 km/h",
+        "(b) 89 km/h",
+        "(c) 98 km/h",
+        "(d) 105 km/h",
+        "Answer: (d) 105 km/h ",
+        ""
+    ],
+    [
+        "Q29. Excluding stoppages, the speed of a bus is 50 km/h and including stoppages, it is 40 km/h. For how many minutes does the bus stop per hour ?",
+        "(a) 12 min",
+        "(b) 16 min",
+        "(c) 18 min",
+        "(d) 21 min",
+        "Answer: (a) 12 min ",
+        ""
+    ],
+    [
+        "Q30. X and Y are two stations 600 km apart. A train starts from X and moves towards Y at a speed 30 km/h. Another train starts from Y at the same time and moves towards X at 40 km/h. How far from X will they cross each other ?",
+        "(a) 257.11 km",
+        "(b) 266.22 km",
+        "(c) 312.35 km",
+        "(d) 323.39 km",
+        "Answer: (a) 257.11 km ",
+        ""
+    ],
+    [
+        "Q31. By how much percent must a motorist increases his speed in order to reduce the time by 10%, taken to cover a certain distance ?",
+        "(a) 101/9 %",
+        "(b) 111/9 %",
+        "(c) 134/9 %",
+        "(d) 145/9 %",
+        "Answer: (b) 111/9 % ",
+        ""
+    ],
+    [
+        "Q32. A car covers four successive 2 km stretches at 20 km/hr, 30 km/hr, 40 km/hr and 60 km/km respectively. Its average speed over this distance is",
+        "(a) 22 km/hr",
+        "(b) 25 km/hr",
+        "(c) 29 km/hr",
+        "(d) 32 km/hr",
+        "Answer: (d) 32 km/hr ",
+        ""
+    ],
+    [
+        "Q33. A car travels a distance of 840 km at a uniform speed. If the speed of the car is 10 km/h more, it takes 2 hours less to cover the same distance. The original speed of the car was",
+        "(a) 53 km/hr",
+        "(b) 57 km/hr",
+        "(c) 60 km/hr",
+        "(d) 63 km/hr",
+        "Answer: (c) 60 km/hr ",
+        ""
+    ],
+    [
+        "Q34. The ratio between the rates of walking of x and y is 3:4, If the time taken by x to cover a certain distance is 36 minutes, the time taken by Y to cover the certain distance is",
+        "(a) 25 minutes",
+        "(b) 27 minutes",
+        "(c) 32 minutes",
+        "(d) 35 minutes",
+        "Answer: (b) 27 minutes ",
+        ""
+    ],
+    [
+        "Q35. A plane left 30 minutes later than the scheduled time and in order to reach the destination 1500 km away in time, it had to increase the speed by 250 km/hr from the usual speed. Its ususal speed is",
+        "(a) 478 km/h",
+        "(b) 550 km/h",
+        "(c) 600 km/h",
+        "(d) 750 km/h",
+        "Answer: (d) 750 km/h ",
+        ""
+    ],
+    [
+        "Q36. Two cars starts at the same time from one point and move along two roads at right angles to each other. Their speeds are 18 km/hr and 36 km/hr respectively. After 10 seconds the distance between them will be",
+        "(a) 48\u221a5 m",
+        "(b) 50\u221a5 m",
+        "(c) 53\u221a5 m",
+        "(d) 55\u221a5 m",
+        "Answer: (b) 50\u221a5 m ",
+        ""
+    ],
+    [
+        "Q37. A man on tour travels first 150 km at 55 km/hr and the next 150 km at 65 km/hr. The average speed of the whole journey is",
+        "(a) 57.48 km/hr",
+        "(b) 57.82 km/hr",
+        "(c) 58.12 km/hr",
+        "(d) 59.58 km/hr",
+        "Answer: (d) 59.58 km/hr ",
+        ""
+    ],
+    [
+        "Q38. Ram has to cover 8 km in 45 minutes. If he covers one half of the distance in 1/3 rd of time, what should be his speed to cover the remaining distance in the remaining time",
+        "(a) 6 km/hr",
+        "(b) 7 km/hr",
+        "(c) 8 km/hr",
+        "(d) 9 km/hr",
+        "Answer: (c) 8 km/hr ",
+        ""
+    ],
+    [
+        "Q39. In what time can Naren cover a distance of 500 m, if he runs at a speed of 25 km/hr",
+        "(a) 11/5 minutes",
+        "(b) 21/3 minutes",
+        "(c) 21/5 minutes",
+        "(d) 31/5 minutes",
+        "Answer: (a) 11/5 minutes ",
+        ""
+    ],
+    [
+        "Q40. The distance between two stations A and B is 200 km. A train leaves A towards B at 80 km/hr. After half an hour, another train leaves B towards A at 100 km/hr. The distance of the point where the two trains meet, from A is",
+        "(a) 111.11 km",
+        "(b) 112.22 km",
+        "(c) 112.25 km",
+        "(d) 115.55 km",
+        "Answer: (a) 111.11 km ",
+        ""
+    ],
+    [
+        "Q41. Hari can run 200m in 54 seconds and Jadu in 60 seconds. Hari beats Jadu by ",
+        "(a) 15 m",
+        "(b) 18 m",
+        "(c) 20 m",
+        "(d) 23 m",
+        "Answer: (c) 20 m ",
+        ""
+    ],
+    [
+        "Q42. In a 1000 m race, the ratio of the speeds of A and B is 2:3 . A has a start of 600 m . A wins by ",
+        "(a) 320 m",
+        "(b) 325 m",
+        "(c) 350 m",
+        "(d) 400 m",
+        "Answer: (d) 400 m ",
+        ""
+    ],
+    [
+        "Q43. In a 100m race, A can give B 10 m and c 37 m. In the same race, B can give C",
+        "(a) 30 m",
+        "(b) 35 m",
+        "(c) 38 m",
+        "(d) 40 m",
+        "Answer: (a) 30 m ",
+        ""
+    ],
+    [
+        "Q44. X and Y take part in a 100m race. X runs at 5 km/hr. X gives Y a start of 10m and still beats him by 8 seconds. Y's speed is",
+        "(a) 3.06 km/hr",
+        "(b) 3.09 km/hr",
+        "(c) 4.05 km/hr",
+        "(d) 4.07 km/hr",
+        "Answer: (c) 4.05 km/hr ",
+        ""
+    ],
+    [
+        "Q45. A can run 20m while B runs 25m. In a 2 km race B beats A by",
+        "(a) 375 m",
+        "(b) 385 m",
+        "(c) 400 m",
+        "(d) 425 m",
+        "Answer: (c) 400 m"
+    ]
+]

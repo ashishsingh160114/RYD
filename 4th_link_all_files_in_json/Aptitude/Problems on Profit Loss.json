@@ -1,0 +1,627 @@
+[
+    [
+        "Q1. A chair is bought for Rs. 450 and sold at Rs. 740. Find the gain percent",
+        "Answer: ",
+        "(a) 13 1/3%",
+        "(b) 13 2/5%",
+        "(c) 64 4/9%",
+        "(d) 15 2/9%",
+        "Answer: (c) 64 4/9% ",
+        ""
+    ],
+    [
+        "Q2. If a man were to sell his chair for Rs. 620, he would loss 20%. To gain 25%, he should sell it for",
+        "(a) 873.77",
+        "(b) 968.75",
+        "(c) 1010.55",
+        "(d) 1123.36",
+        "Answer: (b) 968.75 ",
+        ""
+    ],
+    [
+        "Q3. A man sell his type writer at 5% loss. If he sells it for Rs. 80 more, he gains 5%. The cost price of the typewriter is",
+        "(a) 800",
+        "(b) 830",
+        "(c) 870",
+        "(d) 890",
+        "Answer: (a) 800 ",
+        ""
+    ],
+    [
+        "Q4. Amit sold a bag for Rs. 540, lossing 10%. The cost price of the bag is",
+        "(a) 400",
+        "(b) 550",
+        "(c) 600",
+        "(d) 850",
+        "Answer: (c) 600 ",
+        ""
+    ],
+    [
+        "Q5. A bookseller sells a book at a gain of 10%. If he had bought it at 5% less and sold it for Rs. 5 more, he would have gained 18\u00be %. The cost price of the book is",
+        "(a) 112.35",
+        "(b) 120.50",
+        "(c) 133.33",
+        "(d) 149.80",
+        "Answer: (c) 133.33 ",
+        ""
+    ],
+    [
+        "Q6. Hari bought 1200 eggs at Rs. 4 per dozen. He sold 900 of them at 2 for Rs. 1 and the remaining at 5 for Rs. 2. His gain percent is",
+        "(a) 35.3 %",
+        "(b) 42.5 %",
+        "(c) 49.3 %",
+        "(d) 56.8 %",
+        "Answer: (b) 42.5 % ",
+        ""
+    ],
+    [
+        "Q7. A merchant has 1000 kg of Rice, part of which sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. The quantity sold at 18% is",
+        "(a) 350 Kg",
+        "(b) 420 Kg",
+        "(c) 540 Kg",
+        "(d) 600 Kg",
+        "Answer: (d) 600 Kg ",
+        ""
+    ],
+    [
+        "Q8. A radio is sold for Rs. 880 at a profit of 10%. What would have been the gain or loss percent, had it been sold for Rs. 780 ?",
+        "(a) 2\u00bd %",
+        "(b) 3\u00bc %",
+        "(c) 3\u00bd %",
+        "(d) 5\u00be %",
+        "Answer: (a) 2\u00bd % ",
+        ""
+    ],
+    [
+        "Q9. A man sold an article at a loss of 10%. If he sells the article for Rs. 10 more he would have gained 5%. The cost price of the article is",
+        "(a) Rs. 30",
+        "(b) Rs. 36.50",
+        "(c) Rs. 54.76",
+        "(d) Rs. 66.66",
+        "Answer: (d) Rs. 66.66 ",
+        ""
+    ],
+    [
+        "Q10. Mangoes are bought at 5 for Rs. 20 and sold at 6 for Rs. 30. His gain percent is",
+        "(a) 18%",
+        "(b) 21%",
+        "(c) 25%",
+        "(d) 28%",
+        "Answer: (c) 25% ",
+        ""
+    ],
+    [
+        "Q11. A person sells an article for Rs. 11 and gains as much percent as the cost price of the article in rupees. The cost price of the article is",
+        "(a) 10",
+        "(b) 9",
+        "(c) 8",
+        "(d) 7",
+        "Answer: (a) 10 ",
+        ""
+    ],
+    [
+        "Q12. By selling a tape-recorder for Rs. 760, I lose 5%. What percent shall I gain by selling it for Rs. 1000 ?",
+        "(a) 10%",
+        "(b) 20%",
+        "(c) 22%",
+        "(d) 25%",
+        "Answer: (d) 25% ",
+        ""
+    ],
+    [
+        "Q13. A shopkeeper sells a pair of sunglasses at a profit of 25%. If he had bought it at 25% less and sold it for Rs. 10 less, then he would have gained 40%. The cost price of the pair of sunglasses is ",
+        "(a) Rs. 30",
+        "(b) Rs. 50",
+        "(c) Rs. 60",
+        "(d) Rs. 70",
+        "Answer: (b) Rs. 50 ",
+        ""
+    ],
+    [
+        "Q14. On a Rs. 20,000 payment order a person has choice between three successive discounts of 20%, 20% and 10% and three successive discounts of 40%, 5% and 5% . By choosing the better one, he can save",
+        "(a) Rs. 690",
+        "(b) Rs. 710",
+        "(c) Rs. 725",
+        "(d) Rs. 785",
+        "Answer: (a) Rs. 690 ",
+        ""
+    ],
+    [
+        "Q15. Successive discounts of 5% and 10% are equivalent to a single discount of",
+        "(a) 12.3%",
+        "(b) 14.5%",
+        "(c) 15.3%",
+        "(d) 15.9%",
+        "Answer: (b) 14.5% ",
+        ""
+    ],
+    [
+        "Q16. A single discount equivalent to successive discounts of 40%, 30% and 10% is",
+        "(a) 43.5%",
+        "(b) 51.5%",
+        "(c) 55.8%",
+        "(d) 62.2%",
+        "Answer: (d) 62.2% ",
+        ""
+    ],
+    [
+        "Q17. The marked price of an electric iron is Rs. 450. The shopkeeper allows a discount of 10% and gains 8%. If no discount is allowed, his gain percent would be",
+        "(a) 10%",
+        "(b) 20%",
+        "(c) 25%",
+        "(d) 30%",
+        "Answer: (b) 20% ",
+        ""
+    ],
+    [
+        "Q18. A shopkeeper marks his goods to gain 30% . But he allows 10% discount for cash payment. His profit percent is",
+        "(a) 14%",
+        "(b) 17%",
+        "(c) 21%",
+        "(d) 25%",
+        "Answer: (b) 17% ",
+        ""
+    ],
+    [
+        "Q19. A pen is listed for Rs. 12. A discount of 15% is given on it. A second discount is given bringing the price down to Rs. 8.16. The rate of second discount is",
+        "(a) 10%",
+        "(b) 16%",
+        "(c) 20%",
+        "(d) 28%",
+        "Answer: (c) 20% ",
+        ""
+    ],
+    [
+        "Q20. A fan is listed at Rs. 1400 and a discount of 20% is offered on the list price. What additional discount must be offered to the customer to bring the net price of Rs. 1100",
+        "(a) 1(11/14)%",
+        "(b) 2(11/14)%",
+        "(c) 1(13/14)%",
+        "(d) 2(13/14)%",
+        "Answer: (a) 1(11/14)% ",
+        ""
+    ],
+    [
+        "Q21. A company offers three types of successive discounts. 1st 20% and 10% ; 2nd 15% and 15%, 3rd 25 % and 5%. Which offer is better for a customer ?",
+        "(a) 1st",
+        "(b) 2nd",
+        "(c) 3rd",
+        "(d) All are equal",
+        "Answer: (c) 3rd ",
+        ""
+    ],
+    [
+        "Q22. A discount series of P% and Q% on an invoice is the same as a single discount of",
+        "Answer: ",
+        ""
+    ],
+    [
+        "Q23. A retailer allows a trade discount of 10% on the cost. By how much above the cost should the product be labelled for sale to gain 18%.",
+        "(a) 31%",
+        "(b) 31(1/9)%",
+        "(c) 35%",
+        "(d) 35(1/3)%",
+        "Answer: (b) 31(1/9)% ",
+        ""
+    ],
+    [
+        "Q24. A shopkeeper gives two sucessive discounts on an article marked Rs. 600. The first discount given is 10%. If the customer pays Rs. 459 for the article, the second discount given is",
+        "(a) 10%",
+        "(b) 12%",
+        "(c) 13%",
+        "(d) 15%",
+        "Answer: (d) 15% ",
+        ""
+    ],
+    [
+        "Q25. A shopkeeper sold an air-conditioner for Rs. 25938 with a discount of 10% and earned a profit of 4%. What would have been the percentage of profit earned if no discount were offered.",
+        "(a) 13.21%",
+        "(b) 15.55%",
+        "(c) 17.20%",
+        "(d) 22.85%",
+        "Answer: (b) 15.55%",
+        ""
+    ],
+    [
+        "Q26. A trader marks his goods at such a price that he can deduct 10% for cash and yet make 20% profit. The marked price of an item which cost him Rs. 90.",
+        "(a) Rs. 120",
+        "(b) Rs. 130",
+        "(c) Rs. 135",
+        "(d) Rs. 145",
+        "Answer: (a) Rs. 120",
+        ""
+    ],
+    [
+        "Q27. A dealer buys an article marked at Rs. 24000 with 20% and 5% off. He spends Rs. 1000 on its repairs and sells it for Rs. 24000. What is his gain or loss percent ? ",
+        "(a) 18.15 %",
+        "(b) 22.31 %",
+        "(c) 24.74 %",
+        "(d) 29.25 %",
+        "Answer: (c) 24.74 % ",
+        ""
+    ],
+    [
+        "Q28. An article is listed at Rs. 800 and two successive discounts of 8% and 8% are given on it. How much would the seller gain or loss, if he gives a single discount of 16% instead of two dicounts ?",
+        "(a) Rs. 5.12",
+        "(b) Rs. 6.50",
+        "(c) Rs. 11.25",
+        "(d) Rs. 15",
+        "Answer: (a) Rs. 5.12 ",
+        ""
+    ],
+    [
+        "Q29. A tradesman gives 4% discount on the marked price and gives 1 article free for buying every 15 articles and thus gains 35%. The marked price is increased above the cost price by",
+        "(a) 29%",
+        "(b) 37%",
+        "(c) 42%",
+        "(d) 50%",
+        "Answer: (d) 50% ",
+        ""
+    ],
+    [
+        "Q30. A trader wishes to gain 20% after allowing 10% discount on the marked price to his customers. At what percent higher than the cost price must he mark his goods ?",
+        "(a) 19(1/3)%",
+        "(b) 26(1/4)%",
+        "(c) 27(1/4)%",
+        "(d) 33(1/3)%",
+        "Answer: (d) 33(1/3)% ",
+        ""
+    ],
+    [
+        "Q31. By selling a table for Rs. 450 instead of Rs. 500 loss percent increases by 5%. The cost price of the table is",
+        "(a) Rs. 500",
+        "(b) Rs. 850",
+        "(c) Rs. 1000",
+        "(d) Rs. 1200",
+        "Answer: (c) Rs. 1000 ",
+        ""
+    ],
+    [
+        "Q32. A man buys an article for 5% less than its value and sells it for 5% more than its value. His gain or loss percent is ",
+        "(a) 10(10/19)%",
+        "(b) 15(5/9)%",
+        "(c) 29(12/17)%",
+        "(d) 32(12/17)%",
+        "Answer: (a) 10(10/19)% ",
+        ""
+    ],
+    [
+        "Q33. The marked price of an article is 5% more then the cost price and a discount of 5% is given on the marked price. Then the loss is",
+        "(a) 0.25%",
+        "(b) 0.65%",
+        "(c) 0.72%",
+        "(d) 0.99%",
+        "Answer: (a) 0.25% ",
+        ""
+    ],
+    [
+        "Q34. The marked price of a radio is Rs. 2000. The shopkeeper allows a discount of 10% and gain 8%. If no discount is allowed his gain percent would be",
+        "(a) 15%",
+        "(b) 20%",
+        "(c) 27%",
+        "(d) 33%",
+        "Answer: (b) 20% ",
+        ""
+    ],
+    [
+        "Q35. A trader lists his articles 10% above the C.P and allows a discount 5% on cash payment. His gain percent is",
+        "(a) 3.7%",
+        "(b) 4.1%",
+        "(c) 4.5%",
+        "(d) 5.2%",
+        "Answer: (c) 4.5% ",
+        ""
+    ],
+    [
+        "Q36. A dealer processing to sell his goods at cost price, uses 900 gm weight for 1kg. His gain percentage is",
+        "(a) 11(1/9)%",
+        "(b) 12(1/3)%",
+        "(c) 14(1/2)%",
+        "(d) 17(1/3)%",
+        "Answer: (a) 11(1/9)%",
+        ""
+    ],
+    [
+        "Q37. The selling price of an article is \u00be times its cost price. The loss percent is",
+        "(a) 25%",
+        "(b) 34%",
+        "(c) 38%",
+        "(d) 39%",
+        "Answer: (a) 25% ",
+        ""
+    ],
+    [
+        "Q38. The selling price of an article is 5/4 times its cost price. The gain percent is",
+        "(a) 25%",
+        "(b) 34%",
+        "(c) 38%",
+        "(d) 39%",
+        "Answer: (a) 25% ",
+        ""
+    ],
+    [
+        "Q39. On selling an article for Rs. 56, one losses 20%. In order to gain 20% what would be the selling price",
+        "(a) Rs. 47",
+        "(b) Rs. 54",
+        "(c) Rs. 62",
+        "(d) Rs. 84",
+        "Answer: (d) Rs. 84 ",
+        ""
+    ],
+    [
+        "Q40. By selling 33m of cloth Ram gained the cost price of 11m. The gain percent is ",
+        "(a) 25(1/3)%",
+        "(b) 26(1/3)%",
+        "(c) 33(1/3)%",
+        "(d) 37(1/3)%",
+        "Answer: (c) 33(1/3)% ",
+        ""
+    ],
+    [
+        "Q41. Hari buys some marbles at 4 for a rupee and sells them at 5 for a rupee. His loss percent is",
+        "(a) 19%",
+        "(b) 21%",
+        "(c) 20%",
+        "(d) 24%",
+        "Answer: (c) 20% ",
+        ""
+    ],
+    [
+        "Q42. Mukesh purchased 40kg of wheat at Rs. 12.50 per Kg and 25Kg of wheat at Rs. 15.10 per Kg. He mixed the two qualities of wheat for selling. At what rate should it be sold to gain 10% ?",
+        "(a) Rs. 9.25",
+        "(b) Rs. 11.35",
+        "(c) Rs. 12.50",
+        "(d) Rs. 14.85",
+        "Answer: (d) Rs. 14.85 ",
+        ""
+    ],
+    [
+        "Q43. A shopkeeper earns a profit of 15% on selling a book at 10% discount on the printed price. The ratio of the cost price and the printed price is",
+        "(a) 15 : 27",
+        "(b) 18 : 23",
+        "(c) 19 : 37",
+        "(d) 23 : 39",
+        "Answer: (b) 18 : 23 ",
+        ""
+    ],
+    [
+        "Q44. A man sold two steel chairs for Rs. 400 each on one, he gains 20% and the other he loses 10% . How much does he gain or loss in the whole transaction ?",
+        "(a) Rs. 22.23",
+        "(b) Rs. 25.50",
+        "(c) Rs. 27.35",
+        "(d) Rs. 31.20",
+        "Answer: (a) Rs. 22.23 ",
+        ""
+    ],
+    [
+        "Q45. A man sold two pipes at Rs. 12 each on one he gained 20% and on the other lost 20%. On the whole he loss",
+        "(a) Rs. 1",
+        "(b) Rs. 2",
+        "(c) Rs. 3",
+        "(d) Rs. 4",
+        "Answer: (a) Rs. 1 ",
+        ""
+    ],
+    [
+        "Q46. By selling 100 pencils, a shopkeeper gains the selling price of 20 pencils. His gain percent is",
+        "(a) 20%",
+        "(b) 21%",
+        "(c) 25%",
+        "(d) 28%",
+        "Answer: (c) 25% ",
+        ""
+    ],
+    [
+        "Q47. A dealer offers a discount of 10% on the marked price of an article and still marks a profit of 20%, if its marked price is Rs. 1000 then the cost price is",
+        "(a) Rs. 500",
+        "(b) Rs. 550",
+        "(c) Rs. 625",
+        "(d) Rs. 750",
+        "Answer: (d) Rs. 750 ",
+        ""
+    ],
+    [
+        "Q48. If an article is sold at a gain of 5% instead of being sold at a loss of 5%, one gets Rs. 5 more. What is the cost price of the article ?",
+        "(a) Rs. 45",
+        "(b) Rs. 50",
+        "(c) Rs. 62",
+        "(d) Rs. 67",
+        "Answer: (b) Rs. 50 ",
+        ""
+    ],
+    [
+        "Q49. The profit earned after selling an article for Rs. 720 is the same as loss incurred after selling the article for Rs. 480. The cost price of the article is",
+        "(a) Rs. 545",
+        "(b) Rs. 575",
+        "(c) Rs. 600",
+        "(d) Rs. 670",
+        "Answer: (c) Rs. 600 ",
+        ""
+    ],
+    [
+        "Q50. A shopkeeper has 1000 Kg of sugar, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. The quantity sold at 18% profit is",
+        "(a) 500 Kg",
+        "(b) 600 Kg",
+        "(c) 700 Kg",
+        "(d) 800 Kg",
+        "Answer: (b) 600 Kg ",
+        ""
+    ],
+    [
+        "Q51. A shopkeeper sold a TV set for Rs. 17940 with a discount of 8% and earned a profit of 19.6%. Wht would have been the percentage of profit earned if no discount was offered.",
+        "(a) 23.07%",
+        "(b) 23.89%",
+        "(c) 24.56%",
+        "(d) 24.98%",
+        "Answer: (a) 23.07% ",
+        ""
+    ],
+    [
+        "Q52. The marked price of a shirt and trousers are in the ratio 1:2. The shopkeeper gives 40% discount on the shirt. If the total discount on both is 30%, the discount offered on the trouser is",
+        "(a) 21%",
+        "(b) 23%",
+        "(c) 25%",
+        "(d) 29%",
+        "Answer: (c) 25% ",
+        ""
+    ],
+    [
+        "Q53. A wholeseller sells 20 pens at the marked price of 16 pens to a retailer. The retailer in turn sells them at the marked price. The gain percent to the retailer is",
+        "(a) 18%",
+        "(b) 22%",
+        "(c) 24%",
+        "(d) 25%",
+        "Answer: (d) 25% ",
+        ""
+    ],
+    [
+        "Q54. A shopkeeper claims to sell his articles at a discount of 10%, but marks his articles by increasing the cost of each by 20%. His gain percent is",
+        "(a) 8%",
+        "(b) 12%",
+        "(c) 14%",
+        "(d) 17%",
+        "Answer: (a) 8% ",
+        ""
+    ],
+    [
+        "Q55. If the manufacturer gains 10%, the wholesale dealer 15% and the retailer 25%, then the cost of production of an article whose retail price is Rs. 1265 is",
+        "(a) Rs. 800",
+        "(b) Rs. 850",
+        "(c) Rs. 925",
+        "(d) Rs. 975",
+        "Answer: (a) Rs. 800 ",
+        ""
+    ],
+    [
+        "Q56. A fruit seller buys lemons at 2 for a rupee and sells them at 5 for 3 rupees. His gain percent is",
+        "(a) 17%",
+        "(b) 20%",
+        "(c) 22%",
+        "(d) 26%",
+        "Answer: (b) 20% ",
+        ""
+    ],
+    [
+        "Q57. A shopkeeper sells a badminton racket whose marked price is Rs. 30 at a discount of 25% and gives a shuttle cock costing Rs. 1.50 free with each racket. Even then he makes a profit of 20%. His cost price per racket is",
+        "(a) Rs. 17",
+        "(b) Rs. 20",
+        "(c) Rs. 22",
+        "(d) Rs. 24",
+        "Answer: (b) Rs. 20 ",
+        ""
+    ],
+    [
+        "Q58. An article passing through two hands, is sold at a profit of 38% at the original cost price. If the first dealer makes a profit of 20%, then the profit percent made by the second is",
+        "(a) 8%",
+        "(b) 12%",
+        "(c) 15%",
+        "(d) 18%",
+        "Answer: (c) 15% ",
+        ""
+    ],
+    [
+        "Q59. A merchant purchases a wrist watch for Rs. 450 and fixed the list price in such a way that after allowing a discount of 10% he earns a profit of 20%. The list price of the watch is",
+        "(a) Rs. 475",
+        "(b) Rs. 490",
+        "(c) Rs. 550",
+        "(d) Rs. 600",
+        "Answer: (d) Rs. 600 ",
+        ""
+    ],
+    [
+        "Q60. Two thirds of a consignment was sold at a profit of 6% and the rest at a loss of 3%. If there was an overall profit of Rs. 540, the value of consignment was",
+        "(a) Rs. 14750",
+        "(b) Rs. 15000",
+        "(c) Rs. 16500",
+        "(d) Rs. 18000",
+        "Answer: (d) Rs. 18000 ",
+        ""
+    ],
+    [
+        "Q61. Mangoes are bought at 4 for Rs. 20 and sold at 3 for Rs. 18. Find the gain percent.",
+        "(a) 17%",
+        "(b) 20%",
+        "(c) 22%",
+        "(d) 25%",
+        "Answer: (b) 20% ",
+        ""
+    ],
+    [
+        "Q62. A lamp marked at Rs. 120 is sold for Rs. 80. What is the rate of discount ?",
+        "(a) 25 1/5%",
+        "(b) 26 3/5%",
+        "(c) 29 1/7%",
+        "(d) 33 1/3%",
+        "Answer: (d) 33 1/3% ",
+        ""
+    ],
+    [
+        "Q63. A chair listed at Rs. 1600 with a discount 20%. WHat additional discount must be offered to the customer to bring the net price Rs. 1000 ?",
+        "(a) 23%",
+        "(b) 25%",
+        "(c) 28%",
+        "(d) 31%",
+        "Answer: (c) 28% ",
+        ""
+    ],
+    [
+        "Q64. A man sold two cows for Rs. 20000 each. On one he gains 10% and other he losses 10%. Find his gain or loss percentage in the whole transaction.",
+        "(a) 0.99%",
+        "(b) 1.23%",
+        "(c) 1.5%",
+        "(d) 1.8%",
+        "Answer: (a) 0.99% ",
+        ""
+    ],
+    [
+        "Q65. By selling a goods for Rs. 1200, a shopkeeper loss 20%. At what price should he sell it to gain 5% ?",
+        "(a) Rs. 1350",
+        "(b) Rs. 1425",
+        "(c) Rs. 1465",
+        "Answer: (d) Rs. 1575 ",
+        ""
+    ],
+    [
+        "Q66. A man sell an article at a profit of 10%. If he had bought it at 20% less and sold for Rs. 10 less, he would have gained 10%. Find the cost price of the article.",
+        "(a) Rs. 50",
+        "(b) Rs. 75",
+        "(c) Rs. 80",
+        "(d) Rs. 90",
+        "Answer: (a) Rs. 50 ",
+        ""
+    ],
+    [
+        "Q67. A grocer buys 30 kg of sugar at Rs. 20 per Kg and mixed it with 20 Kg of suger available at Rs. 35 per Kg. At what rate per kg should he sell mixture to gain 10% on the whole ?",
+        "(a) Rs. 28.60",
+        "(b) Rs. 31.25",
+        "(c) Rs. 32.85",
+        "(d) Rs. 36.50",
+        "Answer: (a) Rs. 28.60 ",
+        ""
+    ],
+    [
+        "Q68. On selling an article for Rs. 23, a man gains 15%. In order to gain 30% what will be the increase in its selling price ?",
+        "(a) Rs. 2",
+        "(b) Rs. 3",
+        "(c) Rs. 4",
+        "(d) Rs. 5",
+        "Answer: (b) Rs. 3 ",
+        ""
+    ],
+    [
+        "Q69. A machine was sold at a gain of 10%. Had it been sold at Rs 700 less, the seller would have lost 10%. What is the cost price of the machine.",
+        "(a) Rs. 282",
+        "(b) Rs. 295",
+        "(c) Rs. 320",
+        "(d) Rs. 350",
+        "Answer: (d) Rs. 350 ",
+        ""
+    ],
+    [
+        "Q70. A sweet seller mixes three varieties of sweets costing Rs. 50, Rs. 80 and Rs. 70 per Kg in the ratio 2 : 4 : 3 in terms of weight and sells the mixture at Rs. 60 per kg. What percentage of Loss does he make ?",
+        "(a) 13 1/3%",
+        "(b) 13 2/5%",
+        "(c) 14 2/7%",
+        "(d) 15 2/9%",
+        "Answer: (c) 14 2/7%"
+    ]
+]

@@ -1,0 +1,271 @@
+[
+    [
+        "Q1. If 2x + 3y = 29 and y = x +3, what is the value of x ?",
+        "(a) 2",
+        "(b) 4",
+        "(c) 6",
+        "(d) 8",
+        "Answer: (b) 4 ",
+        ""
+    ],
+    [
+        "Q2. If (2, k) is a solution of 3x + y - 5 = 0, then k = ?",
+        "(a) -1",
+        "(b) -2",
+        "(c) -4",
+        "(d) -5",
+        "Answer: (a) -1 ",
+        ""
+    ],
+    [
+        "Q3. If 3x + 7y = 72 and 5x - 5y = 20, then what is x + y",
+        "(a) 12",
+        "(b) 15",
+        "(c) 16",
+        "(d) 18",
+        "Answer: (c) 16 ",
+        ""
+    ],
+    [
+        "Q4. If x + 1/y = 5, 2x + 3/y = 13, then (2x - 3y) = ?",
+        "(a) 1",
+        "(b) 3",
+        "(c) 6",
+        "(d) 7",
+        "Answer: (b) 3 ",
+        ""
+    ],
+    [
+        "Q5. If 2x - 3y = 5 and (x+y)/x = 3/7 then x + y = ?",
+        "(a) 102/27",
+        "(b) 113/16",
+        "(c) 121/29",
+        "(d) 135/26",
+        "Answer: (d) 135/26 ",
+        ""
+    ],
+    [
+        "Q6. The system of equations kx - y = 2 and 6x - 2y = 3 has a unique solution when",
+        "(a) 2",
+        "(b) 3",
+        "(c) 4",
+        "(d) 5",
+        "Answer: (b) 3 ",
+        ""
+    ],
+    [
+        "Q7. The cost of 2 sarees and 4 shirts is Rs. 16000 while cost of one saree is equal to cost of 6 shirts. The cost of 10 shirts is",
+        "(a) 5,000",
+        "(b) 8,000",
+        "(c) 10,000",
+        "(d) 12,000",
+        "Answer: (c) 10,000 ",
+        ""
+    ],
+    [
+        "Q8. For what value of k, the system of equations kx - 3y + 2 = 0 and 6x - 2y + 3 = 0 has a unique solution ?",
+        "(a) 9",
+        "(b) 11",
+        "(c) 15",
+        "(d) 16",
+        "Answer: (a) 9 ",
+        ""
+    ],
+    [
+        "Q9. If x/4 + y/3 = 5/12 and x/2 + y = 1 then the value of 2x + y is",
+        "(a) 1/3",
+        "(b) 5/2",
+        "(c) 5/3",
+        "(d) 6/7",
+        "Answer: (b) 5/2 ",
+        ""
+    ],
+    [
+        "Q10. If 2a + 3b = 17 and 2a+2 - 3b+1 = 5 then a = ?, b = ?",
+        "(a) a = 3, b = 2",
+        "(b) a = 1, b = 3",
+        "(c) a = 2, b = 5",
+        "(d) a = 3, b = 5",
+        "Answer: (a) a = 3, b = 2 ",
+        ""
+    ],
+    [
+        "Q11. If 3 chairs and 1 table cost Rs. 900 and 5 chairs and 3 tables cost Rs. 2400 then the cost of 2 chairs and 2 tables is",
+        "(a) Rs. 105",
+        "(b) Rs. 115",
+        "(c) Rs. 125",
+        "(d) Rs. 150",
+        "Answer: (d) Rs. 150 ",
+        ""
+    ],
+    [
+        "Q12. For which value of K, the system of equations kx - 10y - 3 = 0 and 3x - 5y - 7 = 0 has no solution ?",
+        "(a) 5",
+        "(b) 6",
+        "(c) 8",
+        "(d) 10",
+        "Answer: (b) 6 ",
+        ""
+    ],
+    [
+        "Q13. Solve x - 4 = 5/x",
+        "(a) 5, -1",
+        "(b) 6, -2",
+        "(c) 7, -3",
+        "(d) 10, -7",
+        "Answer: (a) 5, -1 ",
+        ""
+    ],
+    [
+        "Q14. The roots of the equation 2x2 - 11x + 15 = 0 are",
+        "(a) 2, 1/3",
+        "(b) 2, 1/5",
+        "(c) 3, 3/7",
+        "(d) 3, 5/2",
+        "Answer: (d) 3, 5/2 ",
+        ""
+    ],
+    [
+        "Q15. If x2 - 3x - 1 = 0 then the value of x - 1/x is",
+        "(a) 2",
+        "(b) 3",
+        "(c) 5",
+        "(d) 9",
+        "Answer: (b) 3 ",
+        ""
+    ],
+    [
+        "Q16. If 2x2 + 12x + 18 = 0 then the value of x is",
+        "(a) -3",
+        "(b) -1",
+        "(c) 4",
+        "(d) 7",
+        "Answer: (a) -3 ",
+        ""
+    ],
+    [
+        "Q17. If the roots of ax2 + bx + c = 0 be equal then the value of c is",
+        "(a) b2/3a",
+        "(b) a2/4b",
+        "(c) b2/4a",
+        "(d) a3/4b",
+        "Answer: (c) b2/4a ",
+        ""
+    ],
+    [
+        "Q18. If one root of x2 - 5kx + 6 = 0 is 4, then the value of k is",
+        "(a) 5/7",
+        "(b) 9/8",
+        "(c) 11/7",
+        "(d) 11/10",
+        "Answer: (d) 11/10 ",
+        ""
+    ],
+    [
+        "Q19. For what value of k, the equation x2 + 2(k - 4)x + 2k = 0 has equal roots ?",
+        "(a) 5, 7",
+        "(b) 7, 3",
+        "(c) 8, 2",
+        "(d) 9, 5",
+        "Answer: (c) 8, 2 ",
+        ""
+    ],
+    [
+        "Q20. If \u03b1, \u03b2 be roots of the equation ax2 + bx + c = 0, then the value of (\u03b12/\u03b2 + \u03b22/\u03b1) is",
+        "(a) (3abc-b3)/a2c",
+        "(b) (3abc-a3)/a3c",
+        "(c) (2abc-b2)/a2c",
+        "(d) (2abc-b3)/a3c",
+        "Answer: (a) (3abc-b3)/a2c ",
+        ""
+    ],
+    [
+        "Q21. The system of equations 3x + 7y = 9 and 10x + ky = 30 has infinite number of solutions when",
+        "(a) k = 50/3",
+        "(b) k = 55/3",
+        "(c) k = 70/3",
+        "(d) k = 77/3",
+        "Answer: (c) k = 70/3 ",
+        ""
+    ],
+    [
+        "Q22. If 3x - 5y = 5 and x/(x+y) = 5/7 then x + y = ?",
+        "(a) 5",
+        "(b) 7",
+        "(c) 11",
+        "(d) 13",
+        "Answer: (b) 7 ",
+        ""
+    ],
+    [
+        "Q23. On solving 3x + y = 7 and 3y = 2 + 2x we have ",
+        "(a) x = 23/11, y =8/11",
+        "(b) x = 21/11, y =9/11",
+        "(c) x = 17/11, y =7/11",
+        "(d) x = 13/11, y =5/11",
+        "Answer: (a) x = 23/11, y =8/11 ",
+        ""
+    ],
+    [
+        "Q24. The system of equations 3x + 2y = 3 and 6x + 4y = 3 has",
+        "(a) exactly two solutions",
+        "(b) no solutions",
+        "(c) a unique solution",
+        "(d) infinitely many solutions",
+        "Answer: (b) no solutions ",
+        ""
+    ],
+    [
+        "Q25. On solving 3x + y = 6 and 5y + x = 10, we get",
+        "(a) a = 5/7, y = 9/7",
+        "(b) a = 9/7, y = 11/7",
+        "(c) a = 10/7, y = 12/7",
+        "(d) a = 12/7, y = 13/7",
+        "Answer: (c) a = 10/7, y = 12/7 ",
+        ""
+    ],
+    [
+        "Q26. If 4x + 6y = 32 and 4x - 2y = 4 then 6y = ?",
+        "(a) 13",
+        "(b) 16",
+        "(c) 17",
+        "(d) 21",
+        "Answer: (d) 21 ",
+        ""
+    ],
+    [
+        "Q27. The solution of 2x + 3y = 2 and 3x + 2y = 2 can be represented by a point in the co-ordinate plane in",
+        "(a) 1st quadrant",
+        "(b) 2nd quadrant",
+        "(c) 3rd quadrant",
+        "(d) 4th quadrant",
+        "Answer: (a) 1st quadrant ",
+        ""
+    ],
+    [
+        "Q28. If \u03b1, \u03b2 are the roots of the equations x2 - px + q = 0 then the value of \u03b12 + \u03b22 is",
+        "(a) q - 2p",
+        "(b) p - 2q",
+        "(c) q2 - 2p",
+        "(d) p2 - 2q",
+        "Answer: (d) p2 - 2q ",
+        ""
+    ],
+    [
+        "Q29. A and B solved a quadratic equation. In solving it, A made a mistake in the constant term and obtained the roots as 6 and 2, while B made a mistake in the co-efficient of x only and obtained the roots -7 and -1. Find the correct roots of the equation.",
+        "(a) 1, 5",
+        "(b) 2, 5",
+        "(c) 1, 7",
+        "(d) 2, 9",
+        "Answer: (c) 1, 7 ",
+        ""
+    ],
+    [
+        "Q30. The sum of the roots of the equation 3x2 + (p + q + r)x + pqr = 0 is equal to zero. What is the value of (p3 + q3 + r3) = ?",
+        "(a) 2pqr",
+        "(b) 3pqr",
+        "(c) 2pq/r",
+        "(d) 3qr/p",
+        "Answer: (b) 3pqr"
+    ]
+]

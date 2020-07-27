@@ -1,0 +1,370 @@
+[
+    [
+        "Q1. Find the average of first 20 natural numbers ?",
+        "(a) 6",
+        "(b) 7.5",
+        "(c) 10.5",
+        "(d) 12",
+        "Answer: (c) 10.5 ",
+        ""
+    ],
+    [
+        "Q2. Total sale of a shop is 7770 Rs in a week. Find the",
+        "(a) 111",
+        "(b) 1110",
+        "(c) 770",
+        "(d) 999",
+        "Answer: (b) 1110 ",
+        ""
+    ],
+    [
+        "Q3. The average monthly salry of 10 emplpyees is 3600 Rs.",
+        "(a) 3700 Rs",
+        "(b) 4200 Rs",
+        "(c) 5800 Rs",
+        "(d) 6200 Rs",
+        "Answer: (c) 5800 Rs ",
+        ""
+    ],
+    [
+        "Q4. The average of three odd number is 45. What is the",
+        "(a) 33.3",
+        "(b) 42.3",
+        "(c) 45",
+        "(d) 47.5",
+        "Answer: (b) 42.3 ",
+        ""
+    ],
+    [
+        "Q5. A batsman in his 10th innings, makes a score of 72",
+        "(a) 45",
+        "(b) 46",
+        "(c) 47",
+        "(d) 48",
+        "Answer: (a) 45 ",
+        ""
+    ],
+    [
+        "Q6. A man covers half of his journey at 7 km/hr and the remaining half at 2 km/hr. His average speed is",
+        "(a) 2(1/2) km/hr",
+        "(b) 3(1/9) km/hr",
+        "(c) 4.5 km/hr",
+        "(d) 9 km/hr",
+        "Answer: (b) 3(1/9) km/hr ",
+        ""
+    ],
+    [
+        "Q7. The average age of 11 palyers of a cricket team is decreased by 2 months when two of them aged 17 years and 20 years are replaced by two new players. The average age of the new players is",
+        "(a) 17y 7 months",
+        "(b) 19y 3 months",
+        "(c) 21y 9 months",
+        "(d) 23y 11 months",
+        "Answer: (a) 17y 7 months ",
+        ""
+    ],
+    [
+        "Q8. A man covers half of his journey at 6 km/h and the remaining half at 4 km/h. His average speed is",
+        "(a) 3.9 km./h",
+        "(b) 4.3 km/h",
+        "(c) 4.8 km/h",
+        "(d) 5.2 km/h",
+        "Answer: (c) 4.8 km/h ",
+        ""
+    ],
+    [
+        "Q9. There were 35 students in a hostel. If the number of students be increased by 7, the expenditure on food increases by Rs. 42 per day while the average expenditure of students is reduced by Rs. 1. What was the initial expenditure on food per day ?",
+        "(a) Rs. 375",
+        "(b) Rs. 390",
+        "(c) Rs. 420",
+        "(d) Rs. 460",
+        "Answer: (c) Rs. 420 ",
+        ""
+    ],
+    [
+        "Q10. The average monthly salary of employees, consisting of officers and workers of an organisation is Rs. 3000. The average salary of an officer is Rs. 10000 while that of a worker is Rs. 2000 per month. If there are 400 employees in the organisation, the number of officers is",
+        "(a) 50",
+        "(b) 60",
+        "(c) 65",
+        "(d) 75",
+        "Answer: (a) 50 ",
+        ""
+    ],
+    [
+        "Q11. The average weight of 8 men is increased by 1.5 Kg when one of the men who weights 65 Kg is replaced by a new man. The weight of the new man is",
+        "(a) 65 Kg",
+        "(b) 77 Kg",
+        "(c) 82 Kg",
+        "(d) 90 Kg",
+        "Answer: (b) 77 Kg ",
+        ""
+    ],
+    [
+        "Q12. When the average age of a husband and wife and their son was 42 years. The son got married and a child was born just one year after their marriage. When child turned to be 5 years, then the average age of the family became 3 years. What was the age of daughter-in-law at the time of marriage ?",
+        "(a) 25 years",
+        "(b) 26 years",
+        "(c) 27 years",
+        "(d) 28 years",
+        "Answer: (a) 25 years ",
+        ""
+    ],
+    [
+        "Q13. The average monthly salary of the workers in a workshop is Rs. 8500. If the average monthly salary of 7 technicians is Rs. 10,000 and average monthly salary of the rest is Rs. 7800, the total number of workers in the workshop is",
+        "(a) 20",
+        "(b) 22",
+        "(c) 25",
+        "(d) 28",
+        "Answer: (b) 22 ",
+        ""
+    ],
+    [
+        "Q14. The mean of five numbers is 18. If one number is excluded, their mean is 16. The excluded number is",
+        "(a) 21",
+        "(b) 23",
+        "(c) 26",
+        "(d) 29",
+        "Answer: (c) 26 ",
+        ""
+    ],
+    [
+        "Q15. The average of a1, a2, a3, a4 is 16. Half of the sum of a2, a3, a4 is 23. What is the value of a1",
+        "(a) 18",
+        "(b) 21",
+        "(c) 26",
+        "(d) 31",
+        "Answer: (a) 18 ",
+        ""
+    ],
+    [
+        "Q16. The average of marks of 28 students in Mathematics was 50. Eight students left the school and then this average is increased by 5. What is the average of marks obtained by the students who left the school ?",
+        "(a) 30.5",
+        "(b) 32.6",
+        "(c) 35",
+        "(d) 37.5",
+        "Answer: (d) 37.5 ",
+        ""
+    ],
+    [
+        "Q17. A train moves with a speed of 30 km/h for 12 minutes and for next 8 minutes at a speed of 45 km/h. The average speed of the train is",
+        "(a) 32 km/h",
+        "(b) 36 km/h",
+        "(c) 38 km/h",
+        "(d) 41 km/h",
+        "Answer: (b) 36 km/h ",
+        ""
+    ],
+    [
+        "Q18. w, x, y, z are four consecutive odd numbers. Their average is",
+        "(a) w + 2",
+        "(b) w + 3",
+        "(c) w + 4",
+        "(d) w + 6",
+        "Answer: (b) w + 3 ",
+        ""
+    ],
+    [
+        "Q19. The average age of 8 persons in a committee is increased by 2 years when two men aged 35 years and 45 years are substituted by two women. The average age of these two women is",
+        "(a) 41 years",
+        "(b) 45 years",
+        "(c) 48 years",
+        "(d) 53 years",
+        "Answer: (c) 48 years ",
+        ""
+    ],
+    [
+        "Q20. Of the three numbers, second is twice the first and is also thrice the third. If the average of three numbers is 44, the largest number is",
+        "(a) 60",
+        "(b) 65",
+        "(c) 67",
+        "(d) 72",
+        "Answer: (d) 72 ",
+        ""
+    ],
+    [
+        "Q21. The average age of a class is 15.8 years. The average age of the boys in the class is 16.4 years and that of the girls is 15.4 years. What is the ratio of boys to girls in the class ?",
+        "(a) 2 : 3",
+        "(b) 2 : 4",
+        "(c) 3 : 4",
+        "(d) 3 : 5",
+        "Answer: (a) 2 : 3 ",
+        ""
+    ],
+    [
+        "Q22. The average score of a class of boys and girls in an examination is A. The ratio of boys and girls in the class is B:1. If the average score of the boys is (A+1), the average score of the girls is",
+        "(a) A + 2",
+        "(b) A - 2",
+        "(c) A + 3",
+        "(d) A - 3",
+        "Answer: (d) A - 3 ",
+        ""
+    ],
+    [
+        "Q23. The average of first 5 multiples of 5 is",
+        "(a) 10",
+        "(b) 15",
+        "(c) 20",
+        "(d) 25",
+        "Answer: (b) 15 ",
+        ""
+    ],
+    [
+        "Q24. The mean of 100 items was found to be 30. If at the time of calculation, two items were wrongly taken as 32 and 12 instead of 23 and 11, the correct mean is ",
+        "(a) 29.90",
+        "(b) 31.32",
+        "(c) 32.50",
+        "(d) 33.45",
+        "Answer: (a) 29.90 ",
+        ""
+    ],
+    [
+        "Q25. If the total monthly income of 16 persons is Rs. 80800 and income of one of them is 120% of the average income, then his income is",
+        "(a) Rs. 5030",
+        "(b) Rs. 5075",
+        "(c) Rs. 6060",
+        "(d) Rs. 7025",
+        "Answer: (c) Rs. 6060 ",
+        ""
+    ],
+    [
+        "Q26. The average age of three boys is 16 years. If their ages are in the ratio 4:5:7, then the age of youngest boy is",
+        "(a) 10 years",
+        "(b) 12 years",
+        "(c) 14 years",
+        "(d) 15 years",
+        "Answer: (b) 12 years ",
+        ""
+    ],
+    [
+        "Q27. A man bought 4 shirts at Rs. 400 each, 4 pents at Rs. 300 each and 5 pairs of shoes at Rs. 500 each. What is the average expenditure per article ?",
+        "(a) Rs. 500",
+        "(b) Rs. 600",
+        "(c) Rs. 700",
+        "(d) Rs. 850",
+        "Answer: (b) Rs. 600 ",
+        ""
+    ],
+    [
+        "Q28. The average height of the students in a class of 12 is 110 cm. If 18 more students with an average height of 115 cm join the class, what will be the new average height be ?",
+        "(a) 92 cm",
+        "(b) 95 cm",
+        "(c) 102 cm",
+        "(d) 113 cm",
+        "Answer: (d) 113 cm ",
+        ""
+    ],
+    [
+        "Q29. The average of five consecutive natural numbers is m. If the next three natural numbers are also included, how much more than m will the average of these 8 numbers be ?",
+        "(a) 1.5",
+        "(b) 1.7",
+        "(c) 1.8",
+        "(d) 2.1",
+        "Answer: (a) 1.5 ",
+        ""
+    ],
+    [
+        "Q30. In an examination, a student's average marks were 55 per paper. If he had obtained 10 more marks for his Maths paper and 2 more marks for his Biology paper, his average per paper would have 57. How many papers were there in the examination.",
+        "(a) 5",
+        "(b) 6",
+        "(c) 7",
+        "(d) 8",
+        "Answer: (b) 6 ",
+        ""
+    ],
+    [
+        "Q31. The average of marks in English for ten students was found to be 45. Later on, it was discovered that in case of one student, the marks 46 were misread as 64. The correct averaage is",
+        "(a) 43.2",
+        "(b) 45.5",
+        "(c) 49.3",
+        "(d) 53.2",
+        "Answer: (a) 43.2 ",
+        ""
+    ],
+    [
+        "Q32. The average temperature for Sunday, Monday and Tuesday was 35\u00b0C. The average temperature for Monday, Tuesday and Wednessday was 36\u00b0C. If the temperature on Wednessday be 37\u00b0C, find the temperature on Sunday ?",
+        "(a) 33\u00b0",
+        "(b) 34\u00b0",
+        "(c) 35\u00b0",
+        "(d) 36\u00b0",
+        "Answer: (b) 34\u00b0 ",
+        ""
+    ],
+    [
+        "Q33. The average of five numbers is 26. If one number is excluded, the average become 28. Find the excluded number.",
+        "(a) 14",
+        "(b) 15",
+        "(c) 17",
+        "(d) 18",
+        "Answer: (d) 18 ",
+        ""
+    ],
+    [
+        "Q34. If the average of x numbers is y2 and that of y number is x2, then the average of (x+y) number is",
+        "(a) x + y",
+        "(b) xy2",
+        "(c) xy",
+        "(d) (xy)2",
+        "Answer: (c) xy ",
+        ""
+    ],
+    [
+        "Q35. The average of 6 numbers is 30. If the average of first four is 25 and that of last three is 40, the fourth number is ?",
+        "(a) 30",
+        "(b) 35",
+        "(c) 40",
+        "(d) 45",
+        "Answer: (c) 40 ",
+        ""
+    ],
+    [
+        "Q36. What is the least number to be added to 235 to make it a perfect square ?",
+        "(a) 14",
+        "(b) 15",
+        "(c) 17",
+        "(d) 21",
+        "Answer: (d) 21 ",
+        ""
+    ],
+    [
+        "Q37. What is the least number to be substructed from 235 to make it a perfect square ?",
+        "(a) 7",
+        "(b) 10",
+        "(c) 15",
+        "(d) 17",
+        "Answer: (b) 10 ",
+        ""
+    ],
+    [
+        "Q38. If a = \u221a5 + \u221a5 + \u221a5 + ...... \u03b1 , then what is the value of a",
+        "(a) 2.29",
+        "(b) 3.19",
+        "(c) 3.82",
+        "(d) 4.10",
+        "Answer: (a) 2.29 ",
+        ""
+    ],
+    [
+        "Q39. What is the smallest number by which 6750 must be divided to make it a perfect cube ?",
+        "(a) 2",
+        "(b) 3",
+        "(c) 4",
+        "(d) 5",
+        "Answer: (a) 2 ",
+        ""
+    ],
+    [
+        "Q40. Number of digits in the square root of 625686734489 is",
+        "(a) 5",
+        "(b) 6",
+        "(c) 8",
+        "(d) 9",
+        "Answer: (b) 6 ",
+        ""
+    ],
+    [
+        "Q41. Three-fifth of the square of a certain number is 126.15. What is the number",
+        "(a) 13.7",
+        "(b) 14.5",
+        "(c) 14.9",
+        "(d) 15.2",
+        "Answer: (b) 14.5"
+    ]
+]

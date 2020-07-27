@@ -1,0 +1,271 @@
+[
+    [
+        "Q1. Find the volume and surface area of a cuboid 10m long, 8m broad and 4m high ?",
+        "(a) 256m2",
+        "(b) 284m2",
+        "(c) 304m2",
+        "(d) 326m2",
+        "Answer: (c) 304m2 ",
+        ""
+    ],
+    [
+        "Q2. The surface area of a cube is 216m2. Find its volume.",
+        "(a) 188m3",
+        "(b) 204m3",
+        "(c) 216m3",
+        "(d) 226m3",
+        "Answer: (c) 216m3 ",
+        ""
+    ],
+    [
+        "Q3. Find the volume and the surface area of a sphere of diameter 14 cm",
+        "(a) 116 cm2",
+        "(b) 332 cm2",
+        "(c) 498 cm2",
+        "(d) 616 cm2",
+        "Answer: (d) 616 cm2 ",
+        ""
+    ],
+    [
+        "Q4. The length of the longest pole that can be kept in a room 5m long, 4m broad and 2m height is",
+        "(a) 3\u221a 5 m",
+        "(b) 4\u221a 5 m",
+        "(c) 5\u221a 5 m",
+        "(d) 7\u221a 5 m",
+        "Answer: (a) 3\u221a 5 m ",
+        ""
+    ],
+    [
+        "Q5. A rectangular water reservoir contains 54000 liters of water. If the length of reservoir is 9m and breadth is 4m, then the depth of the reservoir is",
+        "(a) 1.3 m",
+        "(b) 1.5 m",
+        "(c) 2.2 m",
+        "(d) 2.3 m",
+        "Answer: (b) 1.5 m ",
+        ""
+    ],
+    [
+        "Q6. What part of a ditch 48m long, 16.5m broad and 4m deep can be filled by the earth got by digging a cylindrical tunnel of diameter 4m and length 56m ?",
+        "(a) 2/7",
+        "(b) 2/9",
+        "(c) 3/5",
+        "(d) 3/7",
+        "Answer: (b) 2/9 ",
+        ""
+    ],
+    [
+        "Q7. The product of the areas of three adjacent faces of a rectangular box is equal to",
+        "(a) volume of the box",
+        "(b) twice the volume of the box",
+        "(c) the square of the volume of the box",
+        "(d) cube root of the volume of the box",
+        "Answer: (c) the square of the volume of the box ",
+        ""
+    ],
+    [
+        "Q8. The surface area of a (12cm X 5cm X 3cm) brick is",
+        "(a) 135 cm2",
+        "(b) 196 cm2",
+        "(c) 222 cm2",
+        "(d) 248 cm2",
+        "Answer: (c) 222 cm2 ",
+        ""
+    ],
+    [
+        "Q9. If the areas of three adjacent faces of a cuboid are x, y, z respectively, then the volume of the cuboid is",
+        "(a) xyz",
+        "(b) (xyz)2",
+        "(c) xy/z",
+        "(d) \u221a xyz",
+        "Answer: (d) \u221a xyz ",
+        ""
+    ],
+    [
+        "Q10. The diagonal of a cube measures 5\u221a 3 cm. Its volume is",
+        "(a) 102 cm3",
+        "(b) 105 cm3",
+        "(c) 111 cm3",
+        "(d) 125 cm3",
+        "Answer: (d) 125 cm3 ",
+        ""
+    ],
+    [
+        "Q11. The area of the base of the rectangular tank is 6500 cm2 and the volume of the water contained in it is 32.5 cubic meters. The depth of the water in the tank is",
+        "(a) 42m",
+        "(b) 50m",
+        "(c) 57m",
+        "(d) 62m",
+        "Answer: (b) 50m ",
+        ""
+    ],
+    [
+        "Q12. A covered wooden box has the inner measures as 110cm, 70cm and 30cm and the thickness of wood is 2.5cm. The volume of the wood is",
+        "(a) 54982 cm3",
+        "(b) 62547 cm3",
+        "(c) 69832 cm3",
+        "(d) 70875 cm3",
+        "Answer: (d) 70875 cm3 ",
+        ""
+    ],
+    [
+        "Q13. A hall is 15m long and 10m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of the 4 walls, the volume of the hall is",
+        "(a) 815 m3",
+        "(b) 875 m3",
+        "(c) 900 m3",
+        "(d) 950 m3",
+        "Answer: (c) 900 m3 ",
+        ""
+    ],
+    [
+        "Q14. The sum of the length, breadth and depth of a cuboid is 20cm and its diagonal is 5\u221a 5 cm. Its surface area is",
+        "(a) 230 cm2",
+        "(b) 275 cm2",
+        "(c) 333 cm2",
+        "(d) 350 cm2",
+        "Answer: (b) 275 cm2 ",
+        ""
+    ],
+    [
+        "Q15. The size of a wooden block is (12cm X 10cm X 8cm). How many such blocks will be required to construct a solid wooden cube of minimum size ?",
+        "(a) 1300",
+        "(b) 1500",
+        "(c) 1600",
+        "(d) 1800",
+        "Answer: (d) 1800 ",
+        ""
+    ],
+    [
+        "Q16. The height of a cylinder is 12cm and its diameter is 10cm. The volume of the cylinder is",
+        "(a) 733.50 cm3",
+        "(b) 856.21 cm3",
+        "(c) 942.85 cm3",
+        "(d) 993.88 cm3",
+        "Answer: (c) 942.85 cm3 ",
+        ""
+    ],
+    [
+        "Q17. The height of a cylinder is 14cm and its curved surface area is 264cm2. The volume of the cylinder is",
+        "(a) 396 cm3",
+        "(b) 451 cm3",
+        "(c) 482 cm3",
+        "(d) 527 cm3",
+        "Answer: (a) 396 cm3 ",
+        ""
+    ],
+    [
+        "Q18. A cylinder has a radius of 7 cm and the area of its curved surface is 176 cm2. The volume of the cylinder is",
+        "(a) 577 cm3",
+        "(b) 616 cm3",
+        "(c) 659 cm3",
+        "(d) 721 cm3",
+        "Answer: (b) 616 cm3 ",
+        ""
+    ],
+    [
+        "Q19. The ratio of the radius of two cylinders is 2:3 and the ratio of their heights is 3:5. The ratio of their volumes will be",
+        "(a) 3:7",
+        "(b) 3:17",
+        "(c) 4:15",
+        "(d) 4:17",
+        "Answer: (c) 4:15 ",
+        ""
+    ],
+    [
+        "Q20. The number of coins, 1.5 cm in diameter and 0.2 cm thick to be melted to form a right circular cylinder of height 10 cm and diameter 4.5 cm is ",
+        "(a) 375",
+        "(b) 390",
+        "(c) 420",
+        "(d) 450",
+        "Answer: (d) 450 ",
+        ""
+    ],
+    [
+        "Q21. Find the area of the iron sheet required to prepare a cone 20 cm height with base radius 15 cm.",
+        "(a) 1126.60 cm2",
+        "(b) 1365.25 cm2",
+        "(c) 1750.35 cm2",
+        "(d) 1885.71 cm2",
+        "Answer: (d) 1885.71 cm2 ",
+        ""
+    ],
+    [
+        "Q22. A rectangular water tank is open at the top. Its capacity is 24m3. Its length and breadth are 4 m and 3 m respectively. Ignoring the thickness of the material used for building the tank, the total cost of painting the ineer and outer surfaces of the tank at Rs. 10 per m2 is",
+        "(a) Rs. 650",
+        "(b) Rs. 750",
+        "(c) Rs. 800",
+        "(d) Rs. 900",
+        "Answer: (c) Rs. 800 ",
+        ""
+    ],
+    [
+        "Q23. What will be the area of an iron sheet which can be used to form a cone having base radius 7 cm and height 24 cm ?",
+        "(a) 704 cm2",
+        "(b) 712 cm2",
+        "(c) 726 cm2",
+        "(d) 740 cm2",
+        "Answer: (a) 704 cm2 ",
+        ""
+    ],
+    [
+        "Q24. The ratio of the radius and height of a cone is 5:12. Its volume is 314 2/7 cc. Its slant height is.",
+        "(a) 13 cm",
+        "(b) 15 cm",
+        "(c) 16 cm",
+        "(d) 21 cm",
+        "Answer: (a) 13 cm ",
+        ""
+    ],
+    [
+        "Q25. If the ratio of volumes of two cones is 2:3 and the ratio of the raddi of their bases is 1:2, then the ratio of their heights will be",
+        "(a) 5:4",
+        "(b) 5:3",
+        "(c) 7:3",
+        "(d) 8:3",
+        "Answer: (d) 8:3 ",
+        ""
+    ],
+    [
+        "Q26. The volume of a hemisphere of radius 7 cm is",
+        "(a) 712.5 cm3",
+        "(b) 718.6 cm3",
+        "(c) 723.6 cm3",
+        "(d) 728.3 cm3",
+        "Answer: (b) 718.6 cm3 ",
+        ""
+    ],
+    [
+        "Q27. How many balls of diameter 0.4 cm each are formed a cuboid of measuring (4cm X 5cm X 6cm) ?",
+        "(a) 3512",
+        "(b) 3580",
+        "(c) 3620",
+        "(d) 3675",
+        "Answer: (b) 3580 ",
+        ""
+    ],
+    [
+        "Q28. The volume of a sphere is 2145 11/21 cm3. Its diameter is",
+        "(a) 16 cm",
+        "(b) 18 cm",
+        "(c) 21 cm",
+        "(d) 23 cm",
+        "Answer: (a) 16 cm ",
+        ""
+    ],
+    [
+        "Q29. A cone of height 15 cm and base diameter 30 cm is carved out of a wooden sphere of radius 15 cm. The percentage of wasted wood is",
+        "(a) 61%",
+        "(b) 65%",
+        "(c) 72%",
+        "(d) 75%",
+        "Answer: (d) 75% ",
+        ""
+    ],
+    [
+        "Q30. 12 sphere of the same size are made by melting a solid cylinder of 16 cm diameter and 2 cm height. The diameter of each sphere is",
+        "(a) 4 cm",
+        "(b) 6 cm",
+        "(c) 7 cm",
+        "(d) 8 cm",
+        "Answer: (a) 4 cm"
+    ]
+]

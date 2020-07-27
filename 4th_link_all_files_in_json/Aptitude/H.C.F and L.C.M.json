@@ -1,0 +1,370 @@
+[
+    [
+        "Q1. 128352/238368 when reduced to its lowest terms is",
+        "(a) 5/11",
+        "(b) 7/13",
+        "(c) 9/17",
+        "(d) 11/13",
+        "Answer: (b) 7/13 ",
+        ""
+    ],
+    [
+        "Q2. The L.C.M of 3/4, 6/7, 9/8 is",
+        "(a) 12",
+        "(b) 15",
+        "(c) 18",
+        "(d) 21",
+        "Answer: (c) 18 ",
+        ""
+    ],
+    [
+        "Q3. The ratio between two numbers is 15:11. If their H.C.F is 13, then the numbers are",
+        "(a) 141, 135",
+        "(b) 174, 145",
+        "(c) 195, 143",
+        "(d) 201, 157",
+        "Answer: (c) 195, 143 ",
+        ""
+    ],
+    [
+        "Q4. The sum of two numbers is 495 and their H.C.F is 33. The numbers of such pairs is",
+        "(a) 3",
+        "(b) 4",
+        "(c) 6",
+        "(d) 7",
+        "Answer: (b) 4 ",
+        ""
+    ],
+    [
+        "Q5. The H.C.F of two numbers is 25. The number which can be their L.C.M is",
+        "(a) 80",
+        "(b) 95",
+        "(c) 116",
+        "(d) 125",
+        "Answer: (d) 125 ",
+        ""
+    ],
+    [
+        "Q6. A, B and C go walking round a circle 2 km in circumference at the rates of 20 m/min, 40m/min and 50 m/min respectively. If they all start together and walk in the same direction, when will they be together at the same place ?",
+        "(a) 110 min",
+        "(b) 145 min",
+        "(c) 170 min",
+        "(d) 200 min",
+        "Answer: (d) 200 min ",
+        ""
+    ],
+    [
+        "Q7. Which greatest number will divide 3026 and 5053 leaving remainders 11 and 13 respectively ?",
+        "(a) 45",
+        "(b) 51",
+        "(c) 57",
+        "(d) 63",
+        "Answer: (a) 45 ",
+        ""
+    ],
+    [
+        "Q8. The greatest number of 5 digits, which is divisible by 15, 20, 25 is",
+        "(a) 99000",
+        "(b) 99900",
+        "(c) 99990",
+        "(d) 99999",
+        "Answer: (b) 99900 ",
+        ""
+    ],
+    [
+        "Q9. What is the greatest number of 3 digits which when divided by 6, 9, 12 leaves a remainder 3 in each case ?",
+        "(a) 850",
+        "(b) 925",
+        "(c) 975",
+        "(d) 1050",
+        "Answer: (c) 975 ",
+        ""
+    ],
+    [
+        "Q10. If two numbers are in the ratio of 3:2 and the product of their H.C.F and L.C.M is 3750, then the sum of the numbers is",
+        "(a) 125",
+        "(b) 133",
+        "(c) 147",
+        "(d) 155",
+        "Answer: (a) 125 ",
+        ""
+    ],
+    [
+        "Q11. If two numbers are in the ratio 7:5 and their L.C.M is 315, then their sum is",
+        "(a) 108",
+        "(b) 123",
+        "(c) 135",
+        "(d) 141",
+        "Answer: (a) 108 ",
+        ""
+    ],
+    [
+        "Q12. The least perfect square number which is divisible by 4, 5, 6 and 8 is",
+        "(a) 3200",
+        "(b) 3400",
+        "(c) 3600",
+        "(d) 3800",
+        "Answer: (c) 3600 ",
+        ""
+    ],
+    [
+        "Q13. The smallest number which is divisible by 12, 15, 25 and is a perfect square is",
+        "(a) 3100",
+        "(b) 3350",
+        "(c) 3500",
+        "(d) 3600",
+        "Answer: (d) 3600 ",
+        ""
+    ],
+    [
+        "Q14. The traffic lights at three different road crossing change after every 48 seconds, 72 seconds and 108 seconds respectively. If they all change simultaneously at 8.20 hours, then at what time will they again change simultaneously ?",
+        "(a) 8.22.15 hrs",
+        "(b) 8.27.12 hrs",
+        "(c) 8.28.35 hrs",
+        "(d) 8.30.30 hrs",
+        "Answer: (b) 8.27.12 hrs ",
+        ""
+    ],
+    [
+        "Q15. An electronic device makes a beep after every 60 sec. Another device makes a beep after every 62 sec. They beeped together at 10 a.m. The next time, when they would beep together at the earliest",
+        "(a) 10.31 am",
+        "(b) 10.39 am",
+        "(c) 10.46 am",
+        "(d) 10.51 am",
+        "Answer: (a) 10.31 am ",
+        ""
+    ],
+    [
+        "Q16. What is the least number which when divided by 9, 12, 15 leaves a remainder 2 in each case ?",
+        "(a) 182",
+        "(b) 189",
+        "(c) 197",
+        "(d) 201",
+        "Answer: (a) 182 ",
+        ""
+    ],
+    [
+        "Q17. Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10, 12 seconds respectively. In 30 minutes, how many times do they toll together ?",
+        "(a) 16 times",
+        "(b) 19 times",
+        "(c) 21 times",
+        "(d) 24 times",
+        "Answer: (a) 16 times ",
+        ""
+    ],
+    [
+        "Q18. The L.C.M of two prime numbers a and b (a > b) is 161. The value of 2a - b is",
+        "(a) 29",
+        "(b) 32",
+        "(c) 39",
+        "(d) 43",
+        "Answer: (c) 39 ",
+        ""
+    ],
+    [
+        "Q19. Six bells commence tolling together and toll at intervals of 2, 4, 6, 8, 10, 12 seconds respectively. In 28 minutes, how many times do they toll together.",
+        "(a) 11 times",
+        "(b) 12 times",
+        "(c) 15 times",
+        "(d) 19 times",
+        "Answer: (c) 15 times ",
+        ""
+    ],
+    [
+        "Q20. The ratio between two numbers is 4:5. If their L.C.M is 180, then the numbers are",
+        "(a) 14, 24",
+        "(b) 16, 38",
+        "(c) 30, 42",
+        "(d) 36, 45",
+        "Answer: (d) 36, 45 ",
+        ""
+    ],
+    [
+        "Q21. The largest number that divides 210, 315 and 168 exactly is",
+        "(a) 13",
+        "(b) 16",
+        "(c) 21",
+        "(d) 27",
+        "Answer: (c) 21 ",
+        ""
+    ],
+    [
+        "Q22. A bell rings every 5 minutes. A second bell rings every 6 minutes and if two bells ring at 8 o'clock in the morning, then the next time they will ring together at ",
+        "(a) 8.10 o'clock",
+        "(b) 8.15 o'clock",
+        "(c) 8.20 o'clock",
+        "(d) 8.30 o'clock",
+        "Answer: (d) 8.30 o'clock ",
+        ""
+    ],
+    [
+        "Q23. Three different containers contain different quantities of mixtures of milk and water, whose measurements are 403 Kg, 434 Kg and 465 Kg. What biggest measure must be there to measure all the difefrent quantities exactly ?",
+        "(a) 26 Kg",
+        "(b) 31 Kg",
+        "(c) 35 Kg",
+        "(d) 37 Kg",
+        "Answer: (b) 31 Kg ",
+        ""
+    ],
+    [
+        "Q24. A, B and C starts at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and C in 198 seconds, all starting at the same point. After what time will they meet again at the starting point ?",
+        "(a) 38 min 18 sec",
+        "(b) 46 min 12 sec",
+        "(c) 49 min 30 sec",
+        "(d) 52 min 22 sec",
+        "Answer: (b) 46 min 12 sec ",
+        ""
+    ],
+    [
+        "Q25. Three sets of English, Mathematics and Science books containing 336, 240 and 96 books respectively have to be stacked in such a way that all the books are stored subject wise and the height of each stack in the same. Total number of stacks will be",
+        "(a) 14",
+        "(b) 17",
+        "(c) 21",
+        "(d) 25",
+        "Answer: (a) 14 ",
+        ""
+    ],
+    [
+        "Q26. What is the least number which when diminished by 4 is divisible by each one of 20, 30, 36 ?",
+        "(a) 499",
+        "(b) 507",
+        "(c) 521",
+        "(d) 544",
+        "Answer: (d) 544 ",
+        ""
+    ],
+    [
+        "Q27. The H.C.F and L.C.M of two numbers are 21 and 4641 respectively. If one of the number lies between 200 and 300, then the two numbers are",
+        "(a) 251, 178",
+        "(b) 273, 357",
+        "(c) 323, 389",
+        "(d) 339, 421",
+        "Answer: (b) 273, 357 ",
+        ""
+    ],
+    [
+        "Q28. Two 3 digit numbers have their H.C.F 29 and L.C.M 4147. The sum of the numbers is",
+        "(a) 635",
+        "(b) 696",
+        "(c) 733",
+        "(d) 749",
+        "Answer: (b) 696 ",
+        ""
+    ],
+    [
+        "Q29. The L.C.M of two numbers is 12 times their H.C.F. The sum of the H.C.F and L.C.M is 403. If one number is 93, then the other is",
+        "(a) 124",
+        "(b) 139",
+        "(c) 156",
+        "(d) 177",
+        "Answer: (a) 124 ",
+        ""
+    ],
+    [
+        "Q30. The capacity of two pots is 120 liters and 56 liters respectively. The capacity of a container which can exactly measure the context of the two pots is",
+        "(a) 5000 cc",
+        "(b) 6000 cc",
+        "(c) 6500 cc",
+        "(d) 8000 cc",
+        "Answer: (d) 8000 cc ",
+        ""
+    ],
+    [
+        "Q31. Find the H.C.F of (3 X 32 X 5 X 74), (32 X 33 X 52 X 7) and (33 X 35 X 53 X 75)",
+        "(a) 890",
+        "(b) 912",
+        "(c) 945",
+        "(d) 980",
+        "Answer: (c) 945 ",
+        ""
+    ],
+    [
+        "Q32. Find the H.C.F and L.C.M of 2/3, 8/9, 10/27 and 16/81",
+        "(a) 3/70, 71/5",
+        "(b) 2/81, 80/3",
+        "(c) 5/83, 83/7",
+        "(d) 5/99, 92/7",
+        "Answer: (b) 2/81, 80/3 ",
+        ""
+    ],
+    [
+        "Q33. Two numbers are in the ratio 6 : 13. If their H.C.F is 5, find the numbers.",
+        "(a) 25, 65",
+        "(b) 30, 65",
+        "(c) 35, 85",
+        "(d) 40, 90",
+        "Answer: (b) 30, 65 ",
+        ""
+    ],
+    [
+        "Q34. The H.C.F of two numbers is 5 and their L.C.M is 120. If one of the numbers is 40, find the other.",
+        "(a) 15",
+        "(b) 21",
+        "(c) 23",
+        "(d) 28",
+        "Answer: (a) 15 ",
+        ""
+    ],
+    [
+        "Q35. Four electronics devices make a beep after every 20 minutes, 40 minutes, 1 hour and 1\u00bd hour respectively. All the devices beeped together at 12 noon. At what time will they beep together again?",
+        "(a) 4 PM",
+        "(b) 5 PM",
+        "(c) 6 PM",
+        "(d) 7 PM",
+        "Answer: (c) 6 PM ",
+        ""
+    ],
+    [
+        "Q36. Find the least number which when divided by 3, 4, 5, 6, 10 leaves the same remainder 3 in each case.",
+        "(a) 63",
+        "(b) 65",
+        "(c) 69",
+        "(d) 72",
+        "Answer: (a) 63 ",
+        ""
+    ],
+    [
+        "Q37. The L.C.M of (22 X 33 X 5 X 112), (24 X 3 X 52 X 11), and (2 X 3 X 53 X 113) is",
+        "(a) 22 X 34 X 52 X 113",
+        "(b) 23 X 33 X 53 X 112",
+        "(c) 24 X 32 X 52 X 113",
+        "(d) 24 X 33 X 53 X 113",
+        "Answer: (d) 24 X 33 X 53 X 113 ",
+        ""
+    ],
+    [
+        "Q38. The sum of two numbers is 50. Their difference is 1/5 of their sum. The L.C.M is",
+        "(a) 54",
+        "(b) 55",
+        "(c) 57",
+        "(d) 60",
+        "Answer: (d) 60 ",
+        ""
+    ],
+    [
+        "Q39. The H.C.F and L.C.M of two numbers are 10 and 60 respectively. If the sum of the numbers is 50, then one of the number will be",
+        "(a) 5, 10",
+        "(b) 15, 20",
+        "(c) 20, 30",
+        "(d) 25, 35",
+        "Answer: (c) 20, 30 ",
+        ""
+    ],
+    [
+        "Q40. The H.C.F of three numbers is 10. If they are in the ratio 1 :2: 3, then the numbers are",
+        "(a) 5, 10, 15",
+        "(b) 10, 20, 30",
+        "(c) 15, 30, 45",
+        "(d) 20, 40, 80",
+        "Answer: (b) 10, 20, 30 ",
+        ""
+    ],
+    [
+        "Q41. The H.C.F and L.C.M of two numbers a and b are respectively 3 and 105. If a - b = 30, then (1/a) - (1/b) = ?",
+        "(a) -2/21",
+        "(b) -3/17",
+        "(c) -2/13",
+        "(d) -3/23",
+        "Answer: (a) -2/21"
+    ]
+]

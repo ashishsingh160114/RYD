@@ -1,0 +1,181 @@
+[
+    [
+        "Q1. If Sin\u03b8 = 1/\u221a2 and Cos\u03b8 = 1/\u221a3, then tan\u03b8 = ?",
+        "(a) \u221a3/\u221a2",
+        "(b) \u221a2/\u221a3",
+        "(c) \u221a5/\u221a3",
+        "(d) \u221a3/\u221a5",
+        "Answer: (a) \u221a3/\u221a2 ",
+        ""
+    ],
+    [
+        "Q2. If tan\u03b8 = 3/5 and \u03b8 is avute angle the Cosec\u03b8 = ?",
+        "(a) \u221a23/\u221a2",
+        "(b) \u221a29/\u221a2",
+        "(c) \u221a34/\u221a3",
+        "(d) \u221a37/\u221a5",
+        "Answer: (c) \u221a34/\u221a3 ",
+        ""
+    ],
+    [
+        "Q3. If Sin\u03b8 = \u221a3/2, then the value of 2(Cosec\u03b8 + Cot\u03b8) = ?",
+        "(a) 2\u221a3",
+        "(b) 2\u221a5",
+        "(c) 3\u221a2",
+        "(d) 5\u221a3",
+        "Answer: (a) 2\u221a3 ",
+        ""
+    ],
+    [
+        "Q4. (5\u03c0/6) radians = ?",
+        "(a) 1200",
+        "(b) 1500",
+        "(c) 1800",
+        "(d) 2200",
+        "Answer: (b) 1500 ",
+        ""
+    ],
+    [
+        "Q5.",
+        "(a) 1",
+        "(b) 3",
+        "(c) 4",
+        "(d) 5",
+        "Answer: (a) 1 ",
+        ""
+    ],
+    [
+        "Q6. The maximum value of (Sin\u03b8 + Cos\u03b8) is",
+        "(a) \u221a2",
+        "(b) \u221a3",
+        "(c) \u221a4",
+        "(d) \u221a5",
+        "Answer: (a) \u221a2 ",
+        ""
+    ],
+    [
+        "Q7. If xSin2600 - \u00bd Sec600tan2300 + 4/3Sin2450tan2600 = 0, then x2 = ?",
+        "(a) 200/61",
+        "(b) 300/71",
+        "(c) 350/79",
+        "(d) 400/81",
+        "Answer: (d) 400/81 ",
+        ""
+    ],
+    [
+        "Q8. 3Sin2300 - 3Cos2450 + 3tan2600 = ?",
+        "(a) 31/3",
+        "(b) 33/4",
+        "(c) 37/7",
+        "(d) 39/11",
+        "Answer: (b) 33/4 ",
+        ""
+    ],
+    [
+        "Q9. If Cos\u03b8 = 5/13 , 0 \u2220 \u03b8 \u2220 \u03c0/2, then (Cos\u03b8 + 5Cot\u03b8)/(Cosec\u03b8 + Cos\u03b8) = ?",
+        "(a) 375/221",
+        "(b) 385/229",
+        "(c) 392/321",
+        "(d) 399/339",
+        "Answer: (b) 385/229 ",
+        ""
+    ],
+    [
+        "Q10. If tan2450 - Cos2600 = xSin450Cos450tan600, then x2 = ?",
+        "(a) 2/3",
+        "(b) 2/5",
+        "(c) 3/5",
+        "(d) 3/7",
+        "Answer: (c) 3/5 ",
+        ""
+    ],
+    [
+        "Q11. The angle of elevation of a tower from a distance 100m from its foot is 300. The height of the tower is",
+        "(a) 65/\u221a2 m",
+        "(b) 75/\u221a2 m",
+        "(c) 90/\u221a3 m",
+        "(d) 100/\u221a3 m",
+        "Answer: (d) 100/\u221a3 m ",
+        ""
+    ],
+    [
+        "Q12. At an instant, the length of the shadow of a pole is \u221a3 times the height of the pole. The angle of the elevation of the sun is",
+        "(a) 300",
+        "(b) 450",
+        "(c) 600",
+        "(d) 900",
+        "Answer: (a) 300 ",
+        ""
+    ],
+    [
+        "Q13. The angles of depression of two ships from the top of a light house are 450 and 300 towards east. If the ships are 100 m apart, the height of the light house is",
+        "(a) 20(\u221a2 + 1)",
+        "(b) 30(\u221a3 + 1)",
+        "(c) 40(\u221a2 + 1)",
+        "(d) 50(\u221a3 + 1)",
+        "Answer: (d) 50(\u221a3 + 1) ",
+        ""
+    ],
+    [
+        "Q14. From the top of a cliff 90 m high, the angles of depression of the top and bottom of a tower are observed to be 300 and 600 respectively. What is the height of the tower ?",
+        "(a) 45 m",
+        "(b) 50 m",
+        "(c) 60 m",
+        "(d) 70 m",
+        "Answer: (c) 60 m ",
+        ""
+    ],
+    [
+        "Q15. If Sin 320 = x, then Cos 580 = ?",
+        "(a) x",
+        "(b) 1/x",
+        "(c) x2",
+        "(d) x3",
+        "Answer: (a) x ",
+        ""
+    ],
+    [
+        "Q16. Two men are opposite sides of a tower. They measure the angles of evaluation of the top of the tower as 300 and 450 respectively. If the height of the tower is 100 m, find the distance between the two men.",
+        "(a) 80(\u221a2 + 1) m",
+        "(b) 90(\u221a3 + 1) m",
+        "(c) 100(\u221a3 + 1) m",
+        "(d) 120(\u221a5 + 1) m",
+        "Answer: (c) 100(\u221a3 + 1) m ",
+        ""
+    ],
+    [
+        "Q17. \u221a(1+SinA)/(1-SinA) = ?",
+        "(a) SecA + SinA",
+        "(b) CosA + SinA",
+        "(c) SecA + tanA",
+        "(d) SecA + CosA",
+        "Answer: (c) SecA + tanA ",
+        ""
+    ],
+    [
+        "Q18. The angle of elevation of a ladder leaning against a wall is 450 and the foot of the ladder is 6m away from the wall. The length of the ladder is",
+        "(a) 4\u221a2 m",
+        "(b) 5\u221a3 m",
+        "(c) 6\u221a2 m",
+        "(d) 7\u221a3 m",
+        "Answer: (c) 6\u221a2 m ",
+        ""
+    ],
+    [
+        "Q19. tan350tan400tan450tan500tan550 = ?",
+        "(a) 1",
+        "(b) 2",
+        "(c) 4",
+        "(d) 5",
+        "Answer: (a) 1 ",
+        ""
+    ],
+    [
+        "Q20. The shadow of a building is 20m long when the angle of elevation of the Sun is 450. Find the height of the building.",
+        "(a) 15 m",
+        "(b) 18 m",
+        "(c) 20 m",
+        "(d) 23 m",
+        "Answer: (c) 20 "
+    ]
+]

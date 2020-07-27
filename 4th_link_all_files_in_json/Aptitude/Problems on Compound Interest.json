@@ -1,0 +1,181 @@
+[
+    [
+        "Q1. Find the compound interest on Rs. 5000 at 6% per annum for 2 years.",
+        "(a) 602",
+        "(b) 618",
+        "(c) 653",
+        "(d) 669",
+        "Answer: (b) 618",
+        ""
+    ],
+    [
+        "Q2. The difference between the simple interest and the compond interest on Rs 4000 at 10% per annum for 2 years is",
+        "(a) 20",
+        "(b) 30",
+        "(c) 40",
+        "(d) 50",
+        "Answer: (c) 40",
+        ""
+    ],
+    [
+        "Q3. The difference between compound interest and simple interest on Rs. 8000 at 5 % per annum for 3 years is",
+        "(a) 57",
+        "(b) 61",
+        "(c) 65",
+        "(d) 69",
+        "Answer: (b) 61",
+        ""
+    ],
+    [
+        "Q4. A tree increases annually by 1/16 of its height. By how much it increases after 2 years if it stands today 32 cm heigh ?",
+        "(a) 21.10 cm",
+        "(b) 24.26 cm",
+        "(c) 32.13 cm",
+        "(d) 36.12 cm",
+        "Answer: (d) 36.12 cm ",
+        ""
+    ],
+    [
+        "Q5. What will be the compound interest on Rs. 24000 after 2 years at 10% per annum",
+        "(a) 5000",
+        "(b) 5015",
+        "(c) 5040",
+        "(d) 5045",
+        "Answer: (c) 5040",
+        ""
+    ],
+    [
+        "Q6. How much would a sum of Rs. 14000 approximately amount to in 2 years at 10 % per annum compounded half yearly",
+        "(a) 16025",
+        "(b) 16126",
+        "(c) 17017",
+        "(d) 17198",
+        "Answer: (c) 17017",
+        ""
+    ],
+    [
+        "Q7. The difference between compound interest and simple interest at the same rate on Rs. 5000 for 2 years is Rs. 72. The rate of interest per annum is ",
+        "(a) 12 %",
+        "(b) 16 %",
+        "(c) 17 %",
+        "(d) 19 %",
+        "Answer: (a) 12 %",
+        ""
+    ],
+    [
+        "Q8. The effective annual rate of interest, corresponding to a nominal rate of 4% per annum,payable half yearly is",
+        "(a) 2.30 %",
+        "(b) 3.45 %",
+        "(c) 4.04 %",
+        "(d) 5.12 %",
+        "Answer: (c) 4.04 %",
+        ""
+    ],
+    [
+        "Q9. A man deposited Rs. 8000 in a bank at 5% per annum simple interest. Another man deposited Rs. 6000 at 6% per annum compound interest. After 2 years the difference of their interest will be",
+        "(a) 20 Rs",
+        "(b) 25 Rs",
+        "(c) 31 Rs",
+        "(d) 35 Rs",
+        "Answer: (a) 20 Rs",
+        ""
+    ],
+    [
+        "Q10. A sum of money placed at compound interest doubles itself in 5 years. In how many years, it would amount to 8 times of itself at the same rate of interest ?",
+        "(a) 8 years",
+        "(b) 10 years",
+        "(c) 13 years",
+        "(d) 15 years",
+        "Answer: (d) 15 years",
+        ""
+    ],
+    [
+        "Q11. If the rate of interest be 3% per annum for the first year, 4% per annum for second year and 5% per annum for third year, then the compound interest of Rs. 10,000 for 3 years will be",
+        "(a) 1029.66",
+        "(b) 1124.53",
+        "(c) 1156.89",
+        "(d) 1247.60",
+        "Answer: (d) 1247.60",
+        ""
+    ],
+    [
+        "Q12. A sum of money ammounts to Rs. 7690 after 3 years and to Rs. 11035 after 6 years on compound interest. The sum is",
+        "(a) 1425.66",
+        "(b) 5142.78",
+        "(c) 5358.95",
+        "(d) 6825.14",
+        "Answer: (c) 5358.95",
+        ""
+    ],
+    [
+        "Q13. The compound interest on Rs. 16000 for 9 months at 20% per annum compounded quaterly is",
+        "(a) 2522",
+        "(b) 2599",
+        "(c) 2677",
+        "(d) 2682",
+        "Answer: (a) 2522",
+        ""
+    ],
+    [
+        "Q14. At what rate of interest will Rs. 10,000 become Rs. 12100 after 2 years when interest is compounded annually ?",
+        "(a) 8%",
+        "(b) 10%",
+        "(c) 13%",
+        "(d) 15%",
+        "Answer: (b) 10% ",
+        ""
+    ],
+    [
+        "Q15. A money-lender borrows money at 4% per annum and pays interest at the end of the year. He lends it at 6% per annum compound interest compounded half yearly and receives the interest at the end of the year. Thus he gains Rs. 104.50 a year. The amount of money he borrows is",
+        "(a) 4000",
+        "(b) 5000",
+        "(c) 6000",
+        "(d) 7000",
+        "Answer: (b) 5000 ",
+        ""
+    ],
+    [
+        "Q16. The difference between compound interest and simple interest on a sum for 3 years at 5% per annum is Rs. 768. The sum is",
+        "(a) 75581",
+        "(b) 92564",
+        "(c) 95863",
+        "(d) 100721",
+        "Answer: (d) 100721 ",
+        ""
+    ],
+    [
+        "Q17. If the compound interest on a certain sum of money for 2 years at 10% per annum is Rs. 840, what would be the simple interest ?",
+        "(a) 580",
+        "(b) 600",
+        "(c) 720",
+        "(d) 800",
+        "Answer: (d) 800 ",
+        ""
+    ],
+    [
+        "Q18. A deposited Rs. 6000 in a bank at 5% per annum simple interest. B deposited Rs. 5000 at 8% per annum compound interest. After 2 years, the difference between their interest will be",
+        "(a) 232",
+        "(b) 256",
+        "(c) 298",
+        "(d) 318",
+        "Answer: (a) 232 ",
+        ""
+    ],
+    [
+        "Q19. The compound interest on Rs. 2600 for 1\u00bd years at 10% per annum is",
+        "(a) 390",
+        "(b) 403",
+        "(c) 483",
+        "(d) 513",
+        "Answer: (b) 403 ",
+        ""
+    ],
+    [
+        "Q20. Find the compound interest on Rs. 40,000 at 15% per annum for 6 months compounded quaterly",
+        "(a) 3900",
+        "(b) 4100",
+        "(c) 4300",
+        "(d) 5100",
+        "Answer: (b) 4100"
+    ]
+]
