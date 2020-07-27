@@ -1,0 +1,154 @@
+[
+    [
+        "Q1. Pointing to Manoj, Radha said, \"His mother is the only daughter of my mother.\" How Radha is related to Manoj ?",
+        "(A) Sister",
+        "(B) Mother",
+        "(C) Daughter",
+        "(D) Aunty",
+        "Answer: (B) Mother ",
+        ""
+    ],
+    [
+        "Q2. Pointing to Ramesh, Mohan said, \"He is the son of the only son of my father.\" How Mohan is related to Ramesh ?",
+        "(A) Father",
+        "(B) Son",
+        "(C) Uncle",
+        "(D) Brother",
+        "Answer: (A) Father ",
+        ""
+    ],
+    [
+        "Q3. Pointing to the man, Gita said, \u201cHis wife is the only daughter of my father.\u201d How is that man related to Gita ?",
+        "(A) Son",
+        "(B) Husband",
+        "(C) Father-in-law",
+        "(D) Father",
+        "Answer: (B) Husband ",
+        ""
+    ],
+    [
+        "Q4. Pointing towards a person, Anita said,\"He is the only son of the father of my sister\u2019s brother\". How is that",
+        "(A) Father",
+        "(B) Uncle",
+        "(C) Brother",
+        "(D) Cousin",
+        "Answer: (C) Brother ",
+        ""
+    ],
+    [
+        "Q5. Looking at a portrait of a man, Vikash said, \"His mother is the wife of my father's son. Brothers and sisters",
+        "(A) Son",
+        "(B) Cousin",
+        "(C) Uncle",
+        "(D) Father",
+        "Answer: (A) Son ",
+        ""
+    ],
+    [
+        "Q6. If Ankita says, \"Rita's father Shyam is the only son of my father-in-law, Mohan\", then how is Geeta,",
+        "(A) Wife",
+        "(B) Daughter",
+        "(C) Granddaughter",
+        "(D) Mother",
+        "Answer: (C) Granddaughter ",
+        ""
+    ],
+    [
+        "Q7. A is B's sister. C is B's mother. D is C's father. E is D's mother. Then, how is A related to D?",
+        "(A) Grandmother",
+        "(B) Grandfather",
+        "(C) Daughter",
+        "(D) Granddaughter",
+        "Answer: (D) Granddaughter ",
+        ""
+    ],
+    [
+        "Q8. M is the son of P. Q is the granddaughter of O who is the husband of P.How is O related to M ?",
+        "(A) Son",
+        "(B) Daughter",
+        "(C) Mother",
+        "(D) Father",
+        "Answer: (D) Father ",
+        ""
+    ],
+    [
+        "Q9. A is the mother of B and C. If D is the husband of C, what is the relation of A to D?",
+        "(A) Mother",
+        "(B) Mother-in-law",
+        "(C) Sister",
+        "(D) Daughter",
+        "Answer: (B) Mother-in-law ",
+        ""
+    ],
+    [
+        "Q10. A man \"Z\" goes to a party hosted by his brother \"A\" who has a daughter \"B\". \"B\" is dancing with her brother \"C\". What is \"C\" to \"Z\" ?",
+        "(A) Father",
+        "(B) Uncle",
+        "(C) Nephew",
+        "(D) Brother",
+        "Answer: (C) Nephew ",
+        ""
+    ],
+    [
+        "Q11. Pointing to a man, Ram said, I have no brother or sister but that man's father is my father's son. Whose photograph was it?",
+        "(A) His own",
+        "(B) His son's",
+        "(C) His uncle's",
+        "(D) His father's",
+        "Answer: (B) His son's ",
+        ""
+    ],
+    [
+        "Q12. Ravi's father has a son Rohit who has an aunt Laxmi who has a husband Rao whose father-in-law is Mohan. What is the relation of Mohan to Ravi ?",
+        "(A) Nephew",
+        "(B) Grandfather",
+        "(C) Uncle",
+        "(D) Father",
+        "Answer: (B) Grandfather ",
+        ""
+    ],
+    [
+        "Q13. A is the father of B. C is the sister of A and D. If D is the father of E, how is D related to B.",
+        "(A) Uncle",
+        "(B) Brother-in-law",
+        "(C) Nephew",
+        "(D) Father",
+        "Answer: (A) Uncle ",
+        ""
+    ],
+    [
+        "Q14. Pointing to a man in the photograph, an woman said, \"He is the only son of my mother's father.\" How is the woman related to the man in the photograph ?",
+        "(A) Niece",
+        "(B) Sister",
+        "(C) Mother",
+        "(D) Daughter",
+        "Answer: (A) Niece ",
+        ""
+    ],
+    [
+        "Q15. Pointing to a photograph, Shyam said, \"She is the daughter of my grandfather's only son.\" How is Shyam related to the girl in the photograph ?",
+        "(A) Mother",
+        "(B) Niece",
+        "(C) Daughter",
+        "(D) Cousin",
+        "Answer: (D) Cousin ",
+        ""
+    ],
+    [
+        "Q16. Pointing to a girl, Rahul said, \"This girl is the wife of the grandson of my mother\". What is Rahul to the girl",
+        "(A) Father",
+        "(B) Uncle",
+        "(C) Husband",
+        "(D) Father-in-law",
+        "Answer: (D) Father-in-law ",
+        ""
+    ],
+    [
+        "Q17. A is the father of B, C is the brother of A and D is the sister of B. If E is the father of A, then describe the relationship between D and C",
+        "(A) Daughter and Father",
+        "(B) Sister and Brother",
+        "(C) Niece and Uncle",
+        "(D) Grand Daughter and Grand Father",
+        "Answer: (C) Niece and Uncle"
+    ]
+]

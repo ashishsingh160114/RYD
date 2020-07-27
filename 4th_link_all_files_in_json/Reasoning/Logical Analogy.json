@@ -1,0 +1,514 @@
+[
+    [
+        "Q1. Push : Pull : : Throw : ?",
+        "(A) Run",
+        "(B) Jump",
+        "(C) Pick",
+        "(D) Gather",
+        "Answer: (C) Pick ",
+        ""
+    ],
+    [
+        "Q2. Warm : Hot : : ? : Hilarious",
+        "(A) Amusing",
+        "(B) Humid",
+        "(C) Serious",
+        "(D) Sad",
+        "Answer: (A) Amusing ",
+        ""
+    ],
+    [
+        "Q3. Poetry : Rhyme : : Philosophy : ?",
+        "(A) Words",
+        "(B) Song",
+        "(C) Theory",
+        "(D) Book",
+        "Answer: (C) Theory ",
+        ""
+    ],
+    [
+        "Q4. Botany : Plants : : Seismology : ?",
+        "(A) Birds",
+        "(B) Animal",
+        "(C) Earthquakes",
+        "(D) Water",
+        "Answer: (C) Earthquakes ",
+        ""
+    ],
+    [
+        "Q5. Cat : Kitten : : Horse : ?",
+        "(A) Lamb",
+        "(B) Cub",
+        "(C) Calf",
+        "(D) Pony",
+        "Answer: (D) Pony ",
+        ""
+    ],
+    [
+        "Q6. Doctor : Hospital : : Waiter : ?",
+        "(A) Shop",
+        "(B) Club",
+        "(C) Office",
+        "(D) Resturant",
+        "Answer: (D) Resturant ",
+        ""
+    ],
+    [
+        "Q7. Icing : Cake : : Ribbon : ?",
+        "(A) Gift",
+        "(B) Box",
+        "(C) Knife",
+        "(D) Comb",
+        "Answer: (A) Gift ",
+        ""
+    ],
+    [
+        "Q8. Brick : Wall : : Jute : ?",
+        "(A) Bundle",
+        "(B) Fabric",
+        "(C) Sack",
+        "(D) Linen",
+        "Answer: (C) Sack ",
+        ""
+    ],
+    [
+        "Q9. Behaviour : Psychology : : Plant : ?",
+        "(A) Plant",
+        "(B) Botany",
+        "(C) Zoology",
+        "(D) Physiology",
+        "Answer: (B) Botany ",
+        ""
+    ],
+    [
+        "Q10. Glucometer : Blood Sugar : : Sphygmomanometer : ?",
+        "(A) Earthquake",
+        "(B) Blood Pressure",
+        "(C) Atmospheric Pressure",
+        "(D) Specific Gravity",
+        "Answer: (B) Blood Pressure ",
+        ""
+    ],
+    [
+        "Q11. Mitochondria : Energy : : DNA : ?",
+        "(A) Inheritance",
+        "(B) Reproduction",
+        "(C) Locomotion",
+        "(D) Immunity",
+        "Answer: (A) Inheritance ",
+        ""
+    ],
+    [
+        "Q12. Desert : Mirage : : Ocean : ?",
+        "(A) El-Nino",
+        "(B) Whale",
+        "(C) Blizard",
+        "(D) Hail",
+        "Answer: (A) El-Nino ",
+        ""
+    ],
+    [
+        "Q13. Day : Night : : Kind : ?",
+        "(A) Bright",
+        "(B) Dark",
+        "(C) Cruel",
+        "(D) Generous ",
+        "Answer: (C) Cruel ",
+        ""
+    ],
+    [
+        "Q14. Moon : Satellite : : Earth : ?",
+        "(A) Sun",
+        "(B) Planet",
+        "(C) Solar System",
+        "(D) Round",
+        "Answer: (B) Planet ",
+        ""
+    ],
+    [
+        "Q15. Chisel : Sculpture :: Harrow : ?",
+        "(A) Gardener",
+        "(B) Mason",
+        "(C) Blacksmith",
+        "(D) Guard",
+        "Answer: (A) Gardener ",
+        ""
+    ],
+    [
+        "Q16. Fox : Cunning :: Rabbit : ?",
+        "(A) Courageous",
+        "(B) Dangerous",
+        "(C) Timid",
+        "(D) Ferocious",
+        "Answer: (C) Timid ",
+        ""
+    ],
+    [
+        "Q17. Flexible : Rigid :: Confidence : ?",
+        "(A) Diffidence",
+        "(B) Indifference",
+        "(C) Cowardice",
+        "(D) Scare",
+        "Answer: (A) Diffidence ",
+        ""
+    ],
+    [
+        "Q18. Length : Meter :: Power : ?",
+        "(A) Calories",
+        "(B) Degree",
+        "(C) Watt",
+        "(D) Kilogram",
+        "Answer: (C) Watt ",
+        ""
+    ],
+    [
+        "Q19. Square : Cube :: Circle : ?",
+        "(A) Ellipse",
+        "(B) Parabola",
+        "(C) Cone",
+        "(D) Sphere",
+        "Answer: (D) Sphere ",
+        ""
+    ],
+    [
+        "Q20. Paper : Tree :: Glass : ?",
+        "(A) Window",
+        "(B) Sand",
+        "(C) Stone",
+        "(D) Mirror",
+        "Answer: (B) Sand ",
+        ""
+    ],
+    [
+        "Q21. Architect : Building :: Sculptor : ?",
+        "(A) Museum",
+        "(B) Stone",
+        "(C) Chisel",
+        "(D) Statue",
+        "Answer: (D) Statue ",
+        ""
+    ],
+    [
+        "Q22. Fish : Scales :: Bear : ?",
+        "(A) Feathers",
+        "(B) Leaves",
+        "(C) Fur",
+        "(D) Skin",
+        "Answer: (C) Fur ",
+        ""
+    ],
+    [
+        "Q23. Sty : Pig :: Byre : ?",
+        "(A) Eagle",
+        "(B) Cow",
+        "(C) Tiger",
+        "(D) Hen",
+        "Answer: (B) Cow ",
+        ""
+    ],
+    [
+        "Q24. Amnesia : Memory : : Paralysis : ?",
+        "(A) Movement",
+        "(B) Limbs",
+        "(C) Handicapped",
+        "(D) Legs",
+        "Answer: (A) Movement ",
+        ""
+    ],
+    [
+        "Q25. River : Dam : : Traffic : ?",
+        "(A) Signal",
+        "(B) Vehicle",
+        "(C) Motion",
+        "(D) Lane",
+        "Answer: (A) Signal ",
+        ""
+    ],
+    [
+        "Q26. Melt : Liquid : : Freeze : ?",
+        "(A) Crystal",
+        "(B) Solid",
+        "(C) Ice",
+        "(D) Evaporate",
+        "Answer: (B) Solid ",
+        ""
+    ],
+    [
+        "Q27. Secretive : Open : : Snide : ?",
+        "(A) Outcome",
+        "(B) Forward",
+        "(C) Hidden",
+        "(D) Forthright",
+        "Answer: (D) Forthright ",
+        ""
+    ],
+    [
+        "Q28. Thermometer : Heat : : Barometer : ?",
+        "(A) Humidity",
+        "(B) Altitude",
+        "(C) Temperature",
+        "(D) Pressure",
+        "Answer: (D) Pressure ",
+        ""
+    ],
+    [
+        "Q29. Umpire : Game : : ?",
+        "(A) Chef : Banquest",
+        "(B) Moderator : Debate",
+        "(C) Prodigy : Wonder",
+        "(D) Legislator : Election",
+        "Answer: (B) Moderator : Debate ",
+        ""
+    ],
+    [
+        "Q30. Bouquet : Flowers :: ?",
+        "(A) Jail : Thieves",
+        "(B) Necklace : Pearls",
+        "(C) Party : Candles",
+        "(D) Garland : Strings",
+        "Answer: (B) Necklace : Pearls ",
+        ""
+    ],
+    [
+        "Q31. Garbage : House : : Gangue : ?",
+        "(A) Factory",
+        "(B) Drugs",
+        "(C) Office",
+        "(D) Ore",
+        "Answer: (D) Ore ",
+        ""
+    ],
+    [
+        "Q32. Dog : Rabies : : Mosquito : ?",
+        "(A) Plague",
+        "(B) Death",
+        "(C) Malaria",
+        "(D) Sting",
+        "Answer: (C) Malaria ",
+        ""
+    ],
+    [
+        "Q33. Right : Duty : : Power : ?",
+        "(A) Wrong",
+        "(B) Weak",
+        "(C) Powerless",
+        "(D) Liability",
+        "Answer: (D) Liability ",
+        ""
+    ],
+    [
+        "Q34. Grain : Warehouse :: Water : ?",
+        "(A) Drink",
+        "(B) Canal",
+        "(C) Dam",
+        "(D) River",
+        "Answer: (C) Dam ",
+        ""
+    ],
+    [
+        "Q35. DDT : Abbreviation :: Laser : ?",
+        "(A) Antithesis",
+        "(B) Acronyms",
+        "(C) Synonyms",
+        "(D) Epigram",
+        "Answer: (B) Acronyms ",
+        ""
+    ],
+    [
+        "Q36. Novice : Learner :: Harbinger : ?",
+        "(A) Robber",
+        "(B) Shopkeeper",
+        "(C) Politician",
+        "(D) Messenger",
+        "Answer: (D) Messenger ",
+        ""
+    ],
+    [
+        "Q37. Applique : Ornament :: Impound : ?",
+        "(A) Confiscate",
+        "(B) Dust",
+        "(C) Grab",
+        "(D) Snatch",
+        "Answer: (A) Confiscate ",
+        ""
+    ],
+    [
+        "Q38. Pride : Humility :: Desire : ?",
+        "(A) Wish",
+        "(B) Uppress",
+        "(C) Hate",
+        "(D) Knowledge",
+        "Answer: (C) Hate ",
+        ""
+    ],
+    [
+        "Q39. Fire : Ashes :: Explosion : ?",
+        "(A) Flame",
+        "(B) Derbis",
+        "(C) Light",
+        "(D) Sound",
+        "Answer: (B) Derbis ",
+        ""
+    ],
+    [
+        "Q40. Bird : Wings :: Fish : ?",
+        "(A) Tail",
+        "(B) Fin",
+        "(C) Water",
+        "(D) Swim",
+        "Answer: (B) Fin ",
+        ""
+    ],
+    [
+        "Q41. Anger : Provocation :: Fear : ?",
+        "(A) Panic",
+        "(B) Force",
+        "(C) Fight",
+        "(D) Threat",
+        "Answer: (D) Threat ",
+        ""
+    ],
+    [
+        "Q42. Man : Machine :: Master : ?",
+        "(A) Manager",
+        "(B) Worker",
+        "(C) Slave",
+        "(D) Home",
+        "Answer: (C) Slave ",
+        ""
+    ],
+    [
+        "Q43. Paw : Cat :: Hoof : ?",
+        "(A) Horse",
+        "(B) Lion",
+        "(C) Elephant",
+        "(D) Dog",
+        "Answer: (A) Horse ",
+        ""
+    ],
+    [
+        "Q44. Odometer : Mileage :: Compass : ?",
+        "(A) Speed",
+        "(B) Direction",
+        "(C) Rotation",
+        "(D) Angle",
+        "Answer: (B) Direction ",
+        ""
+    ],
+    [
+        "Q45. Play : Actor :: Concert : ?",
+        "(A) Symphony",
+        "(B) Musician",
+        "(C) Singer",
+        "(D) Politician",
+        "Answer: (B) Musician ",
+        ""
+    ],
+    [
+        "Q46. Medicine : Sickness :: Book : ?",
+        "(A) Document",
+        "(B) Knwoledge",
+        "(C) Ignorance",
+        "(D) Author",
+        "Answer: (C) Ignorance ",
+        ""
+    ],
+    [
+        "Q47. Optimist : Cheerful :: Pessimist : ?",
+        "(A) Gloomy",
+        "(B) Mean",
+        "(C) Happy",
+        "(D) Helpful",
+        "Answer: (A) Gloomy ",
+        ""
+    ],
+    [
+        "Q48. School : Teacher :: Bank : ?",
+        "(A) Banker",
+        "(B) Manager",
+        "(C) Cashier",
+        "(D) Peon",
+        "Answer: (C) Cashier ",
+        ""
+    ],
+    [
+        "Q49. Doctor : Nurse :: police Inspector : ?",
+        "(A) Thief",
+        "(B) Constable",
+        "(C) Pistol",
+        "(D) Jail",
+        "Answer: (B) Constable ",
+        ""
+    ],
+    [
+        "Q50. Brain : Nerves :: Computer : ?",
+        "(A) Calculator",
+        "(B) Keyboard",
+        "(C) Mouse",
+        "(D) CPU",
+        "Answer: (D) CPU ",
+        ""
+    ],
+    [
+        "Q51. Paint : Brush :: ? : Nail ",
+        "(A) Saw",
+        "(B) Hammer",
+        "(C) Screw Driver",
+        "(D) Plier",
+        "Answer: (B) Hammer ",
+        ""
+    ],
+    [
+        "Q52. Actor : Theatre :: Chemist : ? ",
+        "(A) Hospital",
+        "(B) Court",
+        "(C) Workshop",
+        "(D) Pharmacy",
+        "Answer: (D) Pharmacy ",
+        ""
+    ],
+    [
+        "Q53. Words : Sentence :: Paragraph : ? ",
+        "(A) Typing",
+        "(B) Passage",
+        "(C) Letters",
+        "(D) Phrase",
+        "Answer: (B) Passage ",
+        ""
+    ],
+    [
+        "Q54. Student : Book :: Postman : ? ",
+        "(A) Delivery",
+        "(B) Bicycle",
+        "(C) Uniform",
+        "(D) Mail",
+        "Answer: (D) Mail ",
+        ""
+    ],
+    [
+        "Q55. Illiteracy : Education :: Drought : ? ",
+        "(A) Well",
+        "(B) Rain",
+        "(C) Dam",
+        "(D) River",
+        "Answer: (B) Rain ",
+        ""
+    ],
+    [
+        "Q56. Carpenter : Furniture :: ? ",
+        "(A) Book : Author",
+        "(B) Magazine : Editor",
+        "(C) Cook : Soup",
+        "(D) Dam : Engineer",
+        "Answer: (C) Cook : Soup ",
+        ""
+    ],
+    [
+        "Q57. Cruel : Kind :: Lethargy : ? ",
+        "(A) Sharpness",
+        "(B) Alertness",
+        "(C) Interest",
+        "(D) Shrewdness",
+        "Answer: (B) Alertness"
+    ]
+]

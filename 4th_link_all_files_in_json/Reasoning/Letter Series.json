@@ -1,0 +1,298 @@
+[
+    [
+        "Q1. A, C, F, H, ?, M",
+        "(A) J",
+        "(B) K",
+        "(C) L",
+        "(D) O",
+        "Answer: (B) K ",
+        ""
+    ],
+    [
+        "Q2. CAT, ECV, GEX, ?",
+        "(A) IGZ",
+        "(B) JLN",
+        "(C) FMU",
+        "(D) KFY",
+        "Answer: (A) IGZ ",
+        ""
+    ],
+    [
+        "Q3. ANN, CPP, ERR, ?",
+        "(A) FTT",
+        "(B) GOO",
+        "(C) GTT",
+        "(D) FOO",
+        "Answer: (C) GTT ",
+        ""
+    ],
+    [
+        "Q4. BCB, DED, FGF, HIH, ?",
+        "(A) IHI",
+        "(B) JIJ",
+        "(C) KIK ",
+        "(D) JKJ",
+        "Answer: (D) JKJ ",
+        ""
+    ],
+    [
+        "Q5. AZ, CX, FU, ?",
+        "(A) JQ",
+        "(B) IV",
+        "(C) HL",
+        "(D) KO",
+        "Answer: (A) JQ ",
+        ""
+    ],
+    [
+        "Q6. U, O, I, ?, A",
+        "(A) D",
+        "(B) E",
+        "(C) J",
+        "(D) N",
+        "Answer: (B) E ",
+        ""
+    ],
+    [
+        "Q7. BFH, CHI, DJJ, ?",
+        "(A) EKL",
+        "(B) ELK",
+        "(C) FLK",
+        "(D) FKL",
+        "Answer: (B) ELK ",
+        ""
+    ],
+    [
+        "Q8. A1BC, AB2C, ?,  A4BC",
+        "(A) ABC3",
+        "(B) A3BC",
+        "(C) AB2C",
+        "(D) ABC4",
+        "Answer: (A) ABC3 ",
+        ""
+    ],
+    [
+        "Q9. AGMSY, CIOUA, EKQWC, ?, IOUAG, KQWCI",
+        "(A) GMSYE",
+        "(B) FMSYE",
+        "(C) GNSYD",
+        "(D) FMYES",
+        "Answer: (A) GMSYE ",
+        ""
+    ],
+    [
+        "Q10. ?, PSVYB, EHKNQ, TWZCF, ILORU",
+        "(A) BEHKN",
+        "(B) ADGJM",
+        "(C) SVYBE",
+        "(D) ZCFIL",
+        "Answer: (B) ADGJM ",
+        ""
+    ],
+    [
+        "Q11. BMRG, DLTF, FKVE, HJXD, ?",
+        "(A) JIZC",
+        "(B) JZIB",
+        "(C) GIFB",
+        "(D) MOLC",
+        "Answer: (A) JIZC ",
+        ""
+    ],
+    [
+        "Q12. FLU, GMV, HNW, IOX, ?",
+        "(A) JYP",
+        "(B) WYP",
+        "(C) WPY",
+        "(D) JPY",
+        "Answer: (D) JPY ",
+        ""
+    ],
+    [
+        "Q13. BCFG, JKNO, RSVW, ?",
+        "(A) ZADE",
+        "(B) HIKL",
+        "(C) STUX",
+        "(D) MNPQ",
+        "Answer: (A) ZADE ",
+        ""
+    ],
+    [
+        "Q14. CIM, HNR, MSW, ?",
+        "(A) SXA",
+        "(B) DYB",
+        "(C) RXB",
+        "(D) ZEH",
+        "Answer: (C) RXB ",
+        ""
+    ],
+    [
+        "Q15. YYZ, VYZ, SYZ, PYZ, ?",
+        "(A) RYZ",
+        "(B) MYZ",
+        "(C) XYZ",
+        "(D) TYZ",
+        "Answer: (B) MYZ ",
+        ""
+    ],
+    [
+        "Q16. b?abbc?bbca?bcabb?ab",
+        "(A) acba",
+        "(B) caac",
+        "(C) abcc",
+        "(D) cabc",
+        "Answer: (D) cabc ",
+        ""
+    ],
+    [
+        "Q17. cab?a?c?bc?bc?b?ab",
+        "(A) cbaaac",
+        "(B) bcabbc",
+        "(C) caabbc",
+        "(D) aabcab",
+        "Answer: (A) cbaaac ",
+        ""
+    ],
+    [
+        "Q18. A A B A B C A B C D A B C D E A B C D E F A B C D E",
+        "(A) A",
+        "(B) B",
+        "(C) G",
+        "(D) H",
+        "Answer: (D) H ",
+        ""
+    ],
+    [
+        "Q19. ?baa?aab?a?a",
+        "(A) baab",
+        "(B) abab",
+        "(C) aabb",
+        "(D) aaba",
+        "Answer: (B) abab ",
+        ""
+    ],
+    [
+        "Q20. AGON, BHPO, ?, DJRQ, EKSR",
+        "(A) CIQP",
+        "(B) CIPQ",
+        "(C) ICQP",
+        "(D) CINO",
+        "Answer: (A) CIQP ",
+        ""
+    ],
+    [
+        "Q21. A, R, C, S, E, T, G, ?, ?",
+        "(A) X, Z",
+        "(B) U, I",
+        "(C) W, Y",
+        "(D) V, B",
+        "Answer: (B) U ",
+        ""
+    ],
+    [
+        "Q22. B C E H L ? ?",
+        "(A) XY",
+        "(B) MN",
+        "(C) QW",
+        "(D) OP",
+        "Answer: (C) QW ",
+        ""
+    ],
+    [
+        "Q23. XYZCBAUVWFE ??",
+        "(A) DR",
+        "(B) RS",
+        "(C) DS ",
+        "(D) MN",
+        "Answer: (A) DR ",
+        ""
+    ],
+    [
+        "Q24. A, P, C, Q, E, R, G, ?, ?",
+        "(A) SI ",
+        "(B) HI",
+        "(C) IS ",
+        "(D) TJ",
+        "Answer: (A) SI ",
+        ""
+    ],
+    [
+        "Q25. AKU, FPZ, ?, PZJ, UEO, ZJT",
+        "(A) JUE",
+        "(B) KVE",
+        "(C) KUE ",
+        "(D) JVE",
+        "Answer: (A) JUE ",
+        ""
+    ],
+    [
+        "Q26. T Q N K H E B Y V S P ? ? ?",
+        "(A) NKI",
+        "(B) MJG",
+        "(C) MJH",
+        "(D) NKG",
+        "Answer: (B) MJG ",
+        ""
+    ],
+    [
+        "Q27. QAR, RAS, SAT, TAU, ?",
+        "(A) UAV",
+        "(B) UAT",
+        "(C) TAS",
+        "(D) TAT",
+        "Answer: (A) UAV ",
+        ""
+    ],
+    [
+        "Q28. FIG : EGHJFH :: BIN :?",
+        "(A) CAJHOM",
+        "(B) CAHJMOC",
+        "(C) ACJHMO",
+        "(D) ACHJMO",
+        "Answer: (D) ACHJMO ",
+        ""
+    ],
+    [
+        "Q29. QPOR : XWVY :: LKJM :?",
+        "(A) DEGF",
+        "(B) CBAD",
+        "(C) FHGI",
+        "(D) SRTU",
+        "Answer: (B) CBAD ",
+        ""
+    ],
+    [
+        "Q30. VVXY : RRTU :: FFHI :?",
+        "(A) CCDF",
+        "(B) UUVZ",
+        "(C) SSUV",
+        "(D) XXYB",
+        "Answer: (A) CCDF ",
+        ""
+    ],
+    [
+        "Q31. JKPO : LMNM :: ? : PQJI",
+        "(A) LKNO",
+        "(B) NOLK",
+        "(C) NOKL",
+        "(D) KOLN",
+        "Answer: (B) NOLK ",
+        ""
+    ],
+    [
+        "Q32. OTE, PUF, QVG, RWH, ?",
+        "(A) SYJ",
+        "(B) TXI",
+        "(C) SXJ",
+        "(D) SXI",
+        "Answer: (D) SXI ",
+        ""
+    ],
+    [
+        "Q33. AFKPU, BGLQV, CHMRW,?",
+        "(A) DINSX",
+        "(B) KLMNO",
+        "(C) UVWXY",
+        "(D) VQLGB",
+        "Answer: (A) DINSX"
+    ]
+]
