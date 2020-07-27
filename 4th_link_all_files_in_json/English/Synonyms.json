@@ -1,0 +1,1602 @@
+[
+    [
+        "Q1. GHASTLY",
+        "(a) Terrible",
+        "(b) Pleasant",
+        "(c) Pretty",
+        "(d) Sanction",
+        "Answer: (a) Terrible ",
+        ""
+    ],
+    [
+        "Q2. GRATUITY ",
+        "(a) Disadvantage",
+        "(b) Tip",
+        "(c) Cash",
+        "(d) Pain",
+        "Answer: (b) Tip ",
+        ""
+    ],
+    [
+        "Q3. LUCID ",
+        "(a) Dirty",
+        "(b) Liquid",
+        "(c) Solid",
+        "(d) Clear",
+        "Answer: (d) Clear ",
+        ""
+    ],
+    [
+        "Q4. PREVAILING ",
+        "(a) Popular",
+        "(b) Implemented",
+        "(c) Existing",
+        "(d) Winning",
+        "Answer: (c) Existing ",
+        ""
+    ],
+    [
+        "Q5. CHALLENGES",
+        "(a) Fears",
+        "(b) Obstacles",
+        "(c) Question",
+        "(d) Conflicts",
+        "Answer: (b) Obstacles ",
+        ""
+    ],
+    [
+        "Q6. SEVERE",
+        "(a) Acute",
+        "(b) Dangerous",
+        "(c) Bad",
+        "(d) Flexible",
+        "Answer: (a) Acute ",
+        ""
+    ],
+    [
+        "Q7. INSURGENCY",
+        "(a) Rebellion",
+        "(b) Debacle",
+        "(c) Violation",
+        "(d) Controversy",
+        "Answer: (a) Rebellion ",
+        ""
+    ],
+    [
+        "Q8. CANDID",
+        "(a) Anger",
+        "(b) Confident",
+        "(c) Critical",
+        "(d) Frank",
+        "Answer: (d) Frank ",
+        ""
+    ],
+    [
+        "Q9.COLLATERAL",
+        "(a) Pathetic",
+        "(b) Tiresome",
+        "(c) Magnanimous",
+        "(d) Guarantee",
+        "Answer: (c) Magnanimous ",
+        ""
+    ],
+    [
+        "Q10. SLOTH",
+        "(a) Happiness",
+        "(b) Laziness",
+        "(c) Anger",
+        "(d) Cautious",
+        "Answer: (b) Laziness ",
+        ""
+    ],
+    [
+        "Q11. FRAGILE",
+        "(a) Strong",
+        "(b) Big",
+        "(c) Delicate",
+        "(d) Injure",
+        "Answer: (c) Delicate ",
+        ""
+    ],
+    [
+        "Q12. CONSENT",
+        "(a) Approval",
+        "(b) Denial",
+        "(c) Protest",
+        "(d) Respect",
+        "Answer: (a) Approval ",
+        ""
+    ],
+    [
+        "Q13. TIMID",
+        "(a) Revolve",
+        "(b) Fearful",
+        "(c) Operate",
+        "(d) Faithful",
+        "Answer: (b) Fearful ",
+        ""
+    ],
+    [
+        "Q14. BOTHER(a) Calm",
+        "(b) Delight",
+        "(c) Aggravation",
+        "(d) Sorrow",
+        "Answer: (c) Aggravation ",
+        ""
+    ],
+    [
+        "Q15. ARROGANCE",
+        "(a) Shyness",
+        "(b) Politeness",
+        "(c) Respected",
+        "(d) Ego",
+        "Answer: (d) Ego ",
+        ""
+    ],
+    [
+        "Q16. ANTIQUE",
+        "(a) Modern",
+        "(b) Noble",
+        "(c) Clever",
+        "(d) Ancient",
+        "Answer: (d) Ancient ",
+        ""
+    ],
+    [
+        "Q17. AXIOM",
+        "(a) Blunder",
+        "(b) Cherish",
+        "(c) Maxim",
+        "(d) Gentleness",
+        "Answer: (c) Maxim ",
+        ""
+    ],
+    [
+        "Q18. DAUNT",
+        "(a) Encourage",
+        "(b) Intimidate",
+        "(c) Madness",
+        "(d) Fair",
+        "Answer: (b) Intimidate ",
+        ""
+    ],
+    [
+        "Q19. CANDID",
+        "(a) Praise",
+        "(b) Truthful",
+        "(c) Excitement",
+        "(d) Ignorance",
+        "Answer: (b) Truthful ",
+        ""
+    ],
+    [
+        "Q20. FEASIBLE ",
+        "(a) Workable",
+        "(b) Gloomy",
+        "(c) Approve",
+        "(d) Disguise",
+        "Answer: (a) Workable ",
+        ""
+    ],
+    [
+        "Q21. ABSOLVE",
+        "(a) Acquit",
+        "(b) Condemn",
+        "(c) Charge",
+        "(d) Obligate",
+        "Answer: (a) Acquit ",
+        ""
+    ],
+    [
+        "Q22. CONVIVIAL",
+        "(a) Gloomy",
+        "(b) Depressed",
+        "(c) Cheerful",
+        "(d) Gross",
+        "Answer: (c) Cheerful ",
+        ""
+    ],
+    [
+        "Q23. INHIBIT",
+        "(a) Curb",
+        "(b) Promote",
+        "(c) Immoderate",
+        "(d) Help",
+        "Answer: (a) Curb ",
+        ""
+    ],
+    [
+        "Q24. SINISTER",
+        "(a) Nice",
+        "(b) Evil",
+        "(c) Lazy",
+        "(d) Repel",
+        "Answer: (b) Evil ",
+        ""
+    ],
+    [
+        "Q25. TENET",
+        "(a) Doubt",
+        "(b) Reality",
+        "(c) Assumption",
+        "(d) Depressed",
+        "Answer: (c) Assumption ",
+        ""
+    ],
+    [
+        "Q26. AWFUL",
+        "(a) Attractive",
+        "(b) Delicate",
+        "(c) Unpleasant ",
+        "(d) Relevant",
+        "Answer: (c) Unpleasant ",
+        ""
+    ],
+    [
+        "Q27. HEARSAY",
+        "(a) Gossip",
+        "(b) Domestic",
+        "(c) Proof",
+        "(d) Greedy",
+        "Answer: (a) Gossip ",
+        ""
+    ],
+    [
+        "Q28. OBVIATE",
+        "(a) Advantage",
+        "(b) Support",
+        "(c) Prevent",
+        "(d) Reward",
+        "Answer: (c) Prevent ",
+        ""
+    ],
+    [
+        "Q29. JARGON",
+        "(a) Silence",
+        "(b) Irate",
+        "(c) Standard",
+        "(d) Idiom",
+        "Answer: (d) Idiom ",
+        ""
+    ],
+    [
+        "Q30. GENESIS",
+        "(a) Origin",
+        "(b) Completion",
+        "(c) Finale",
+        "(d) Adorn",
+        "Answer: (a) Origin ",
+        ""
+    ],
+    [
+        "Q31. OBSTREPEROUS",
+        "(a) Import",
+        "(b) Export",
+        "(c) Noisy",
+        "(d) Achievment",
+        "Answer: (c) Noisy ",
+        ""
+    ],
+    [
+        "Q32. EXHORT",
+        "(a) Encourage",
+        "(b) Discourage",
+        "(c) Provok",
+        "(d) Casual",
+        "Answer: (a) Encourage ",
+        ""
+    ],
+    [
+        "Q33. ABATE",
+        "(a) Long",
+        "(b) Short",
+        "(c) Increase",
+        "(d) Decrease",
+        "Answer: (d) Decrease ",
+        ""
+    ],
+    [
+        "Q34. CALLOUS",
+        "(a) Caring",
+        "(b) Apathetic",
+        "(c) Kind",
+        "(d) Sympathetic",
+        "Answer: (b) Apathetic ",
+        ""
+    ],
+    [
+        "Q35. MALIGNANT ",
+        "(a) Destructive",
+        "(b) Arrogant",
+        "(c) Fatal",
+        "(d) Ghastly",
+        "Answer: (c) Fatal ",
+        ""
+    ],
+    [
+        "Q36. PROLONG ",
+        "(a) Dejected",
+        "(b) Censorious",
+        "(c) Abbreviate",
+        "(d) Continue",
+        "Answer: (d) Continue ",
+        ""
+    ],
+    [
+        "Q37. Refurbish",
+        "(a) Antique",
+        "(b) Repair",
+        "(c) Construction",
+        "(d) Destruction",
+        "Answer: (b) Repair ",
+        ""
+    ],
+    [
+        "Q38. REGAL",
+        "(a) Delight",
+        "(b) Reign",
+        "(c) Royal",
+        "(d) Order",
+        "Answer: (c) Royal ",
+        ""
+    ],
+    [
+        "Q39. SOLECISM",
+        "(a) Error",
+        "(b) Correction",
+        "(c) Ending",
+        "(d) Begining",
+        "Answer: (a) Error ",
+        ""
+    ],
+    [
+        "Q40. SOLEMN",
+        "(a) Dignified",
+        "(b) Cheerful",
+        "(c) Partial",
+        "(d) Equitable",
+        "Answer: (a) Dignified ",
+        ""
+    ],
+    [
+        "Q41. TAME",
+        "(a) Wild",
+        "(b) Domestic",
+        "(c) Gentle",
+        "(d) Toxic",
+        "Answer: (c) Gentle ",
+        ""
+    ],
+    [
+        "Q42. DOCTRINE",
+        "(a) Disbelief",
+        "(b) Attitude",
+        "(c) Torpid",
+        "(d) Dormant",
+        "Answer: (b) Attitude ",
+        ""
+    ],
+    [
+        "Q43. EXTINCT",
+        "(a) Living",
+        "(b) Disappeared",
+        "(c) Existing",
+        "(d) Obliterate",
+        "Answer: (b) Disappeared ",
+        ""
+    ],
+    [
+        "Q44. DIVERT",
+        "(a) Direction",
+        "(b) Path",
+        "(c) Redirect",
+        "(d) Attention",
+        "Answer: (c) Redirect ",
+        ""
+    ],
+    [
+        "Q45. MISSPENT",
+        "(a) Note",
+        "(b) Duty",
+        "(c) Message",
+        "(d) Wasted",
+        "Answer: (d) Wasted ",
+        ""
+    ],
+    [
+        "Q46. OSTENTATION",
+        "(a) Eruption",
+        "(b) Exile",
+        "(c) Outbreak",
+        "(d) Exhibition",
+        "Answer: (d) Exhibition ",
+        ""
+    ],
+    [
+        "Q47. OUTLAY",
+        "(a) Exit",
+        "(b) Loophole",
+        "(c) Expense",
+        "(d) Boundary",
+        "Answer: (c) Expense ",
+        ""
+    ],
+    [
+        "Q48. PRIMITIVE",
+        "(a) Basic",
+        "(b) Advance",
+        "(c) Modern",
+        "(d) New",
+        "Answer: (a) Basic ",
+        ""
+    ],
+    [
+        "Q49. REALM ",
+        "(a) Harvest",
+        "(b) Domain",
+        "(c) Nature",
+        "(d) Sensible",
+        "Answer: (b) Domain ",
+        ""
+    ],
+    [
+        "Q50. INSIDIOUS",
+        "(a) Open",
+        "(b) Sincere",
+        "(c) Simple",
+        "(d) Dangerous",
+        "Answer: (d) Dangerous ",
+        ""
+    ],
+    [
+        "Q51. REQUITE",
+        "(a) Repay",
+        "(b) Cost",
+        "(c) Benefit",
+        "(d) Upset",
+        "Answer: (a) Repay ",
+        ""
+    ],
+    [
+        "Q52. REQUISITE",
+        "(a) Condition",
+        "(b) Nonessential",
+        "(c) Problem",
+        "(d) Sacrifice",
+        "Answer: (a) Condition ",
+        ""
+    ],
+    [
+        "Q53. SECULAR",
+        "(a) Holy",
+        "(b) Religious",
+        "(c) Civil",
+        "(d) Democracy",
+        "Answer: (c) Civil ",
+        ""
+    ],
+    [
+        "Q54. RESTIVE",
+        "(a) Restless",
+        "(b) Collected",
+        "(c) Obedient",
+        "(d) Spiritual",
+        "Answer: (a) Restless ",
+        ""
+    ],
+    [
+        "Q55. MOTTLED",
+        "(a) Devided",
+        "(b) Dappled",
+        "(c) Positive",
+        "(d) Calm",
+        "Answer: (b) Dappled ",
+        ""
+    ],
+    [
+        "Q56. AVENGE",
+        "(a) Allow",
+        "(b) Hold",
+        "(c) Free",
+        "(d) Revenge",
+        "Answer: (d) Revenge ",
+        ""
+    ],
+    [
+        "Q57. WRECK",
+        "(a) Creation",
+        "(b) Hit",
+        "(c) Crash",
+        "(d) Suddenly",
+        "Answer: (c) Crash ",
+        ""
+    ],
+    [
+        "Q58. ASSAULTING",
+        "(a) Loaded",
+        "(b) Angry",
+        "(c) Abuse",
+        "(d) Hungry",
+        "Answer: (c) Abuse ",
+        ""
+    ],
+    [
+        "Q59. CONTRADICTION",
+        "(a) Conflict",
+        "(b) Agree",
+        "(c) Harmony",
+        "(d) Peace",
+        "Answer: (a) Conflict ",
+        ""
+    ],
+    [
+        "Q60. MONETARY",
+        "(a) Budgetary",
+        "(b) Exchange",
+        "(c) Profitable",
+        "(d) Trading",
+        "Answer: (a) Budgetary ",
+        ""
+    ],
+    [
+        "Q61. RAUCOUS",
+        "(a) Quit",
+        "(b) Suddenly",
+        "(c) Harsh",
+        "(d) Subdued",
+        "Answer: (c) Harsh ",
+        ""
+    ],
+    [
+        "Q62. PERCEPTIVE",
+        "(a) Acute",
+        "(b) Careless",
+        "(c) Wisdom",
+        "(d) Important",
+        "Answer: (a) Acute ",
+        ""
+    ],
+    [
+        "Q63. INFLATION",
+        "(a) Shrinkage",
+        "(b) Costly",
+        "(c) Hike",
+        "(d) Tight",
+        "Answer: (c) Hike ",
+        ""
+    ],
+    [
+        "Q64. REVIVAL",
+        "(a) Recovery",
+        "(b) Creation",
+        "(c) Destruction",
+        "(d) Suppression",
+        "Answer: (a) Recovery ",
+        ""
+    ],
+    [
+        "Q65. ARSENAL",
+        "(a) Dangerous",
+        "(b) Profit",
+        "(c) Collection",
+        "(d) Armory",
+        "Answer: (d) Armory ",
+        ""
+    ],
+    [
+        "Q66. PIVOTAL",
+        "(a) Secondary",
+        "(b) Crucial",
+        "(c) Economical",
+        "(d) Minor",
+        "Answer: (b) Crucial ",
+        ""
+    ],
+    [
+        "Q67. OBLIGATORY",
+        "(a) Indirect",
+        "(b) External",
+        "(c) Compulsory",
+        "(d) Peaceful",
+        "Answer: (c) Compulsory ",
+        ""
+    ],
+    [
+        "Q68. PERCEPTION",
+        "(a) Urgent",
+        "(b) Illusion",
+        "(c) Postpone",
+        "(d) Attention",
+        "Answer: (d) Attention ",
+        ""
+    ],
+    [
+        "Q69. REMORSE",
+        "(a) Regret",
+        "(b) Comment",
+        "(c) Polite",
+        "(d) Remember",
+        "Answer: (a) Regret ",
+        ""
+    ],
+    [
+        "Q70. SCRUMPTIOUS",
+        "(a) Confident",
+        "(b) Regular",
+        "(c) Delicious",
+        "(d) Convinced",
+        "Answer: (c) Delicious ",
+        ""
+    ],
+    [
+        "Q71. ZENITH",
+        "(a) Peak",
+        "(b) Start",
+        "(c) Regular",
+        "(d) Common",
+        "Answer: (a) Peak ",
+        ""
+    ],
+    [
+        "Q72. PINNACLE",
+        "(a) Base",
+        "(b) Disaster",
+        "(c) Transform",
+        "(d) Greatest",
+        "Answer: (d) Greatest ",
+        ""
+    ],
+    [
+        "Q73. VANQUISH",
+        "(a) Conquer",
+        "(b) Differ",
+        "(c) Reliable",
+        "(d) Convert",
+        "Answer: (a) Conquer ",
+        ""
+    ],
+    [
+        "Q74. IMITATE",
+        "(a) Affect",
+        "(b) Casual",
+        "(c) Mimic",
+        "(d) Harmless",
+        "Answer: (c) Mimic ",
+        ""
+    ],
+    [
+        "Q75. POSTURE",
+        "(a) Bias",
+        "(b) Attitude",
+        "(c) Assume",
+        "(d) Delight",
+        "Answer: (b) Attitude ",
+        ""
+    ],
+    [
+        "Q76. RADICAL",
+        "(a) Fundamental",
+        "(b) Incomplete",
+        "(c) Special",
+        "(d) Punishment",
+        "Answer: (a) Fundamental ",
+        ""
+    ],
+    [
+        "Q77. SIEGE",
+        "(a) Opportunity",
+        "(b) Assist",
+        "(c) Blockade",
+        "(d) Complete",
+        "Answer: (c) Blockade ",
+        ""
+    ],
+    [
+        "Q78. ENDORSE",
+        "(a) Unauthorize",
+        "(b) Sanction",
+        "(c) Misleading",
+        "(d) Holding",
+        "Answer: (b) Sanction ",
+        ""
+    ],
+    [
+        "Q79. ENROOT",
+        "(a) Establish",
+        "(b) Decrease",
+        "(c) Halt",
+        "(d) Condem",
+        "Answer: (a) Establish ",
+        ""
+    ],
+    [
+        "Q80. DRIFT",
+        "(a) Alone",
+        "(b) Segment",
+        "(c) Individual",
+        "(d) Float",
+        "Answer: (d) Float ",
+        ""
+    ],
+    [
+        "Q81. ARTIFICIAL",
+        "(a) Structure",
+        "(b) Power",
+        "(c) Unreal",
+        "(d) Natural",
+        "Answer: (c) Unreal ",
+        ""
+    ],
+    [
+        "Q82. DESPICABLE",
+        "(a) Good",
+        "(b) Event",
+        "(c) Contemptible",
+        "(d) Honour",
+        "Answer: (c) Contemptible ",
+        ""
+    ],
+    [
+        "Q83. BLUNDER",
+        "(a) Solution",
+        "(b) Inspect",
+        "(c) Surrender",
+        "(d) Error",
+        "Answer: (d) Error ",
+        ""
+    ],
+    [
+        "Q84. AMBLE",
+        "(a) Stroll",
+        "(b) Stay",
+        "(c) Idol",
+        "(d) Mistake",
+        "Answer: (a) Stroll ",
+        ""
+    ],
+    [
+        "Q85. PROVOKE",
+        "(a) Stimulate",
+        "(b) Clam",
+        "(c) Misleading",
+        "(d) Attribute",
+        "Answer: (a) Stimulate ",
+        ""
+    ],
+    [
+        "Q86. PRUDENCE",
+        "(a) Correct",
+        "(b) Property",
+        "(c) Careful",
+        "(d) Harmony",
+        "Answer: (c) Careful ",
+        ""
+    ],
+    [
+        "Q87. LIBERAL",
+        "(a) Flexible",
+        "(b) Lacking",
+        "(c) Poor",
+        "(d) Dominant",
+        "Answer: (a) Flexible ",
+        ""
+    ],
+    [
+        "Q88. DEVIATION",
+        "(a) Harmony",
+        "(b) Uniformity",
+        "(c) Aberration",
+        "(d) Dedicated",
+        "Answer: (c) Aberration ",
+        ""
+    ],
+    [
+        "Q89. VOLUNTARY",
+        "(a) Action",
+        "(b) Power",
+        "(c) Spontaneous",
+        "(d) Organising",
+        "Answer: (c) Spontaneous ",
+        ""
+    ],
+    [
+        "Q90. VERSATILE",
+        "(a) Multifaceted",
+        "(b) Ravenous",
+        "(c) Willing",
+        "(d) Defer",
+        "Answer: (a) Multifaceted ",
+        ""
+    ],
+    [
+        "Q91. FITFULLY",
+        "(a) Erratically",
+        "(b) Partial",
+        "(c) Regularly",
+        "(d) Punctuality",
+        "Answer: (a) Erratically ",
+        ""
+    ],
+    [
+        "Q92. OPULENT",
+        "(a) Angry",
+        "(b) Rich",
+        "(c) Famous",
+        "(d) Opponent",
+        "Answer: (b) Rich ",
+        ""
+    ],
+    [
+        "Q93. QUEER",
+        "(a) Weird",
+        "(b) Stable",
+        "(c) Normal",
+        "(d) Typical",
+        "Answer: (a) Weird ",
+        ""
+    ],
+    [
+        "Q94. APPLAUD",
+        "(a) Criticize",
+        "(b) Crap",
+        "(c) Refuse",
+        "(d) Praise",
+        "Answer: (d) Praise ",
+        ""
+    ],
+    [
+        "Q95. ARID",
+        "(a) Dry",
+        "(b) Improve",
+        "(c) Difference",
+        "(d) Appraisal",
+        "Answer: (a) Dry ",
+        ""
+    ],
+    [
+        "Q96. ERADICATE",
+        "(a) Born",
+        "(b) Eliminate",
+        "(c) Approved",
+        "(d) Hopeful",
+        "Answer: (b) Eliminate ",
+        ""
+    ],
+    [
+        "Q97. CONCISE",
+        "(a) Redundant",
+        "(b) Brief",
+        "(c) Details",
+        "(d) Confirmed",
+        "Answer: (b) Brief ",
+        ""
+    ],
+    [
+        "Q98. DISCRETE",
+        "(a) Hate",
+        "(b) Crime",
+        "(c) Distinct",
+        "(d) Punishment",
+        "Answer: (c) Distinct ",
+        ""
+    ],
+    [
+        "Q99. CUNNING",
+        "(a) Clever",
+        "(b) Slow",
+        "(c) Native",
+        "(d) Arrogant",
+        "Answer: (a) Clever ",
+        ""
+    ],
+    [
+        "Q100. MISERY",
+        "(a) Recent",
+        "(b) Inform",
+        "(c) Distress",
+        "(d) Notice",
+        "Answer: (c) Distress ",
+        ""
+    ],
+    [
+        "Q101. OSTENTATION",
+        "(a) Modesty",
+        "(b) Reservation",
+        "(c) Exit",
+        "(d) Affectation",
+        "Answer: (d) Affectation ",
+        ""
+    ],
+    [
+        "Q102. ABHOR",
+        "(a) Prosper",
+        "(b) Absent",
+        "(c) Assert",
+        "(d) Detest",
+        "Answer: (d) Detest ",
+        ""
+    ],
+    [
+        "Q103. ABANDON",
+        "(a) Demand",
+        "(b) Distance",
+        "(c) Discard",
+        "(d) Give Up",
+        "Answer: (c) Discard ",
+        ""
+    ],
+    [
+        "Q104. ALIEN",
+        "(a) Opposition",
+        "(b) Foreigner",
+        "(c) People",
+        "(d) Traveller",
+        "Answer: (b) Foreigner ",
+        ""
+    ],
+    [
+        "Q105. ABSTAIN",
+        "(a) Absorb",
+        "(b) Refrain",
+        "(c) Separate",
+        "(d) Clean",
+        "Answer: (b) Refrain ",
+        ""
+    ],
+    [
+        "Q106. Damp",
+        "(a) Complicated",
+        "(b) Light",
+        "(c) Clear",
+        "(d) Wet",
+        "Answer: (d) Wet ",
+        ""
+    ],
+    [
+        "Q107. Ingenuous",
+        "(a) Crafty",
+        "(b) Creative",
+        "(c) Careless",
+        "(d) Candid",
+        "Answer: (d) Candid ",
+        ""
+    ],
+    [
+        "Q108. Resurgence",
+        "(a) Relocation",
+        "(b) Renewal",
+        "(c) Reluctance",
+        "(d) Repletion",
+        "Answer: (b) Renewal ",
+        ""
+    ],
+    [
+        "Q109. BOARD",
+        "(a) Frame",
+        "(b) Lodging",
+        "(c) Food",
+        "(d) Furniture",
+        "Answer: (a) Frame ",
+        ""
+    ],
+    [
+        "Q110. Fete",
+        "(a) Spirit",
+        "(b) Temper",
+        "(c) Foundation",
+        "(d) Festival",
+        "Answer: (d) Festival ",
+        ""
+    ],
+    [
+        "Q111. Frugal",
+        "(a) Stylish",
+        "(b) Expensive",
+        "(c) Enjoyable",
+        "(d) Economical",
+        "Answer: (d) Economical ",
+        ""
+    ],
+    [
+        "Q112. Entice",
+        "(a) Crude",
+        "(b) Lure",
+        "(c) Bitter",
+        "(d) Noisy",
+        "Answer: (b) Lure ",
+        ""
+    ],
+    [
+        "Q113. Sporadic",
+        "(a) Epidemic",
+        "(b) Whirling",
+        "(c) Occasional",
+        "(d) Stagnant",
+        "Answer: (c) Occasional ",
+        ""
+    ],
+    [
+        "Q114. Ample",
+        "(a) Copious",
+        "(b) Plenty of",
+        "(c) Occasional",
+        "(d) Stagnant",
+        "Answer: (a) Copious ",
+        ""
+    ],
+    [
+        "Q115. Wrath",
+        "(a) Fear",
+        "(b) Violent anger",
+        "(c) Afraid",
+        "(d) Chariot",
+        "Answer: (b) Violent anger ",
+        ""
+    ],
+    [
+        "Q116. Patronage",
+        "(a) Donation",
+        "(b) Support",
+        "(c) Beneficiary",
+        "(d) Dealings",
+        "Answer: (b) Support ",
+        ""
+    ],
+    [
+        "Q117. Recuperate",
+        "(a) Recapture",
+        "(b) Reclaim",
+        "(c) Recover",
+        "(d) Regain",
+        "Answer: (c) Recover ",
+        ""
+    ],
+    [
+        "Q118. Legitimate",
+        "(a) Valid",
+        "(b) Illicit",
+        "(c) Unlawful",
+        "(d) Distinguished",
+        "Answer: (a) Valid ",
+        ""
+    ],
+    [
+        "Q119. Persuade",
+        "(a) Assure",
+        "(b) Opinionate",
+        "(c) Convince",
+        "(d) Motivate",
+        "Answer: (c) Convince ",
+        ""
+    ],
+    [
+        "Q120. Transcend",
+        "(a) Lower",
+        "(b) Climb",
+        "(c) Energise",
+        "(d) Cross",
+        "Answer: (d) Cross ",
+        ""
+    ],
+    [
+        "Q121. Feeble",
+        "(a) Pretty",
+        "(b) Small",
+        "(c) Weak",
+        "(d) Playful",
+        "Answer: (c) Weak ",
+        ""
+    ],
+    [
+        "Q122. Chastise",
+        "(a) Monitor",
+        "(b) Chase",
+        "(c) Praise",
+        "(d) Upbraid",
+        "Answer: (d) Upbraid ",
+        ""
+    ],
+    [
+        "Q123. Pawn",
+        "(a) Hire",
+        "(b) Pledge",
+        "(c) Sponge",
+        "(d) Scrounge",
+        "Answer: (b) Pledge ",
+        ""
+    ],
+    [
+        "Q124. Precedence",
+        "(a) Procession",
+        "(b) Priority",
+        "(c) Formality",
+        "(d) Hesitation",
+        "Answer: (b) Priority ",
+        ""
+    ],
+    [
+        "Q125. Aura",
+        "(a) Bitterness",
+        "(b) Prophet",
+        "(c) Delight",
+        "(d) Distinctive atmosphere",
+        "Answer: (d) Distinctive atmosphere ",
+        ""
+    ],
+    [
+        "Q126. Deliberate",
+        "(a) Purposeless",
+        "(b) Perpetrate",
+        "(c) Intentional",
+        "(d) Intervention",
+        "Answer: (c) Intentional ",
+        ""
+    ],
+    [
+        "Q127. Trivial",
+        "(a) Significant",
+        "(b) Momentous",
+        "(c) Unimportant",
+        "(d) Critical",
+        "Answer: (c) Unimportant ",
+        ""
+    ],
+    [
+        "Q128. Vagary",
+        "(a) Caprice",
+        "(b) Emptiness",
+        "(c) Enthusiasm",
+        "(d) Truthfulness",
+        "Answer: (a) Caprice ",
+        ""
+    ],
+    [
+        "Q129. Amicable",
+        "(a) Nebulous",
+        "(b) Abominable",
+        "(c) Harmonious",
+        "(d) Delicate",
+        "Answer: (c) Harmonious ",
+        ""
+    ],
+    [
+        "Q130. Elope",
+        "(a) Extort",
+        "(b) Intimidate",
+        "(c) Flee",
+        "(d) Harass",
+        "Answer: (c) Flee ",
+        ""
+    ],
+    [
+        "Q131. Admonish",
+        "(a) Flatter",
+        "(b) Encourage",
+        "(c) Benefit",
+        "(d) Rebuke",
+        "Answer: (d) Rebuke ",
+        ""
+    ],
+    [
+        "Q132. Beneficial",
+        "(a) Comely",
+        "(b) Profitable",
+        "(c) Polite",
+        "(d) Beautiful",
+        "Answer: (b) Profitable ",
+        ""
+    ],
+    [
+        "Q133. Catastrophe",
+        "(a) Chide",
+        "(b) Cheat",
+        "(c) Coax",
+        "(d) Calamity",
+        "Answer: (d) Calamity ",
+        ""
+    ],
+    [
+        "Q134. Docile",
+        "(a) Self-willed",
+        "(b) Gentle",
+        "(c) Dismal",
+        "(d) Deceit",
+        "Answer: (b) Gentle ",
+        ""
+    ],
+    [
+        "Q135. Earnest",
+        "(a) Erupt",
+        "(b) Eager",
+        "(c) Eccentric",
+        "(d) Erratic",
+        "Answer: (b) Eager ",
+        ""
+    ],
+    [
+        "Q136. Insipid",
+        "(a) Weak",
+        "(b) Anger",
+        "(c) Liquid",
+        "(d) Agreed",
+        "Answer: (a) Weak ",
+        ""
+    ],
+    [
+        "Q137. Zeal",
+        "(a) Hazardous",
+        "(b) Connotation",
+        "(c) Passion",
+        "(d) Initiation",
+        "Answer: (c) Passion ",
+        ""
+    ],
+    [
+        "Q138. Obstinate",
+        "(a) Unyielding",
+        "(b) Apparent",
+        "(c) Hidden",
+        "(d) Pensile",
+        "Answer: (a) Unyielding ",
+        ""
+    ],
+    [
+        "Q139. Stupendous",
+        "(a) Uninteresting",
+        "(b) Limited",
+        "(c) Ordinary",
+        "(d) Colossal",
+        "Answer: (d) Colossal ",
+        ""
+    ],
+    [
+        "Q140. Humane",
+        "(a) Mankind",
+        "(b) Manlike",
+        "(c) Manly",
+        "(d) Kind",
+        "Answer: (a) Mankind ",
+        ""
+    ],
+    [
+        "Q141. Fictitious",
+        "(a) False",
+        "(b) Fraud",
+        "(c) Foul",
+        "(d) Faltering",
+        "Answer: (d) Faltering ",
+        ""
+    ],
+    [
+        "Q142. Haughty",
+        "(a) Imperial",
+        "(b) Umpire",
+        "(c) Empire",
+        "(d) Imperious",
+        "Answer: (c) Empire ",
+        ""
+    ],
+    [
+        "Q143. Adversity",
+        "(a) Blemish",
+        "(b) Tumult",
+        "(c) Misfortune",
+        "(d) Fret",
+        "Answer: (a) Blemish ",
+        ""
+    ],
+    [
+        "Q144. Praiseworthy",
+        "(a) Creditable",
+        "(b) Credulous",
+        "(c) Credible",
+        "(d) Incredible",
+        "Answer: (a) Creditable ",
+        ""
+    ],
+    [
+        "Q145. Amiable",
+        "(a) Healthy",
+        "(b) Friendly",
+        "(c) Beautiful",
+        "(d) Cruel",
+        "Answer: (b) Friendly ",
+        ""
+    ],
+    [
+        "Q146. Coveted",
+        "(a) Desired",
+        "(b) Priceless",
+        "(c) Private",
+        "(d) Valid",
+        "Answer: (a) Desired ",
+        ""
+    ],
+    [
+        "Q147. Instils",
+        "(a) Teach",
+        "(b) Causes",
+        "(c) Orders",
+        "(d) Invites",
+        "Answer: (b) Causes ",
+        ""
+    ],
+    [
+        "Q148. Beget",
+        "(a) Acute",
+        "(b) Produce",
+        "(c) Effect",
+        "(d) Demanding",
+        "Answer: (b) Produce ",
+        ""
+    ],
+    [
+        "Q149. Surpassed",
+        "(a) Excel",
+        "(b) Matched",
+        "(c) Competed",
+        "(d) Flexible",
+        "Answer: (a) Excel ",
+        ""
+    ],
+    [
+        "Q150. Obsolete",
+        "(a) Transparent",
+        "(b) Irregular",
+        "(c) Outmoded",
+        "(d) Strange",
+        "Answer: (c) Outmoded ",
+        ""
+    ],
+    [
+        "Q151. Baleful",
+        "(a) Uncovered",
+        "(b) Ruinous",
+        "(c) Gentle",
+        "(d) Trial",
+        "Answer: (b) Ruinous ",
+        ""
+    ],
+    [
+        "Q152. Hoodwink",
+        "(a) Bamboozle",
+        "(b) Anticipate",
+        "(c) Desperate",
+        "(d) Humble",
+        "Answer: (a) Bamboozle ",
+        ""
+    ],
+    [
+        "Q153. Nimble",
+        "(a) Clumsy",
+        "(b) Honest",
+        "(c) Needless",
+        "(d) Agile",
+        "Answer: (d) Agile ",
+        ""
+    ],
+    [
+        "Q154. Desultory",
+        "(a) Frugal",
+        "(b) Random",
+        "(c) Diminish",
+        "(d) Forsake",
+        "Answer: (b) Random ",
+        ""
+    ],
+    [
+        "Q155. Diligent",
+        "(a) Industrious",
+        "(b) Modest",
+        "(c) Energetic",
+        "(d) Intelligent",
+        "Answer: (a) Industrious ",
+        ""
+    ],
+    [
+        "Q156. Jealous",
+        "(a) Envious",
+        "(b) Greedy",
+        "(c) Lustful",
+        "(d) Proud",
+        "Answer: (a) Envious ",
+        ""
+    ],
+    [
+        "Q157. Quest",
+        "(a) Trial",
+        "(b) Test",
+        "(c) Search",
+        "(d) Decision",
+        "Answer: (c) Search ",
+        ""
+    ],
+    [
+        "Q158. Genuine",
+        "(a) Local",
+        "(b) Authentic",
+        "(c) Clever",
+        "(d) Concern",
+        "Answer: (b) Authentic ",
+        ""
+    ],
+    [
+        "Q159. Accuracy",
+        "(a) Agreement",
+        "(b) Precision",
+        "(c) Attachment",
+        "(d) Cleverness",
+        "Answer: (b) Precision ",
+        ""
+    ],
+    [
+        "Q160. Consort",
+        "(a) Partner",
+        "(b) Convoy",
+        "(c) Guide",
+        "(d) Protect",
+        "Answer: (a) Partner ",
+        ""
+    ],
+    [
+        "Q161. Revenue",
+        "(a) Return",
+        "(b) Disaster",
+        "(c) Regain",
+        "(d) Income",
+        "Answer: (d) Income ",
+        ""
+    ],
+    [
+        "Q162. Fostering",
+        "(a) Safeguarding",
+        "(b) Neglecting",
+        "(c) Sidelining",
+        "(d) Nurturing",
+        "Answer: (d) Nurturing ",
+        ""
+    ],
+    [
+        "Q163. Propel",
+        "(a) Drive",
+        "(b) Burst",
+        "(c) Acclimatise",
+        "(d) Modify",
+        "Answer: (a) Drive ",
+        ""
+    ],
+    [
+        "Q164. Massive",
+        "(a) Strong",
+        "(b) Little",
+        "(c) Gaping",
+        "(d) Huge",
+        "Answer: (d) Huge ",
+        ""
+    ],
+    [
+        "Q165. Stumbling Block",
+        "(a) Argument",
+        "(b) Advantage",
+        "(c) Hurdle",
+        "(d) Frustration",
+        "Answer: (c) Hurdle ",
+        ""
+    ],
+    [
+        "Q166. Novice",
+        "(a) Beginner",
+        "(b) Virtuous",
+        "(c) Trainer",
+        "(d) Learner",
+        "Answer: (a) Beginner ",
+        ""
+    ],
+    [
+        "Q167. Adversary",
+        "(a) Poverty",
+        "(b) Contestant",
+        "(c) Opponent",
+        "(d) Antagonistic",
+        "Answer: (c) Opponent ",
+        ""
+    ],
+    [
+        "Q168. Dishonour",
+        "(a) Infamy",
+        "(b) Glory",
+        "(c) Uncouth",
+        "(d) Wicked",
+        "Answer: (a) Infamy ",
+        ""
+    ],
+    [
+        "Q169. Erudite",
+        "(a) Scholarly",
+        "(b) Friendly",
+        "(c) Miserly",
+        "(d) Lovely",
+        "Answer: (a) Scholarly ",
+        ""
+    ],
+    [
+        "Q170. Idea",
+        "(a) Comprehension",
+        "(b) Notion",
+        "(c) Emotion",
+        "(d) Gist",
+        "Answer: (b) Notion ",
+        ""
+    ],
+    [
+        "Q171. Commemorate",
+        "(a) Boast",
+        "(b) Remember",
+        "(c) Manipulate",
+        "(d) Harmonise",
+        "Answer: (b) Remember ",
+        ""
+    ],
+    [
+        "Q172. Mendacity",
+        "(a) Arrogance",
+        "(b) Falsehood",
+        "(c) Alacrity",
+        "(d) Impertinence",
+        "Answer: (b) Falsehood ",
+        ""
+    ],
+    [
+        "Q173. Priority",
+        "(a) Rank",
+        "(b) First",
+        "(c) Post",
+        "(d) Fast",
+        "Answer: (a) Rank ",
+        ""
+    ],
+    [
+        "Q174. Courteous",
+        "(a) Illegal",
+        "(b) Royal",
+        "(c) Punctual",
+        "(d) Brusque",
+        "Answer: (b) Royal ",
+        ""
+    ],
+    [
+        "Q175. Sycophant",
+        "(a) Liar",
+        "(b) Exaggerator",
+        "(c) Traitor",
+        "(d) Flatterer",
+        "Answer: (d) Flatterer ",
+        ""
+    ],
+    [
+        "Q176. Impetuous",
+        "(a) hasty",
+        "(b) dormant",
+        "(c) sarcastic",
+        "(d) tedious",
+        "Answer: (a) hasty ",
+        ""
+    ],
+    [
+        "Q177. Deceit",
+        "(a) demise",
+        "(b) diminish",
+        "(c) dusty",
+        "(d) guile",
+        "Answer: (d) guile ",
+        ""
+    ],
+    [
+        "Q178. Ardent",
+        "(a) ancient",
+        "(b) eager",
+        "(c) old",
+        "(d) permit",
+        "Answer: (b) eager"
+    ]
+]

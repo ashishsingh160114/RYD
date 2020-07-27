@@ -1,0 +1,864 @@
+[
+    [
+        "Q1. We spoke about the event yesterday,",
+        "(a) didn't we",
+        "(b) wasn't we",
+        "(c) hadn'twe",
+        "(d) No Improvement",
+        "Answer: (a) didn't we ",
+        ""
+    ],
+    [
+        "Q2. No plants nor animals, can",
+        "(a) Either plants",
+        "(b) Both plants",
+        "(c) Neither plants",
+        "(d) No Improvement",
+        "Answer: (c) Neither plants ",
+        ""
+    ],
+    [
+        "Q3. Hari left the house before",
+        "(a) will leave",
+        "(b) had left",
+        "(c) leaves",
+        "(d) No Improvement",
+        "Answer: (b) had left ",
+        ""
+    ],
+    [
+        "Q4. He is quite well now, except a slight cold",
+        "(a) excepting a",
+        "(b) except for",
+        "(c) except with",
+        "(d) No Improvement",
+        "Answer: (b) except for ",
+        ""
+    ],
+    [
+        "Q5. We meet a lot of people at our holiday",
+        "(a) in",
+        "(b) during",
+        "(c) on",
+        "(d) No Improvement",
+        "Answer: (b) during ",
+        ""
+    ],
+    [
+        "Q6. Ashoka had a great reign than Babar",
+        "(a) longer",
+        "(b) longest",
+        "(c) wiser",
+        "(d) No Improvement",
+        "Answer: (a) longer ",
+        ""
+    ],
+    [
+        "Q7. The executive had received several warnings before been suspended finally for his lack of punctuality",
+        "(a) after suspension",
+        "(b) after suspending",
+        "(c) before being suspended",
+        "(d) No Improvement",
+        "Answer: (c) before being suspended ",
+        ""
+    ],
+    [
+        "Q8. The museum has palnned of a ten day exhibition showcasing the rich culture of the South",
+        "(a) plan for",
+        "(b) has been planning",
+        "(c) planning on",
+        "(d) No Improvement",
+        "Answer: (b) has been planning ",
+        ""
+    ],
+    [
+        "Q9. The steep rise in oil prices is the reason on account of which we must conserve",
+        "(a) the reason",
+        "(b) the reason for",
+        "(c) the reason because",
+        "(d) No Improvement",
+        "Answer: (a) the reason ",
+        ""
+    ],
+    [
+        "Q10. The social worker passionately stroked the annoyed passenger in order that be pacified",
+        "(a) to pacify him",
+        "(b) that to pacify",
+        "(c) to be pacified for",
+        "(d) No Improvement",
+        "Answer: (a) to pacify him ",
+        ""
+    ],
+    [
+        "Q11. Despite his poor vision, he had an eye for women",
+        "(a) Though his",
+        "(b) Instead of his",
+        "(c) Although his",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q12. I shall make you realise your mistake",
+        "(a) make you to realise",
+        "(b) make you in realising",
+        "(c) made you realise",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q13. He ordered me to open the door",
+        "(a) requested",
+        "(b) asked",
+        "(c) directed",
+        "(d) No Improvement",
+        "Answer: (b) asked ",
+        ""
+    ],
+    [
+        "Q14. Except another resturants this",
+        "(a) Beside other",
+        "(b) Unlike other",
+        "(c) Without another",
+        "(d) No Improvement",
+        "Answer: (b) Unlike other ",
+        ""
+    ],
+    [
+        "Q15. The meeting was postponed due to lack of quorum",
+        "(a) because of",
+        "(b) for",
+        "(c) against the",
+        "(d) No Improvement",
+        "Answer: (c) against the ",
+        ""
+    ],
+    [
+        "Q16. The greater part of the building has been destroyed",
+        "(a) spoiled",
+        "(b) demolished",
+        "(c) distributed",
+        "(d) No Improvement",
+        "Answer: (b) demolished ",
+        ""
+    ],
+    [
+        "Q17. You abstained to speak ill of others",
+        "(a) to speaking",
+        "(b) from speaking",
+        "(c) to speak to",
+        "(d) No Improvement",
+        "Answer: (b) from speaking ",
+        ""
+    ],
+    [
+        "Q18. He starts from his house and walks 5 Km in south",
+        "(a) to",
+        "(b) by",
+        "(c) towards",
+        "(d) No Improvement",
+        "Answer: (c) towards ",
+        ""
+    ],
+    [
+        "Q19. They have placed a new project for the",
+        "(a) accepted",
+        "(b) implemented",
+        "(c) bought",
+        "(d) No Improvement",
+        "Answer: (b) implemented ",
+        ""
+    ],
+    [
+        "Q20. He was so afraid that his knees knocked ",
+        "(a) one against",
+        "(b) each other",
+        "(c) both",
+        "(d) No Improvement",
+        "Answer: (b) each other ",
+        ""
+    ],
+    [
+        "Q21. I felt that he was far by pleased to see me again",
+        "(a) far from",
+        "(b) far on",
+        "(c) far with",
+        "(d) No Improvement",
+        "Answer: (a) far from ",
+        ""
+    ],
+    [
+        "Q22. He ordered me to open the window",
+        "(a) asked",
+        "(b) bade",
+        "(c) requested",
+        "(d) No Improvement",
+        "Answer: (a) asked ",
+        ""
+    ],
+    [
+        "Q23. Along with success comes a thought for wisdom",
+        "(a) reputation",
+        "(b) need",
+        "(c) thirst",
+        "(d) No Improvement",
+        "Answer: (b) need ",
+        ""
+    ],
+    [
+        "Q24. To get into the building I'll disguise as a reporter",
+        "(a) disguise to be",
+        "(b) disguise as one",
+        "(c) disguise myself",
+        "(d) No Improvement",
+        "Answer: (c) disguise myself ",
+        ""
+    ],
+    [
+        "Q25. No sooner had the dividend been declared,",
+        "(a) As soon as",
+        "(b) Hardly",
+        "(c) Quickly",
+        "(d) No Improvement",
+        "Answer: (b) Hardly ",
+        ""
+    ],
+    [
+        "Q26. Education experts from University travelled the village to judge the school system there",
+        "(a) calculate",
+        "(b) evaluate",
+        "(c) assess",
+        "(d) No Improvement",
+        "Answer: (b) evaluate ",
+        ""
+    ],
+    [
+        "Q27. Solar eclipse can only takes at New Moon when the Moon passes between Earth and Sun",
+        "(a) result",
+        "(b) show",
+        "(c) occur",
+        "(d) No Improvement",
+        "Answer: (c) occur ",
+        ""
+    ],
+    [
+        "Q28. The cricket match was left due to bad weather",
+        "(a) dropped",
+        "(b) abandoned",
+        "(c) deserted",
+        "(d) No Improvement",
+        "Answer: (b) abandoned ",
+        ""
+    ],
+    [
+        "Q29. The man was turned down by a car",
+        "(a) brought down",
+        "(b) knocked down",
+        "(c) pulled down",
+        "(d) No Improvement",
+        "Answer: (b) knocked down ",
+        ""
+    ],
+    [
+        "Q30. The night clubs are open into far night",
+        "(a) far into the night",
+        "(b) far into night",
+        "(c) into the far night",
+        "(d) No Improvement",
+        "Answer: (a) far into the night ",
+        ""
+    ],
+    [
+        "Q31. I have been very thirsty lately",
+        "(a) will be",
+        "(b) should be",
+        "(c) would be",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q32. Where have I invest my money?",
+        "(a) shall I",
+        "(b) will I",
+        "(c) should I",
+        "(d) No Improvement",
+        "Answer: (c) should I ",
+        ""
+    ],
+    [
+        "Q33. He was released from hospital yesterday",
+        "(a) freed",
+        "(b) dismissed",
+        "(c) discharged",
+        "(d) No Improvement",
+        "Answer: (c) discharged ",
+        ""
+    ],
+    [
+        "Q34. It is because of his mentor that he has been able to ",
+        "(a) stall",
+        "(b) prolong",
+        "(c) stretch out",
+        "(d) No Improvement",
+        "Answer: (b) prolong ",
+        ""
+    ],
+    [
+        "Q35. His father, who has been sustenance him as a human being as well as an athlete for so many years",
+        "(a) nurturing",
+        "(b) development",
+        "(c) stretch out",
+        "(d) No Improvement",
+        "Answer: (a) nurturing ",
+        ""
+    ],
+    [
+        "Q36. Government's document outlines in",
+        "(a) draft",
+        "(b) point out",
+        "(c) layout",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q37. There has been a major road accident, including",
+        "(a) involving",
+        "(b) add",
+        "(c) comprise",
+        "(d) No Improvement",
+        "Answer: (a) involving ",
+        ""
+    ],
+    [
+        "Q38.",
+        "(a) distinctive",
+        "(b) individual",
+        "(c) every",
+        "(d) No Improvement",
+        "Answer: (b) individual ",
+        ""
+    ],
+    [
+        "Q39. Curfew remains in impact in most of the parts of the district",
+        "(a) implementation",
+        "(b) enforcement",
+        "(c) force",
+        "(d) No Improvement",
+        "Answer: (c) force ",
+        ""
+    ],
+    [
+        "Q40. The polar bear's diet complete almost entirely of seals and fish",
+        "(a) consists",
+        "(b) full of",
+        "(c) contained in",
+        "(d) No Improvement",
+        "Answer: (a) consists ",
+        ""
+    ],
+    [
+        "Q41. Is the world's climate getting more hot, with hotter heat waves and colder cold?",
+        "(a) high",
+        "(b) extreme",
+        "(c) acute",
+        "(d) No Improvement",
+        "Answer: (b) extreme ",
+        ""
+    ],
+    [
+        "Q42. Has you been on holiday this year?",
+        "(a) You have been",
+        "(b) Did you",
+        "(c) Have you been",
+        "(d) No Improvement",
+        "Answer: (c) Have you been ",
+        ""
+    ],
+    [
+        "Q43. The film is forwarded to represent India in the Best Foreign Film category at next",
+        "(a) awarded",
+        "(b) nominated",
+        "(c) appointed",
+        "(d) No Improvement",
+        "Answer: (b) nominated ",
+        ""
+    ],
+    [
+        "Q44. I will abide by the law inspite of the fact",
+        "(a) live in",
+        "(b) endure",
+        "(c) tolerate",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q45. The tree fell across the road and became a prevent",
+        "(a) an obstacle",
+        "(b) a hurdle",
+        "(c) a restriction",
+        "(d) No Improvement",
+        "Answer: (a) an obstacle ",
+        ""
+    ],
+    [
+        "Q46. We must avail ourselves of rights and duties in equal",
+        "(a) balanceSudhakar Khade",
+        "(b) amount",
+        "(c) measure",
+        "(d) No Improvement",
+        "Answer: (c) measure ",
+        ""
+    ],
+    [
+        "Q47. Nobody can request me to do anything which I do not want to do",
+        "(a) encourage",
+        "(b) delegate",
+        "(c) compel",
+        "(d) No Improvement",
+        "Answer: (c) compel ",
+        ""
+    ],
+    [
+        "Q48. There are quite a few mountains in that area that haven't been walked because they are quite",
+        "(a) scaled",
+        "(b) avoided",
+        "(c) victory",
+        "(d) No Improvement",
+        "Answer: (a) scaled ",
+        ""
+    ],
+    [
+        "Q49. His mother was anxious at the safety of her son",
+        "(a) with",
+        "(b) about",
+        "(c) upon",
+        "(d) No Improvement",
+        "Answer: (b) about ",
+        ""
+    ],
+    [
+        "Q50. He resigned and kept me in the lurch",
+        "(a) put",
+        "(b) left",
+        "(c) sent",
+        "(d) No Improvement",
+        "Answer: (b) left ",
+        ""
+    ],
+    [
+        "Q51. He was so badly injured that he needed serious",
+        "(a) little",
+        "(b) deep",
+        "(c) intensive",
+        "(d) No Improvement",
+        "Answer: (c) intensive ",
+        ""
+    ],
+    [
+        "Q52. He told us that he had been aplying for a new job",
+        "(a) had applied",
+        "(b) applies",
+        "(c) is applying",
+        "(d) No Improvement",
+        "Answer: (a) had applied ",
+        ""
+    ],
+    [
+        "Q53. I will be very busy lately",
+        "(a) would be",
+        "(b) should be",
+        "(c) have been",
+        "(d) No Improvement",
+        "Answer: (c) have been ",
+        ""
+    ],
+    [
+        "Q54. I first read the book at lunch",
+        "(a) over",
+        "(b) with",
+        "(c) by",
+        "(d) No Improvement",
+        "Answer: (a) over ",
+        ""
+    ],
+    [
+        "Q55. He was in service for many years and will retire soon",
+        "(a) is",
+        "(b) have been",
+        "(c) has been",
+        "(d) No Improvement",
+        "Answer: (c) has been ",
+        ""
+    ],
+    [
+        "Q56. He will explaining to you when he comes back",
+        "(a) is explaining",
+        "(b) will explain",
+        "(c) have explaining",
+        "(d) No Improvement",
+        "Answer: (b) will explain ",
+        ""
+    ],
+    [
+        "Q57. He reads a book when I meet him",
+        "(a) is reading",
+        "(b) was reading",
+        "(c) has reading",
+        "(d) No Improvement",
+        "Answer: (b) was reading ",
+        ""
+    ],
+    [
+        "Q58. Though his poor vision, he had an eye for women",
+        "(a) Despite his",
+        "(b) Instead of his",
+        "(c) Inspite his",
+        "(d) No Improvement",
+        "Answer: (a) Despite his ",
+        ""
+    ],
+    [
+        "Q59. When played football, I sprained my foot",
+        "(a) Since playing",
+        "(b) From playing",
+        "(c) While playing",
+        "(d) No Improvement",
+        "Answer: (c) While playing ",
+        ""
+    ],
+    [
+        "Q60. I shall make you realise your mistake",
+        "(a) make you to realise",
+        "(b) making you realise",
+        "(c) make you realised",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        " "
+    ],
+    [
+        "Q61. They were no longer able to provide the  help their children need",
+        "(a) helped their children needed",
+        "(b) helped their children need",
+        "(c) help their children needed",
+        "(d) No Improvement",
+        "Answer: (c) help their children needed ",
+        ""
+    ],
+    [
+        "Q62. In quick time she got acquainted with the",
+        "(a) enough time",
+        "(b) small time",
+        "(c) no time",
+        "(d) No Improvement",
+        "Answer: (b) small time ",
+        ""
+    ],
+    [
+        "Q63. From last three days, police is engage in",
+        "(a) was engaged",
+        "(b) have been engaged",
+        "(c) has engaged",
+        "(d) No Improvement",
+        "Answer: (b) have been engaged ",
+        ""
+    ],
+    [
+        "Q64. I was very scared after I come out of the house ",
+        "(a) came out",
+        "(b) coming out",
+        "(c) was come out",
+        "(d) No Improvement",
+        "Answer: (a) came out ",
+        ""
+    ],
+    [
+        "Q65. There is no one on the political horizon as sharp as him when it has coming",
+        "(a) it comes",
+        "(b) it has comes",
+        "(c) it coming",
+        "(d) No Improvement",
+        "Answer: (a) it comes ",
+        ""
+    ],
+    [
+        "Q66. The government accused the drugmaker ",
+        "(a) of",
+        "(b) to",
+        "(c) with",
+        "(d) No Improvement",
+        "Answer: (a) of ",
+        ""
+    ],
+    [
+        "Q67. In spite of my friend invited me to a party, I do not want",
+        "(a) Despite",
+        "(b) Even if",
+        "(c) Although",
+        "(d) No Improvement",
+        "Answer: (c) Although ",
+        ""
+    ],
+    [
+        "Q68. He will be the second Indian to be deliver a lecture",
+        "(a) to delivered",
+        "(b) to deliver",
+        "(c) to be delivered",
+        "(d) No Improvement",
+        "Answer: (b) to deliver ",
+        ""
+    ],
+    [
+        "Q69. Did he known more about the company policies, he might not have accepted the offer",
+        "(a) Had he known more",
+        "(b) Since not more was known",
+        "(c) He had known more",
+        "(d) No Improvement",
+        "Answer: (a) Had he known more ",
+        ""
+    ],
+    [
+        "Q70. The sooner we finish the speeches, the sooner we can get on with the celebration",
+        "(a) get along with",
+        "(b) get on",
+        "(c) getting on with",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q71. Always leave two-Inch blank on the bottom of each page for",
+        "(a) gap",
+        "(b) margin",
+        "(c) border",
+        "(d) No Improvement",
+        "Answer: (b) margin ",
+        ""
+    ],
+    [
+        "Q72. Heat the stock in a pan and keep in a low simmer",
+        "(a) keep at",
+        "(b) keep on",
+        "(c) keep to",
+        "(d) No Improvement",
+        "Answer: (a) keep at ",
+        ""
+    ],
+    [
+        "Q73. Paramilitary personnel were deployed to restoring infrastructure badly injured by the storm",
+        "(a) influenced",
+        "(b) distressed",
+        "(c) affected",
+        "(d) No Improvement",
+        "Answer: (c) affected ",
+        ""
+    ],
+    [
+        "Q74. Communication links have been vastly disrupted by the strong winds that goes upto a speed of 220 kmph",
+        "(a) went upto",
+        "(b) gone uto",
+        "(c) gets",
+        "(d) No Improvement",
+        "Answer: (a) went upto ",
+        ""
+    ],
+    [
+        "Q75. His wife died after contracting a rare skin disease which was treated by the Govt hospital",
+        "(a) died in",
+        "(b) died at",
+        "(c) died to",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q76. My visit to my vilage are a few and far between",
+        "(a) few and far between",
+        "(b) few or far between",
+        "(c) few and a far between",
+        "(d) No Improvement",
+        "Answer: (a) few and far between ",
+        ""
+    ],
+    [
+        "Q77. The teacher asked him to copy the letter word for word",
+        "(b) word by word",
+        "(c) word after word",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q78. He speaks not only English but also Tamil",
+        "(a) Tamil too",
+        "(b) as well as Tamil",
+        "(c) Tamil as well",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q79. I wish I knew what was wrong with him",
+        "(a) knew what is",
+        "(b) had knew what is",
+        "(c) had knew what was",
+        "(d) No Improvement",
+        "Answer: (d) No Improvement ",
+        ""
+    ],
+    [
+        "Q80. Hardly had he finished the work then the doorbell rang",
+        "(a) than",
+        "(b) when",
+        "(c) while",
+        "(d) No Improvement",
+        "Answer: (b) when ",
+        ""
+    ],
+    [
+        "Q81. The mobile phones have made digital cameras a little superfluous in today's world",
+        "(a) extinct",
+        "(b) obsolete",
+        "(c) neglected",
+        "(d) No Improvement",
+        "Answer: (b) obsolete ",
+        ""
+    ],
+    [
+        "Q82. If you will approach him sincerely, he will listen to your problem definitely",
+        "(a) you approach",
+        "(b) you are approaching",
+        "(c) you have been approaching",
+        "(d) No Improvement",
+        "Answer: (a) you approach ",
+        ""
+    ],
+    [
+        "Q83. The equipment is adapted to cotton industries",
+        "(a) Adapted from",
+        "(b) Adapted for",
+        "(c) Adapted with",
+        "(d) No Improvement",
+        "Answer: (b) Adapted for ",
+        ""
+    ],
+    [
+        "Q84. We might have doing something to help you",
+        "(a) having to do",
+        "(b) has done",
+        "(c) have done",
+        "(d) No Improvement",
+        "Answer: (c) have done ",
+        ""
+    ],
+    [
+        "Q85. He to be positively rude",
+        "(a) was being",
+        "(b) have being",
+        "(c) had being",
+        "(d) No Improvement",
+        "Answer: (a) was being ",
+        ""
+    ],
+    [
+        "Q86. What would the cavalry doing out here ?",
+        "(a) be doing",
+        "(b) be done",
+        "(c) done",
+        "(d) No Improvement",
+        "Answer: (a) be doing ",
+        ""
+    ],
+    [
+        "Q87. All was surprising to find him on that place",
+        "(a) was surprised",
+        "(b) were surprised",
+        "(c) being surprised",
+        "(d) No Improvement",
+        "Answer: (b) were surprised ",
+        ""
+    ],
+    [
+        "Q88. Read in order become wise",
+        "(a) to have to be",
+        "(b) to have become",
+        "(c) to become",
+        "(d) No Improvement",
+        "Answer: (c) to become ",
+        ""
+    ],
+    [
+        "Q89. Ramesh was uneasy because he never be on a plane before",
+        "(a) had never been",
+        "(b) never been",
+        "(c) is never been",
+        "(d) No Improvement",
+        "Answer: (a) had never been ",
+        ""
+    ],
+    [
+        "Q90. When I shall go to Agra, I shall visit the Taj Mahal",
+        "(a) have gone",
+        "(b) shall travel",
+        "(c) go",
+        "(d) No Improvement",
+        "Answer: (c) go ",
+        ""
+    ],
+    [
+        "Q91. You must apologise with him for this",
+        "(a) to",
+        "(b) of",
+        "(c) for",
+        "(d) No Improvement",
+        "Answer: (a) to ",
+        ""
+    ],
+    [
+        "Q92. Since he worked hard he failed to secure good grades",
+        "(a) As",
+        "(b) When",
+        "(c) Though ",
+        "(d) No Improvement",
+        "Answer: (c) Though ",
+        ""
+    ],
+    [
+        "Q93. The CEO agreed will answer questions on meeting",
+        "(a) to answer",
+        "(b) for asnwering",
+        "(c) with asnwering",
+        "(d) No Improvement",
+        "Answer: (a) to answer ",
+        ""
+    ],
+    [
+        "Q94. A pair of shoes have been purchased by me",
+        "(a) has been",
+        "(b) has being",
+        "(c) would been",
+        "(d) No Improvement",
+        "Answer: (a) has been ",
+        ""
+    ],
+    [
+        "Q95. He throwed it out of the window",
+        "(a) threw",
+        "(b) throw",
+        "(c) thrown",
+        "(d) No Improvement",
+        "Answer: (a) threw ",
+        ""
+    ],
+    [
+        "Q96. In the hot afternoon, after a long walk, I rested under the shadow of a tree",
+        "(a) shelter",
+        "(b) shade",
+        "(c) cool",
+        "(d) No Improvement",
+        "Answer: (b) shade"
+    ]
+]
