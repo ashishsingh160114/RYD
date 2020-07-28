@@ -1,0 +1,197 @@
+[
+    [
+        "1) Which of the following are not keywords in C?",
+        "a) printf",
+        "b) Main",
+        "c) IF",
+        "d) none of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "2) C was primarily developed as a",
+        "a) systems programming language",
+        "b) general purpose language",
+        "c) data processing language",
+        "d) none of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "3) C dose no automatic array bound checking. This is",
+        "a) not true always",
+        "b) False",
+        "c) Cs asset",
+        "d) Cs shortcoming and always true",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "4) The minimum number of temporary variables needed to swap the contents of two variables is",
+        "a) 1",
+        "b) 2",
+        "c) 3",
+        "d) 0",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "5) Lengths of the string correct and correct string are",
+        "a) 7,14",
+        "b) 8,14",
+        "c) 6,13",
+        "d) implementation dependant",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "6)If integer needs two bytes of storage, then maximum value of a signed integer is",
+        "a) 216  1",
+        "b) 215  1",
+        "c) 216",
+        "d) 215",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "7) In a program constant is defined",
+        "a) before main",
+        "b) after main",
+        "c) anywhere, but starting on new line",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "8) X \u2013 = y + 1; means",
+        "a) x = x-y+1",
+        "b) x=-x-y-1",
+        "d) x=x-y-1",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "9)The value of an automatic variable that is declared but not initialized will be",
+        "a) 0",
+        "b) -1",
+        "c) unpredictable",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "10)The maximum number of dimension an array can have in C is ",
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) None of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "11) The default parameter passing mechanism is",
+        "a) call by value",
+        "b) call by reference",
+        "c) call by value result",
+        "d) none of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "12)The order in which actual arguments are evaluated in a function call",
+        "a) is from the left",
+        "b) is from the right",
+        "c) is compiler-dependent",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "13)The expression 4+6/3 * 2  2+ 7% 3 evaluates to",
+        "a) 3",
+        "b) 4",
+        "c) 6",
+        "d) 7",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "14)Pointers are of",
+        "a) integer datatype",
+        "b) character datatype",
+        "c)unsigned integer datatype",
+        "d) none of these",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "15) A string that is a formal parameter can be declared ",
+        "a) an array with empty bracket",
+        "b) a pointer to character",
+        "c) none of the above",
+        "d) both (a) and (b) above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "16) If 7 bits are used to store a character, the percentage reduction of needed storage will be",
+        "a) 22.5",
+        "b) 2.5",
+        "c) 8",
+        "d) 12.5",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "17)The contents of a file will be lost if it is opened in",
+        "a) a mode",
+        "b) w mode and w + mode",
+        "c) r + mode",
+        "d) a + mode",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "18)How many bits are absolutely necessary to stone an ASCII character ?",
+        "a) 7",
+        "b) 8",
+        "c) 16",
+        "d) 15",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "19)The most signification bit will be lost in which f the following operations?",
+        "a) &gt;&gt;",
+        "b) complementation",
+        "d) none of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "20)Replacing &gt; by &lt; in the previous question results in",
+        "a) printing of 107",
+        "b) a syntax error",
+        "c) printing of k",
+        "d) none of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "21) As soon as a pointer variable is freed, its value",
+        "a) is set to null",
+        "b) become unpredictable",
+        "c) is set to 1",
+        "d) remains the same",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "22)The number of additions performed by the above program fragment is",
+        "a) 27000",
+        "b) 27000 x 3",
+        "c) 9000 + 3 x 27000",
+        "d) 9930 + 27000 x 3",
+        "View AnswerOption \u2013 d"
+    ]
+]
