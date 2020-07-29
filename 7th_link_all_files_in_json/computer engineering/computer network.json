@@ -1,0 +1,289 @@
+[
+    [
+        "1) Unmodulated signal coming from a transmitter is known as",
+        "a) carrier signal",
+        "b) base band signal",
+        "c) primary signal",
+        "d) none of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "2) FDDI is",
+        "a) ring network",
+        "b) star network",
+        "c) mesh network",
+        "d) bus based network",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "3) A network that requires human intervention to route signals is called a",
+        "a) bus networks",
+        "b) ring networks",
+        "c) star networks",
+        "d) T-switched network",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "4) In a board sense, a railway track is an example of",
+        "a) simplex",
+        "b) half-duplex",
+        "c) full-duplex",
+        "d) all of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "5) Which of the following is not a service primitive?",
+        "a) connect",
+        "b) listen",
+        "c) send",
+        "d) sound",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "6) Which of the following is not a filed in the Ethernet message packet?",
+        "a) Type",
+        "b) Data",
+        "c) Pin-code",
+        "d) Address",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "7) Working of the WAN generally involves",
+        "a) Satellite",
+        "b) Frame Delay",
+        "c) ATM",
+        "d) All of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "8) End-to-end connectivity is provided form host-to-host in",
+        "a) Network layer",
+        "b) Session layer",
+        "c) Data link layer",
+        "d) Transport layer",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "9) What is the default maximum packet size for 16 MB Token Ring Network?",
+        "a) 576 bytes",
+        "b) 1101 bytes",
+        "c) 2202 bytes",
+        "d) 4202 bytes",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "10) Which of the following protocol is used for remote terminal connected service ?",
+        "a) TELNET",
+        "b) FTP",
+        "C) RARP",
+        "d) UDP",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "11) Null modems are a type of",
+        "a) Modem eliminator",
+        "b) Modem",
+        "c) Multiplexer",
+        "d) Protocol converter",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "12) Which one of the following is not a class of LAN?",
+        "a) Broad band",
+        "b) CSMAICD",
+        "c) Token bus",
+        "d) Token ring",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "13) CSMA/CD ",
+        "a) is an important protocol",
+        "b) is IEEE 802.3 (Ethernet)",
+        "c) bothe a and b",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "14) The amount of uncertainty in a system of symbol is called",
+        "a) Bandwidth",
+        "b) Entropy",
+        "c) Loss",
+        "d) Quantum",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "15) A bridge can-",
+        "a) filter a frame",
+        "b) forward a frame",
+        "c) extend a LAN",
+        "d) all of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "16) HDLC is",
+        "a) bit-oriented",
+        "b) code dependent",
+        "c) both a and b",
+        "d) none of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "17) Non-polling system is",
+        "a) TDMA",
+        "b) stop and wait",
+        "c) continuous ARQ",
+        "d) none of these",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "18) DNS is used to locate the-",
+        "a) MAC address of URL",
+        "b) IP address of URL",
+        "c) Root domain of URL",
+        "d) Domain name of a URL",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "19) The topology with highest reliability is",
+        "a) bus topology",
+        "b) star topology",
+        "c) ring topology",
+        "d) mesh topology",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "20) Which of the following items is not used in local area network (LAN)?",
+        "a) Computer",
+        "b) Modem",
+        "c) Printer",
+        "d) Cable",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "21) At network layer protocol defined by TCP/IP is",
+        "a) TCP",
+        "b) UDP",
+        "c) IP",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "22) Which one is the least expensive that can support 100 Mbps?",
+        "a) Coaxial",
+        "b) UTP",
+        "c) Fiber-optic",
+        "d) STP",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "23) In TCP, a unique sequence number is assigned to each",
+        "a) Byte",
+        "b) Word",
+        "c) Segment",
+        "d) Message",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "24) Which protocol is used to convert IP address to MAC address?",
+        "a) IP",
+        "b) RARP",
+        "c) in ARP",
+        "d) ARP",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "25) Which protocol use link state routing",
+        "a) BGP",
+        "b) OSPF",
+        "c) RIP",
+        "d) none of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "26) A subnet mask in class a can have _________ 1s with the remaining bits 0s.",
+        "a) 8",
+        "b) 4",
+        "c) 33",
+        "d) 3",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "27) Which IP class provides the fewest numbers of hosts?",
+        "a) Class A",
+        "b) Class B",
+        "c) Class C",
+        "d) Class D",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "28) Which protocol is exterior routing?",
+        "a) BGP",
+        "b) OSPF",
+        "c) RIP",
+        "d) None of these",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "29) Which protocol use distance vector routing?",
+        "a) OSPF",
+        "b) BGP",
+        "c) RIP",
+        "d) PPP",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "30) Class _______ has the greatest number of hosts per given network address.",
+        "a) B",
+        "b) A",
+        "c) D",
+        "d) C",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "31) A subnet mask in class A has fourteen 1s. How many subnet does it define?",
+        "a) 32",
+        "b) 8",
+        "c) 64",
+        "d) 128",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "32) Who can send ICMP error-reporting messages ?",
+        "a) Routers",
+        "b) Destination hosts",
+        "c) Source host",
+        "d) both a and c",
+        "View AnswerOption \u2013 d"
+    ]
+]

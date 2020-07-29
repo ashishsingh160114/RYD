@@ -1,0 +1,189 @@
+[
+    [
+        "1)Which normal form is considered adequate for relational database design?",
+        "a) 2 NF",
+        "b) 3 NF",
+        "c) 4 NF",
+        "d) BCNF",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "2) The column of table is referred to as the",
+        "a) tuple",
+        "b) attribute",
+        "c) entity",
+        "d) degree",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "3) E-R modeling technique is a",
+        "a) top-down approach",
+        "b) bottom approach",
+        "c) left-right approach",
+        "d) both top-down and bottom-up",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "4) What describes database latching best ?",
+        "a) Kept in lock manager\u2019s Hash Table",
+        "b) It is a type of a lock that can be very quickly acquired and freed.",
+        "c) Protects database content",
+        "d) Non of theabove",
+        ""
+    ],
+    [
+        "5) Redundancy is dangerous as it a Potential threat to data",
+        "a) integrity",
+        "b) consistency",
+        "c) sufficiency",
+        "d) both (a) and (b) above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "6) What does the data dictionary identify ?",
+        "a) Field names",
+        "b) Filed types",
+        "c) filed formats",
+        "d) All of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "7) Data independency in DBMS is known as",
+        "a) Data modeling",
+        "b) Data hiding",
+        "c) Data capturing",
+        "d) Data consistency",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "8) If a relation scheme is in BCNF, then it is also in",
+        "a) first normal form",
+        "b) second normal form",
+        "c) third normal formal",
+        "d) All of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "9) The way a particular application views the data from the database that the application uses is a",
+        "a) module",
+        "b) relatioanal ",
+        "c) schema",
+        "d) subschema",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "10) Which is the discrimination of the weak entity?",
+        "a) Account number",
+        "b) Transaction number",
+        "c) {account number,data}",
+        "d) Data",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "11) Which of the following operations is not part of the five basic set operations in relational algebra?",
+        "a) Union",
+        "b) Division",
+        "c) Cartesian Product",
+        "d) Set Difference",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "12) A lack of normalization can lead to which one of the following problems?",
+        "a) Insertion problems ",
+        "b) Deadlock",
+        "c) Lost Updates",
+        "d) Deferred Updates",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "13) Which of the following relational algebraic operation is not a commutative operation?",
+        "a) Union",
+        "b) Intersection",
+        "c) Selection",
+        "d) Project",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "14) Constraints are specified as a part of",
+        "a) Data definition",
+        "b) Data Manipulation",
+        "c) Data Control",
+        "d) None of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "15) Which of the following is not a file operation?",
+        "a) FindNext",
+        "b) Find",
+        "c) Reset",
+        "d) None of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "16) Relations produced from an E-R model will always be in",
+        "a) First normal form",
+        "b) Second normal form",
+        "c) third normal form",
+        "d) Fourth normal form",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "17) If the precedency graph of a given schedule is acyclic, then schedule",
+        "a) will be always serializable",
+        "b) will never serializable",
+        "c) may be serializable",
+        "d) cant say",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "18) What is the goal of concurrency control protocol?",
+        "a) schedule should be serializable",
+        "b) schedule should be recoverable",
+        "c) both (a) and (b)",
+        "d) none of these",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "19) Student and courses enrolled, is an example of",
+        "a) one-to-one relationship",
+        "b) one-to-many relationship",
+        "c) many-to-many relationship",
+        "d)many-to-one relationship",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "20) Which of the following is generally a benefit of normalization??",
+        "a) performance is improved",
+        "b) insertion anomalies are avoided",
+        "c) Selection anomalies are avoided ",
+        "d) number of tables is reduced",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "21) The set permitted values for each attribute is called is",
+        "a) attribute set",
+        "b) Attribute range",
+        "c) domain",
+        "d) Group",
+        "View AnswerOption \u2013 c"
+    ]
+]

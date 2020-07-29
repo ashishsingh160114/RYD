@@ -1,0 +1,178 @@
+[
+    [
+        "1)Which memory unit has lowest access time?",
+        "a) cache",
+        "b) registers",
+        "c) magnetic disk",
+        "d) main memory",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "2) Polled intrrupet are handled by",
+        "a) software",
+        "b) hardware",
+        "c) firmware",
+        "d) none of the aboveView AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "3) Given a 5 stage pipeline with stages taking 1,2,3,1, 1 units of time, the clock period of the pipeline is",
+        "a) 8",
+        "b) 1/8",
+        "c) 1/3",
+        "d) 3",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "4) A 32-bit address bus allows access to a memory of capacity",
+        "a) 64 Mb",
+        "b) 16 Mb",
+        "c) 1 Gb",
+        "d) 4 Gb",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "5) -_________ is a piece of hardware that executes a set of machine language instructions.",
+        "a) controller",
+        "b) bus",
+        "c) processor",
+        "d) motherboard",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "6) The system bus is made up of",
+        "a) data bus",
+        "b) data bus and address bus",
+        "c) data bus and control bus",
+        "d) data bus, control bus and address bus ",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "7) Booths algorithm is used in floating-point",
+        "a) addition",
+        "b) subtraction",
+        "c) multiplication",
+        "d) division",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "8) Which of the following data transfer mode takes relatively more time?",
+        "a) DMA",
+        "b) interrtupt initiated I/O",
+        "c) programmed I/O",
+        "d) Isolated I/O",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "9) Which of the following units can be used to measure the speed of a computer",
+        "a) SYPS",
+        "b) MIPS",
+        "d) none of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "10) The minimum time delay between the initiations of two independence memory operation is called",
+        "a) access time",
+        "b) cycle time",
+        "c) transfer rate",
+        "d) latency time",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "11) How many 128 x 8 bit RAMs are required to design 32K X 32 bit RAM?",
+        "a) 512",
+        "b) 128",
+        "c) 1024",
+        "d) 32",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "12) The most relevant addressing mode to write position-independent codes is",
+        "a) direct mode",
+        "b) indirect mode",
+        "c) relative mode",
+        "d) indexed mode",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "13) Which memory is difficult to interface with processor?",
+        "a) static memory",
+        "b) dynamic memory",
+        "c) ROM",
+        "d) RAM",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "14) Which of the following is not involved in a memory write operation?",
+        "a) MAR",
+        "b) PC ",
+        "d) data bus",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "15) A system which has lot crashes, data should be written to be disk using",
+        "a) write-through",
+        "b) write-back",
+        "c) both of the above",
+        "d) none of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "16) Which of the following holds data and processing instructions temporarily unit the CPU needs it?",
+        "a) ROM",
+        "b) control unit",
+        "c) main memory",
+        "d) coprocessor chips",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "17) Address mode is_______",
+        "a) explicitly specified",
+        "b) implied by the instruction",
+        "c) both a and b",
+        "d) neither a nor b",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "18) Which of the following affects processing power?",
+        "a) data bus capacity",
+        "b) addressing scheme",
+        "c) clock speed",
+        "d) all of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "19) Both the arithmetic logic unit (ALU) and control selection of CPU employ special purpose storage locations called",
+        "a) decoders",
+        "b) buffers",
+        "c) multiplexer",
+        "d) registers",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "20) Which memory unit has lowest access time?",
+        "a) cache",
+        "b) registers ",
+        "c) magnetic disk",
+        "d) main memory",
+        "View AnswerOption \u2013 b"
+    ]
+]

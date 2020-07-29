@@ -1,0 +1,180 @@
+[
+    [
+        "1) Left Factoring is the process of factoring out the common ?",
+        "a) prefixed of alternates",
+        "b) suffixes of alternates",
+        "c) predictive parsing",
+        "d) none of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "2) Which of the following are language processors?",
+        "a) assembler",
+        "b) compilers",
+        "c) interpreters",
+        "d) all of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "3) Resolution is externally defined symbols is performed by",
+        "a) Linker",
+        "b) Loader",
+        "c) Compiler",
+        "d) Assembler",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "4) The linker",
+        "a) is the same as loader",
+        "b) is required to create a load module",
+        "c) user source code as input",
+        "d) is always used before programs are executed",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "5) Which of the following is used for grouping of characters into tokens?",
+        "a) parser",
+        "b) code optimization",
+        "c) code generator",
+        "d) scanner",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "6) Which is a permanent data base in the general model of compiler?",
+        "a) literal table",
+        "b) indentifier table",
+        "c) terminal table",
+        "d) source code",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "7) Which of the following system software resides in main memory always?",
+        "a) text editor",
+        "b) assembler",
+        "c) linker",
+        "d) all of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "8) Which of the following parsers is the most powerful?",
+        "a) Operator-precedence",
+        "b) canonical LR",
+        "c) LALR",
+        "d) SLR",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "9) The translator is best described as",
+        "a) application software",
+        "b) a system software",
+        "c) a hardware component",
+        "d) all of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "10) A bottom-up parser generates",
+        "a) right-most derivation",
+        "b) right-most derivation in reverse",
+        "c) left-most derivation",
+        "d) left-most derivation in reverseView AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "11) The value of k, in LR (k) cannot be",
+        "a) 0",
+        "b) 1",
+        "c) 2",
+        "d) none of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "12) Which of the following grammars are not phases-structured?",
+        "a) regular",
+        "b) Context free grammars",
+        "c) context sensitive",
+        "d) none of the above",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "13) LR stands for",
+        "a) left to right",
+        "b) left to right reduction",
+        "c) right to left",
+        "d) left to right and right most derivation in reverse",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "14) Which of the following parses is the most powerful?",
+        "a) liner list",
+        "b) search tree",
+        "c) hash table",
+        "d) self-organizing list",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "15) The output of a lexical analyzer is ",
+        "a) macine code",
+        "b) intermediate code",
+        "c) a stream of tokens",
+        "d) a parse tree",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "16) Which of the following cannot be used as an intermediate code form?",
+        "a) post fix notation",
+        "b) Three address codes",
+        "c) Syntax trees",
+        "d) Quadruples",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "17) A basic block can be analyzed by",
+        "a) DAG",
+        "b) a flow graph",
+        "c) a graph with cycles",
+        "d) none of the above",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "18) Which of the following symbols table implementation is based on property of locality of reference?",
+        "a) Hash table",
+        "b) Search tree",
+        "c) Self-organizing list",
+        "d) Liner list",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "19) Synthesized attribute can be easily simulated by a",
+        "a) LL grammar",
+        "b) ambiguous grammar",
+        "c) LR grammar",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "20) A pictorial representation of the value computed by each statement in the basic block is",
+        "a) tree",
+        "b) DAG",
+        "c) Graph",
+        "d) None of the above",
+        "View AnswerOption \u2013 b"
+    ]
+]

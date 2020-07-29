@@ -1,0 +1,269 @@
+[
+    [
+        "1)Which of the following is the first integrated logic family?",
+        "a) RTL",
+        "b) DTL",
+        "c) TTL",
+        "d) MOS",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "2) A digital gate can respond to an input signal in",
+        "a) about a second",
+        "b) about a hundredth of a second",
+        "c) a few billionth of a second",
+        "d) a few millisecond",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "3)The time required for a pulse to change from 10 to 90 percent of its maximum value is defined as",
+        "a) rise time",
+        "b) decay time",
+        "c) propagation time",
+        "d) operating speed",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "4) Standard TTL has a multiple emitter input transistor and a.. output ",
+        "a) totem-pole",
+        "b) chip",
+        "c) bipolar",
+        "d) loading-point",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "5) A positive AND gate is also a negative ",
+        "a) NAND gate",
+        "b) NOR gate",
+        "c) AND gate",
+        "d) Or gateView AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "6) EPROM consist of",
+        "a) bipolar transistors ",
+        "b) MOSFETs",
+        "c) UJTs",
+        "d) Dlodes",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "7) Non-volatility is an important advantage of",
+        "a) CCDs",
+        "b) RAM",
+        "c) PROM",
+        "d) EPROM",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "8) Half-adder is also known as",
+        "a) AND gate",
+        "b) NAND gate",
+        "c) NOR gate",
+        "d) EX-OR gate",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "9) Which of the following is not a magnetic memory?",
+        "a) core",
+        "b) disk",
+        "c) flip-flop",
+        "d) tape",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "10) EE-ROM is",
+        "a) electrically erasable",
+        "b) Easily erasable",
+        "c) non-erasable",
+        "d) effective erasable",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "11) A multiplexer is also known as",
+        "a) coder",
+        "b) decoder",
+        "c) data selector",
+        "d) multivibrator",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "12) Logic 1 in + ve logic system is represented by",
+        "a) zero level",
+        "b) lower voltage level",
+        "c) higher voltage level",
+        "d) negative voltage",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "13) Which of the following circuit is called latch",
+        "a) AND circuit",
+        "b) NAND circuit",
+        "c) Flip-flop",
+        "d) ROM circuit",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "14) How many full adders are needed to construct an m-bit parallel adder",
+        "a) m/2",
+        "b) m",
+        "c) m  1",
+        "d) m + 1",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "15) A gate in which all inputs must be low to get a high output is called a/an",
+        "a) inverter",
+        "b) NOR gate",
+        "c) AND gate",
+        "d) NAND gate",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "16) Zero has two respresentation in",
+        "a) sign magnitude",
+        "b) 1s complement",
+        "c) 2s complement",
+        "d) both a and b",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "17) Which of the following is termed as minimum error code?",
+        "a) Binary code",
+        "b) Gray code",
+        "c) Excess 3 code",
+        "d) Octal code",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "18) Which of the following computers is least powerful?",
+        "a) Minicomputer",
+        "b) micro Computer",
+        "c) Main frame computer",
+        "d) Super computer",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "19) The binary equivalent of the decimal number 0.4375 is",
+        "a) 0.0111",
+        "b) 0.1011",
+        "c) 0.1100",
+        "d) 0.1010",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "20) If one of the input to _________ gate is inverted then it becomes an INHIBITOR .",
+        "a) AND",
+        "b) NAND",
+        "d) XOR",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "21) Which of the following code is a weighted code?",
+        "a) Gray",
+        "b) Excess-3",
+        "c) Shift Counter",
+        "d) 5111",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "22) The number of columns is a state table for a sequential circuit with m fillip-flops and n input is",
+        "a) m + n",
+        "b) m + 2n",
+        "c) 2m + n",
+        "d) 2m + 2n",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "23) The square of octal number 23 is",
+        "a) 529",
+        "b) 539",
+        "c) 551",
+        "d) 650",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "24) The 9s compliment of 33 is",
+        "a) 33",
+        "b) 44",
+        "c) 39",
+        "d) 66",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "25) Which of the following operation is commutative but not associative?",
+        "a) AND",
+        "b) OR",
+        "c) NAND",
+        "d) XOR",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "26) Which is odd one in K-map?",
+        "a) Paris",
+        "b) Triples",
+        "c) Quads",
+        "d) Octets",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "27) Which one is not a type of shift register?",
+        "a) Bidirectional",
+        "b) Unidirectional",
+        "c) Left Shift",
+        "d) Right Shift",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "28) A toggle operation cannot be performed using a single ",
+        "a) NOR gate",
+        "b) AND gate",
+        "c) NAND gate",
+        "d) XOR gate",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "29) Which of the following 4-bit numbers equals its 1s complement?",
+        "a) 1010",
+        "b) 1000",
+        "c) no such number exists",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "30) Minimum number of NAND gates required to implement Sum in half-adder circuit is:",
+        "a) 2",
+        "b) 3",
+        "c) 4",
+        "d) 5",
+        "View AnswerOption \u2013 c"
+    ]
+]
