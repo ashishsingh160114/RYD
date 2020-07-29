@@ -1,0 +1,244 @@
+[
+    [
+        "1) Which of the following card is not used ing dispatching ?",
+        "a) Work order",
+        "b) Time card",
+        "c) Inspection tickets",
+        "d) Order scheduling",
+        "Answer : d",
+        ""
+    ],
+    [
+        "2)In Lincoln plan (one type of group incentive plan), the amount of the profit which an employee receives in addition to the guaranteed basic pay/wages, is based on:",
+        "(A) A standard rating system",
+        "(B) A merit rating system",
+        "(C) A job evaluation system",
+        "(D) His individual performance",
+        "Answer : b",
+        ""
+    ],
+    [
+        "3) Routing and scheduling are integral part of",
+        "a) product planning",
+        "b) work study",
+        "c) job analysis",
+        "d) quality control",
+        "Answer : a",
+        ""
+    ],
+    [
+        "4)Break-even analysis consists of",
+        "(A) Fixed cost",
+        "(B) Variable cost",
+        "(C) Fixed and variable costs",
+        "(D) Operation costs",
+        "Answer : c",
+        ""
+    ],
+    [
+        "5) Which of the following is not a function of production control ?",
+        "a) Forecasting",
+        "b) Routing",
+        "c) Scheduling",
+        "d) Dispatching",
+        "Answer : a",
+        ""
+    ],
+    [
+        "6)Which one of the following represents a group incentive plan?",
+        "(A) Scanlon Plan",
+        "(B) Rowan Plan",
+        "(C) Taylor Differential Piece Rate System",
+        "(D) Halsey Premium Plan",
+        "Answer : a",
+        ""
+    ],
+    [
+        "7) Chart which is useful scheduling and control is",
+        "a) Kanban",
+        "b) Gantt chart",
+        "c) X and R chart",
+        "d) Flow process chart",
+        "Answer : b",
+        ""
+    ],
+    [
+        "8)Work study is concerned with",
+        "(a) improving present method and finding standard time",
+        "(b) motivation of workers",
+        "(c) improving production capability",
+        "(d) improving production planning and control",
+        "Answer : a",
+        ""
+    ],
+    [
+        "9) Using the Shortest Processing Time (SPT) rule, total tardiness is",
+        "a) 0",
+        "b) 2",
+        "c) 6",
+        "d) 8",
+        "Answer : d",
+        ""
+    ],
+    [
+        "10)Micromotion study is",
+        "(a) enlarged view of motion study",
+        "(b) analysis of one stage of motion study",
+        "(c) minute and detailed motion study",
+        "(d) subdivision of an operation into therbligs and their analysis",
+        "Answer : d",
+        ""
+    ],
+    [
+        "11) Sequencing is a subset of",
+        "a) routing",
+        "b) scheduling",
+        "c) expediting",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "12)The process layout is best suited where",
+        "(a) specialisation exists",
+        "(b) machines are arranged according to sequence of operation",
+        "(c) few number of nonstandardised units are to be produced",
+        "(d) mass production is envisaged",
+        "Answer : c",
+        ""
+    ],
+    [
+        "13)Which of the following organisations is best suited for steel plants",
+        "(a) functional organisation",
+        "(b) line organisation",
+        "(c) staff organisation",
+        "(d) line, staff and functional organisations",
+        "Answer : a",
+        ""
+    ],
+    [
+        "14) Lines needs to be balanced in",
+        "a) product layout",
+        "b) process layout",
+        "c) functional layout",
+        "d) fixed position layout",
+        "Answer : a",
+        ""
+    ],
+    [
+        "15) Select the odd one :",
+        "a) Concurrent engineering",
+        "b) Simultaneous engineering",
+        "c) integrated product development",
+        "d) Reliability",
+        "Answer : d",
+        ""
+    ],
+    [
+        "16) Gradual, long-term movement in time-series data is called",
+        "a) seasonal variation",
+        "b) cycles",
+        "c) trends",
+        "d) exponenitial variations",
+        "Answer : c",
+        ""
+    ],
+    [
+        "17) Which of the following is the measure of forecast error ?",
+        "a) Mean absolute deviation",
+        "b) Trend value",
+        "c) Moving average",
+        "d) price fluctuation",
+        "Answer : a",
+        ""
+    ],
+    [
+        "18) Breakeven analysis consist of",
+        "a) fixed cost",
+        "b) variable cost",
+        "c) fixed and variable costs",
+        "d) operation costs",
+        "Answer : c",
+        ""
+    ],
+    [
+        "19) The number of fundamental motions involved in micromotion study are",
+        "a) twelve",
+        "b) sixteen",
+        "c) seventeen",
+        "d) twenty four",
+        "Answer : c",
+        ""
+    ],
+    [
+        "20) Which one among the following is a Therblig ?",
+        "a) Get",
+        "b) Step",
+        "c) Put",
+        "d) Position",
+        "Answer : d",
+        ""
+    ],
+    [
+        "21) Which one of the following is not a technique of PMTS ?",
+        "a) Synthetic data",
+        "b) Stopwatch time study",
+        "c) Work-factor",
+        "d) MTM",
+        "Answer : b",
+        ""
+    ],
+    [
+        "22) In a C chart the value of C is 36. The upper control limit of the chart is equal to",
+        "a) 114",
+        "b) 126",
+        "c) 90",
+        "d) 54",
+        "Answer : d",
+        ""
+    ],
+    [
+        "23) When order quantity increases the ordering costs will",
+        "a) increase",
+        "b) decrease",
+        "c) remains same",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "24) The formula for economic order quantity does not contain",
+        "a) order cost",
+        "b) carrying cost",
+        "c) cost of the item",
+        "d) annual demand",
+        "Answer : c",
+        ""
+    ],
+    [
+        "25) In ABC analysis of inventory control A items have ",
+        "a) very high cost",
+        "b) intermediate cost",
+        "c) low cost",
+        "d) very low cost",
+        "Answer : a",
+        ""
+    ],
+    [
+        "26) The performance of a specific task in CPM is known as",
+        "a) dummy",
+        "b) event",
+        "c) activity",
+        "d) contract",
+        "Answer : c",
+        ""
+    ],
+    [
+        "27) Which of the following is not a logical error in network construction ?",
+        "a) Looping",
+        "b) Slacking",
+        "c) Dangling",
+        "d) Duplication",
+        "Answer : b"
+    ]
+]

@@ -1,0 +1,271 @@
+[
+    [
+        "1) In highly rarefied gases, the concept of this loses validity",
+        "a) Thermodynamic equilibrium",
+        "b) Continuum",
+        "c) Stability",
+        "d) macroscopic viewpoint",
+        "Answer : b",
+        ""
+    ],
+    [
+        "2) The pressure exerted by an ideal gas is __________ of the kinetic energy of all the molecules contained in a unit volume of gas.",
+        "a) one-half",
+        "b) one-third",
+        "c) two-third",
+        "d) three-fourth",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3)The fundamental unit of enthalpy is",
+        "a) MLT-2",
+        "b) ML2T-1",
+        "c) ML2T-2",
+        "d) ML3T-2",
+        "Answer : c",
+        ""
+    ],
+    [
+        "4)Which of the following has the minimum atomic mass?",
+        "a) Oxygen",
+        "b) Sulphur",
+        "c) Nitrogen",
+        "d) Carbon",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5)Which one of the following is extensive property of a thermodynamics system",
+        "a) Volume",
+        "b) Pressure",
+        "c) Temperature",
+        "d) Density",
+        "Answer : a",
+        ""
+    ],
+    [
+        "6)Temperature of a gas is produced due to",
+        "(a) its heating value",
+        "(b) kinetic energy of molecules",
+        "(c) repulsion of molecules",
+        "(d) attraction of molecules",
+        "Answer : b",
+        ""
+    ],
+    [
+        "7) Zeroth law thermodynamics form the basis of measurement of",
+        "a) pressure",
+        "b) temperature",
+        "c) heat exchange",
+        "d) work",
+        "Answer : b",
+        ""
+    ],
+    [
+        "8)The condition of perfect vacuum, i.e., absolute zero pressure can be attained at",
+        "(a) a temperature of 273.16C",
+        "(b) a temperature of 0C",
+        "(c) a temperature of 273 K",
+        "(d) a negative pressure and 0C temperature",
+        "Answer : a",
+        ""
+    ],
+    [
+        "9) Triple point temperature of water is",
+        "a) 273 K",
+        "b) 273.14 K",
+        "c) 273.15 K",
+        "d) 273.16 K",
+        "Answer : d",
+        ""
+    ],
+    [
+        "10)If value of n is infinitely large in a polytropic process pV\u201d = C, then the process is known as constant",
+        "(a) volume",
+        "(b) pressure",
+        "(c) temperature",
+        "(d) enthalpy",
+        "Answer : a",
+        ""
+    ],
+    [
+        "11) Work done is zero for the following process",
+        "a) constant volume",
+        "b) free expansion",
+        "c) throttling",
+        "d) all of the above",
+        "Answer : d",
+        ""
+    ],
+    [
+        "12) In free expansion process",
+        "a) W1-2 =0",
+        "b) Q1-2 = 0",
+        "c) du = 0",
+        "d) All of the above",
+        "Answer : d",
+        ""
+    ],
+    [
+        "13) Internal energy is defined by",
+        "a) Zeroth law of thermodynamics",
+        "b) first law of thermodynamics",
+        "c) Second law of thermodynamics",
+        "d) Law of entropy",
+        "Answer : b ",
+        ""
+    ],
+    [
+        "14) The first law of thermodynamics is the law of",
+        "a) conservation of mass",
+        "b) conservation of energy",
+        "c) conservation of momentum",
+        "d) conservation of temperature",
+        "Answer : b",
+        ""
+    ],
+    [
+        "15) Compressed air coming out from a punctured football",
+        "a) becomes hotter",
+        "b) becomes cooler",
+        "c) remains at same temperature",
+        "d) attains atmospheric temperature",
+        "Answer : b",
+        ""
+    ],
+    [
+        "16)Second law of thermodynamics defines",
+        "a) Heat",
+        "b) Work",
+        "c) Enthalpy",
+        "d) Entropy",
+        "Answer : d",
+        ""
+    ],
+    [
+        "17) Kelvin-plank law deals with",
+        "a) conservation of energy",
+        "b) conservation of heat",
+        "c) conservation of mass",
+        "d) conservation of heat into work",
+        "Answer : d",
+        ""
+    ],
+    [
+        "18) If a heat engine gives an output of 3 kW when the input is 10000J/sec then the thermal efficiency of the engine will be",
+        "a) 20%",
+        "b) 30%",
+        "c) 70%",
+        "d) 76.7%",
+        "Answer : b",
+        ""
+    ],
+    [
+        "19) When a system is in equilibrium, any conceivable change in entropy would be",
+        "a) maximum",
+        "b) zero",
+        "c) positive",
+        "d) negative",
+        "Answer : b",
+        ""
+    ],
+    [
+        "20) The value of entropy at 0k is taken as",
+        "a) 1",
+        "b) 0",
+        "c) -1",
+        "d) any value",
+        "Answer : a",
+        ""
+    ],
+    [
+        "21) For reversible adiabatic process, change in entropy is",
+        "a) maximum",
+        "b) minimum",
+        "c) zero",
+        "d) unpredictable",
+        "Answer : c",
+        ""
+    ],
+    [
+        "22) Which of the following is not a conserved quantity ?",
+        "a) Mass",
+        "b) Energy",
+        "c) Momentum",
+        "d) Exergy",
+        "Answer : d",
+        ""
+    ],
+    [
+        "23) Which of the following thermodynamic relation is Keenan function ?",
+        "a) U + PV",
+        "b) H  T0 S",
+        "c) E  T0 S",
+        "d) U  T0 S",
+        "Answer : b",
+        ""
+    ],
+    [
+        "24) The slope of sublimation curve on P-T diagram for all substances is",
+        "a) zero",
+        "b) infinite",
+        "c) positive",
+        "d) negative",
+        "Answer : c",
+        ""
+    ],
+    [
+        "25) Triple point is the point in",
+        "a) p-V diagram",
+        "b) p-T diagram",
+        "c) h-S diagram",
+        "d) T-S diagram",
+        "Answer : b",
+        ""
+    ],
+    [
+        "26) A gas which obeys kinetic theory perfectly is known as",
+        "a) Perfect gas",
+        "b) Real gas",
+        "c) Monoatomic gas",
+        "d) Diatomic gas",
+        "Answer : a",
+        ""
+    ],
+    [
+        "27) For an ideal gas the value of Joule Thomson coefficient is",
+        "a) zero",
+        "b) 0.5",
+        "c) unity",
+        "d) infinite",
+        "Answer : a",
+        ""
+    ],
+    [
+        "28) In the van der Waals equation, the unit of constant a is",
+        "a) N m5",
+        "b) N m2",
+        "c) N m3",
+        "d) N m4",
+        "Answer : d",
+        ""
+    ],
+    [
+        "29) Gibbs free energy (G) is given by",
+        "a) G = H  TS",
+        "b) G =H/TS",
+        "c) G = U  TS",
+        "d) None of these",
+        "Answer : a",
+        ""
+    ],
+    [
+        "30) The clausius-clapeyron equation gives the slope of a curve in",
+        "a) p-V diagram",
+        "b) P-h diagram",
+        "c) p-T diagram",
+        "d) T-s diagram",
+        "Answer : c"
+    ]
+]

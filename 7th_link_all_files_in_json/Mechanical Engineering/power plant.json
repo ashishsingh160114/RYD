@@ -1,0 +1,243 @@
+[
+    [
+        "1) A draught of 1 mm of water is equivalent to",
+        "a) 1 N/cm2",
+        "b) 10 N/m2",
+        "c) 100 N/m2",
+        "d) 1 N/mm2",
+        "Answer : b",
+        ""
+    ],
+    [
+        "2) Rankine cycle comprises of",
+        "a) two isentropic processes and two constant volume processes",
+        "b) two isentropic processes and two constant pressure processes",
+        "c) two isothermal processes and two constant pressure processes",
+        "d) none of the mentioned",
+        "Answer : b",
+        ""
+    ],
+    [
+        "3) The incomplete combustion is indicated by the presence of",
+        "a) O2",
+        "b) water vapours",
+        "c) CO",
+        "d) CO2",
+        "Answer : c",
+        ""
+    ],
+    [
+        "4)A simple Rankine cycle operates the Boiler at 3 MPa with an outlet temperature of 350C and the Condenser at 50 kPa. Assuming ideal operation and processes, what is the thermal efficiency of this cycle?",
+        "a) 7.7",
+        "b) 17.7",
+        "c) 27.7",
+        "d) 37.7",
+        "Answer : c",
+        ""
+    ],
+    [
+        "5) The fuel mostly used in boilers is",
+        "a) anthracite",
+        "b) peat",
+        "c) lignite",
+        "d) bituminous",
+        "Answer : d",
+        ""
+    ],
+    [
+        "6)In Rankine cycle, the work output from the turbine is given by",
+        "a) change of internal energy between inlet and outlet",
+        "b) change of enthalpy between inlet and outlet",
+        "c) change of entropy between inlet and outlet",
+        "d) change of temperature between inlet and outlet",
+        "Answer : b",
+        ""
+    ],
+    [
+        "7) The percentage of carbon in bituminous coal is of the order of",
+        "a) 20-40%",
+        "b) 30-50%",
+        "c) 50  65%",
+        "d) 65-80%",
+        "Answer : d",
+        ""
+    ],
+    [
+        "8)In a power station \u2018Load Center\u2019 means\u2026\u2026..",
+        "a).Center of maximum load of equipments",
+        "b).Center of coal fields",
+        "c).Center of gravity of electrical system",
+        "d).Corner of power plant",
+        "Answer : c",
+        ""
+    ],
+    [
+        "9) Efficiency of chimney draught is of the order of",
+        "a) 8  10%",
+        "b) 5  6%",
+        "c) 2  3%",
+        "d) &lt;1%",
+        "Answer : d",
+        ""
+    ],
+    [
+        "10)Solar thermal power generation can be achieved by",
+        "(a) using focusing collector or heliostates",
+        "(b) using flat plate collectors",
+        "(c) using a solar pond",
+        "(d) any of the above system",
+        "Answer : d",
+        ""
+    ],
+    [
+        "11) Power required by Fan in forced draught is  to that of induced draught",
+        "a) less",
+        "b) more",
+        "c) same",
+        "d) none of these",
+        "Answer : a",
+        ""
+    ],
+    [
+        "12)Carnot cycle comprises of",
+        "(a) two isentropic processes and two constant volume processes",
+        "(b) two isentropic processes and two constant pressure processes",
+        "(d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "13) Thermal efficiency of steam power plant is maximum at boiler pressure of",
+        "a) 120 bar",
+        "b) 146 bar",
+        "c) 166 bar",
+        "d) 156 bar",
+        "Answer : d",
+        ""
+    ],
+    [
+        "14)Economiser is used to heat",
+        "(a) air",
+        "(b) feed water",
+        "(c) flue gases",
+        "(d) all above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "15) Rankine cycle efficiency of a good steam power plant in the range of",
+        "a) 20 to 25%",
+        "b) 35 to 45%",
+        "c) 10 to 20%",
+        "d) &gt;50%",
+        "Answer : b",
+        ""
+    ],
+    [
+        "16) Heating of dry steam above saturation temperature is known as",
+        "a) Enthalpy",
+        "b) Super heating",
+        "c) Latent heating",
+        "d) Super saturation",
+        "Answer : b",
+        ""
+    ],
+    [
+        "17) In the Rankine cycle, the heat rejection process takes place at constant",
+        "a) enthalpy",
+        "b) volume",
+        "c) pressure",
+        "d) entropy",
+        "Answer : c",
+        ""
+    ],
+    [
+        "18) Maximum steam pressure in a locomotive boiler is limited to",
+        "a) 9 bar",
+        "b) 10 bar",
+        "c) 18 bar",
+        "d) 22 bar",
+        "Answer : c",
+        ""
+    ],
+    [
+        "19) Which of the following is not a safety valve for the boilers ?",
+        "a) lever type",
+        "b) sliding type",
+        "c) dead weight type",
+        "d) spring type",
+        "Answer : b",
+        ""
+    ],
+    [
+        "20) Lancashire boiler is a _______ boiler",
+        "a) single pass",
+        "b) two pass",
+        "c) three pass",
+        "d) four pass",
+        "Answer : c",
+        ""
+    ],
+    [
+        "21) Which one of the following is NOT an accessory for the boiler ?",
+        "a) Condenser",
+        "b) Economizer",
+        "c) Air preheater",
+        "d) Feed water pump",
+        "Answer : a",
+        ""
+    ],
+    [
+        "22) The value of critical pressure ratio for initially wet steam is",
+        "a) 0.5",
+        "b) 0.546",
+        "c) 0.582",
+        "d) 0.64",
+        "Answer : c",
+        ""
+    ],
+    [
+        "23) The ferrite materials are",
+        "a) U233 and Pu239",
+        "b) U238 and Th232",
+        "c) U238 and Pu239",
+        "d) U238 and Th239",
+        "Answer : b",
+        ""
+    ],
+    [
+        "24) The unit of radioactivity is",
+        "a) Electron-volt",
+        "b) AMU",
+        "c) Curie",
+        "d) None of these",
+        "Answer : c",
+        ""
+    ],
+    [
+        "25) In Kaplan turbine runner, the number of blades are",
+        "a) 2-4",
+        "b) 4-8",
+        "c) 8-16",
+        "d) 16-24",
+        "Answer : b",
+        ""
+    ],
+    [
+        "26) A centrifugal pump gives maximum efficiency when its blades are",
+        "a) Bent forward",
+        "b) Bent backward",
+        "c) Straight",
+        "d) Wave shaped",
+        "Answer : b",
+        ""
+    ],
+    [
+        "27) The surrounding air is not used as oxidizer in",
+        "a) flying bomb",
+        "b) rocket propulsion",
+        "c) turbo jet",
+        "d) turbo prop",
+        "Answer : "
+    ]
+]

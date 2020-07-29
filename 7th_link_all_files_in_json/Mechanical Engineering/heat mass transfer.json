@@ -1,0 +1,251 @@
+[
+    [
+        "1) Which of the following material has least thermal conductivity at room temperature ?",
+        "a) Human Skin",
+        "b) Urethane",
+        "c) Wood",
+        "d) Brick",
+        "Answer : b",
+        ""
+    ],
+    [
+        "2)Heat transfer from one place to another takes place through",
+        "a) conduction",
+        "b) convection",
+        "c) radiation",
+        "d) all of above",
+        "Answer : d",
+        ""
+    ],
+    [
+        "3) Thermal conductivity of wood depends on",
+        "a) moisture",
+        "b) density",
+        "c) temperature",
+        "d) All of these",
+        "Answer : d",
+        ""
+    ],
+    [
+        "4)Overall heat transfer coefficient is associated with",
+        "(a) Conduction and radiation",
+        "(b) Convection and radiation",
+        "(c) Radiation, convection and conduction",
+        "(d) None",
+        ""
+    ],
+    [
+        "5) The unit of thermal diffusivity is",
+        "a) m2/hr0C",
+        "b) kJ/m2hr",
+        "c) m/hr0C",
+        "d) m2/hr",
+        "Answer : d",
+        ""
+    ],
+    [
+        "6)Radiation heat flux is",
+        "(a)  A T4",
+        "(b)  A dT",
+        "(c)  T4",
+        "(d) None",
+        ""
+    ],
+    [
+        "7) In which of the following material non-isotropic conductivity is exhibited",
+        "a) Lead",
+        "b) Wood",
+        "c) Copper",
+        "d) Brass",
+        "Answer : d",
+        ""
+    ],
+    [
+        "8)Temperature variation in a pipe is",
+        "(a) linear",
+        "(b) Parabolic",
+        "(c) logarithmic",
+        "(d) None",
+        "Answer : c",
+        ""
+    ],
+    [
+        "9) Heat transfer by molecular collision in",
+        "a) conduction",
+        "b) convection",
+        "c) radiation",
+        "d) scattering",
+        "Answer : b",
+        ""
+    ],
+    [
+        "10)The amount of heat required to raise temperature of a substance by ..",
+        "a) 1 C",
+        "b) 1 F",
+        "c) 10 C",
+        "d) 10 F",
+        "Answer : a",
+        ""
+    ],
+    [
+        "11) The temperature distribution for a plane wall, for steady state heat flow and constant value of thermal conductivity is",
+        "a) logarithmic",
+        "b) parabolic",
+        "c) linear",
+        "d) exponential",
+        "Answer : c",
+        ""
+    ],
+    [
+        "12)Metals are good conductors of heat because",
+        "(a) their atoms collide frequently",
+        "(b) their atomsare relatively far apart",
+        "(c) they contain free electrons",
+        "(d) they have high density",
+        "Answer : a",
+        ""
+    ],
+    [
+        "13) The critical thickness of insulation for cylinder is given by",
+        "a) K/h",
+        "b) 2K/h",
+        "c) h/K",
+        "d) 2h/K",
+        "Answer : a",
+        ""
+    ],
+    [
+        "14)Thermal conductivity of water in general with rise in temperature",
+        "(a) increases",
+        "(b) decreases",
+        "(c) remains constant",
+        "(d) may increase or decrease depending on temperature",
+        "Answer : d",
+        ""
+    ],
+    [
+        "15) The effectiveness of a fin will be maximum in an environment with",
+        "a) free convection",
+        "b) forced convection",
+        "c) radiation",
+        "d) convection and radiation",
+        "Answer : a",
+        ""
+    ],
+    [
+        "16) Transient conduction means",
+        "a) very little heat transfer",
+        "b) heat transfer for a short time",
+        "c) heat transfer with a very small temperature difference",
+        "d) conduction when the temperature at a point varies with time",
+        "Answer : d",
+        ""
+    ],
+    [
+        "17) In a lumped parameter model, the temperature variation with time is",
+        "a) cubic",
+        "b) Linear",
+        "c) Exponential",
+        "d) Sinusodial",
+        "Answer : c",
+        ""
+    ],
+    [
+        "18) In convection heat transfer one of the significant dimensionless number is",
+        "a) Schmidt number",
+        "b) Nusselt number",
+        "c) Poisson number",
+        "d) Froude number",
+        "Answer : b",
+        ""
+    ],
+    [
+        "19) The Prandtl number will be lowest for",
+        "a) Water",
+        "b) Liquid metal",
+        "c) Aqueous solution",
+        "d) Lube oil",
+        "Answer : b",
+        ""
+    ],
+    [
+        "20) Which of the following dimensionless number/parameter is different from others ?",
+        "a) Eckert number",
+        "b) Colburn factor",
+        "c) Nusselt number",
+        "d) Stanton number",
+        "Answer : a",
+        ""
+    ],
+    [
+        "21) Which one of the following is flow properly",
+        "a) Prandtl number",
+        "b) Reynolds number",
+        "c) Schmidt number",
+        "d) Lewis number",
+        "Answer : b",
+        ""
+    ],
+    [
+        "22) For laminar flow in a tube for constant wall temperature Nusselt number is approximately equal to",
+        "a) 4.36",
+        "b) 3.66",
+        "c) 5.78",
+        "d) 2",
+        "Answer : b",
+        ""
+    ],
+    [
+        "23) Wave length for maximum power is given by",
+        "a) Kirchoffs law",
+        "b) Weins law",
+        "c) Fouriess law",
+        "d) Stefen boltzman law",
+        "Answer : b",
+        ""
+    ],
+    [
+        "24) The unit of Stefan-Botlzman constant is",
+        "a) W/mK",
+        "b) W/m2K2",
+        "c) W/m2K4",
+        "d) W/mK2",
+        "Answer : c",
+        ""
+    ],
+    [
+        "25) The shape factor of a hemispherical body placed on a flat surface with respect to it self is",
+        "a) zero",
+        "b) 0.25",
+        "c) 0.5",
+        "d) 1",
+        "Answer : c",
+        ""
+    ],
+    [
+        "26) Stefen-Boltzmans law is application to",
+        "a) Grey body",
+        "b) White body",
+        "c) Black body",
+        "d) Any of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "27) Dropwise condensation usually occurs on",
+        "a) glazed surface",
+        "b) smooth surface",
+        "c) oily surface",
+        "d) coated surface",
+        "Answer : c",
+        ""
+    ],
+    [
+        "28) The normal automobile radiator is a heat exchange of the type",
+        "a) direct contact",
+        "b) parallel flow",
+        "c) counter flow",
+        "d) cross flow",
+        "Answer : "
+    ]
+]
