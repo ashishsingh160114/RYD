@@ -1,0 +1,279 @@
+[
+    [
+        "1) The maximum percentage of moment redistribution allowed in RCC beams is ",
+        "a) 10%",
+        "b) 20%",
+        "c) 30%",
+        "d) 40%",
+        "Answer : c",
+        ""
+    ],
+    [
+        "2) Minimum grade of concrete for moderate exposure with normal weight aggregates is",
+        "(a) M 15",
+        "(b) M 20",
+        "(c) M 25",
+        "(d) M 35",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3) What is the modular ratio to be used in the analysis of RC beams using working stress method if the grade of concrete is M20?",
+        "a) 18.6",
+        "b) 13.3",
+        "c) 9.9",
+        "d) 6.5",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) In the design of a seven-storey building, while designing the columns of 5th storey reduction in",
+        "(a) 0%",
+        "(b) 10%",
+        "(c) 20%",
+        "(d) 30%",
+        "Answer : c",
+        ""
+    ],
+    [
+        "5) The minimum reinforcement using mild steel in slab should not be less than",
+        "a) 0.10%",
+        "b) 0.12%",
+        "c) 0.15%",
+        "d) 2.0%",
+        "Answer : c",
+        ""
+    ],
+    [
+        "6) The stress strain curve for concrete is considered parabolic by I.S. code upto a strain of",
+        "(a) 0.0015",
+        "(b) 0.0020",
+        "(c) 0.0030",
+        "(d) 0.0035",
+        "Answer : b",
+        ""
+    ],
+    [
+        "7) For a simply supported beam of span 15 m, the minimum effective depth to satisfy the vertical deflection limits should be",
+        "a) 600 mm",
+        "b) 750 mm",
+        "c) 900 mm",
+        "d) more than 1 m",
+        "Answer : d",
+        ""
+    ],
+    [
+        "8) Limit state method is based on probable",
+        "(a) Both A and B are true",
+        "(b) A is true and B is false",
+        "(c) A is false and B is true",
+        "(d) Both A and B are false",
+        "Answer : a",
+        ""
+    ],
+    [
+        "9) The ratio of permissible shear stress in limit state method oof design and working stress method of design is",
+        "a) 25 : 16",
+        "b) 5 : 4",
+        "c) 16 : 25",
+        "d) 4 : 5",
+        "Answer : a",
+        ""
+    ],
+    [
+        "10) If no compression steel is used, two suspended bars of minimum ______ diameter should be used",
+        "(a) 8 mm",
+        "(b) 10 mm",
+        "(c) 12 mm",
+        "(d) 16 mm",
+        "Answer : b",
+        ""
+    ],
+    [
+        "11) For M20 grade of concrete, the maximum shear stress shall not exceed",
+        "a) 1.6 N/mm2",
+        "b) 1.9 N/mm2",
+        "c) 2.8 N/mm2",
+        "d) 2.2 N/mm2",
+        "Answer : c",
+        ""
+    ],
+    [
+        "12) What is the anchorage value of a standard hook of a reinforcement bar of diameter D?",
+        "a) 4D",
+        "b) 8D",
+        "c) 12D",
+        "d) 16D",
+        "Answer : d",
+        ""
+    ],
+    [
+        "13) In the above case maximum shear for design is",
+        "(a) 0.5 (wd + wL)l",
+        "(b) 0.6 (wd + wL)l",
+        "(c) (0.5 wd 0.6 wL)l",
+        "(d) (0.6 wd + 0.5 wL)l",
+        "Answer : b",
+        ""
+    ],
+    [
+        "14) The bond strength between steel and concrete is due to",
+        "a) friction",
+        "b) adhesion",
+        "c) both friction and adhesion",
+        "d) None of these",
+        "Answer : c",
+        ""
+    ],
+    [
+        "15) IS 4562000 recommends that the unsupported length of any column should not exceed ______",
+        "(a) 15",
+        "(b) 25",
+        "(c) 36",
+        "(d) 60",
+        "Answer : d",
+        ""
+    ],
+    [
+        "16) The ratio of the maximum and minimum percentage of longitudinal reinforcement that can be provided in a column is",
+        "a) 6",
+        "b) 7.5",
+        "c) 5",
+        "d) 8",
+        "Answer : b",
+        ""
+    ],
+    [
+        "17) In a public building width of stair should be at least",
+        "(a) 1000 mm",
+        "(b) 1200 mm",
+        "(c) 1500 mm",
+        "(d) 1800 mm",
+        "Answer : d",
+        ""
+    ],
+    [
+        "18) According to IS 465, the slenderness ratio for a short column should not exceed ",
+        "a) 12",
+        "b) 18",
+        "c) 24",
+        "d) None of these",
+        "Answer : a",
+        ""
+    ],
+    [
+        "19) Which one of the following is the correct statement about R.C. retaining wall",
+        "(a) toe slab and heel slab are provided with reinforcements at top face",
+        "(b) toe slab and heel slab are provided with reinforcement at bottom face",
+        "(c) toe slab is provided with reinforcement at top face and heel slab at bottom face",
+        "(d) toe slab is provided at bottom face and heel slab at bottom face",
+        "Answer : d",
+        ""
+    ],
+    [
+        "20) When minimum eccentricity in columns does not exceed 0.05 times the lateral dimension, the axial load carrying capacity is reduced by",
+        "a) 8%",
+        "b) 11%",
+        "c) 14%",
+        "d) 20%",
+        "Answer : b",
+        ""
+    ],
+    [
+        "21) Loss of prestress due to friction occurs",
+        "(a) only in pre-tensioned beams",
+        "(b) only in post-tensioned beams",
+        "(c) in both pre-tensioned and post-tensioned beams",
+        "(d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "22) The load carrying capacity of helically reinforced column as compared to that of a tied column is about",
+        "a) 5% less",
+        "b) 10% less",
+        "c) 5% more",
+        "d) 10% more",
+        "Answer : c",
+        ""
+    ],
+    [
+        "23)What is the minimum number of longitudinal bars provided in a reinforced concrete column of circular circular cross-section ?",
+        "a) 4",
+        "b) 5",
+        "c) 6",
+        "d) 8",
+        "Answer : c",
+        ""
+    ],
+    [
+        "24) For water retaining structures, minimum grade of concrete to be used is",
+        "(a) M 15",
+        "(b) M 20",
+        "(c) M 25",
+        "(d) M 40",
+        "Answer : c",
+        ""
+    ],
+    [
+        "25) A strap footing is a special type of",
+        "a) Strip footing",
+        "b) Raft footing",
+        "c) Combined footing",
+        "d) Spread footing",
+        "Answer : c",
+        ""
+    ],
+    [
+        "26) In R.C. footing on soil, the thickness at the edge should not be less than ",
+        "a) 10 cm",
+        "b) 15 cm",
+        "c) 20 cm",
+        "d) 25 cm",
+        "Answer : b",
+        ""
+    ],
+    [
+        "27) High strength steel used in prestressed concrete can take how much maximum strain ?",
+        "a) 2%",
+        "b) 3%",
+        "c) 4%",
+        "d) 6%",
+        "Answer : c",
+        ""
+    ],
+    [
+        "28) What should be the minimum grade of reinforced concrete in and around sea coast construction ?",
+        "a) M 35",
+        "b) M 30",
+        "d) M 20",
+        "Answer : b",
+        ""
+    ],
+    [
+        "29) How is the base-level bending moment of a cantilever retaining wall expressed as a function of its height H ?",
+        "a) H",
+        "b) H2",
+        "c) H3",
+        "d) H4",
+        "Answer : c",
+        ""
+    ],
+    [
+        "30) For the design of retaining walls, the minimum factor of safety against overturning is taken as",
+        "a) 2",
+        "b) 1.4",
+        "c) 1.5",
+        "d) 3.0",
+        "Answer : b",
+        ""
+    ],
+    [
+        "31) At what stress does the first flexural crack appear in RCC beams made of M25 grade concrete ?",
+        "a) 3.0 MPa",
+        "b) 3.5 MPa",
+        "c) 4.0 MPa",
+        "d) 4.5 MPa",
+        "Answer : "
+    ]
+]

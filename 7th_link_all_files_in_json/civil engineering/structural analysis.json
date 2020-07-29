@@ -1,0 +1,208 @@
+[
+    [
+        "1) Degree of kinematic indeterminacy of a pin jointed plane frame is given by",
+        "a) 2j  r",
+        "b) j  2r",
+        "c) 3j  r",
+        "d) 2j + r",
+        "Answer : a",
+        ""
+    ],
+    [
+        "2) In the above case maximum moment at section 8 m from left support occurs when",
+        "(a) 10 kN load is on the section",
+        "(b) first 15 kN load is on the section",
+        "(c) second 15 kN is on the section",
+        "(d) 8 kN load is on the section",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3) The degree of kinematic indeterminacy of a pin-jointed space frame is given by",
+        "a) 2j  r",
+        "b) 3j  r",
+        "c) j  3r",
+        "d) j  3r",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) The shape factor of a I section is",
+        "(a) 1.2",
+        "(b) 1.5",
+        "(c) 2.0",
+        "(d) none of the above",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5) How is a truss, which undergoes rigid body translation for an arbitrary load, classified as ?",
+        "a) Determinate structure",
+        "b) Geometrically unstable structure",
+        "c) Statically unstable structure",
+        "d) Structurally unstable structure",
+        "Answer : b",
+        ""
+    ],
+    [
+        "6) The moment which makes all the fibres at the section to yield is known as",
+        "(a) flexural rigidity",
+        "(b) moment of resistance",
+        "(c) plastic moment capacity",
+        "(d) yield moment",
+        "Answer : c",
+        ""
+    ],
+    [
+        "7) The ordinates of influence line diagram for bending moment always have the dimension of",
+        "a) force",
+        "b) length",
+        "c) force x length",
+        "d) force/length",
+        "Answer : b",
+        ""
+    ],
+    [
+        "8) A uniformly distributed line load 60 kn per metre run of length 5 metres on a girder of span 16 metres. What is the maximum positive shear force at a section 6 metres from the left end.",
+        "a) 140.625 kn",
+        "b) 65.625 kn",
+        "c) 90.625 kn",
+        "d) 45.625 kn",
+        "Answer : a",
+        ""
+    ],
+    [
+        "9) The maximum bending moment at the left quarter point of a simple beam due to crossing of UDL of length shorter than the span in the direction left to right, would occur after the load had just crossed the section by",
+        "a) one-forth of its length",
+        "b) half of its length",
+        "c) three-fourth of its length",
+        "d) its full length",
+        "Answer : c",
+        ""
+    ],
+    [
+        "10) The horizontal thrust due to rise in temperature in a semicircular two hinged arch of radius R is proportional to",
+        "a) R",
+        "b) R2",
+        "c) 1/R",
+        "d) 1/R2",
+        "Answer : d",
+        ""
+    ],
+    [
+        "11) In a two hinged arch an increase in temperature induces",
+        "a) no bending moment in the arch rib",
+        "b) uniform bending moment in the arch rib",
+        "c) maximum bending at the crown",
+        "d) maximum bending moment at the crown",
+        "Answer : c",
+        ""
+    ],
+    [
+        "12) An arch is used in long span bridges because there is",
+        "a) considerable reduction in horizontal thrust",
+        "b) considerable reduction in bending moment",
+        "c) reduction in shear and bending mment",
+        "d) no change in shear and bending moment",
+        "Answer : b",
+        ""
+    ],
+    [
+        "13) A symmetrical two-hinged parabolic arch rib has a span of 32 m between abutment pins at the same level and a central rise of 5 m. when a rolling load of 100 kn crosses the span, the maximum horizontal thrust at the hinges will be",
+        "a) 100 kn",
+        "b) 125 kn",
+        "c) 160 kn",
+        "d) 240 kn",
+        "Answer : b",
+        ""
+    ],
+    [
+        "14) A parabolic arch, symmetrical, with hinges at centre and ends, carries a point load P at a distance x from left support. The arch has a span of 20 m and rise of 5 m. what is the value of x if the left hinge reaction in inclined with a slope of two vertical to one horizontal ?",
+        "a) 8 m",
+        "b) 5 m",
+        "c) 4 m",
+        "d) 2.5 m",
+        "Answer : c",
+        ""
+    ],
+    [
+        "15) Which one of the following statements is correct ? ",
+        "a)tall buildings",
+        "b) low-rise buildings",
+        "c) low-rise buildings with uniform framing",
+        "d) low-rise buildings with nonuniform framing",
+        "Answer : b",
+        ""
+    ],
+    [
+        "16) A fixed beam of uniform section is carrying a point load at its midspan. If the moment of inertia of the middle half length is now reduced to half its previous value, then the fixed end moments will",
+        "a) increase",
+        "b) decrease",
+        "c) remain constant",
+        "d) change their directions",
+        "Answer : a",
+        ""
+    ],
+    [
+        "17) When a load is applied to a structure with rigid joints",
+        "a) there is no rotation or displacement of joint",
+        "b) there is no rotation of joint",
+        "c) there is no displacement of joint",
+        "d) there can be rotation and displacement of joint but the angle between the members connected to the joint remains same even after application of",
+        "Answer : d",
+        ""
+    ],
+    [
+        "18) Unequal settlements in the supports of a statically determinate structure develop ",
+        "a) reactions from supports",
+        "b) member force",
+        "c) no reactions",
+        "d) forces in limited members",
+        "Answer : c",
+        ""
+    ],
+    [
+        "19) Virtual work means",
+        "(a) Both A and B correct",
+        "(b) A is correct and B is wrong",
+        "(c) A is wrong and B is correct",
+        "(d) Both A and B are wrong",
+        "Answer : a",
+        ""
+    ],
+    [
+        "20) Four point loads 8, 15, 15 and 10 kN have centre-to-centre spacing of 2 m between consecutiveloads and they traverse a girder of 30 m spam from left to right with 10 kN load loading. Themaximum shear force at 8 m from left support will be",
+        "(a) 8.2 kN",
+        "(b) 25.4 kN",
+        "(c) 30.2 kN",
+        "(d) 42.2 kN",
+        "Answer : c",
+        ""
+    ],
+    [
+        "21) If an internal stress component like shear force, bending moment or reaction component isallowed to act through a small distance thereby causing deformation of the structure, the curve ofthe deformed shape represents to some scale, the influence line diagram for that stress or thereaction component. The above statement is known as",
+        "(a) Mecaulays theorem",
+        "(b) MllerBreslau principle",
+        "(c) Castiglianos theorem",
+        "(d) Maxwells theorem",
+        "Answer : b",
+        ""
+    ],
+    [
+        "22) The point in the cross section of beam through which if load acts there will not be any twisting ofthe beam but there will be only bending is known as",
+        "(a) centre of gravity",
+        "(b) centroid",
+        "(c) shear centre",
+        "(d) all the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "23) The absolute bending moment in a simply supported beam of span 10 m due to a moving load of40 kN/m spanning over 5 m is",
+        "(a) 375 kN m at 2.5 m from end A",
+        "(b) 375 kN m at midpoint",
+        "(c) 375 kN m at 3.75 m from end A",
+        "(d) 500 kN m at midspan",
+        "Answer : "
+    ]
+]

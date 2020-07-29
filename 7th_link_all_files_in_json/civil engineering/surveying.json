@@ -1,0 +1,280 @@
+[
+    [
+        "1) The representative fraction 1/2500 means that the scale 1 cm is equal to",
+        "a) 0.25 m",
+        "b) 2.5 m",
+        "c) 25 m",
+        "d) 2.5 km",
+        "Answer : c",
+        ""
+    ],
+    [
+        "2) If a quantity A has a weight of 3, then the weight of A/3 will be",
+        "a) 28",
+        "b) 27",
+        "c) 24",
+        "d) 21",
+        "Answer : b",
+        ""
+    ],
+    [
+        "3) For a well-conditional triangle, no angle should be less than",
+        "a) 200",
+        "b) 300",
+        "c) 450",
+        "d) 600",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) An invar tape is made of an ally of ",
+        "a) copper and steel",
+        "b) brass and nickel",
+        "c) brass and steel",
+        "d) nickel and steel",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5) Which of the following is an obstacle to chaining but not to ranging ?",
+        "a) river",
+        "b) hillock",
+        "c) building",
+        "d) None of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "6) The required slope correction for a length of 60 m along a gradient of 1 in 20 is",
+        "a) 7.5 m",
+        "b) 75 cm",
+        "c) 0.75 cm",
+        "d) 5.50 cm",
+        "Answer : a",
+        ""
+    ],
+    [
+        "7) ABCD is a regular parallelogram plot of land whose angle BAD is 600. If the bearing of line AB is 300 then the bearing of line CD is",
+        "a) 900",
+        "b) 1200",
+        "c) 2100",
+        "d) 2700",
+        "Answer : c",
+        ""
+    ],
+    [
+        "8) The reading taken from an instrument station on a benchmark of RL 100.00 is 1.4 and on a chejja",
+        "(a) 104.2 m",
+        "(b) 101.40 m",
+        "(c) 98.6 m",
+        "(d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "9) The horizontal angle between the true meridian and magnetic meridian at a place is called",
+        "a) azimuth",
+        "b) declination",
+        "c) local attraction",
+        "d) magnetic bearing",
+        "Answer : b",
+        ""
+    ],
+    [
+        "10) In levelling height of instrument means",
+        "(a) height of telescope from the ground where instrument is set",
+        "(b) level of the point with respect to assumed datum",
+        "(c) it is the elevation of plane of sight from the assumed datum",
+        "(d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "11) What is the magnetic declination at a place if the magnetic bearing of the sun at noon is 1840",
+        "a) 40W",
+        "b) 40E",
+        "c) 1760W",
+        "d) 1760E",
+        "Answer : a",
+        ""
+    ],
+    [
+        "12) Pick up the correct statement given below: In cross-section method of contouring",
+        "(a) spacing of cross section depends upon the nature of ground",
+        "(b) cross sections need not be always at 90 to main line",
+        "(c) the method is suitable for road projects",
+        "(d) all the above",
+        "Answer : d",
+        ""
+    ],
+    [
+        "13) Closed contours, with higher value inwards, represent a",
+        "a) depression",
+        "b) hillock",
+        "c) plain surface",
+        "d) None of these",
+        "Answer : b",
+        ""
+    ],
+    [
+        "14) In a sag curve a minimum of stoppage distance is determined with assumptions of head light",
+        "(a) 1.0 m and 2",
+        "(b) 0.75 m and 2",
+        "(c) 1.0 and 1",
+        "(d) 0.75 m and 1",
+        "Answer : d",
+        ""
+    ],
+    [
+        "15) If the coordinates of A are 100 N and 200 E and those of C are 100S and 200 E, then the length AC is",
+        "a) 400.00",
+        "b) 282.84",
+        "c) 244.94",
+        "d) 200.00",
+        "Answer : d",
+        ""
+    ],
+    [
+        "16) If the focal length of the object glass is 30 cm and the distance form the object glass to the trunnion axis is 20 cm, the additive constant for telemetry is",
+        "(a) 0.5",
+        "(b) 0.4",
+        "(c) 0.3",
+        "(d) 0.1",
+        "Answer : a",
+        ""
+    ],
+    [
+        "17) With the rise of temperature, the sensitivity of a bubble tube",
+        "a) decreases",
+        "b) increases",
+        "c) remains unaffected",
+        "d) None of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "18) Which one of the following is wrong about level surface?",
+        "(a) It is a horizontal plane.",
+        "(b) It is a surface parallel to mean spheroid of earth.",
+        "(c) All the points lying on this surface are equidistant from the centre of the earth.",
+        "(d) It is normal to plumb line at all points.",
+        "Answer : a",
+        ""
+    ],
+    [
+        "19) Benchmark is established by",
+        "a) hypsometry",
+        "b) barometric leveling",
+        "c) spirit leveling",
+        "d) trigonometric leveling",
+        "Answer : c",
+        ""
+    ],
+    [
+        "20) Which of the following sights will be applicable for a change point ?",
+        "a) Back sight",
+        "b) Intermediate sight and fore sight",
+        "c) Fore sight",
+        "d) Back sight and fore sight",
+        "Answer : d",
+        ""
+    ],
+    [
+        "21) If the base of the object is inaccessible, in trigonometric levelling method to be used is",
+        "(a) single plane method",
+        "(b) double plane method",
+        "(c) any of the above two",
+        "(d) none of (a) and (b)",
+        "Answer : b",
+        ""
+    ],
+    [
+        "22) Three problem can be solved by ",
+        "a) Tracing paper method",
+        "b) Bessels method",
+        "c) Lehman;s method",
+        "d) All of these",
+        "Answer : d",
+        ""
+    ],
+    [
+        "23) By balancing back sight and foresight the errors eliminated are",
+        "(a) errors due to non-parallelism of line of collimation and axis of bubble tube",
+        "(b) error due to curvature and refraction",
+        "(c) both (a) and (b)",
+        "(d) none of (a) and (b)",
+        "Answer : c",
+        ""
+    ],
+    [
+        "24) Which of the following methods of plane tabling also known as  graphic triangulation",
+        "a) Intersection",
+        "b) Resection",
+        "c) Traversing",
+        "d) Radiation",
+        "Answer : a",
+        ""
+    ],
+    [
+        "25) The bearing S 25 W means ____ in whole circle bearing",
+        "(a) 155",
+        "(b) 205",
+        "(c) 115",
+        "(d) 335",
+        "Answer : b",
+        ""
+    ],
+    [
+        "26) Which one of the following methods estimates best the area of an irregular and curved boundary ?",
+        "a) Trapezoidal method",
+        "b) Simpsons method",
+        "c) Average ordinate method",
+        "d) Mid-ordinate method",
+        "Answer : b",
+        ""
+    ],
+    [
+        "27) When the length of chain used in measuring distance is shorter than the standard length, the error",
+        "(a) positive error",
+        "(b) negative error",
+        "(c) compensating error",
+        "(d) none of these",
+        "Answer : a",
+        ""
+    ],
+    [
+        "28) The shape of the vertical curve generally provided is",
+        "a) circular",
+        "b) parabolic",
+        "c) spiral",
+        "d) elliptical",
+        "Answer : b",
+        ""
+    ],
+    [
+        "29) The length of long chord and tangents of a circular curve are equal for deflection angle of",
+        "a) 300",
+        "b) 600",
+        "c) 900",
+        "d) 1200",
+        "Answer : d",
+        ""
+    ],
+    [
+        "30) The limited minimum declination of a circumpolar star having latitude 400 N is ",
+        "a) 400",
+        "b) 500",
+        "c) 900",
+        "d) 00",
+        "Answer : b",
+        ""
+    ],
+    [
+        "31) The instrument which is attached to the wheel of a cycle to record the number of revolutions made for the purpose of approximate measurement is known as",
+        "(a) passometer",
+        "(b) pedometer",
+        "(c) odometer",
+        "(d) speedometer",
+        "Answer : c"
+    ]
+]

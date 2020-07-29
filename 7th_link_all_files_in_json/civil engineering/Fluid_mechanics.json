@@ -1,0 +1,277 @@
+[
+    [
+        "1) The liquid used in manometers should have",
+        "a) low density",
+        "b) high density",
+        "c) low surface tension",
+        "d) high surface tension",
+        "Answer : a",
+        ""
+    ],
+    [
+        "2) A Newtonian fluid is defined as the fluid which",
+        "(a) is highly viscous",
+        "(b) is compressible and non-viscous",
+        "(c) is incompressible and viscous",
+        "(d) obeys Newtons law of viscocity",
+        "Answer : d",
+        ""
+    ],
+    [
+        "3) An ideal fluid is one which is",
+        "a) compressible",
+        "b) elastic and viscous",
+        "c) non-viscous and incompressible",
+        "d) of low density",
+        "Answer : c",
+        ""
+    ],
+    [
+        "4) The line that connects all particles passing through a point is known as",
+        "(a) streamline",
+        "(b) pathline",
+        "(c) streakline",
+        "(d) all the above.",
+        "Answer : c",
+        ""
+    ],
+    [
+        "5) For laminar flow in circular pipes, the Darcys friction factor f is equal to",
+        "a) 16/Re",
+        "b) 32/Re",
+        "c) 64/Re",
+        "d) None of these",
+        "Answer : c",
+     ],
+    [
+        "6) If the Froude number in open channel is more than 1.0, the flow is known as",
+        "(a) subcritical",
+        "(b) critical",
+        "(c) supercritical",
+        "(d) none of the above",
+        "Answer : c",
+        "1"
+    ],
+    [
+        "7) equivalent to 80 m of water is",
+        "a) 64",
+        "b) 80",
+        "c) 100",
+        "d) 88",
+        "Answer : c",
+      ],
+    [  "8) A venturimeter is having a exit cone of",
+        "(a) diverging angle 20",
+        "(b) diverging angle of 5 to 7",
+        "(c) converging angle of 20",
+        "(d) converging angle of 5 to 7",
+        "Answer : b",
+        ""
+    ],
+    [
+        "9) Pressure of 200 kPa is equivalent to a head of h metres of carbon tetrachloride of relative density 1.59 where h is equal to",
+        "a) 11.62",
+        "b) 11.92",
+        "c) 12.82",
+        "d) 13.12",
+        "Answer : c",
+        ""
+    ],
+    [
+        "10) The nominal thickness of boundary layer may be considered the distance between the solid",
+        "(a) 90%",
+        "(b) 95%",
+        "(c) 99%",
+        "(d) 100%",
+        "Answer : c",
+        ""
+    ],
+    [
+        "11) The centre of gravity of the volume of liquid displaced is called",
+        "a) centre of pressure",
+        "b) centre of buoyancy",
+        "c) metacentre",
+        "d) None of these",
+        "Answer : b",
+        ""
+    ],
+    [
+        "12) The ratio of the velocity of flow V to the velocity of sound in the fluid medium is known as",
+        "(a) Fraude number",
+        "(b) Mach number",
+        "(c) Newton number",
+        "(d) coefficient of viscocity",
+        "Answer : b",
+        ""
+    ],
+    [
+        "13) The velocity potential function for a source varies with distance r as",
+        "a) 1/r",
+        "b) 1/r2",
+        "c) er",
+        "d) loger",
+        "Answer : a",
+        ""
+    ],
+    [
+        "14) The viscometer of _____ type may be used for measuring viscocity of fluids.",
+        "(a) capillary tube",
+        "(b) concentric cylinder",
+        "(c) falling cylinder",
+        "(d) any of the above",
+        "Answer : d",
+        ""
+    ],
+    [
+        "15) Stream lines, streak lines and path lines are all identical in case of",
+        "a) uniform flow",
+        "b) steady flow",
+        "c) unsteady flow",
+        "d) non-uniform flow",
+        "Answer : b",
+        ""
+    ],
+    [
+        "16) If the Froude number in open channel is more than 1.0, the flow is known as",
+        "(a) subcritical",
+        "(b) critical",
+        "(c) supercritical",
+        "(d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "17) A stream function is",
+        "a) defined only for incompressible flow",
+        "b) defined for irrotational flow",
+        "c) defined when the flow is continuous",
+        "d) defined only for stead flow",
+        "Answer : a",
+        ""
+    ],
+    [
+        "18) At the critical state of flow, the specific energy in a rectangular channel is equal to ______ times",
+        "(a) 1.0",
+        "(b) 1.5",
+        "(c) 2.0",
+        "(d) 2.5",
+        "Answer : b",
+        ""
+    ],
+    [
+        "19) Froude number is the ratio of inertia force to",
+        "a) viscous force",
+        "b) surface tension force",
+        "c) gravity force",
+        "d) compressive force",
+        "Answer : c",
+        ""
+    ],
+    [
+        "20) The most efficient theoretical section to get maximum discharge for a given cross section is",
+        "(a) triangular",
+        "(b) rectangular",
+        "(c) trapezoidal",
+        "(d) circular",
+        "Answer : d",
+        ""
+    ],
+    [
+        "21) When March number is more than 6, the flow is called",
+        "a) subsonic flow",
+        "b) sonic flow",
+        "c) supersonic flow",
+        "d) hypersonic flow",
+        "Answer : d",
+        ""
+    ],
+    [
+        "22) The integral momentum equation requires the following assumption in the flow",
+        "a) uniform",
+        "b) unidirectional",
+        "c) incompressible",
+        "d) steady",
+        "Answer : c",
+        ""
+    ],
+    [
+        "23) The flow of water in a wash hand basin when it is being emptied through a central opening, is an example of",
+        "a) free vortex",
+        "b) forced vortex",
+        "c) rotational vortex",
+        "d) Rankine vortex",
+        "Answer : a",
+        ""
+    ],
+    [
+        "24) A triangular notch is a more accurate measuring device than a rectangular notch ",
+        "a) for low flow rates",
+        "b) for high flow rates",
+        "c) for medium flow rates",
+        "d) for all flow rates",
+        "Answer : d",
+        ""
+    ],
+    [
+        "25) The pressure at the summit of a siphon is",
+        "a) equal to atmospheric",
+        "b) less than atmospheric",
+        "c) more than atmospheric",
+        "d) None of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "26) The boundary layer exists in",
+        "a) flow of ideal fluid",
+        "b) flow of real fluid",
+        "c) only in pipe flow",
+        "d) only flow over flat plate",
+        "Answer : b",
+        ""
+    ],
+    [
+        "27) The maximum thickness of boundary layer in a pipe of radius r is",
+        "a) 0",
+        "b) r/2",
+        "c) r",
+        "d) 2r",
+        "Answer : c",
+        ""
+    ],
+    [
+        "28) The ratio of average velocity to maximum velocity for steady laminar flow in circular pipes is",
+        "a) ",
+        "b) 2/3",
+        "c) 3/2",
+        "d) 2",
+        "Answer : c",
+        ""
+    ],
+    [
+        "29) The distance from pipe boundary, at which the turbulent shear stress is one-third the wall shear stress, is",
+        "a) 1/3 R",
+        "b)  R",
+        "c) 2/3 R",
+        "d)  R",
+        "Answer : c",
+        ""
+    ],
+    [
+        "30) In a wide rectangular channel if the normal depth is increased by 20%, the percentage increase in the discharge will be",
+        "a) 35%",
+        "b) 40%",
+        "c) 33.3%",
+        "d) 66.6%",
+        "Answer : c",
+        ""
+    ],
+    [
+        "31) In case of semi-circular vanes, the theoretical maximum efficiency of the wheel can be",
+        "a) 50%",
+        "b) 67%",
+        "c) 75%",
+        "d) 100%",
+        "Answer : "
+    ]
+]

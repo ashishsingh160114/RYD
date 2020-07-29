@@ -1,0 +1,414 @@
+[
+    [
+        "1) A thin walled cylindrical vessel of wall thickness \u2018t\u2019 and diameter \u2018d\u2019 is filled with gas to a gauge pressure of \u2018p\u2019. The maximum shear stress on the vessel wall will then be",
+        "a) pd/t",
+        "b) pd/2t",
+        "c) pd/4t",
+        "d) pd/8t",
+        "Answer : d",
+        ""
+    ],
+    [
+        "2) A thin cylinder of unit length, thickness t and radius r is subjected to internal pressure p. What is the circumferential stress?",
+        "a) pr/2Et",
+        "b) pr/2t",
+        "c) pr/t",
+        "d) 2pr/t",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3) The commonly used technique of strengthening thin pressure vessel is ",
+        "a) Wire winding",
+        "b) Shrink fitting",
+        "c) Autofrettage",
+        "d) Multi-layered construction",
+        "Answer : a",
+        ""
+    ],
+    [
+        "4) Autofrettage is the method of",
+        "a) joining thick cylinders",
+        "b) calculating stresses in thick cylinders",
+        "c) prestressing thick cylinders",
+        "d) increasing the life of thick cylinders",
+        "Answer : c",
+        ""
+    ],
+    [
+        "5) For the same internal diameter, wall thickness, material and internal pressure, the ratio of maximum stress, induced in a thin cylindrical and in a thin spherical pressure vessel will be",
+        "a) 2",
+        "b) ",
+        "c) 4",
+        "d) ",
+        "Answer : a",
+        ""
+    ],
+    [
+        "6) In a thick-cylinder pressurized from inside, the hoop stress is maximum at",
+        "a) The center of the wall thickness",
+        "b) the outer radius",
+        "c) the inner radius",
+        "d) both the inner and the outer radii",
+        "Answer : c",
+        ""
+    ],
+    [
+        "7) A thick cylinder is subjected to an internal pressure of 60 MPa. If the hoop stress on the outer surface is 150 MPa, then the hoop stress on the internal surface is",
+        "a) 105 MPa",
+        "b) 180 MPa",
+        "c) 210 MPa",
+        "d) 135 MPa",
+        "Answer : c",
+        ""
+    ],
+    [
+        "8) The ratio of circumferential stress to longitudinal stress in a thin cylinder subjected to internal hydrostatic pressure is",
+        "a) ",
+        "b) 1",
+        "c) 2",
+        "d) 4",
+        "Answer : c",
+        ""
+    ],
+    [
+        "9) Wahls factor takes into account",
+        "a) Curvature of the helical wire",
+        "b) Direct shear stress",
+        "c) Both curvature and direct shear effect",
+        "d) Neither a nor b",
+        "Answer : c",
+        ""
+    ],
+    [
+        "10) A spring of stiffness I KM/m is stretched initially by 100 mm from the under-formed position. The work required to stretch it by another 100 mm is",
+        "a) 5Nm",
+        "b) 7 Nm",
+        "c) 10 Nm",
+        "d) 15 Nm",
+        "Answer : d",
+        ""
+    ],
+    [
+        "11) The outside diameter of a hollow shaft is twice its inside diameter. The ratio of its torque carrying capacity to that a solid shaft of the same material and the same outside diameter is",
+        "a) 15/16",
+        "b) ",
+        "c) ",
+        "d) 1/16",
+        "Answer : a",
+        ""
+    ],
+    [
+        "12) For no tension in column of diameter D, the eccentricity of the compressive load must be less than",
+        "a) D/4",
+        "b) D/6",
+        "c) D/8",
+        "d) D/12",
+        "Answer : b",
+        ""
+    ],
+    [
+        "13) A hollow circular column, has D=100mm, d = 80mm. what is its radius of gyration ",
+        "a) 32",
+        "b) 24",
+        "c) 19.4",
+        "d) None of these",
+        "Answer : a",
+        ""
+    ],
+    [
+        "14) The radius of gyration of a rectangular section (depth d, width b) from a centroidal axis parallel to the width is",
+        "a) 0.57 d",
+        "b) 0.28 d",
+        "c) 0.28 b",
+        "d) 0.57 b",
+        "Answer : b",
+        ""
+    ],
+    [
+        "15) Strain energy in a member is",
+        "a) directly proportional to strains",
+        "b) directly proportional to changes in strain",
+        "c) a function of strain as well as stresses",
+        "d) a function of loads only",
+        "Answer : b",
+        ""
+    ],
+    [
+        "16) Slope and deflection of beams of varying flexural rigidity may be easily computed by the method of",
+        "a) Macaulay",
+        "b) Mohr",
+        "c) Conjugate beams",
+        "d) Moment distribution",
+        "Answer : c",
+        ""
+    ],
+    [
+        "17) For ductile material the suitable theory of failure is",
+        "a) maximum principal stress theory",
+        "b) maximum shear stress theory",
+        "c) both a and b",
+        "d) None of these",
+        "Answer : b",
+        ""
+    ],
+    [
+        "18) In a structural member, there are perpendicular tensile stresses of 100 N/mm2 and 50 N/mm2. What is the equivalent stress in simple tension, according to the maximum principal strain theory ? (Poissons ratio = 0.25)",
+        "a) Zero",
+        "b) 87.5 N/mm2",
+        "c) 50 N/mm2",
+        "d) 100 N/mm2",
+        "Answer : b",
+        ""
+    ],
+    [
+        "19) Graphical representation of which one of the following theories is by an ellipse?",
+        "a) Maximum principal strain theory",
+        "b) Distortion energy theory",
+        "c) Maximum shear stress theory",
+        "d) None of these",
+        "Answer : b",
+        ""
+    ],
+    [
+        "20) All the theories of failure, will given nearly the same result when",
+        "a) when one of the principal stresses at a point is large in comparison to the other",
+        "b) when shear stresses act",
+        "c) when both the principal stresses are numerically equal",
+        "d) For all situations of stress",
+        "Answer : a",
+        ""
+    ],
+    [
+        "21) A shaft subjected to pure torsion is to be designed which of the following theories gives the largest diameter of shaft?",
+        "a) Maximum principal stress",
+        "b) Maximum shear stress theory",
+        "c) strain energy theory",
+        "d) All the above theories give same diameter",
+        "Answer : b",
+        ""
+    ],
+    [
+        "22) The radius of Mohrs circle of stress of a strained element is 20 N/mm2 and minor principal tensile stress is 10 N/mm2. The major principal stress is",
+        "a) 30 N/mm2",
+        "b) 50 N/mm2",
+        "c) 60 N/mm2",
+        "d) 100 N/mm2View AnswerOption \u2013 b)"
+    ],
+    [
+        "23) A system of pure shear stress produces on an inclined planea) A tensile stress and a compressive stressb) only tensile stressesc) only compressive stressesd) no direct stressesView AnswerOption \u2013 a)"
+    ],
+    [
+        "24) Principal strains at a point are 100 x 10-6 and -200 x 10-6. What is the maximum shear strain at the point?a) 300 x 10-6b) 200 x 10-6",
+        "Answer : b",
+        "c) 150 x 10-6d) 100 x 10-6View AnswerOption \u2013 a)"
+    ],
+    [
+        "25)",
+        "a) Zero",
+        "b) 87.5 N/mm2",
+        "c) 50 N/mm2",
+        "d) 100 N/mm2",
+        "Answer : b",
+    ],
+    [
+        "26) The radius of Mohrs circle gives the value ofa) minimum normal stressb) minimum shear stressc) maximum normal stressd) maximum shear stressView AnswerOption \u2013 d)"
+    ],
+    [
+        "27) Two planes xy and yz passing through a point in a strained material. The normal and shear stresses on xy plane are +80 MPa, -30 MPa respectively and normal and shear stresses on plane yz are +30 MPa and +30 MPa respectively. What is the angle between the planes?a) 180ob) 135oc) 90od) 45oView AnswerOption \u2013 c)"
+    ],
+    [
+        "28) The major and minor principal stresses at a point are 120 MPa and 60 MPa respectively, on the plane passing through the point; the shear stress on the plane is 15 MPa. What is the angle of this plane with the plane of major principal stress?a) 45ob) 30o",
+        "c) 15od) 60oView AnswerOption \u2013 c)"
+    ],
+    [
+        "29) Shear stress in a beam having triangular cross-section is maximum ata) extreme top fibreb) mid-depthc) neutral axisd) extreme bottom fibreView AnswerOption \u2013 b)"
+    ],
+    [
+        "30) A beam with a square section of 80 mm x 80 mm is simply supported at its ends. A load W is applied at the centre of the beam. If the maximum shear stress developed in the beam section is 6 N/mm2. What is the magnitude of W ?",
+        "a) 56 k N",
+        "b) 25.6 k N",
+        "c) 51.2 k N",
+        "d) 5.12 k N",
+        "Answer : c",
+        ""
+    ],
+    [
+        "31) A beam of rectangular cross-section is 100 mm wide and 200 mm deep. If the section is subjected to a shear force of 20 k N, the maximum shear stress is",
+        "a) 1 N/ mm2",
+        "b) 1.125 N/mm2",
+        "c) 1.33 N/mm2",
+        "d) 1.5 N/mm2",
+        "Answer : d",
+        ""
+    ],
+    [
+        "32) A MS beam is subjected to a bending moment, such that a stress of 100 MPa is developed in a layer at a distance of 100mm from the neutral layer. If E = 200 GPa, what is the radius of curvature of the beam?",
+        "a) 400 m",
+        "b) 200 m",
+        "c) 100 m",
+        "d) 50 m",
+        "Answer : b",
+        ""
+    ],
+    [
+        "33) A beam of T-section has I = 1200 cm4 and depth = 12 cm. Flange of the section is in compression. If the maximum tensile stress is two times the maximum compressive stress , what is section modulus in compression ?",
+        "a) 300 cm3",
+        "b) 200 cm3",
+        "c) 100 cm3",
+        "d) None of these",
+        "Answer : a",
+        ""
+    ],
+    [
+        "34) A I section is subjected to transverse shear force. At which layer maximum shear stress is developed ?",
+        "a) Neutral axis",
+        "b) At top edge of flange",
+        "c) At bottom edge of flange",
+        "d) None of these",
+        "Answer : a",
+        ""
+    ],
+    [
+        "35) A beam of uniform strength refers to which one of the following?",
+        "a) A beam in which extreme fibre stresses are same at all cross-section along the length of the beam",
+        "b) A beam in which the moment of inertia about axis of bending is constant at all cross-section of the beam",
+        "c) A beam in which the distribution of bending stress across the depth of cross-section is uniform at the all cross-section of the beam",
+        "d) A beam in which the bending stress is uniform at the maximum bending moment cross-sectin",
+        "Answer : a",
+        ""
+    ],
+    [
+        "36) A beam is of I-section with flanges 200 mm x 10 mm and web 180 mm x 10 mm. due to the bending moment applied on the beam section, maximum stress developed in the beam section is 100 MPa, what is the stress developed at inner edge of the flange ?",
+        "a) 110 MPa",
+        "b) 100 MPa",
+        "d) 120 MPa",
+        "Answer : c",
+        ""
+    ],
+    [
+        "37) The maximum bending moment due to a moving load on a fixed ended beam occurs ",
+        "a) at a support",
+        "b) always at the mid span",
+        "c) under the load only",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "38) The shape of the bending moment diagram for a cantilever beam carrying a uniformly distributed load over its length is",
+        "a) a straight line",
+        "b) a hyperbola",
+        "c) an ellipse",
+        "d) a parabola",
+        "Answer : d",
+        ""
+    ],
+    [
+        "39) The point of contra flexure is a point where ",
+        "a) Shear force changes sign",
+        "b) Bending moment changes sign",
+        "c) Shear force is maximum",
+        "d) Bending moment is maximum",
+        "Answer : b",
+        ""
+    ],
+    [
+        "40) In the case of I-section, the web resists mainly",
+        "a) axial force",
+        "b) shear force",
+        "c) bending moment",
+        "d) both shear force and bending moment",
+        "Answer : b",
+        ""
+    ],
+    [
+        "41) The bending moment in a simple supported beam can be calculated with the help of influence line drawn for the following types of load",
+        "a) a single point load",
+        "b) a uniformly distributed load",
+        "c) a number of point loads",
+        "d) All of the above three",
+        "Answer : d",
+        ""
+    ],
+    [
+        "42) A 10 m long beam carries point loads. When SF diagram is drawn, there are two rectangles of 10 kN x 2 m side; one is starting from one end and above the base and other starting from the other end and below the base line. The BM at the centre of the beam is",
+        "a) 20 kNm",
+        "b) 30 kNm",
+        "c) 40 kNm",
+        "d) 50 kNm",
+        "Answer : a",
+        ""
+    ],
+    [
+        "43) If the modulus of elasticity is zero, the material is said to be ",
+        "a) rigid",
+        "b) elastic",
+        "c) flexible",
+        "d) plastic",
+        "Answer : d",
+        ""
+    ],
+    [
+        "44) A rubber band is elongated to double its initial length, its true strain is",
+        "a) 0.500",
+        "b) 0.693",
+        "c) 1.00",
+        "d) 1.386",
+        "Answer : b",
+        ""
+    ],
+    [
+        "45) Cup and-cone type fracture occurs in the case of",
+        "a) cast iron",
+        "b) round specimen of ductile metals",
+        "c) tough steel",
+        "d) soft brass",
+        "Answer : b",
+        ""
+    ],
+    [
+        "46) A prismatic beam has uniform",
+        "a) depth",
+        "b) width",
+        "c) strength",
+        "d) cross-section",
+        "Answer : d",
+        ""
+    ],
+    [
+        "47) The number of elastic constants for a completely anisotropic elastic material which follows Hookes law is",
+        "a) 2",
+        "b) 4",
+        "c) 21",
+        "d) 25",
+        "Answer : c",
+        ""
+    ],
+    [
+        "48) Two tie rods are connected, through a pin of a cross-sectional area of 40 mm2. If the tie rods carry a tensile load of 10 kN, the shear stress in the pin is",
+        "a) 125 Mpa",
+        "b) 250 Mpa",
+        "c) 500 Mpa",
+        "d) None of these",
+        "Answer : b",
+        ""
+    ],
+    [
+        "49) In stress-strain curve, the area upto elastic limit stress indicates which mechanical property?",
+        "a) Ductility",
+        "b) Strength",
+        "c) Resilience",
+        "d) None of these",
+        "Answer : c",
+        ""
+    ],
+    [
+        "50) In the case of pure bending, the beam will bend into an arc of a ",
+        "a) circle",
+        "b) parabola",
+        "c) ellipse",
+        "d) hyperbola",
+        "Answer : "
+    ]
+]

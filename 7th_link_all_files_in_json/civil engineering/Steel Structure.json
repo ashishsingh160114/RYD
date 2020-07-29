@@ -1,0 +1,289 @@
+[
+    [
+        "1) Which one of the following is the mode of failure in a fillet weld material?",
+        "a) Tension",
+        "b) Shear",
+        "c) Bearing",
+        "d) Crushing",
+        "Answer : b",
+        ""
+    ],
+    [
+        "2) A channel section has",
+        "(a) two webs one flange",
+        "(b) one web two flanges",
+        "(c) one web one flange",
+        "(d) two webs and two flanges",
+        "Answer : b",
+        ""
+    ],
+    [
+        "3) The difference between gross diameter and nominal diameter for the rivets up to 25 mm diameter is ",
+        "a) 1.0 mm",
+        "b) 1.5 mm",
+        "c) 2.0 mm",
+        "d) 2.5 mm",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) Minimum edge distances specified by the code should be maintained to avoid",
+        "(a) rupture of plate",
+        "(b) shearing of plate",
+        "(c) crushing of plate",
+        "(d) both (b) and (c)",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5) What is the maximum permissible longitudinal pitch in staggered riveted compression joints ?",
+        "a) 500 mm",
+        "b) 400 mm",
+        "c) 300 mm",
+        "d) 100 mm",
+        "Answer : c",
+        ""
+    ],
+    [
+        "6) The following are the statements about lug angle used to connected heavily loaded tension",
+        "(a) only (i) and (ii) are correct.",
+        "(b) only (i) and (iii) are correct.",
+        "(c) only (ii) and (iii) are correct.",
+        "(d) all the three are correct.",
+        "Answer : d",
+        ""
+    ],
+    [
+        "7) The overlap of batten plates with the main members in welded connections should be more than",
+        "a) 2t",
+        "b) 5 t",
+        "c) 6t",
+        "d) 8t",
+        "Answer : b",
+        ""
+    ],
+    [
+        "8) The effective diameter of a rivet is taken as",
+        "(a) nominal diameter of rivet",
+        "(b) rivet hole diameter",
+        "(c) rivet hole diameter +1.5 mm",
+        "(d) rivet hole diameter 1.5 mm",
+        "Answer : b",
+        ""
+    ],
+    [
+        "9) For reversal of stresses the most suitable bolt is",
+        "a) Black bolt",
+        "b) Turned bolt",
+        "c) Friction grip bolt",
+        "d) None of these",
+        "Answer : c",
+        ""
+    ],
+    [
+        "10) Maximum spacing of lacing bars shall be such that the maximum slenderness of the main member",
+        "(a) 30",
+        "(b) 40",
+        "(c) 50",
+        "(d) 60",
+        "Answer : c",
+        ""
+    ],
+    [
+        "11) Which of the following does not describe a weld type ?",
+        "a) Butt",
+        "b) Plug",
+        "c) Zig-Zag",
+        "d) Lap",
+        "Answer : c",
+        ""
+    ],
+    [
+        "12) Minimum edge distance, in case of hand flame cut edges, shall not be less than ______times bolt",
+        "(a) 1.2",
+        "(b) 1.5",
+        "(c) 1.7",
+        "(d) 1.8",
+        "Answer : c",
+        ""
+    ],
+    [
+        "13) Tacking rivets in tension members, are provided at a pitch in line not exceeding ",
+        "a) 25 cm",
+        "b) 50 cm",
+        "c) 60 cm",
+        "d) 100 cm",
+        "Answer : d",
+        ""
+    ],
+    [
+        "14) Partial safety factor for shop welding and field welding are",
+        "(a) 1.10 and 1.25",
+        "(b) 1.25 and 1.25",
+        "(c) 1.25 and 1.5",
+        "(d) 1.5 and 1.5",
+        "Answer : c",
+        ""
+    ],
+    [
+        "15) Bolts are most suitable to carry ",
+        "a) Shear",
+        "b) bending",
+        "c) axial tension",
+        "d) shear and bending",
+        "Answer : c",
+        ""
+    ],
+    [
+        "16) The effective slenderness ratio of battened columns shall be taken as ______ times the maximum",
+        "(a) 1.05",
+        "(b) 1.10",
+        "(c) 1.15",
+        "(d) 1.20",
+        "Answer : b",
+        ""
+    ],
+    [
+        "17) Tacking rivets in tension members, are provided at a pitch in line not exceeding",
+        "a) 25 cm",
+        "b) 50 cm",
+        "c) 60 cm",
+        "d) 100 cm",
+        "Answer : d",
+        ""
+    ],
+    [
+        "18) Simple post-critical method may be used for finding shear buckling resistance of web in case of",
+        "(a) without vertical stiffeners only",
+        "(b) with vertical stiffeners only",
+        "(c) with or without vertical stiffeners",
+        "(d) with vertical and horizontal stiffeners.",
+        "Answer : c",
+        ""
+    ],
+    [
+        "19) The order of elongation which a specimen of mild steel undergoes before fracture is",
+        "a) 0.1%",
+        "b) 1%",
+        "c) 10%",
+        "d) 100%",
+        "Answer : c",
+        ""
+    ],
+    [
+        "20) In roof trusses bracings should be provided at top chord level in the",
+        "(a) end panels using flats",
+        "(b) end panels using angles",
+        "(c) last but one panel using flats",
+        "(d) last but one end panel using angles",
+        "Answer : b",
+        ""
+    ],
+    [
+        "21) Which one of the following is a compression member ?",
+        "a) Purlin",
+        "b) Boom",
+        "c) Girt",
+        "d) Tie",
+        "Answer : b",
+        ""
+    ],
+    [
+        "22) If span of a roof truss is between 1530 m, preferable spacing is",
+        "(a) 3.0 to 4.5 m",
+        "(b) 4.5 to 6.0 m",
+        "(c) 6 to 8 m",
+        "(d) 1012 m",
+        "Answer : b",
+        ""
+    ],
+    [
+        "23) The slenderness ratio of lacing bars should not exceed",
+        "a) 100",
+        "b) 120",
+        "c) 145",
+        "d) 180",
+        "Answer : c",
+        ""
+    ],
+    [
+        "24) For spacing of trusses 3 to 4 m, purling used are",
+        "(a) angle iron with outstanding leg at top",
+        "(b) angle iron with outstanding leg at bottom",
+        "(c) channel sections",
+        "(d) I-sections",
+        "Answer : a",
+        ""
+    ],
+    [
+        "25) The heaviest I section for same depth is",
+        "a) ISMB",
+        "b) ISLB",
+        "c) ISHB",
+        "d) ISWB",
+        "Answer : c",
+        ""
+    ],
+    [
+        "26) In steel bridges, for span less than 9 m and class AA loading for wheeled vehicles, the impact factor is taken as",
+        "a) 20%",
+        "b) 25%",
+        "c) 30%",
+        "d) 35%",
+        "Answer : b",
+        ""
+    ],
+    [
+        "27) In a truss design, snow load need not be considered when roof is steeper than",
+        "a) 100",
+        "b) 150",
+        "c) 300",
+        "d) 450",
+        "Answer : d",
+        ""
+    ],
+    [
+        "28) To minimize the total cost of a roof truss, the ratio of the cost of truss to the cost of purlins shall be",
+        "a) 1",
+        "b) 2",
+        "c) 3",
+        "d) 4",
+        "Answer : b",
+        ""
+    ],
+    [
+        "29) What is the number of plastic hinges formed if an indeterminate beam with redundancy R is to become determinate ?",
+        "a) R  1",
+        "b) R",
+        "c) R + 1",
+        "d) R + 2",
+        "Answer : b",
+        ""
+    ],
+    [
+        "30) At the location of a plastic hinge,",
+        "a) radius of curvature is infinite",
+        "b) curvature is infinite",
+        "c) moment is infinite",
+        "d) flexible stress in infinite",
+        "Answer : b",
+        ""
+    ],
+    [
+        "31) The maximum permissible span of asbestos cement sheets is",
+        "a) 650 mm",
+        "b) 810 mm",
+        "c) 1250 mm",
+        "d) 1680 mm",
+        "Answer : d",
+        ""
+    ],
+    [
+        "32) The range of economical spacing of trusses varies from",
+        "a) L/3 to L/5",
+        "b) L/4 to 2L/5",
+        "c) L/2 to L/3",
+        "d) 2L/5 to 3L/5",
+        "Answer : "
+    ]
+]

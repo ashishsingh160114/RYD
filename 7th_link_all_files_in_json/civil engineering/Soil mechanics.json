@@ -1,0 +1,370 @@
+[
+    [
+        "1) Which of the following type of soil is transported by gravitational forces ?",
+        "a) Loess",
+        "b) Talus",
+        "c) Drift",
+        "d) Dune sand",
+        "Answer : b",
+        ""
+    ],
+    [
+        "2) The soil often found in areas of poor drainage with high evaporation is",
+        "(a) clay",
+        "(b) peaty",
+        "(c) kaoline",
+        "(d) alkaline",
+        "Answer : d",
+        ""
+    ],
+    [
+        "3) The collapsible soil is associated with ",
+        "a) dune sands",
+        "b) laterite soils",
+        "c) loess",
+        "d) black cotton soils",
+        "Answer : c",
+        ""
+    ],
+    [
+        "4) The ratio of voids to total volume of soil mass is called",
+        "(a) void ratio",
+        "(b) porosity",
+        "(c) degree of saturation",
+        "(d) water content ratio",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5) Bentonite is a material obtained due to the weathering of",
+        "a) limestone",
+        "b) quartzite",
+        "c) volcanic ash",
+        "d) shales",
+        "Answer : c",
+        ""
+    ],
+    [
+        "6) Shrinkage limit is defined as ______",
+        "(a) the limit of water content that represents the boundary between plastic and semi-solid state.",
+        "(b) the lowest water content at which soil can still be completely saturated.",
+        "(c) the water content at which the soil shows shearing resistance as the water content is reduced.",
+        "(d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "7) Relative density of a compacted dense sand is approximately equal to",
+        "a) 0.4",
+        "b) 0.95",
+        "c) 0.50",
+        "d) 1.10",
+        "Answer : b",
+        ""
+    ],
+    [
+        "8) The moisture content of a clayey soil is gradually reduced from a large value. The correct",
+        "(a) plastic limit, liquid limit and shrinka ge limit .",
+        "(b) shrinkage limit, plastic limit and liquid limit.",
+        "(c) liquid limit, plastic limit and shrinkage limit.",
+        "(d) plastic limit, shrinkage limit and liquid limit.",
+        "Answer : b",
+        ""
+    ],
+    [
+        "9) Liquid limit of a soil indicates its",
+        "a) compressibility",
+        "b) permeability",
+        "c) optimum moisture content",
+        "d) shear strength",
+        "Answer : a",
+        ""
+    ],
+    [
+        "10) If the direction of flow of water is parallel to the planes of stratification, the permeability is",
+        "(a) 2 to 10",
+        "(b) 2 to 20",
+        "(c) 2 to 30",
+        "(d) 2 to 40",
+        "Answer : c",
+        ""
+    ],
+    [
+        "11) A pycnometer is used to determine",
+        "a) water content and voids ratio",
+        "b) specific gravity and dry density",
+        "c) water content and specific gravity",
+        "d) voids ratio and dry density",
+        "Answer : c",
+        ""
+    ],
+    [
+        "12) According to Skempton, if the variation of rate of strain is  5 times the normal rate of strain, the",
+        "(a) 5 to 10%",
+        "(b) 10 to 20%",
+        "(c) 20 to 25%",
+        "(d) 30 to 40%",
+        "Answer : a",
+        ""
+    ],
+    [
+        "13) Number of phases in soil mass is :",
+        "a) 3",
+        "b) 2",
+        "c) 1",
+        "d) 4",
+        "Answer : a",
+        ""
+    ],
+    [
+        "14) Quick sand is",
+        "(a) a sand which can act as a quick filter",
+        "(b) a uniformly graded sand",
+        "(c) a condition when cohesionless soil loses its shear strength due to upward flow water",
+        "(d) the conditions focusing quick flow of water through the soil.",
+        "Answer : c",
+        ""
+    ],
+    [
+        "15) A soil has a liquid limit of 40% and plasticity index of 20%. The plastic limit of the soil will be",
+        "a) 20%",
+        "b) 30%",
+        "c) 40%",
+        "d) 60%",
+        "Answer : a",
+        ""
+    ],
+    [
+        "16) The rate of increase of stress in loose sand compared to dense sand is",
+        "(a) slower",
+        "(b) same",
+        "(c) faster",
+        "(d) same or faster",
+        "Answer : a",
+        ""
+    ],
+    [
+        "17) Consistency as applied to cohesive soils is an indicator of its",
+        "a) density",
+        "b) moisture content",
+        "c) shear strength",
+        "d) porosity",
+        "Answer : c",
+        ""
+    ],
+    [
+        "18) Ultimate bearing capacity of soil is the",
+        "(a) maximum gross pressure at which soil fails in shear.",
+        "(b) maximum net pressure at which soil fails in shear.",
+        "(c) maximum pressure at which soil settles beyond the specified limit.",
+        "(d) both (a) and (c).",
+        "Answer : a",
+        ""
+    ],
+    [
+        "19) A clay sample has a void ratio 0.54 in dry state. The specific gravity of soil solids is 2.7. what is the shrinkage limit of the soil ?",
+        "a) 8.5%",
+        "b) 10.0%",
+        "c) 17.0%",
+        "d) 20.0%",
+        "Answer : d",
+        ""
+    ],
+    [
+        "20) Among the clay minerals, the one having the maximum swelling tendency is",
+        "a) kaolinite",
+        "b) llite",
+        "c) Montmorillonite",
+        "d) Halloysite",
+        "Answer : c",
+        ""
+    ],
+    [
+        "21) During electrical stabilization of soil",
+        "(a) soil particles get flocculated to form large particles",
+        "(b) friction between particles increase",
+        "(c) fine grained soil is drained",
+        "(d) all the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "22) Inorganic soil with low compressibility are represented by",
+        "a) MH",
+        "b) SL",
+        "c) ML",
+        "d) CH",
+        "Answer : c",
+        ""
+    ],
+    [
+        "23) The unit weight of a soil at zero air voids depends on",
+        "a) specific gravity",
+        "b) water content",
+        "c) unit weight of water",
+        "d) All the above",
+        "Answer : d",
+        ""
+    ],
+    [
+        "24) Compaction of soil is measured in terms of",
+        "a) dry density",
+        "b) specific gravity",
+        "c) compressibility",
+        "d) permeability",
+        "Answer : a",
+        ""
+    ],
+    [
+        "25) Determination of coefficient of permeability by means of a field pumping test can be done for",
+        "a) soft clay",
+        "b) sandy soil",
+        "c) stiff clay",
+        "d) marine clay",
+        "Answer : a",
+        ""
+    ],
+    [
+        "26) In a earthen dam the phreatic line is",
+        "a) straight line",
+        "b) circular line",
+        "c) parabolic line",
+        "d) zigzag line",
+        "Answer : c",
+        ""
+    ],
+    [
+        "27) Darcys law for flow through soil is valid if Reynolds number is less than",
+        "a) 4000",
+        "b) 3000",
+        "c) 2000",
+        "d) 1",
+        "Answer : d",
+        ""
+    ],
+    [
+        "28) Influence factor I depends on ",
+        "a) applied vertical load",
+        "b) type of soil",
+        "c) location of point with respect to load",
+        "d) soil modulus",
+        "Answer : c",
+        ""
+    ],
+    [
+        "29) When the degree of consolidation is 50%, the time factor is about",
+        "a) 0.2",
+        "b) 0.5",
+        "c) 1.0",
+        "d) 2.0",
+        "Answer : a",
+        ""
+    ],
+    [
+        "30) The unit of the coefficient of consolidation is",
+        "a) cm2/gm",
+        "b) cm2/sec",
+        "c) gm/cm2/sec",
+        "d) gm-cm/sec",
+        "Answer : b",
+        ""
+    ],
+    [
+        "31) Unconfined compressive strength test is :",
+        "a) Undrained test",
+        "b) Drained test",
+        "c) Consolidated undrained test",
+        "d) Consolidated drained test",
+        "Answer : a",
+        ""
+    ],
+    [
+        "32) If the unit weight of soil is 20 kn/m3 cohesion is 15 kn/m2, factor of safety is 1.5 and the stability number is 0.05, the safe maximum height of the slope is",
+        "a) 5.0 m",
+        "b) 8.0 m",
+        "c) 10.0 m",
+        "d) 12.0 m",
+        "Answer : c",
+        ""
+    ],
+    [
+        "33) The pore water pressure in the capillary zone is",
+        "a) Zero",
+        "b) Positive",
+        "c) Negative",
+        "d) Very low",
+        "Answer : c",
+        ""
+    ],
+    [
+        "34) The earth pressure distribution due to surcharge load q per unit area is",
+        "a) Triangular",
+        "b) Rectangular",
+        "c) Parabolic",
+        "d) Circular",
+        "Answer : b",
+        ""
+    ],
+    [
+        "35) The weight of hammer used in Standard Penetration test is",
+        "a) 50 kg",
+        "b) 60 kg",
+        "c) 63.5 kg",
+        "d) 75 kg",
+        "Answer : c",
+        ""
+    ],
+    [
+        "36) The SPA value is recorded for the penetration of split barrel sampler for a penetration of",
+        "a) 15 cm",
+        "b) 30 cm",
+        "c) 45 cm",
+        "d) 60 cm",
+        "Answer : b",
+        ""
+    ],
+    [
+        "37) The minimum slope of the well curb in well foundation should be (V : H)",
+        "a) 1 : 2",
+        "b) 1 : 1",
+        "c) 2 : 1",
+        "d) 3 : 1",
+        "Answer : b",
+        ""
+    ],
+    [
+        "38) Resistance load due to skin friction for a pile varies with",
+        "a) L",
+        "b) L2",
+        "c) D2",
+        "d) LD",
+        "Answer : d",
+        ""
+    ],
+    [
+        "39) The area ratio of sampler should not exceed",
+        "a) 10%",
+        "b) 25%",
+        "c) 50%",
+        "d) 75%",
+        "Answer : a",
+        ""
+    ],
+    [
+        "40) The term Soil Mechanics was coined by",
+        "(a) Rankine",
+        "(b) Newton",
+        "(c) Terzaghi",
+        "(d) Newmark",
+        "Answer : c",
+        ""
+    ],
+    [
+        "41) Mechanical stabilization of the soil is done with the help of",
+        "a) Cement",
+        "b) Lime",
+        "c) Bitumen",
+        "d) Proper grading",
+        "Answer : "
+    ]
+]
