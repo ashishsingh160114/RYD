@@ -1,0 +1,136 @@
+[
+    [
+        "1)If the property of locality of reference is well pronounced in a program",
+        "a) the number of page faults will be more",
+        "b) the number of page faults will be less",
+        "c) the number of page faults will same",
+        "d) none of above",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "2) Belady anamoly occurs in",
+        "a) Optimal replacement",
+        "b) FIFO",
+        "c) LRU",
+        "d) both in FIFO and LRU",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "3)Memory protection is normally done by",
+        "a) the processor and the associated hardware",
+        "b) the operating system",
+        "c) the compiler",
+        "d) the user program",
+        "View AnswerOption \u2013 a.",
+        ""
+    ],
+    [
+        "4)In real time OS, which is most suitable scheduling scheme",
+        "a) round robin",
+        "b) FCFS",
+        "c) pre-emptive scheduling",
+        "d) random scheduling",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "5)For multiprogramming operating system",
+        "a) special support from processor is essential",
+        "b) special support from processor is not essential",
+        "c) cache memory is essential",
+        "d) none of above",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "6)Which operating system reacts in the actual time",
+        "a) Batch system",
+        "b) Quick response system",
+        "c) Real time system",
+        "d) Time sharing system",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "7)Which technique is used by operating systems to execute several programs concurrently by switching back and forth",
+        "a) Partitioning",
+        "b) Multitasking",
+        "c) Windowing",
+        "d) Paging",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "8)What is the name given to the values that are automatically provided by software to reduce keystrokes and improve a computer user\u2019s productivity?",
+        "a) Defined values",
+        "b) Fixed values",
+        "c) Default values",
+        "d) None of the above",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "9)Shortest Job First executes first the job",
+        "a) with the least processor needs",
+        "b) that first entered the queue",
+        "c) that has been in the queue for the longest",
+        "d) that last entered the queue",
+        "View AnswerOption \u2013 a.",
+        ""
+    ],
+    [
+        "10) Fragmentation of a file system",
+        "a) occurs only is file is not used properly",
+        "b) can always be prevented",
+        "c) happens in all file systems",
+        "d) can be removed by compaction",
+        "View AnswerOption \u2013 b.",
+        ""
+    ],
+    [
+        "11) Which operating system use write through catches",
+        "a) UNIX",
+        "b) XENIX",
+        "c) ULTRIX",
+        "d) DOS",
+        "View AnswerOption \u2013 d.",
+        ""
+    ],
+    [
+        "12) Dynamic allocation of storage areas with VSAM files is accomplished by",
+        "a) hashing",
+        "b) control splits",
+        "c) over flow areas",
+        "d) relative recording",
+        "View AnswerOption \u2013 b.",
+        ""
+    ],
+    [
+        "13)Dijkstra\u2019s algorithm deals with",
+        "a) mutual exclusion",
+        "b) deadlock recovery",
+        "c) deadlock avoidance",
+        "d) cache coherence",
+        "View AnswerOption \u2013 c",
+        ""
+    ],
+    [
+        "14)A series of statements explaining how the data is to be processed is called",
+        "a) instruction",
+        "b) compiler",
+        "c) program",
+        "d) interpretor",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "15) Which of following is not a condition of Dead Lock ?",
+        "a) Mutual Exclusion",
+        "b) No Preemption",
+        "c) Hold and Wait",
+        "d) Data Transfer",
+        "View AnswerOption \u2013 d."
+    ]
+]

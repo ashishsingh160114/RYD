@@ -1,0 +1,132 @@
+[
+    [
+        "1)Kernel minimizes the frequency of disk access by keeping a pool of internal data buffer which helps to increase the response time, this is known as ?",
+        "A) Buffer cache",
+        "B) Spooling",
+        "C) Pooling",
+        "D) Virtual Memory",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "2)What is property of UNIX ?",
+        "A) Multi User",
+        "B) Multi Processes",
+        "C) Multi Tasking",
+        "D) All of above",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "3) Which among following is considered as super daemon ?",
+        "A) sysinit",
+        "B) grep",
+        "C) init",
+        "D) locate",
+        "View AnswerOption \u2013 C.",
+        ""
+    ],
+    [
+        "4)What control character signals the end of the input file ?",
+        "A) ctrl + s",
+        "B) ctrl + z",
+        "C) ctrl + w",
+        "D) ctrl + d",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "5)Which command is used to set terminal input output characteristic ?",
+        "A) atty",
+        "B) stty",
+        "C) dtty",
+        "D) ltty",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "6)Which command changes a file\u2019s group owner",
+        "A) chmod",
+        "B) chgrp",
+        "C) chown",
+        "D) chgrep",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "7)Which one shows the name of the operating system ?",
+        "A) uname -n",
+        "B) uname -l",
+        "C) uname -m",
+        "D) uname -o",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "8) How many links are created when we create a directory file ?",
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "9)printer in the file structure can be found in ?",
+        "A) /etc",
+        "B) /html",
+        "C) /www",
+        "D) /dev",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "10) All device files are stored in which directory ?",
+        "A) /etc",
+        "B) /dev",
+        "C) /www",
+        "D) /html",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "11)Which command reads the content of another file in vi editor ?",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "12)What is the command that can print lines of first file matching with second file ?",
+        "A) printline",
+        "B) cmp",
+        "C) com",
+        "D) comm",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "13)Which of following command of ls will help to view inode number ?",
+        "A) -I",
+        "B) -s",
+        "C) -j",
+        "D) -k",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "14) What is meaning of ILP32 ?",
+        "A) 32 bit Integrated, Long &amp; Pointer",
+        "B) 32 bit Integer, Long &amp; Pointer",
+        "C) 32 bit Integer, Long &amp; Point",
+        "D) 32 bit Integer, Lost &amp; Pointer",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "15)To display disk consumption of a specific directory which command is used ?",
+        "A) dd",
+        "B) du",
+        "C) dt",
+        "D) dl",
+        "View AnswerOption \u2013 B."
+    ]
+]
