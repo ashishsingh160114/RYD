@@ -1,0 +1,136 @@
+[
+    [
+        "1)On an excel sheet the active cell in indicated by ?",
+        "A) A dotted border",
+        "B) A dark wide border",
+        "C)A blinking border",
+        "D) By italic text",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "2)The default style for new data keyed in a new workbook is ?",
+        "A) Comma",
+        "B) Normal",
+        "C) Currency",
+        "D) Percent",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "3)A value used in a formula that does not change is called a ?",
+        "A) Constant",
+        "B) Cell address",
+        "C) Varaible",
+        "D) Static",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "4)what term describes a background that appears as a grainy, non smooth surface ?",
+        "A) Pattern",
+        "B) Gradient",
+        "C) Texture",
+        "D) Velvet",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "5)You can convert existing Excel worksheet data and charts to HTML document by using the ?",
+        "A) Internet Assistant Wizard",
+        "B) Intranet Wizard",
+        "C) Import Wizard",
+        "D) Export Wizard",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "6)Macros can be executed from the which of the following menu ?",
+        "A) Format",
+        "B) Home",
+        "C) Insert",
+        "D) Tools",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "7)You can check the conditions against ____ when applying conditional formatting ?",
+        "A) Cell Value",
+        "B) Formula",
+        "C) Both of above",
+        "D) None of above",
+        "View AnswerOption \u2013 C.",
+        ""
+    ],
+    [
+        "8)How is data organized in a spreadsheet ?",
+        "A) Rows and columns",
+        "B) Layers and planes",
+        "C) Lines and spaces",
+        "D) Height and width",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "9)How do you change column width to fit the contents ?",
+        "A) Single-click the boundary to the left to the column heading",
+        "B) Double click the boundary to the right of the column heading",
+        "C) Press Alt and single click anywhere in the column",
+        "D) All of above",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "10)Which function is used for creating a data table ?",
+        "A) Sum",
+        "B) Table",
+        "C) Add",
+        "D) Count",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "11)What is shortcut to enter current date in cell in excel ?",
+        "A) Ctrl + ;",
+        "B) Alt + ;",
+        "C) Shift + &amp;",
+        "D) Ctrl + $",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "12)Shortcut to delete the selected column ?",
+        "A) Ctrl + \u2013",
+        "B) Alt + \u2013",
+        "C) Shift + \u2013",
+        "D) Insert + \u2013",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "13)Merge cells option can be applied from ?",
+        "A) Formatting toolbar",
+        "B) Format Cells dialog box Alignment Tab",
+        "C) Both of above",
+        "D) None of above",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "14)Insert picture option is in which of the following toolbars ?",
+        "A) Standard",
+        "B) Formatting",
+        "C) Drawing",
+        "D) Picture",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "15)The intersection of row and column is called a ?",
+        "A) dataset",
+        "B) cell",
+        "C) data",
+        "D) set",
+        "View AnswerOption \u2013 B."
+    ]
+]

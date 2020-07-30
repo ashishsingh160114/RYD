@@ -1,0 +1,136 @@
+[
+    [
+        "1)What is gutter margin ?",
+        "A) Margin that is added to right margin when printing",
+        "B) Margin that is added to the left margin when printing",
+        "C) Margin that is added to the outside of the page when printing",
+        "D) Margin that is added to the binding side of page when printing",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "2)What is a portion of a document in which you set certain page formatting options ?",
+        "A) Page Setup",
+        "B) Section",
+        "C) Page",
+        "D) Document",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "3)Gutter position can be set in following positions",
+        "A) Left &amp; Right",
+        "B) Left &amp; Top",
+        "C) Left &amp; Bottom",
+        "D) Left Only",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "4) Which key will open an Open dialogue box ?",
+        "A) F12",
+        "B) Alt + F12",
+        "C) Ctrl + F12",
+        "D) Shift + F12",
+        "View AnswerOption \u2013 C.",
+        ""
+    ],
+    [
+        "5) Which file is responsible to start MS Word ?",
+        "A) Winword.exe",
+        "B) Win.exe",
+        "C) Word.exe",
+        "D) Wordwin.exe",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "6)How to use Format Painter multiple times ?",
+        "A) By Click on Lock Format Painter Icon",
+        "B) Format Painter cannot be use multiple times",
+        "C) By Double Click on the Format Painter Icon",
+        "D) None of above",
+        "View AnswerOption \u2013 C.",
+        ""
+    ],
+    [
+        "7)Which is not a type of margin ?",
+        "A) Top",
+        "B) Left",
+        "C) Right",
+        "D) Center",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "8) Tabs stop position cannot be the following alignment ?",
+        "A) Decimal Alignment",
+        "B) Center Alignment",
+        "C) Bar Alignment",
+        "D) Justify Alignment",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "9)Ctrl + H is short cut for ?",
+        "A) Open Insert Dialog box activating Insert Hyper Link Tab",
+        "B) Open Find and Replace Dialog box with activating Go to Tab",
+        "C) Open Find and Replace Dialog box with activating Find Tab",
+        "D) Open Find and Replace Dialog box with activating Replace Tab",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "10)What can be searched by find ?",
+        "A) format",
+        "B) characters",
+        "C) symbol",
+        "D) All of above",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "11)How many maximum number of columns can be inserted in the word document ?",
+        "A) 45",
+        "B) 50",
+        "C) 55",
+        "D) 65",
+        "View AnswerOption \u2013 A.",
+        ""
+    ],
+    [
+        "12)What is Macro ?",
+        "A) Small add-on programs that are installed afterwards if you need them",
+        "B) Type of high level programming language",
+        "C) Type of low level programming language",
+        "D) Small programs created in MS-Word to automate repetitive tasks by using VBA",
+        "View AnswerOption \u2013 D.",
+        ""
+    ],
+    [
+        "13)To autofit the width of column",
+        "A) Double click the left border of column",
+        "B) Double click the right border of column",
+        "C) Double click the column header",
+        "D) None of above",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "14)What is the default font size of a new Word document based on Normal template ?",
+        "A) 8 pt",
+        "B) 10 pt",
+        "C) 12 pt",
+        "D) 14 pt",
+        "View AnswerOption \u2013 C.",
+        ""
+    ],
+    [
+        "15)Minimum number of rows and columns in MS Word document is",
+        "A) 1 and 1",
+        "B) 2 and 1",
+        "C) 1 and 2",
+        "D) 2 and 2",
+        "View AnswerOption \u2013 A"
+    ]
+]
