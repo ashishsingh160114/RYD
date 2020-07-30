@@ -1,0 +1,149 @@
+[
+    [
+        "1) Which of the following is not a primitive data type?",
+        "a) Boolean",
+        "b) byte",
+        "c) string",
+        "d) double",
+        "Answer : c  ",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "2) What is the output of this program?",
+        "a)623",
+        "b) 236",
+        "c) 326",
+        "d) 362",
+        "Answer : c  ",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "3)Is null an object?",
+        "a) Yes",
+        "b) No",
+        "c) Sometimes yes",
+        "d) None of these",
+        "Answer : b  ",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "4) Let m be a variable of datatype byte. The value of m &lt;&lt;4 is same as",
+        "a) m x 24",
+        "b) 4m",
+        "c) m4",
+        "d) 4 + m",
+        "Answer : a  ",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "5) Which of the following statement will result in compilation error?",
+        "a) signed int abc;",
+        "b) unsigned int abc;",
+        "c) signed byte abc;",
+        "d) signed long abc;",
+        "Answer : a  ",
+        ""
+    ],
+    [
+        "6) Which of the following operators take (s) only integer operands?",
+        "a)%",
+        "b) ++ (post-increment)",
+        "c) ++(pre-increment)",
+        "d)none of these",
+        "Answer : d  ",
+        ""
+    ],
+    [
+        "7) Which of the following doesnt have a superclass?",
+        "a)System",
+        "b) Object",
+        "c) Lang",
+        "d) Exception",
+        "Answer : b  ",
+        ""
+    ],
+    [
+        "8) Elements of an array have the same",
+        "a) index",
+        "b) vsalue",
+        "c) datatype",
+        "d) scope",
+        "Answer : c  ",
+        ""
+    ],
+    [
+        "9) Constant that cannot be changed are declared using the keyword",
+        "a) final",
+        "b) static",
+        "c) absatract",
+        "d) immutable",
+        "Answer : a  ",
+        ""
+    ],
+    [
+        "10) Which of the following can be used to copy data from one array to another?",
+        "a) System.clone",
+        "b) java.lang.toCopy",
+        "c) System.arraycopy",
+        "d)java.lang.clone",
+        "Answer : c  ",
+        ""
+    ],
+    [
+        "11) Which of the following operator dont always evaluate all their operator?",
+        "a) &amp;&amp;",
+        "b) &amp;",
+        "c) ?:",
+        "d) I I",
+        "Answer : a  ",
+        ""
+    ],
+    [
+        "12) How much of storage does a character (represented in Unicode) need?",
+        "a) 1 byte",
+        "b) 4 byte",
+        "c) 3 byte",
+        "d) 2 byte",
+        "Answer : d  ",
+        ""
+    ],
+    [
+        "13) Which of the following access specifiers is usually used with used with inheritance?",
+        "a) public",
+        "b) private",
+        "c) protected",
+        "d) package",
+        "Answer : c  ",
+        ""
+    ],
+    [
+        "14) Whichof the following operators act only integer operator?",
+        "a) &lt;&lt;",
+        "b) &gt;&gt;&gt;",
+        "c) &amp; (bitwise AND)",
+        "d) No such operator exists in Java.",
+        "Answer : a  ",
+        ""
+    ],
+    [
+        "15) Which of the following keywords is used to declare exceptions that can possibly occur?",
+        "a) handle",
+        "b) throws",
+        "c) checked",
+        "d) manage",
+        "Answer : b  ",
+        ""
+    ],
+    [
+        "16) Which of the following packages needs to be important to use the StringTokenizer class",
+        "a) java.io",
+        "b) java.util",
+        "c) java.lang",
+        "d) java.net",
+        "Answer : b "
+    ]
+]

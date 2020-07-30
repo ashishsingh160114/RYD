@@ -1,0 +1,156 @@
+[
+    [
+        "1) A constructoris called whenever",
+        "a)an objective is declared",
+        "b) an object is used",
+        "c)a class is declared",
+        "d) a class is used",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "2) Which of the following are procedural languages?",
+        "a) Pascal",
+        "b)Smalltalk",
+        "c) C++",
+        "d) C",
+        ""
+    ],
+    [
+        "3)C++ was originally developed \\by",
+        "a) Clocksin and Mellish",
+        "b) Donald E Knuth",
+        "c) Sir Richard Hadlee",
+        "d) Bjarne Stroustrup",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "4)Choose the correct statements regarding i n l I n e function.",
+        "a) it speeds up execution",
+        "b) it slows down execution",
+        "c) it increases the code size",
+        "d) it decreases the code size",
+        ""
+    ],
+    [
+        "5) Which of the following is not a storage class supported by C++ ?",
+        "a) Register",
+        "b) Auto",
+        "c)Mutable",
+        "d) Dynamic",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "6) Which of the following operators cannot be overloaded?",
+        "a) &gt;&gt;",
+        "b) ?:",
+        "c) .",
+        "d) no such operator exists",
+        ""
+    ],
+    [
+        "7) A class having no name ",
+        "a) is not allowed",
+        "b) cannot have a constructor",
+        "c) cannot have a destructor",
+        "d) cannot be passed as an argument",
+        ""
+    ],
+    [
+        "8) For a method to be an interface between the outside world and a class, it has to be declared",
+        "a) Private",
+        "b) protected",
+        "c) public",
+        "d) external",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "9) Choose the correct statements.",
+        "a) A destructor is not inherited",
+        "b) A constructor cannot be called explicitly",
+        "c) A destructor can be called explicitly",
+        "d) A constructor is not inherited",
+        ""
+    ],
+    [
+        "10)cout stands for ",
+        "a) class output",
+        "b) character output",
+        "c) common output",
+        "d) call output",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "11) The fields in a structure of a C program are by default",
+        "a)protected",
+        "b) public",
+        "c) private",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "12) The fields in a class, of a C++ Program are by default",
+        "a)protected",
+        "b) public",
+        "c) private",
+        "d) none of the above",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "13) Which of the following specifiers need not be announced by the compiler?",
+        "a)register",
+        "b) inline",
+        "c) static",
+        "d) extern",
+        ""
+    ],
+    [
+        "14) Which of the following decides if a function that is declared inline is indeed going to be treated inline in the executable code ?",
+        "a) Compiler",
+        "b) Linker",
+        "c) Loader",
+        "d) Preprocessor",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "15) At what point of time a variable comes into existence in memory is determined by its",
+        "a)scope",
+        "b) storage class",
+        "c) data type",
+        "d) all of the above",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "16)Which of the following cannot be declared static?",
+        "a)Class",
+        "b) Objective",
+        "c) Functions",
+        "d) Member variables",
+        ""
+    ],
+    [
+        "17) The order in which operands are evaluated in an expression is predictable if the operator is",
+        "a) *",
+        "b) +",
+        "c)%",
+        "d) &amp;&amp;",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "18) Overloading is otherwise called as",
+        "a) virtual polymorphism",
+        "b) transient polymorphism",
+        "c) pseudo polymorphism",
+        "d) ad-hoc polymorphism",
+        "View AnswerOption \u2013 d"
+    ]
+]

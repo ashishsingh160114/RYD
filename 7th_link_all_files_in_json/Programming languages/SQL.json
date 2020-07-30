@@ -1,0 +1,100 @@
+[
+    [
+        "1) Which of the following group function ignore NULL values?",
+        "a)MAX",
+        "b) COUNT",
+        "c) SUM",
+        "d) COUNT (*)",
+        "View AnswerOption \u2013 a,b,c)",
+        ""
+    ],
+    [
+        "2) From the following combinations of wildcard characters, choose those that are equivalent.",
+        "a) %",
+        "b) _%",
+        "c)%_",
+        "d) _ _",
+        "View AnswerOption \u2013 b,c)",
+        ""
+    ],
+    [
+        "3) In SQL, 10/NULL will evaluate to",
+        "a) FALES",
+        "b) \u2013 1",
+        "c) NULL",
+        "d) 10",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "4) Which of the following must enclosed in double quote?",
+        "a) Dates",
+        "b) Column Alias",
+        "c) Strings",
+        "d) All of these",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "5) Which of the following combinations of wildcard characters has the same meaning as the wildcard character %?",
+        "a) %%",
+        "b) _%",
+        "c) %_ ",
+        "d) _ _",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "6) Which of the following SQL commands can be used to add data to a database table?",
+        "a) ADD",
+        "b) UPDATE",
+        "c) APPEND",
+        "d) INSERT",
+        "View AnswerOption \u2013 d)",
+        "8) The WHERE clause  WHERE city LIKE %\\ _%b cannot display",
+        "a) ab",
+        "b) abb",
+        "c) a_b",
+        "d) a _%b",
+        "9) Which of the following SQL commands can be used to modify existing data in a database table?",
+        "a) MODIFY",
+        "b) UPDATE",
+        "c) CHANGE",
+        "d) NEW",
+        "View AnswerOption \u2013 b)",
+        "10) Almost all the DATE functions return a value of data type DATE, except",
+        "a) MONTHS _ BETWEEN",
+        "b) ROUND",
+        "c) NEXT _ DAY",
+        "d) TRUNC",
+        "View AnswerOption \u2013 a"
+    ],
+    [
+        ""
+    ],
+    [
+        "8) The WHERE clause  WHERE city LIKE %\\ _%b cannot display",
+        "a) ab",
+        "b) abb",
+        "c) a_b",
+        "d) a _%b",
+        ""
+    ],
+    [
+        "9) Which of the following SQL commands can be used to modify existing data in a database table?",
+        "a) MODIFY",
+        "b) UPDATE",
+        "c) CHANGE",
+        "d) NEW",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "10) Almost all the DATE functions return a value of data type DATE, except",
+        "a) MONTHS _ BETWEEN",
+        "b) ROUND",
+        "c) NEXT _ DAY",
+        "d) TRUNC",
+        "View AnswerOption \u2013 a"
+    ]
+]

@@ -1,0 +1,165 @@
+[
+    [
+        "1) In the context of data warehousing, data map or data about data is known as .",
+        "a) tuple",
+        "b) attribute",
+        "c) metadata",
+        "d) teradata",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "2) Which of the following normal form deals with the anomaly of multivalue dependency?",
+        "a) 1NF",
+        "b) 2NF",
+        "c) 4NF",
+        "d) 5NF",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "3) Which of the following normal form deals with the repeating group anomaly?",
+        "a) 1NF",
+        "b) 2NF",
+        "c) 4NF",
+        "d) 5NF",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "4)  is a database language used to define data structures in SQL?",
+        "a) Sybase",
+        "b) Oracle",
+        "c) DDL",
+        "d) MySQL",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "5) The  is a database file that contains metadata.",
+        "a) data index",
+        "b) data repository",
+        "c) data dictionary",
+        "d) none",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "6)Which of the following is not the state of a transaction in the database?",
+        "a) Active",
+        "b) Committed",
+        "c) Terminated",
+        "d) Nullified",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "7) The  file saves the recovery scenario in Quick Test Professional (QTP) environment",
+        "a) QRS",
+        "b) JPEG",
+        "c) DOC",
+        "d) TSR",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "8) Which of the following is not a command is SQL?",
+        "a) WHERE",
+        "b) ORDER BY",
+        "c) REMOVE",
+        "d) SELECT",
+        "View AnswerOption \u2013 c)",
+        ""
+    ],
+    [
+        "9) How should we traverse an oracle database to retrieve a row in the quickest possible time?",
+        "a) Full table scan",
+        "b) Unique index",
+        "c) Primary key",
+        "d) Table access by row id",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "10) Which of the following is a concurrency control protocol?",
+        "a) Locked-based protocol",
+        "b) two-phase locking protocol",
+        "c) Timestamp ordering protocol",
+        "d) all",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "11) Which of the following normal forms deals with the anomaly of partial functional dependency on the composite key?",
+        "a) 1NF",
+        "b) 2NF",
+        "c) 4NF",
+        "d) 5NF",
+        "View AnswerOption \u2013 b)",
+        ""
+    ],
+    [
+        "12)  represents the structure of the database in a formal language acceptable by the DBMS.",
+        "a) Database schema",
+        "b) ER diagram",
+        "c) Database table",
+        "d) None",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "13) Which of the following statements are used to create indexes in the database?",
+        "a) CREATE INDEX",
+        "b) BUILD INDEX",
+        "C) WRITE INDEX",
+        "d) None",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "14)Which of the following is a database recovery technique?",
+        "a) Check-pointing",
+        "b) Transaction rollback",
+        "c) Shadow paging",
+        "d) All",
+        "View AnswerOption \u2013 d)",
+        ""
+    ],
+    [
+        "15)Which of the following is a foreing key constraint?",
+        "a)Referential integrity",
+        "b) Domain integrity",
+        "d) Entity integrity",
+        "d) All",
+        "View AnswerOption \u2013 a)",
+        ""
+    ],
+    [
+        "16) Which of the following trains are important to select a primary key?",
+        "a) Unique",
+        "b) Not Null",
+        "c) Fully functional dependency ",
+        "d) Indexed",
+        "e) All",
+        "View AnswerOption \u2013 e)",
+        ""
+    ],
+    [
+        "17) What are various types of DBMS?",
+        "a) ORBDMS",
+        "b) Client server DBMS",
+        "c) Distributed DBMS",
+        "d) OODBMS",
+        "e) All",
+        "View AnswerOption \u2013 e)",
+        ""
+    ],
+    [
+        "18) Which of the following are the types of integrity constraints enforced by RDBMS?",
+        "a) Entity integrity",
+        "b) Domain integrity",
+        "c) Referential integrity",
+        "d) All",
+        "View AnswerOption \u2013 d"
+    ]
+]

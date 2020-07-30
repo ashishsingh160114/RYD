@@ -1,0 +1,136 @@
+[
+    [
+        "1)If a relation scheme is in BSNF then it is also in",
+        "a) First normal form",
+        "b) Second normal form",
+        "c)Third normal form",
+        "d) Not in any normal form",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "2)Attribute of one table matching to the primary key of other table, is called as",
+        "a) foreign key",
+        "b) secondary key",
+        "c) candidate key",
+        "d) composite key",
+        "View AnswerOption \u2013 a.",
+        ""
+    ],
+    [
+        "3)Ascending order of data hierarchy is",
+        "a) bit-&gt;byte-&gt;record-&gt;field-&gt;file-&gt;database",
+        "b) bit-&gt;byte-&gt;field-&gt;record-&gt;file-&gt;database",
+        "c) byte-&gt;bit-&gt;field-&gt;record-&gt;file-&gt;database",
+        "c) byte-&gt;bit-&gt;field-&gt;file-&gt;record-&gt;database",
+        "View AnswerOption \u2013 B.",
+        ""
+    ],
+    [
+        "4)Non procedural query language can be related with",
+        "a) Function dependency",
+        "b) B tree",
+        "c) Domain calculus",
+        "d) Relational algebric operators",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "5)Which command is used to set a link between two database files",
+        "a) JOIN",
+        "b) UPDATE",
+        "c) BROWSE",
+        "d) SET RELATION",
+        "View AnswerOption \u2013 d.",
+        ""
+    ],
+    [
+        "6) Which among following contains a complete record of all activity that affected the contents of a database during a creation period of time",
+        "a) report writer",
+        "b) query language",
+        "c) DML",
+        "d) transaction log",
+        "View AnswerOption \u2013 d.",
+        ""
+    ],
+    [
+        "7) Which among following is not a relational database",
+        "a)dBase IV",
+        "b) 4th Dimention",
+        "c) FoxPro",
+        "d) Reflex",
+        "View AnswerOption \u2013 d.",
+        ""
+    ],
+    [
+        "8) Data dictionary is a special file that contains",
+        "a) the names of all fields in all files",
+        "b) the data types of all fields of all files",
+        "c) Both of above",
+        "d) None of above",
+        "View AnswerOption \u2013 b.",
+        ""
+    ],
+    [
+        "9) In context of database DML Means",
+        "a) Data Multiplication Line",
+        "b) Data Manupulation Language",
+        "c) Data Method Limit",
+        "d) Data Merit Logic",
+        "View AnswerOption \u2013 b.",
+        ""
+    ],
+    [
+        "10) Data dictionary tell DBMS",
+        "a) what files are in the database",
+        "b) what attributes are processed by data",
+        "c) what these files contain",
+        "d) all of above",
+        "View AnswerOption \u2013 d.",
+        ""
+    ],
+    [
+        "11)Non procedural query language can be related with",
+        "a) Function dependency",
+        "b) B tree",
+        "c) Domain calculus",
+        "d) Relational algebric operators",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "12) The distinguishable parts of a record are called",
+        "a) files",
+        "b) data",
+        "c) fields",
+        "d) formats",
+        "View AnswerOption \u2013 c.",
+        ""
+    ],
+    [
+        "13)The logical structure with one to many relationships is a",
+        "a) network",
+        "b) tree",
+        "c) chain",
+        "d) relational",
+        "View AnswerOption \u2013 b.",
+        ""
+    ],
+    [
+        "14) Embedded pointer provides",
+        "a) a secondary access path",
+        "b) a physical record key",
+        "c) an inverted index",
+        "d) all of above",
+        "View AnswerOption \u2013 a.",
+        ""
+    ],
+    [
+        "15)RAID configurations of a disk are used to provide",
+        "a) fault tolerance",
+        "b) high speed",
+        "c) high data density",
+        "c) none of above",
+        "View AnswerOption \u2013 a."
+    ]
+]
