@@ -1,0 +1,118 @@
+[
+    [
+        "1) A d.c circuit usually has ___________ as the load.",
+        "a) resistance",
+        "b) inductance",
+        "c) capacitance",
+        "d) both inductance and capacitance",
+        "Answer : a",
+        ""
+    ],
+    [
+        "2) An external resistance R is connected to a cell of internal resistance r. The maximum current flows in the external resistance when",
+        "a) R&gt;r",
+        "b) R &gt;r",
+        "c) R=r",
+        "d) any other value of R",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3) Given three equal resistances. How many combinations of these three resistances can be made?",
+        "a)three",
+        "b) four",
+        "c) five",
+        "d) two",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) Kirchhoffs voltage law deals with",
+        "a) conservation of energy",
+        "b) conservation of charge",
+        "c) conservation of momentum",
+        "d) conservation of angular momentum",
+        "Answer : a",
+        ""
+    ],
+    [
+        "5) An ordinary dry cell can deliver a current of about",
+        "a) 3 A",
+        "b) 2 A",
+        "c) 1/8 A",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "6) For the circuit shown in Fig. 2.63, the power dissipated in G1 is",
+        "a) 50 mW",
+        "b) 25 mW",
+        "c) 100 mW",
+        "d) 125 mW",
+        "Answer : a",
+        ""
+    ],
+    [
+        "7) The power dissipated in a resistor in terms of its conductance G and current I through it is",
+        "a) I2G",
+        "b) I2/G",
+        "c) G2/I",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "8) The total conductance of two 0.1 conductances in series is",
+        "a) 0.5 S",
+        "b) 0.2 S",
+        "c) 1 S",
+        "d) 0.05 S",
+        "Answer : d",
+        ""
+    ],
+    [
+        "9) Conductance can be",
+        "a) positive only",
+        "b) negative only",
+        "c) positive or negative",
+        "d) information incomplete",
+        "Answer : a",
+        ""
+    ],
+    [
+        "10) A charge of 10mC flows through a cross section 2.5 mm2 normally in 2 seconds. The current is",
+        "a) 25 mA",
+        "b) 5 mA",
+        "c) 20mA",
+        "d) 4Ma",
+        "Answer : b",
+        ""
+    ],
+    [
+        "11) When a d.c battery of e.m.f. E and internal resistance r delivers maximum power to an external resistance R, the ratio r/R is",
+        "a) 1:1",
+        "b) 2:1",
+        "c) 1:2",
+        "d) 1:1/2",
+        "Answer : a",
+        ""
+    ],
+    [
+        "12) A 200W and 100 W bulb both meat for operation at 220 V are connected in series. When connected to a 220 V supply, the power consumed by them is",
+        "a) 66 W",
+        "b) 33 W",
+        "c) 100 W",
+        "d) 300 W",
+        "Answer : a",
+        ""
+    ],
+    [
+        "13) In the above question, if the galvanometer is open circuited, the current in the various resistors will",
+        "a) not change",
+        "b) decrease",
+        "c) increase",
+        "d) cannot say",
+        "Answer : a  "
+    ]
+]

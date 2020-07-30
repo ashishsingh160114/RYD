@@ -1,0 +1,172 @@
+[
+    [
+        "1) The advantage of would rotor motor is that .",
+        "a) it is inexpensive",
+        "b) it requires less maintenance",
+        "c) external resistance can be inserted in the rotor circuit",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "2)The full-load slip of a 3-phase induction motor ranges from ",
+        "a) 10% to 20%",
+        "b) 20% to 30%",
+        "c) 2% to 5%",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3) In a 3-phase induction motor, the rotor speed is . The synchronous speed.",
+        "a) greater than",
+        "b) smaller than",
+        "c) equal to",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) When the rotor of a 3-phase induction motor is blocked, the slip is ..",
+        "a) zero",
+        "b) 0.5",
+        "c) 0.1",
+        "d) 1",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5) 3-phase wound rotor motors are also called .motors.",
+        "a) synchronous",
+        "b) slip ring",
+        "c) series",
+        "d) commutator",
+        "Answer : b",
+        ""
+    ],
+    [
+        "6) The stator of a 3-phase induction motor produces  magnetic filed.",
+        "a) steady",
+        "b) rotating",
+        "c) alternating",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "7) If a 4-pole induction motor has a synchronous speed of 1500 r.p.m., then, supply frequency is ..",
+        "a) 50 Hz",
+        "b) 25 Hz",
+        "c) 60 Hz",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "8) The air-gap between stator and rotor of a 3-phase induction motor ranges from .",
+        "a) 2 cm to 4 cm",
+        "b) 0.4 mm to 4 mm",
+        "c) 1 cm to 2 cm",
+        "d) 4 cm to 6 cm",
+        "Answer : b",
+        ""
+    ],
+    [
+        "9) At no-load, the rotor core loss of a 3-phase induction motor is ",
+        "a) large",
+        "b) small",
+        "c) practically zero",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "10) In the slip of induction motor increases, then, current in the stator winding ..",
+        "a) is increased",
+        "b) is decreased",
+        "c) remains unchanged",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "11) The approximate efficiency of a 3-phase, 50Hz, 4-pole induction motor running at 1350 r.p.m. is ",
+        "a) 90%",
+        "b) 40%",
+        "c) 65%",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "12) For higher efficiency of 3-phase induction motor, the slip should be ..",
+        "a) large",
+        "b) very large",
+        "c) as small as possible",
+        "d) 1",
+        "Answer : c",
+        ""
+    ],
+    [
+        "13) In an induction motor, the ratio of rotor Cu loss and rotor input is given by",
+        "a) s",
+        "b) 1/s",
+        "c) 1  s",
+        "d) s/1  s",
+        "Answer : a",
+        ""
+    ],
+    [
+        "14) The no-load speed of an induction motor depends upon",
+        "a) the supply frequency",
+        "b) the number of its poles",
+        "c) the maximum flux/phase",
+        "d) only (i) and (ii)",
+        "Answer : d",
+        ""
+    ],
+    [
+        "15) The supply voltage to an induction motor is reduced by 1%. By what percentage, approximately, will the maximum torque decrease?",
+        "a) 20%",
+        "b) 50%",
+        "c) 40%",
+        "d) 10%",
+        "Answer : a",
+        ""
+    ],
+    [
+        "16) In an induction motor, slip depends on ",
+        "a) supply frequency",
+        "b) rotor input power",
+        "c) rotor copper loss",
+        "d) (ii) and (iii)",
+        "Answer : d",
+        ""
+    ],
+    [
+        "17) The operation of an induction motor is based on",
+        "a) Lenzs law",
+        "b) Amperes law",
+        "c) mutual induction",
+        "d) self induction",
+        "Answer : c",
+        ""
+    ],
+    [
+        "18) The frequency of rotor current in a 6-pole, 50 Hz, 3-phase induction motor running at 950 r.p.m. is",
+        "a) 2.5 Hz",
+        "b) 1.5 Hz",
+        "c) 5 Hz",
+        "d) 0.05 Hz",
+        "Answer : a",
+        ""
+    ],
+    [
+        "19) If the speed of 3-phase induction motor increases, its efficiency",
+        "a) decreases",
+        "b) increases",
+        "c) remains the same",
+        "d) insufficient data",
+        "Answer : b "
+    ]
+]

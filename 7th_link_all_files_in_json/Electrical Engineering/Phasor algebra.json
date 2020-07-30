@@ -1,0 +1,90 @@
+[
+    [
+        "1) A current of 3 + j 4 amperes is flowing through a circuit. The magnitude of current is ",
+        "a) 7 A",
+        "b) 5 A",
+        "c) 1 A",
+        "d) 1.33 A",
+        "Answer : b",
+        ""
+    ],
+    [
+        "2) In the complex number 4 + j 7, 7 is called the  component.",
+        "a) real",
+        "b) imaginary",
+        "c) in-phase",
+        "d) quadrature",
+        ""
+    ],
+    [
+        "3) The conjugate of -4 + j 3 is ",
+        "a) 4  j 3",
+        "b) -4  j 3",
+        "c) 4 + j 3",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) For addition or subtraction of phasors, we use .. form.",
+        "a) polar",
+        "b) rectangular",
+        "c) trigonometrical",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "5) The reciprocal of j is",
+        "a) j",
+        "b) j",
+        "c) j2",
+        "d) none of above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "6) In the above problem, circuit power factor is",
+        "a) 0.756 lag",
+        "b) 0.525 lead",
+        "c) 0.625 lag",
+        "d) 0.852 lag",
+        "Answer : a",
+        ""
+    ],
+    [
+        "7) In the above question, the value of inductance is",
+        "a) 0.25 H",
+        "b) 0.08 H",
+        "c) 1.25 H",
+        "d) 0.318 H",
+        "Answer : d",
+        ""
+    ],
+    [
+        "8) In the above question, what is the power factor of the circuit ?",
+        "a) 0.525 leading",
+        "b) 0.803 lagging",
+        "c) 0.625 leading",
+        "d) 0.325 lagging",
+        "Answer : b",
+        ""
+    ],
+    [
+        "9) In the above question, what is the circuit power factor ?",
+        "a) 0.707 lag",
+        "b) 0.848 lag",
+        "c) 0.515 lag",
+        "d) 0.432 lag",
+        "Answer : b",
+        ""
+    ],
+    [
+        "10) The a.c. power in a load that is conserved is",
+        "a) real",
+        "b) reactive",
+        "c) apparent",
+        "d) all above",
+        "Answer : d"
+    ]
+]

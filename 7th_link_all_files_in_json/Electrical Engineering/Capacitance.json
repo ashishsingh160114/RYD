@@ -1,0 +1,82 @@
+[
+    [
+        "1) 64 drops of radius \u2018r\u2019 combine to form a bigger drop of radius R. The ratio of capacitances of bigger to smaller drop is",
+        "a) 1 : 4",
+        "b) 2 : 1",
+        "c) 1 : 2",
+        "d) 4 : 1",
+        "Answer : d",
+        ""
+    ],
+    [
+        "2) A capacitor of 100 pF is charged to 100 V. The charge accumulated on the plates of the capacitor is",
+        "a) 106C",
+        "b) 6 x 10-2 C",
+        "c) 10-8C",
+        "d) 6 x 10-4 C",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3) The charging of a capacitor through a resistance follows",
+        "a) linear law",
+        "b) square law",
+        "c) exponential law",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "4) In a variable capacitor, the dielectric used is generally",
+        "a) air",
+        "b) solid",
+        "c) electrolyte",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "5) A gang capacitor is a variable capacitor in which capacitance is changed by changing ",
+        "a) distance between plates",
+        "b) plate area",
+        "c) both a and b",
+        "d) dielectric",
+        "Answer : b",
+        ""
+    ],
+    [
+        "6) An RC series circuit is connected to a 300 V d.c source. The voltage across the capacitor after 1 time constant is",
+        "a) 200 V",
+        "b) 126.5 V",
+        "c) 170.2 V",
+        "d) 189.6 V",
+        "Answer : d",
+        ""
+    ],
+    [
+        "7) A trimmer is a variable capacitor in which capacitance is changed by changing",
+        "a) distance between plates",
+        "b) plate area",
+        "c) both a and b",
+        "d) dielectric",
+        "Answer : a",
+        ""
+    ],
+    [
+        "8) When the total charge in a capacitor is doubled, the energy stored",
+        "a) remains the same",
+        "b) is doubled",
+        "c) is halved",
+        "d) is quadrupled",
+        "Answer : d",
+        ""
+    ],
+    [
+        "9) Two indentical capacitors are connected in parallel and changed to a potential of V. They are separated and then connected in series. The p.d. across series combination is",
+        "a) V",
+        "b) 4V",
+        "c) 3V",
+        "d) 2V",
+        "Answer : d  "
+    ]
+]

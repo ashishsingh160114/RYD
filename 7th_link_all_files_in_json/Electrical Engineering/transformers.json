@@ -1,0 +1,136 @@
+[
+    [
+        "1) A transformer will work on.",
+        "a) a.c only",
+        "b) d.c only",
+        "c) a.c as well as d.c",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "2) A transformer does not posses ..changing property.",
+        "a) impedance",
+        "b) voltage",
+        "c) current",
+        "d) power",
+        "Answer : d",
+        ""
+    ],
+    [
+        "3) An ideal transformer is one which .",
+        "a) has no losses and leakage reactance",
+        "b) does not work",
+        "c) has same number of primary and secondary turns",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "4) The primary leakage flux links ",
+        "a) primary winding only",
+        "b) secondary winding only",
+        "c) both primary and secondary windings",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "5) The amount of copper in the primary is . That of secondary.",
+        "a) about the same as",
+        "b) greater than",
+        "c) smaller than",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "6) When load on a transformer is increased, the eddy current .",
+        "a) is increased",
+        "b) remains unchanged",
+        "c) is decreased",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "7) The approximate efficiency of a large transformer is ",
+        "a) 65%",
+        "b) 50%",
+        "c) 80%",
+        "d) 95%",
+        "Answer : d",
+        ""
+    ],
+    [
+        "8) A transformer has 200 W as iron loss at full-load. The iron loss at half full-load will be .",
+        "a) 50 W",
+        "b) 100 W",
+        "c) 400 W",
+        "d) 200 W",
+        "Answer : d",
+        ""
+    ],
+    [
+        "9) Transformers having rating less than 5 k VA are generally..",
+        "a) oil cooled",
+        "b) natural cooled",
+        "c) water cooled",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "10) The secondary load impedance of a step-up transformer is Zs the primary impedance Zp will be",
+        "a) equal to Zs",
+        "b) greater than Zs",
+        "c) less than Zs",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "11) The power efficiency of a lighting transformer is always..its all-day efficiency.",
+        "a) equal to",
+        "b) higher than",
+        "c) less than",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "12) What is the approximate efficiency of large transformers?",
+        "a) 65%",
+        "b) 75%",
+        "c) 85%",
+        "d) 95%",
+        "Answer : d",
+        ""
+    ],
+    [
+        "13) The inductive reactance of a transformer depends on",
+        "a) e.m.f.",
+        "b) m.m.f.",
+        "c) leakage flux",
+        "d) magnetic flux",
+        "Answer : c",
+        ""
+    ],
+    [
+        "14) How are transformers generally cooled for installations rated at less than 5 kVA?",
+        "a) oil cooled",
+        "b) air cooled",
+        "c) water cooled",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "15) The transformer that does not provide electric isolation is",
+        "a) power transformer",
+        "b) autotransformer",
+        "c) current transformer",
+        "d) potential transformer",
+        "Answer : b  "
+    ]
+]

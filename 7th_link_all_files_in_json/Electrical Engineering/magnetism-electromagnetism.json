@@ -1,0 +1,136 @@
+[
+    [
+        "1)The magnetic material used in permanent magnets is",
+        "a) iron",
+        "b) soft steel",
+        "c) nickel",
+        "d) hardened steel",
+        "Answer : d",
+        ""
+    ],
+    [
+        "2) The relative permeability of iron is of the order of",
+        "a) zero",
+        "b) 104",
+        "c) 1",
+        "d) 10-4",
+        "Answer : b",
+        ""
+    ],
+    [
+        "3) Which of the following is more suitable for the core of an electromagnet?",
+        "a) soft iron",
+        "b) air",
+        "c) steel",
+        "d) tungsten steel",
+        "Answer : a",
+        ""
+    ],
+    [
+        "4) Magnetic flux passes more readily through",
+        "a) air",
+        "b) wood",
+        "c) vacuum",
+        "d) iron",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5) The magnetic material used in temporary magnets is",
+        "a) hardened steel",
+        "b) cobalt steel",
+        "c) soft iron",
+        "d) tungsten steel",
+        "Answer : c",
+        ""
+    ],
+    [
+        "6) Magnetic flux density is a",
+        "a) vector quantity",
+        "b) scalar quantity",
+        "c) phasor",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "7) When a charged particle moves through a magnetic field, it suffers a change in",
+        "a) direction",
+        "b) speed",
+        "c) energy",
+        "d) no change",
+        "Answer : a",
+        ""
+    ],
+    [
+        "8) The resistance of an ideal ammeter is",
+        "a) zero",
+        "b) high",
+        "c) infinite",
+        "d) 10",
+        "Answer : a",
+        ""
+    ],
+    [
+        "9) The resistance of an ideal voltmeter is",
+        "a) zero",
+        "b) infinite",
+        "c) very low",
+        "d) data incomplete",
+        "Answer : b",
+        ""
+    ],
+    [
+        "10) In the above question, the momentum of the particle will",
+        "a) be zero",
+        "b) change",
+        "c) not change",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "11) A voltmeter, an ammeter and a cell are connected in series. The ammeter will",
+        "a) be burnt",
+        "b) show almost zero",
+        "c) give large value",
+        "d) cannot say",
+        "Answer : b",
+        ""
+    ],
+    [
+        "12) The range of an ammeter can be",
+        "a) increased only",
+        "b) decreased only",
+        "c) increased or decreased",
+        "d) information incomplete",
+        "Answer : a",
+        ""
+    ],
+    [
+        "13) A charge will experience a force in an electric field when it is",
+        "a) stationary",
+        "b) moving",
+        "c) stationary or moving",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "14) A direct current is sent through a helical spring. The spring tends",
+        "a) to get shorter",
+        "b) to rotate about the axis",
+        "c) to get longer",
+        "d) to move eastward",
+        "Answer : a",
+        ""
+    ],
+    [
+        "15) Magnetic field is caused by",
+        "a) stationary charge",
+        "b) a moving positive charge only",
+        "c) a moving negative charge only",
+        "d) moving positive and negative charges both",
+        "Answer : d "
+    ]
+]

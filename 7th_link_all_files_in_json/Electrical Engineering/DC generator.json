@@ -1,0 +1,154 @@
+[
+    [
+        "1) The brush voltage drop in a d.c. machine is about ",
+        "a) 0.1 V",
+        "b) 10 V",
+        "c) 2 V",
+        "d) 20 V",
+        "Answer : c",
+        ""
+    ],
+    [
+        "2) Small d.c. machines generally have poles.",
+        "a) 4",
+        "b) 6",
+        "c) 2",
+        "d) 8",
+        "Answer : c",
+        ""
+    ],
+    [
+        "3) .. d.c. machines are most common.",
+        "a) 2-pole",
+        "b) 4-pole",
+        "c) 6-pole",
+        "d) 8-pole",
+        "Answer : b",
+        ""
+    ],
+    [
+        "4) A triplex wave winding will have  parallel paths.",
+        "a) 6",
+        "b) 2",
+        "c) 4",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "5) High-voltage d.c. machines use .. winding.",
+        "a) lap",
+        "b) wave",
+        "c) either lap or wave",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "6) The yoke of a d.c. machine carries ,.. pole flux.",
+        "a) the",
+        "b) one-half of the",
+        "c) two times the",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "7) The commutator pitch for a simplex lap winding is equal to .",
+        "a) number of poles of the machine",
+        "b) pole pairs",
+        "c) 1",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "8) The greatest percentage of heat loss in a d.c. machine is due to .",
+        "a) eddy current loss",
+        "b) hysteresis loss",
+        "c) copper loss",
+        "d) frictional loss",
+        "Answer : c",
+        ""
+    ],
+    [
+        "9) The armature conductors of 6-pole, lap wound d.c. generator are divided into",
+        "a) 2 parallel paths",
+        "b) 4 parallel paths",
+        "c) 3 parallel paths",
+        "d) 6 parallel paths",
+        "Answer : d",
+        ""
+    ],
+    [
+        "10) Hysteresis loss in a d.c. machine is directly proportional to .",
+        "a) speed",
+        "b) (speed)2",
+        "c) (speed)6",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "11) The greatest percentage of heat loss in a d.c. machine is due to ,..",
+        "a) eddy current loss",
+        "b) hysteresis loss",
+        "c) copper loss",
+        "d) frictional loss",
+        "Answer : c",
+        ""
+    ],
+    [
+        "12) The filed winding of a d.c. shunt machine usually carries  of the rated current of the machine.",
+        "a) 2% to 5%",
+        "b) 15 % to 20%",
+        "c) more than 20%",
+        "d) less than 0.5%",
+        "Answer : a",
+        ""
+    ],
+    [
+        "13) The commutator of a d.c. generator acts as",
+        "a) an amplifier",
+        "b) a rectifier",
+        "c) a load",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "14) The armature copper loss in a d.c. generator is a",
+        "a) constant loss",
+        "b) variable loss",
+        "c) stray loss",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "15) The ideal commutation in a coil is not possible because each coil has",
+        "a) resistance",
+        "b) inductance",
+        "c) capacitance",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "16) The commutator in a d.c. machine can convert",
+        "a) a.c. to d.c.",
+        "b) d.c. to a.c.",
+        "c) both (i) and (ii)",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "17) Flemings right hand rule is applicable to",
+        "a) d.c. motor",
+        "b) alternator",
+        "c) transformer",
+        "d) d.c. generator",
+        "Answer : d  "
+    ]
+]

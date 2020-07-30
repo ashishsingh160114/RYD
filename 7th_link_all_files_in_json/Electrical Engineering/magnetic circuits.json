@@ -1,0 +1,171 @@
+[
+    [
+        "1) The B-H curve for __________ will be a straight line passing through the origin",
+        "a) air",
+        "b) soft iron",
+        "c) hardened steel",
+        "d) silicon steel",
+        "Answer : a",
+        ""
+    ],
+    [
+        "2) For 1 m3 of material, the hysteresis loss will be minimum for",
+        "a) soft iron",
+        "b) steel",
+        "c) cobalt steel",
+        "d) silicon steel",
+        "Answer : d",
+        ""
+    ],
+    [
+        "3) The SI unit reluctance is",
+        "a) AT/Wb",
+        "b) AT/m",
+        "c) AT",
+        "d) N/Wb",
+        "Answer : a",
+        ""
+    ],
+    [
+        "4) The value of leakage co-efficient for electrical machines is usually about.",
+        "a) 0.5 to 1",
+        "b) 4 to 10",
+        "c) above 10",
+        "d) 1.15 to 1.25",
+        "Answer : d",
+        ""
+    ],
+    [
+        "5) The unit of relative permeability is",
+        "a) AT/m",
+        "b) N/Wb",
+        "c) AT/m2",
+        "d) a number",
+        ""
+    ],
+    [
+        "6) At high frequencies the material used for transformer cores is",
+        "a) silicon iron",
+        "b) soft iron",
+        "c) ferrite",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "7) Out of the following materials, the area of hysteresis loop will be least for",
+        "a) wrought iron",
+        "b) hard steel",
+        "c) silicon steel",
+        "d) soft steel",
+        "Answer : c",
+        ""
+    ],
+    [
+        "8) The magnetic material used for  should have a large hysteresis loop.",
+        "a) transformers",
+        "b) d.c generators",
+        "c) a.c motors",
+        "d) permanent magnets",
+        "Answer : d",
+        ""
+    ],
+    [
+        "9) The B-H curve of a ferromagnetic material is",
+        "a) linear",
+        "b) non-linear",
+        "c) circle",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "10) The material used for the core of a good relay should have  hysteresis loop.",
+        "a) large",
+        "b) very large",
+        "c) narrow",
+        "d) none of the above",
+        "Answer : c",
+        ""
+    ],
+    [
+        "11) A permanent magnet should have",
+        "a) low remanence",
+        "b) high remanence",
+        "c) zero remanence",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "12) The relative permeability of air is",
+        "a) 0",
+        "b) 1",
+        "c) infinite",
+        "d) none of the above",
+        "Answer : b",
+        ""
+    ],
+    [
+        "13) The curie tempareture of iron is",
+        "a) 2000C",
+        "b) 4300C",
+        "c) 7000C",
+        "d) 5500C",
+        "Answer : c",
+        ""
+    ],
+    [
+        "14) In practical magnetic circuits, the air-gap is kept",
+        "a) very small",
+        "b) large",
+        "c) very large",
+        "d) none of the above",
+        "Answer : a",
+        ""
+    ],
+    [
+        "15) An electromagnet uses",
+        "a) soft iron core",
+        "b) steel core",
+        "c) nickel core",
+        "d) copper core",
+        "Answer : a",
+        ""
+    ],
+    [
+        "16) The magnetic potential difference in a magnetic circuit is given by",
+        "a) H/I",
+        "b) B X I",
+        "c) HI",
+        "d) BI X h",
+        "Answer : c",
+        ""
+    ],
+    [
+        "17) The hysteresis loop of a material that cannot be magnetized easily is",
+        "a) narrow",
+        "b) very narrow",
+        "c) wide",
+        "d) none of the abve",
+        "Answer : c",
+        ""
+    ],
+    [
+        "18) The hysteresis loop is nearly square for ",
+        "a) iron core",
+        "b) steel core",
+        "c) ferrite core",
+        "d) wrought iron core",
+        "Answer : c",
+        ""
+    ],
+    [
+        "19) Due to fringing at the air gaps in a magnetic circuit, the effective area of the air gaps is",
+        "a) increased",
+        "b) decreased",
+        "c) same",
+        "d) none of the above",
+        "Answer : a "
+    ]
+]
