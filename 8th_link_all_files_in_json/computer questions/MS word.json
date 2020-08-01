@@ -1,0 +1,541 @@
+[
+    [
+        "Q.1. There can be many ways to insert page number in a document. Which of the following lets you insert page number?",
+        "(A) Page number from insert menu",
+        "(B) Page setup from file menu",
+        "(C) Footnote from Insert menu",
+        "(D) Both a &amp; c",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.2. Which is not data source component?",
+        "(A) mail merge toolbar",
+        "(B) header row",
+        "(C) data fields",
+        "(D) data records",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3. Which of the following is not the part of standard office suite?",
+        "(A) Word Processor",
+        "(B) Data base",
+        "(C) Image editor",
+        "(D) File manager",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4. Where can you find the Draw Table tool button?",
+        "(A) Standard toolbar",
+        "(B) Formatting toolbar",
+        "(C) Drawing toolbar",
+        "(D) Tables and Formatting toolbar",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.5.Which of the following option in file put down menu is used to close a MS Word document?",
+        "(A) Quit",
+        "(B) Close",
+        "(C) Exit",
+        "(D) New",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6. You need to jump to the next column breaking current column right at the cursor position. How can you break column?",
+        "(A) Pressing Ctrl+Enter",
+        "(B) Pressing Alt+Shit+Enter",
+        "(C) Break command form Insert menu",
+        "(D) Both b and c",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.7. Superscript, subscript, outline, emboss, engrave are known as",
+        "(A) Font styles",
+        "(B) font effects",
+        "(C) word art",
+        "(D) text effects",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.8. Shimmer, Sparkle text, Blinking background etc. are known as",
+        "(A) Font styles",
+        "(B) font effects",
+        "(C) word art",
+        "(D) text effects",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.9.The feature of word that automatically adjusts the amount of space between certain combination of characters so that an entire word looks more evenly spaced. What is that feature called?",
+        "(A) Spacing",
+        "(B) Scaling",
+        "(C) Kerning",
+        "(D) Positioning",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.10. Which of the following is not available in font spacing?",
+        "(A) Normal",
+        "(B) Loosely",
+        "(C) Condensed",
+        "(D) Expanded",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.11. Which of the following positing is not available for font on MS Word ?",
+        "(A) Normal",
+        "(B) Raised",
+        "(C) Lowered",
+        "(D) Cantered",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.12. What is the maximum scale percentage available in Scale drop down box?",
+        "(A) 500",
+        "(B) 200",
+        "(C) 100",
+        "(D) 90",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.13. Bold, italic, Regular are known as",
+        "(A) Font styles",
+        "(B) Font effects",
+        "(C) word art",
+        "(D) text effects",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.14. Uppercase on Change case dialog box and all caps on font dialog box both converts selected text into Capital Letters. Whats the difference between the two ?",
+        "(A) Both are same. They are only two different ways of capitalize text.",
+        "(B) it is faster to convert from change case than from font dialog box.",
+        "(C) Change Case makes conversion permanent but All Caps on Font can always be reverted",
+        "(D) All caps on font dialog box makes the change permanent where change case can be always reverted.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.15. If you need to hide some paragraphs, how can you do it?",
+        "(A) From Paragraph dialog box",
+        "(B) From Font dialog box",
+        "(C) From options Dialog box",
+        "(D) None of above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.16.Which of the following is the latest version of MS Word?",
+        "(A) Word 2000",
+        "(B) Word 2007",
+        "(C) Word 2010",
+        "(D) Word 2013",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.17. Changing the appearance of a document is called",
+        "(A) Proofing",
+        "(B) Editing",
+        "(C) Formatting",
+        "(D) All of above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.18. In a document what is the maximum number of columns that can be inserted in MS Word Table?",
+        "(A) 35",
+        "(B) 15",
+        "(C) 63",
+        "(D) 65",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.19. You can detect spelling and grammar errors by",
+        "(A) Press Shift + F7",
+        "(B) Press Ctrl + F7",
+        "(C) Press Alt + F7",
+        "(D) Press F7",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.20. A screen element of MS Word that is usually located below the title bar that provides categorized options is",
+        "(A) Menu mar",
+        "(B) Tool Bar",
+        "(C) Status Bar",
+        "(D) All of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.21. How many different positions can you set for drop cap?",
+        "(A) 1",
+        "(B) 3",
+        "(C) 4",
+        "(D) 6",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.22. How many ways you can save a document?",
+        "(A) 3",
+        "(B) 4",
+        "(C) 5",
+        "(D) 6",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.23. What is the maximum number of lines you can set for lines to drop box?",
+        "(A) 3",
+        "(B) 5",
+        "(C) 10",
+        "(D) 15",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.24. Single spacing in MS-WORD document causespoint line spacing ?",
+        "(A) 10",
+        "(B) 12",
+        "(C) 14",
+        "(D) 16",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.25. What is the default number of lines you can set for a drop cap?",
+        "(A) 3",
+        "(B) 10",
+        "(C) 15",
+        "(D) 20",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.26. What is the maximum number of lines you can set for a drop cap?",
+        "(A) 3",
+        "(B) 10",
+        "(C) 15",
+        "(D) 20",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.27. How many columns can you insert in a word document in maximum?",
+        "(A) 35",
+        "(B) 45",
+        "(C) 55",
+        "(D) 65",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.28. In a document what is the maximum number of columns that can be inserted in MS Word table?",
+        "(A) 35",
+        "(B) 15",
+        "(C) 63",
+        "(D) 65",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29. What is the maximum scale percentage available in Scale drop down box ?",
+        "(A) 500",
+        "(B) 200",
+        "(C) 100",
+        "(D) 90",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.30. What is the maximum font size you can apply for any character",
+        "(A) 163",
+        "(B) 1638",
+        "(C) 16038",
+        "(D) None of above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.31. Word, by, default, places a tab stop at every.mark on the ruler:",
+        "(A) .253",
+        "(B) .53",
+        "(C) .753",
+        "(D) 13",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.32. What is the default file extension for all word documents?",
+        "(A) .txts",
+        "(B) .word",
+        "(C) .docs",
+        "(D) .docx",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.33. The file type..indicates the file is a Word document.",
+        "(A) .msw",
+        "(B) .wor",
+        "(C) .wrd",
+        "(D) .doc",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.34. Which of the following button will allow you to add, delete, or change records in your Data Source?",
+        "(A) Data Source button",
+        "(B) Edit button",
+        "(C) Edit Data Source button",
+        "(D) Data Editing button",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.35. How much space in minimum must be provided between columns ?",
+        "(A) 03",
+        "(B) 0.53",
+        "(C) 13",
+        "(D) 1.53",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.36.What is the smallest width of a column?",
+        "(A) 03",
+        "(B) 0.53",
+        "(C) 13",
+        "(D) 1.53",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.37. By default, your document prints with:",
+        "(A) 1 inch top and bottom margins",
+        "(B) a portrait orientation",
+        "(C) 1.25 inches left and right margins",
+        "(D) all of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.38. Word is pre-set to use standard 8.5-by-11-inch paper with.margins.",
+        "(A) 1-inch left, right, top, and bottom",
+        "(B) 1.25-inch left, right, top, and bottom",
+        "(C) 1.25-inch left and right margins and 1-inch top and bottom",
+        "(D) 1-inch left and right margins and 1.25-inch top and bottom",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.39. What is the default left margin in Word 2010 document?",
+        "(A) 13",
+        "(B) 1",
+        "(C) 1.53",
+        "(D) 23",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.40. What is the smallest and largest font size available in Font Size tool on formatting toolbar?",
+        "(A) 8 and 72",
+        "(B) 8 and 64",
+        "(C) 12 and 72",
+        "(D) None of above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.41. What is the default font size of a new Word document based on Normal template in Word 2010?",
+        "(A) 10 pt",
+        "(B) 11 pt",
+        "(C) 14 pt",
+        "(D) None of above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.42. If you want to go to end of page, you have to press:",
+        "(A) End",
+        "(B) Ctrl + End",
+        "(C) Ctrl + Home",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.43. How will MS Word will respond in repeated word.",
+        "(A) A Red wavy line under the repeated word",
+        "(B) A Green wavy line under the repeated word",
+        "(C) A Blue wavy line under the repeated word",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.44. In mail merge operation which of the following might represent the main document ?",
+        "(A) A sales brochure",
+        "(B) A form letter",
+        "(C) A database of Names and Addresses",
+        "(D) All of above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.45. Pressing F8 key for three times selects",
+        "(A) a word",
+        "(B) a sentence",
+        "(C) a paragraph",
+        "(D) entire document",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.46. What do you call a collection of character and paragraph formatting commands?",
+        "(A) the defaults",
+        "(B) a template",
+        "(C) a style",
+        "(D) a boilerplate",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.47. What is a Document Outline View?",
+        "(A) A Preview in a full screen",
+        "(B) A preview with margins",
+        "(C) A view with a structure of heading at various levels",
+        "(D) A view with a structure of heading at various levels",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.48. Ctrl+Z",
+        "(A) Undo the last Action",
+        "(B) Redo the last Action",
+        "(C) Add the new page",
+        "(D) Paste the contents from clipboard",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.49. Thein the Resume Wizard dialog box indicates the wizard is ready to create the document.",
+        "(A) Start panel",
+        "(B) Address panel",
+        "(C) Add/Sort Heading panel",
+        "(D) Finish panel",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.50. What does Ctrl+=key effect?",
+        "(A) Superscript",
+        "(B) subscript",
+        "(C) All caps",
+        "(D) Shadow",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.51. The spike",
+        "(A) Allows you to combine text from several documents and then insert all the text into one document at on we time",
+        "(B) Allows you to edit auto text entries",
+        "(C) Allows you to format auto text entries",
+        "(D) All of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.52. The word wrap reature",
+        "(A) Automatically move text to the next line when necessary",
+        "(B) Appears at the bottom",
+        "(C) Allows you to type over text",
+        "(D) is the short horizontal line",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.53. How can you make the selected character superscripted",
+        "(A) Ctrl + =",
+        "(B) Ctrl + Shift + =",
+        "(C) Alt+Ctrl+Shift+=",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.54. When typing in a word field manually, what must you press to insert the codes braces?",
+        "(A) Ctrl + F6",
+        "(B) Ctrl + F9",
+        "(C) Alt + F11",
+        "(D) Shift + F12",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.55. What is the shortcut key to open the open dialog box?",
+        "(A) Ctrl+Alt+Enter",
+        "(B) Ctrl+shift+Enter",
+        "(C) Alt+Shift+Enter",
+        "(D) Alt+Space+Enter",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.56.Which key is used to increase left indent?",
+        "(A) Ctrl+I",
+        "(B) Ctrl+M",
+        "(C) Alt+I",
+        "(D) F10",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.57. When the same word is used in multiple locations or a word is used that was not quite appropriate, a thesaurus can be used to look up a (n)or a word similar in meaning.",
+        "(A) synonym",
+        "(B) homonym",
+        "(C) antonym",
+        "(D) metonym",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.58. How many different documents you can open at one time ?",
+        "(A) No more than three",
+        "(B) Only one",
+        "(C) As many as your computer memory will hold",
+        "(D) As many as your taskbar can display",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.59. Which of the following is the second step in creating a macro ?",
+        "(A) Start recording",
+        "(B) Using your mouse or keyboard, perform the task you want to automate",
+        "(C) Assign a keyboard shortcut to the macro",
+        "(D) Give the macro a name",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.60. When assigning a shortcut key to a symbol, you should always try to select a key or key combination that is:",
+        "(A) unassigned",
+        "(B) located on the ten-key pad section of your keyboard.",
+        "(C) assigned to another task",
+        "(D) from the same font family as the symbol.",
+        " Ans .  A "
+    ]
+]

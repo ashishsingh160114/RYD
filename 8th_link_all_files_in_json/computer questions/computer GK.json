@@ -1,0 +1,420 @@
+[
+    [
+        "Q.1. Which device is used to reproduce drawings using pens that are attached to movable arms?",
+        "(A) Plotter",
+        "(B) Light Pen",
+        "(C) Scanner",
+        "(D) Printer",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.2. 'Scitation' is the online host service of -",
+        "(A) American Institute of Physics",
+        "(B) University of Maryland",
+        "(C) Society for Industrial",
+        "(D) Oxford University",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3. Which set of rules is applicable for exchange of files over Internet?",
+        "(A) FTP/IP",
+        "(B) HTTP",
+        "(C) HTML",
+        "(D) HYPERLINK",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. When data changes in multiple lists and all lists are not updated, this causes",
+        "(A) data redundancy",
+        "(B) information overload",
+        "(C) duplicate data",
+        "(D) data inconsistency",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.5. A word in a web page that, when clicked, opens another document is called ___",
+        "(A) anchor",
+        "(B) hyperlink",
+        "(C) reference",
+        "(D) URL",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6. One Terabyte (1 TB) is equal to?",
+        "(A) 1028 GB",
+        "(B) 1012 GB",
+        "(C) 1000 GB",
+        "(D) 1024 GB",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.7. Which operating system is developed and used by Apple Inc?",
+        "(A) Windows",
+        "(B) Android",
+        "(C) iOS",
+        "(D) UNIX",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.8. Which of the following memories is an optical memory?    ",
+        "(A) Floppy Disk",
+        "(B) Bubble Memories",
+        "(C) CDROM",
+        "(D) Core Memories",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.9.Java was originally invented by      ",
+        "(A) Oracle",
+        "(B) Microsoft",
+        "(C) Novell",
+        "(D) Sun",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.10. Whose trademark is the operating system UNIX?    ",
+        "",
+        "(A) Motorola",
+        "(B) Microsoft",
+        "(C) BELL Laboratories",
+        "(D) AshtonTate",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.11.Random Access Memory (RAM) is which storage of device?",
+        "(A) Primay",
+        "(B) Secondary",
+        "(C) Teriary",
+        "(D) Off line",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.12.What is full form CMOS ?",
+        "(A) Content Metal Oxide Semiconductor",
+        "(B) Complementary Metal Oxide Semiconductor",
+        "(C) Complementary Metal Oxygen Semiconductor",
+        "(D) Complementary Metal Oscillator Semiconductor",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.13.MPG is an file extension of which type of files?",
+        "(A) Audio",
+        "(B) Image",
+        "(C) Video",
+        "(D) Flash",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.14.Who is the founder of the Internet?",
+        "(A) Vint Cerf   ",
+        "(B) Charles Babbage",
+        "(C) Tim Berners-Lee    ",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.15.Who is the father of email?",
+        "(A) Tim Berners Lee    ",
+        "(B) Charles Babbage",
+        "(C) Paul Buchheit       ",
+        "(D) Ray Tomlinson",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.16.Which one is the first search engine in internet?",
+        "(A) Google",
+        "(B) Archie",
+        "(C) Altavista",
+        "(D) WAIS",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.17.Which one is the first web browser invented in 1990?",
+        "(A) Internet Explorer",
+        "(B) Mosaic",
+        "(C) Mozilla",
+        "(D) Nexus",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.18.Which Penguin is the mascot of Linux Operating system?",
+        "(A) SUX",
+        "(B) TUX(C) MUX",
+        "(D) AUX",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.19.Which of the following is the most powerful type of computer?     ",
+        "(A) Supermicro",
+        "(B) Super conductor",
+        "(C) Super computer",
+        "(D) Megaframe",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.20.C is  ",
+        "(A) A third generation high level language",
+        "(B) A machine language",
+        "(C) An assembly language",
+        "(D) All of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.21. Which component of computer is also considered as it Heart?",
+        "(A) Monitor",
+        "(B) Keyboard",
+        "(C) Scanner",
+        "(D) Microprocessor",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.22. Where BIOS is stored?",
+        "(A) Hard Disk",
+        "(B) RAM",
+        "(C) Flash Memory Chip",
+        "(D) Any of above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.23. BIOS is used for?",
+        "(A) Updating system information on network",
+        "(B) Loading operating system",
+        "(C) It helps in routing",
+        "(D) It take inputs from keywords and other devices",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.24. In a digital computer, which part consists of arithmetic logic unit, memory unit and the control unit?",
+        "(A) Mother board",
+        "(B) Integrated circuits",
+        "(C) Central Processing Unit",
+        "(D) Processor",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.25. Which is the most common request-response protocol used in Internet for word processing?",
+        "(A) SMTP",
+        "(B) FTP",
+        "(C) HTTP",
+        "(D) TTY",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.26. Indian National Advisory Board for Libraries was setup in 1966 by -",
+        "(A) Association of Indian Universities",
+        "(B) Ministry of Education",
+        "(C) Planning Commission",
+        "(D) University Grants Commission",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.27. Which of the following is not a language of DBMS?",
+        "(A) DDL",
+        "(B) DML",
+        "(C) PASCAL",
+        "(D) PLI",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.28. The ___ of software contains lists of commands and options.",
+        "(A) title bar",
+        "(B) menu bar",
+        "(C) formula bar",
+        "(D) tool bar",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.29.Which one is volatile memory in a computer system?",
+        "(A) Hard Disk",
+        "(B) RAM",
+        "(C) ROM",
+        "(D) Optical Drive",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.30.Who first developed QWERTY keyboard used in computers and phones?",
+        "(A) Raphael Finkel",
+        "(B) Wim Ebbinkhuijsen",
+        "(C) Shafi Goldwasser",
+        "(D) Christopher Latham Sholes",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.31.Linus Torvalds develop which operating system?",
+        "(A) Windows",
+        "(B) Mac OS",
+        "(C) UNIX",
+        "(D) Linux",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.32.DNS refers to",
+        "(A) Data Number Sequence",
+        "(B) Digital Network Service",
+        "(C) Domain Name System",
+        "(D) Disk Numbering System",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.33.The unit of speed used for super computer is ",
+        "(A) KELOPS",
+        "(B) GELOPS",
+        "(C) MELOPS",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.34.ROM is non volatile.",
+        "(A) TRUE",
+        "(B) FALSE",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.35.Random Access Memory (RAM) is non volatile in nature.",
+        "(A) TRUE",
+        "(B) FALSE",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.36.Second generation of computers consist of which of following ?",
+        "(A) Vaccum Tubes",
+        "(B) Diodes",
+        "(C) VLSI Microprocessor",
+        "(D) Transistors",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.37.Who is the father of Internet ?",
+        "(A) Vint Cerf   ",
+        "(B) Tim Berners Lee",
+        "(C) Charles Babbage    ",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.38. Who invented world wide web ?",
+        "(A) Tim Berners Lee    ",
+        "(B) Sir Thomas",
+        "(C) Charles Babbage    ",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.39. Internets initial development was supported by",
+        "(A) Microsoft  ",
+        "(B) ARPANET",
+        "(C) Bill Rogers  ",
+        "(D) Bill Gates",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.40.Number of bit used by the IPv6 address?",
+        "(A) 32 bit",
+        "(B) 64 bit",
+        "(C) 128 bit",
+        "(D) 256 bit",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.41.Which of the following programming language is used to create programs like applets?",
+        "(A) COBOL",
+        "(B) C Language",
+        "(C) Java",
+        "(D) BASIC",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.42.The first mechanical computer designed by Charles Babbage was called",
+        "(A) Abacus",
+        "(B) Analytical Engine",
+        "(C) Calculator",
+        "(D) Processor",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.43.Which gate is a single integrated circuit?    ",
+        "(A) Gate",
+        "(B) Mother Board",
+        "(C) Chip",
+        "(D) CPU",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.44. Web pages are written using       ",
+        "(A) FTP",
+        "(B) HTTP",
+        "(C) HTML",
+        "(D) URL",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.45. What is used to make computer chips?",
+        "(A) Copper",
+        "(B) Steel",
+        "(C) Silicon",
+        "(D) Iron",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.46. What is full form of EXIF?",
+        "(A) Exchangeable Image Fine Finish",
+        "(B) Exchangeable Image File Format",
+        "(C) Executable Image File Format",
+        "(D) Executable Image File Finish",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.47. 1 Mega Byte is equal to",
+        "(A) 1024 Bytes",
+        "(B) 1024 Kilo Bytes",
+        "(C) 1024 Giga Bits",
+        "(D) 1024 Bits",
+        " Ans .  B "
+    ]
+]

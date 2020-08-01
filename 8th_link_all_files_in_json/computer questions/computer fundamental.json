@@ -1,0 +1,367 @@
+[
+    [
+        "Q.1. Computer program had been done in early stage by using.........",
+        "(A) Assembly language",
+        "(B) Machine language",
+        "(C) Source code",
+        "(D) Object code",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.2. Pascal -",
+        "(A) is a computer language",
+        "(B) is a unit of computer",
+        "(C) is a computer operating system",
+        "(D) is a type of computer",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3.Which of the following is not a computer language?",
+        "(A) Basic",
+        "(B) C",
+        "(C) Fast",
+        "(D) Fortran",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.4.What difference does the 5th generation computer have from other generation computers?",
+        "(A) Technological advancement",
+        "(B) Scientific code",
+        "(C) Object-Oriented Programming",
+        "(D) All of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.5.The tracks on a disk which can be accessed without repositioning the R/W heads is",
+        "(A) Surface",
+        "(B) Cylinder",
+        "(C) Cluster",
+        "(D) All of the above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6.A section of code to which control is transferred when a processor is interrupted is known as",
+        "(A) M",
+        "(B) SVC",
+        "(C) IP",
+        "(D) MDR",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.7.The binary system uses powers of",
+        "(A) 2",
+        "(B) 10",
+        "(C) 8",
+        "(D) 16",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.8.The time required for the fetching and execution of one simple machine instruction is",
+        "(A) Delay time",
+        "(B) CPU cycle",
+        "(C) Real-time",
+        "(D) Seek time",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.9.Binary numbers need more places for counting because",
+        "(A) They are always big numbers",
+        "(B) Any no. of 0's can be added in front of them",
+        "(C) Binary base is small",
+        "(D) 0's and l's have to be properly spaced apart",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.10. ASCII and EBCDIC are the popular character coding systems.",
+        "(A) Extended Binary Coded Decimal Interchange Code",
+        "(B) Extended Bit Code Decimal Interchange Code",
+        "(C) Extended Bit Case Decimal Interchange Code",
+        "(D) Extended Binary Case Decimal Interchange Code",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.11. Storage capacity of magnetic disk depends on",
+        "(A) tracks per inch of surface",
+        "(B) bits per inch of tracks",
+        "(C) disk pack in disk surface",
+        "(D) All of above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.12.A storage area used to store data to a compensate for the difference in speed at which the different units can handle data is",
+        "(A) Memory",
+        "(B) Buffer",
+        "(C) Accumulator",
+        "(D) Address",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.13.Integrated Circuits (ICs) are related to which generation of computers?",
+        "(A) First generation",
+        "(B) Second generation",
+        "(C) Third generation",
+        "(D) Fourth generation",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.14. A hybrid computer",
+        "(A) Resembles digital computer",
+        "(B) Resembles analogue computer",
+        "(C) Resembles both a digital and analogue computer",
+        "(D) None of the above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.15.The ALU of a computer responds to the commands coming from",
+        "(A) Primary memory",
+        "(B) Control section",
+        "(C) External memory",
+        "(D) Cache memory",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.16.To produce high-quality graphics (hard copy) in color, you would want to use a/n",
+        "(A) RGB monitor",
+        "(B) Plotter",
+        "(C) Ink-jet printer",
+        "(D) Laser printer",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.17.Which of the following IC was used in third generation of computers?",
+        "(A) SSI",
+        "(B) MSI",
+        "(C) LSI",
+        "(D) Both a and b",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.18. BASIC computer language was developed by.........in 1964.",
+        "(A) Nicol Berlt",
+        "(B) John G.Kemeny",
+        "(C) Grace Moonie Hoper",
+        "(D) Jim Clark",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.19.The first computer language developed for programming is -",
+        "(A) COBOL",
+        "(B) Fortran",
+        "(C) C",
+        "(D) C++",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.20.A computer-assisted method for the recording and analyzing of existing or hypothetical systems is",
+        "(A) Data transmission",
+        "(B) Data flow",
+        "(C) Data capture",
+        "(D) Data processing",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.21.Which of the following computer language is used for artificial elligence?",
+        "(A) FORTRAN",
+        "(B) PROLOG",
+        "(C) C",
+        "(D) COBOL",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.22.Which of the following is the 1's complement of 10?",
+        "(A) 01",
+        "(B) 110",
+        "(C) 11",
+        "(D) 10",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.23.Which part interprets program instructions and initiate control operations.",
+        "(A) Input",
+        "(B) Storage unit",
+        "(C) Logic unit",
+        "(D) Control unit",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.24. BSS loader is",
+        "(A) General",
+        "(B) Absolute",
+        "(C) Relocating",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.25.A computer program that converts assembly language to machine language is",
+        "(A) Compiler",
+        "(B) Interpreter",
+        "(C) Assembler",
+        "(D) Comparator",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.26.The time for which a piece of equipment operates is called",
+        "(A) Seek time",
+        "(B) Effective time",
+        "(C) Access time",
+        "(D) Real time",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.27.Which access method is used for obtaining a record from a cassette tape?",
+        "(A) Direct",
+        "(B) Sequential",
+        "(C) Random",
+        "(D) All of the above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.28. The brain of any computer system is",
+        "(A) ALU",
+        "(B) Memory",
+        "(C) CPU",
+        "(D) Control unit",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29. The two kinds of main memory are:",
+        "(A) Primary and secondary",
+        "(B) Random and sequential",
+        "(C) ROM and RAM",
+        "(D) All of above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.30.Computer is free from tiresome and boardroom. We call it",
+        "(A) Accuracy",
+        "(B) Reliability",
+        "(C) Diligence",
+        "(D) Versatility",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.31. CD-ROM is a",
+        "(A) Semiconductor memory",
+        "(B) Memory register",
+        "(C) Magnetic memory",
+        "(D) None of above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.32. Which type of computers uses the 8-bit code called EBCDIC?",
+        "(A) Minicomputers",
+        "(B) Microcomputers",
+        "(C) Mainframe computers",
+        "(D) Super computer",
+        " Ans .  C",
+        "Q.35. Chief component of first-generation computer was",
+        "(A) Transistors",
+        "(B) Vacuum Tubes and Valves",
+        "(C) Integrated Circuits",
+        "(D) None of above",
+        " Ans .  B",
+        "Q.36.What are the stages in the compilation process?",
+        "(A) Feasibility study, system design and testing",
+        "(B) Implementation and documentation",
+        "(C) Lexical Analysis, syntax analysis, and code generation",
+        "(D) None of the above",
+        " Ans .  C",
+        "Q.37.The second Generation Computer was based on--------",
+        "(A) Vacuum Tube",
+        "(B) Silicon Chips",
+        "(C) Transistor",
+        "(D) Bio Chips",
+        " Ans .  C",
+        "Q.38. Who invented Analytical engine?",
+        "(A) Blaise Pascal",
+        "(B) George Bool",
+        "(C) Charles Babbage",
+        "(D) Dr. Herman Hollerith",
+        " Ans .  C",
+        "Q.39. How was the generation of computer classified?",
+        "(A) by the device used in memory &amp; processor",
+        "(B) by the speed of computer",
+        "(C) by the model of the computer",
+        "(D)by the accuracy of computer",
+        " Ans .  A",
+        "Q.40. FTP is",
+        "(A) Mail transfer protocol",
+        "(B) File transfer protocol",
+        "(C) File transformation program",
+        "(D) Firewall Type program",
+        " Ans .  B  "
+    ],
+    [
+        ""
+    ],
+    [
+        ""
+    ],
+    [
+        "Q.35. Chief component of first-generation computer was",
+        "(A) Transistors",
+        "(B) Vacuum Tubes and Valves",
+        "(C) Integrated Circuits",
+        "(D) None of above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.36.What are the stages in the compilation process?",
+        "(A) Feasibility study, system design and testing",
+        "(B) Implementation and documentation",
+        "(C) Lexical Analysis, syntax analysis, and code generation",
+        "(D) None of the above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.37.The second Generation Computer was based on--------",
+        "(A) Vacuum Tube",
+        "(B) Silicon Chips",
+        "(C) Transistor",
+        "(D) Bio Chips",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.38. Who invented Analytical engine?",
+        "(A) Blaise Pascal",
+        "(B) George Bool",
+        "(C) Charles Babbage",
+        "(D) Dr. Herman Hollerith",
+        " Ans .  C",
+        ""
+    ]
+]

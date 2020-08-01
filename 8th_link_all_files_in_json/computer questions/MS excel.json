@@ -1,0 +1,369 @@
+[
+    [
+        "Q.1 Formula palette is used to?",
+        "(A) format cells containing number",
+        "(B) created and edit formulas containing functions",
+        "(C) entered assumption data",
+        "(D) Copy all cells",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.2 A Spreadsheet contains?",
+        "(A) columns",
+        "(B) rows",
+        "(C) rows and columns",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.3Top open an existing workbook, click the open button on thetoolbar?",
+        "(A) form",
+        "(B) standard",
+        "(C) Drawing",
+        "(D) Formatting",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4 Which among following is not associated with spelling dialogue box?",
+        "(A) Edit",
+        "(B) Ignore All",
+        "(C) Ignore",
+        "(D) Change",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.5 What term describes a background that appears as a grainy, non-smooth surface?",
+        "(A) Pattern",
+        "(B) Gradient",
+        "(C) Velvet",
+        "(D) Texture",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6 Which among following is associated with excel?",
+        "(A) Graphic program",
+        "(B) Spreadsheet",
+        "(C) Microsoft office",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.7 The cell reference for a range of cells that starts in cell C1 and goes over to column H and down to row 10 is?",
+        "(A) C1:10H",
+        "(B) C1:H10",
+        "(C) C1:H-10",
+        "(D) C1:H:10",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.8You can convert existing Excel worksheet data and charts to HTML document by using the?",
+        "(A) Intranet Wizard",
+        "(B) Internet Assistant Wizard",
+        "(C) Important Wizard",
+        "(D) Export Wizard",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.9 To create an interactive Pivot Table for the web, you use a Microsoft Office Web component called?",
+        "(A) Pivot Table Report",
+        "(B) Pivot Table List",
+        "(C) Pivot Table Field List",
+        "(D) HTML",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10 What function displays row data in a column or column data in a row?",
+        "(A) Hyperlinks",
+        "(B) Rows",
+        "(C) Index",
+        "(D) Transpose",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.11 Except which of the following function, a formula with a logical function shows the word TRUE or FALSE as a result?",
+        "(A) NOT",
+        "(B) OR",
+        "(C) IF",
+        "(D) AND",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.12 Macros can be executed from the which of the following menu?",
+        "(A) Format",
+        "(B) Tools",
+        "(C) Insert",
+        "(D) Home",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.13 Protection and the Protect Sheet options can be selected from?",
+        "(A) Data",
+        "(B) Tools",
+        "(C) Edit",
+        "(D) Format",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.14 Which of the following is not a valid Zoom percentage in Excel?",
+        "(A) 400",
+        "(B) 300",
+        "(C) 100",
+        "(D) 10",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.15 You can check the condition against.when applying conditional formatting?",
+        "(A) Cell value",
+        "(B) Formula",
+        "(C) Both of above",
+        "(D) None of above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.16 How can we set page Border in Excel?",
+        "(A) From Edit menu",
+        "(B) From Home",
+        "(C) You can not set page border in Excel",
+        "(D) From Tools menu",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.17 Which function calculates your monthly mortgage payment?",
+        "(A) PV",
+        "(B) NPER",
+        "(C) PMT",
+        "(D) All of above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.18 Which type of charts can excel produce?",
+        "(A) Bar charts, line graphs and pie charts",
+        "(B) Line graphs and pie charts only",
+        "(C) Bar charts and line graphs only",
+        "(D) Only line graphs",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.19 How is data organized in a spreadsheet?",
+        "(A) Rows and columns",
+        "(B) Layers and planes",
+        "(C) Lines and spaces",
+        "(D) Height and width",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.20 VLOOKUP function used to?",
+        "(A) Finds related records",
+        "(B) Looks up text that contain V",
+        "(C) Check if two cells are identical",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.21 How do you change column width to fit the contents?",
+        "(A) Single-click the boundary to the left to the column heading",
+        "(B) Double click the boundary to the right of the column heading",
+        "(C) Press Alt and single click anywhere in the column",
+        "(D) All of above.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.22 To insert three columns between columns A and B you would",
+        "(A) Select Column A",
+        "(B) Select A and B",
+        "(C) Select B",
+        "(D) All of above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.23 To drag a selected range of data to another worksheet in the same workbook, use the?",
+        "(A) Ctrl key",
+        "(B) Shift key",
+        "(C) Alt key",
+        "(D) Tab key",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.24 You can activate a cell by?",
+        "(A) Pressing the Tab key",
+        "(B) Clicking the cell",
+        "(C) Pressing an arrow key",
+        "(D) All of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.25 A function inside another function is known as ?",
+        "(A) Nested function",
+        "(B) Switched function",
+        "(C) Sandwich function",
+        "(D) Round function",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.26 What excel feature can you use if you want to work with one record at a time?",
+        "(A) Auto Complete",
+        "(B) Data Form",
+        "(C) Set Form",
+        "(D) Auto Text",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.27 Which function is used for creating a data table?",
+        "(A) Sum",
+        "(B) Table",
+        "(C) Add",
+        "(D) Count",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.28 The accounting style shows negative numbers in?",
+        "(A) Bold",
+        "(B) Italics",
+        "(C) Parentheses",
+        "(D) Quotes",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29 3-D reference in a formula?",
+        "(A) Spans worksheet",
+        "(B) Can not be modified",
+        "(C) Only appears on summary worksheets",
+        "(D) Limits the formatting options",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.30 3-D reference in a formula?",
+        "(A) + and -",
+        "(B) ! and ^",
+        "(C) * and ?",
+        "(D) &lt;and&gt;",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.31 Which among following is divide symbol in excel?",
+        "(A) /",
+        "(B) D",
+        "(C) Div",
+        "(D) \\",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.32 Which function in excel counts the numbers of characters in a cell?",
+        "(A) LENGTH",
+        "(B) LGT",
+        "(C) LEN",
+        "(D) LT",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.33 Which function converts miles to kilometres?",
+        "(A) Change",
+        "(B) Convert",
+        "(C) Shift",
+        "(D) Conv",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.34 What is shortcut to enter current date in cell in excel?",
+        "(A) Ctrl +;",
+        "(B) Alt +;",
+        "(C) Shift + &amp;",
+        "(D) Ctrl + $",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.35 Shortcut to edit the selected cell?",
+        "(A) F3",
+        "(B) F8",
+        "(C) F4",
+        "(D) F2",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.36 Which shortcut can be used to Switch between open workbooks?",
+        "(A) Ctrl + F2",
+        "(B) Ctrl + F6",
+        "(C) Ctrl + F8",
+        "(D) Ctrl + F10",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.37 Shortcut to enter current date?",
+        "(A) Insert + -",
+        "(B) Shift + -",
+        "(C) Alt + -",
+        "(D) Ctrl + -",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.38 Shortcut to enter current date?",
+        "(A) Ctrl +;",
+        "(B) Shift +;",
+        "(C) Home +;",
+        "(D) Alt +;",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.39 When the formula bar is activated, you can see",
+        "(A) The Edit Formula button",
+        "(B) The cancel button",
+        "(C) The Enter button",
+        "(D) All of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.40Stylesheet formats can be applied from?",
+        "(A) Table&gt;&gt;Autoformat",
+        "(B) Format&gt;&gt;Autoformat",
+        "(C) Table&gt;&gt;Cells",
+        "(D) Fromat&gt;&gt;Cells",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.41. Which function will you use to enter current time in a worksheet cell?",
+        "(A) =time()",
+        "(B) =nowtime()",
+        "(C) =now()",
+        "(D) =currentTime()",
+        " Ans .  C  "
+    ]
+]

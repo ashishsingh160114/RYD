@@ -1,0 +1,364 @@
+[
+    [
+        "Q.1. Which of the following relation algebra operation do not required the participation tables to be union-compatible?",
+        "(A) Union",
+        "(B) Intersection",
+        "(C) Difference",
+        "(D) Join",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.2. Which of the following is not a property of transactions?",
+        "(A) Atomicity",
+        "(B) Concurrency",
+        "(C) Isolation",
+        "(D) Durability",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.3. Relational Algebra does not have",
+        "(A) Selection operator",
+        "(B) Projection operator",
+        "(C) Aggregation operators",
+        "(D) Division operators",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. Checkpoints are a part of",
+        "(A) Recovery measures",
+        "(B) Security measures",
+        "(C) Concurrency measures",
+        "(D) Authorization measures",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.5. Tree structures are used to stored data in",
+        "(A) Network model",
+        "(B) Relational model",
+        "(C) Hierarchical model",
+        "(D) File base system",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.6.The language that requires a user to specify the data to be retrieved without specifying exactly how to get it is",
+        "(A) Procedural DML.",
+        "(B) Non-Procedural DML.",
+        "(C) Procedural DDL.",
+        "(D) Non-Procedural DDL.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.7. Precedence graphs help to find an AC14/AT11 Database Management System",
+        "(A) Serializable schedule",
+        "(B) Recoverable schedule.",
+        "(C) Deadlock free schedule.",
+        "(D) Cascade less schedule.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.8. The rule that a value of a foreign key must appear as a value of some specific table is called a",
+        "(A) Referential constraint",
+        "(B) Index",
+        "(C) Integrity constraint",
+        "(D) Functional dependency",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9. The clause in SQL that specifies that the query result should be sorted in ascending or descending order based on the values of one or more columns is",
+        "(A) View",
+        "(B) Order by",
+        "(C) Group by",
+        "(D) Having",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.10. What is disjoint less constraint?",
+        "(A) It requires that an entity belongs to no more than one level entity set.",
+        "(B) The same entity may belong to more than one level.",
+        "(C) The database must contain an unmatched foreign key value",
+        "(D) An entity can be joined with another entity in the same level entity set",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.11. Full form of DBMS",
+        "(A) Date base management",
+        "(B) Document Base Management System",
+        "(C) Digital Base Management System",
+        "(D) None of them",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.12. It is an abstraction through which relationships are treated as higher level entities",
+        "(A) Generalization",
+        "(B) Specialization",
+        "(C) Aggregation",
+        "(D) Inheritance",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.13. A relation is in ..if an attribute of a composite key is dependent on an attribute of other composite key.",
+        "(A) 2NF",
+        "(B) 3NF",
+        "(C) BCNF",
+        "(D) 1NF",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.14.What is data integrity?",
+        "(A) It is the data contained in database that is non-redundant",
+        "(B) it is the data contained in database that is accurate and consistent",
+        "(C) it is the data contained in database that is secured.",
+        "(D) It is the data contained in database that is shared.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.15. What are the desirable properties of a decomposition",
+        "(A) Partition constraint ",
+        "(B) Dependency preservation",
+        "(C) Redundancy",
+        "(D) Security",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.16. In an E-R diagram double lines indicate",
+        "(A) Total participation",
+        "(B) Multiple participation",
+        "(C) Cardinality N",
+        "(D) None of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.17. The operation which is not considered a basic operation of relational algebra is",
+        "(A) Join",
+        "(B) Selection",
+        "(C) Union",
+        "(D) Cross product",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.18. Fifth Normal form is concerned with",
+        "(A) Functional dependency",
+        "(B) Multivalued dependency",
+        "(C) Join dependency",
+        "(D) Domain  key",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.19. Block-interleaved distributed parity is RAID level",
+        "(A) 2",
+        "(B) 3",
+        "(C) 4",
+        "(D) 5",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.20. Immediate database modification technique uses",
+        "(A) Both undo and redo.",
+        "(B) Undo but no redo.",
+        "(C) Redo but no undo.",
+        "(D) Neither undo nor redo.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.21. In SQL the statement select*from R, S is equivalent to",
+        "(A) Select * from R natural join S",
+        "(B) Select * from R cross join S",
+        "(C) Select * from R union join S",
+        "(D) Select * from R inner join S",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.22. Which of the following is not a consequence of concurrent operations?",
+        "(A) Lost update problem",
+        "(B) Update anomaly",
+        "(C) unrepeatable read.",
+        "(D) Dirty read",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.23.As per equivalence rules for query transformation, selection operation distributes over.",
+        "(A) Union",
+        "(B) Intersection",
+        "(C) Set difference",
+        "(D) All of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.24. The metadata is created by the",
+        "(A) DML compiler",
+        "(B) DML pre-processor",
+        "(C) DDL interpreter",
+        "(D) Query interpreter",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.25. When an E-R diagram is mapped to tables, the representation is redundant for",
+        "(A) Weak entity sets",
+        "(B) Weak relationship",
+        "(C) strong entity sets",
+        "(D) strong relationship",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.26. When R CS = f, then the cost of computing R&gt;&lt;S is",
+        "(A) the same as R  S",
+        "(B) greater the R  S",
+        "(C) less than R  S",
+        "(D) Cannot say anything",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.27. In SQL the word natural can be used with",
+        "(A) inner join",
+        "(B) full outer join",
+        "(C) right outer join",
+        "(D) all of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.28. The default level of consistency in SQL is",
+        "(A) repeatable read",
+        "(B) read committed",
+        "(C) read uncommitted",
+        "(D) serializable",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.29. if a transaction T has obtained an exclusive lock on item Q, then T can",
+        "(A) read Q",
+        "(B) write Q",
+        "(C) both read and write Q",
+        "(D) write Q but not read Q",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.30. Shadow paging has",
+        "(A) no redo",
+        "(B) no undo",
+        "(C) redo but no undo",
+        "(D) neither redo nor undo",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.31. If the closure of an attribute set is the entire relation then the attribute set is a",
+        "(A) super key",
+        "(B) candidate key",
+        "(C) primary key",
+        "(D) not a key",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.32. DROP is astatement in SQL.",
+        "(A) Query",
+        "(B) Embedded SQL",
+        "(C) DDL",
+        "(D) DCL",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.33. If two relations R and S are joined, then the non-matching tuples of both R and S are ignored in",
+        "(A) left outer join",
+        "(B) right router joins",
+        "(C) full outer join",
+        "(D) inner join",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.34. The keyword to eliminate duplicate rows from the query result in SQL is",
+        "(A) DISTINCT",
+        "(B) NO DUPLICATE",
+        "(C) UNIQUE",
+        "(D) None of the above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.35. In 2NF",
+        "(A) No functional dependencies (FDs) exist",
+        "(B) No multivalued dependencies (MVDs) exist",
+        "(C) No partial FDs exist",
+        "(D) No partial MVDs exist",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.36.Which one is correct statement?",
+        "(A) 1 and 2",
+        "(B) 5 Only",
+        "(C) 1 and 4",
+        "(D) 2 and 3",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.37. In and E-R, Y is the dominant entity and X is a subordinate entity. Then which of the following is incorrect:",
+        "(A) Operationally, if Y is deleted, so is X",
+        "(B) existence is dependent on Y.",
+        "(C) Operationally, if X is deleted, so is Y",
+        "(D) Operationally, if X is deleted, &amp; remains the same",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.38. Relational Algebra is",
+        "(A) Data Definition Language",
+        "(B) Meta Language",
+        "(C) Procedural query Language",
+        "(D) None of the above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.39. Relational Algebra is",
+        "(A) Data Definition Language",
+        "(B) Meta Language",
+        "(C) Procedural query Language",
+        "(D) None of the above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.40. RDBMS means:",
+        "(A) Relation Data Base Management system",
+        "(B) Reliable Data Base Management system",
+        "(C) Relational Document Base Management System",
+        "(D) None of these",
+        " Ans .  A "
+    ],
+    [
+        ""
+    ]
+]

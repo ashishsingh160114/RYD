@@ -1,0 +1,271 @@
+[
+    [
+        "Q.1. You can use.....to copy selected text; and .....to paste it in a document.",
+        "(A) CTRL+C, CTRL+V",
+        "(B) CTRL+C, CTRL+P",
+        "(C) CTRL+S, CTRL+S",
+        "(D) SHIFT+C, ALT+P",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.2. Each box in a spreadsheet is called is called a......",
+        "(A) cell",
+        "(B) empty space",
+        "(C) record",
+        "(D) field",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3.When a file is saved for the first time.........",
+        "(A) a copy is automatically printed",
+        "(B) file name and folder name must be the same",
+        "(C) it does not need a name",
+        "(D) it only need a name if it is not going to be printed",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.4. The letter and number the intersecting column and row is the-",
+        "(A) Cell location",
+        "(B) Cell position",
+        "(C) Cell address",
+        "(D) Cell coordinates",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.5. Forms that are used to organize business data into rows and columns are called........",
+        "(A) Transaction sheets",
+        "(B) Registers",
+        "(C) Business forms",
+        "(D) Sheep-spreads",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.6. The PC productivity tool that manipulates data organized in rows and columns is called a.....",
+        "(A) Spreadsheet",
+        "(B) Word processing document",
+        "(C) Presentation mechanism",
+        "(D) Database record manager",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.7. If a previously saved file is edited",
+        "(A) It cannot be saved again",
+        "(B) The changes will automatically be saved in the file",
+        "(C) The file will only have to be saved again if it is more than one page in length",
+        "(D) Its name must be changed",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.8. A............is a collection of information saved as unit.",
+        "(A) folder",
+        "(B) File",
+        "(C) path",
+        "(D) file extension",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.9. What is the overall term for creating, editing, formatting, storing retrieving and printing a text document ?",
+        "(A) Word processing",
+        "(B) Spreadsheet design",
+        "(C) Web design",
+        "(D) Database management",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10. A file is often referred to as a (n)..........",
+        "(A) Wizard",
+        "(B) Document",
+        "(C) Pane",
+        "(D) Device",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.11.Microsoft office is an example of a...........",
+        "(A) closed source software",
+        "(B) open source software",
+        "(C) horizontal market software",
+        "(D) vertical market software",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.12. To correct the spelling in Ms-Word we use......",
+        "(A) Spellpro",
+        "(B) Spellcheck",
+        "(C) outlook Express",
+        "(D) All of These",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.13. Which one of the following software applications would be the most appropriate for performing numerical and statistical calculations?",
+        "(A) Data base",
+        "(B) Document processor",
+        "(C) Graphics package",
+        "(D) Spreadsheet",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.14.The background of any word document......",
+        "(A) is always white",
+        "(B) is the colour you pre-set under the option menu",
+        "(C) is always the same for the entire document",
+        "(D) Can have any colour you choose",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.15. Text in a column is generally aligned.....",
+        "(A) Justified",
+        "(B) Right",
+        "(C) Centre",
+        "(D) Left",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.16. Numbers in table columns are usual....",
+        "(A) right-aligned",
+        "(B) left-aligned",
+        "(C) justified",
+        "(D) cantered",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.17.A collection of related files is called.........",
+        "(A) Character",
+        "(B) Field",
+        "(C) Date base",
+        "(D) Record",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.18.In which group do we work at the time of text formatting in word ?",
+        "(A) Table, paragraph and Indexes",
+        "(B) Paragraph, Indexes and Sections",
+        "(C) Characters, sections and paragraphs",
+        "(D) Indexes, characters and Tables",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.19.To save an existing file with new location we should........command.",
+        "(A) save",
+        "(B) save and replace",
+        "(C) save as",
+        "(D) New file",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.20. In power point, the Header &amp; Footer button can be found on the insert tab in what group?",
+        "(A) Illustrations group",
+        "(B) Object group",
+        "(C) Text group",
+        "(D) Tables group",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.21.Which power point view displays each slide of the presentation as a thumbnail and is useful for rearranging slides ?",
+        "(A) Slide Sorter",
+        "(B) Slide show",
+        "(C) Slide master",
+        "(D) Notes Page",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.22. To print a document.....",
+        "(A) Select the Print command and then select ok",
+        "(B) Select the Ready Printer command and then select OK",
+        "(C) type Print and then press Enter",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.23.What is a list of data files of any database called ?",
+        "(A) Data diary",
+        "(B) Data list",
+        "(C) Data disc",
+        "(D) Data dictionary ",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.24. What is the main folder on a storage device called ?",
+        "(A) Root directory",
+        "(B) Interface",
+        "(C) Device driver",
+        "(D) Platform",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.25.Excel workbook is a collection of........",
+        "(A) Chart",
+        "(B) Word book",
+        "(C) Worksheet",
+        "(D) a and c",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.26. Which of the following is not related to text formatting?",
+        "(A) Line spacing",
+        "(B) Text spacing",
+        "(C) Margin change",
+        "(D) Searching",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.27.In a spreadsheet program the.......contains related worksheets and document.",
+        "(A) Workbook",
+        "(B) Column",
+        "(C) Call",
+        "(D) Formula",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.28. The word wrap feature -",
+        "(A) Automatically moves the text to next line when necessary",
+        "(B) Appears at the bottom of the document",
+        "(C) Allows you to type over text",
+        "(D) Is the short horizontal line indicating the end of the document",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.29. What is a default file extension for all word documents?",
+        "(A) TXT",
+        "(B) WRD",
+        "(C) FIL",
+        "(D) DOC",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.30. A directory within a directory is called.....",
+        "(A) Mini directory",
+        "(B) Junior directory",
+        "(C) Part directory",
+        "(D) Sub directory",
+        " Ans .  D "
+    ]
+]

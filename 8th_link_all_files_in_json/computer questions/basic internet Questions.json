@@ -1,0 +1,370 @@
+[
+    [
+        "Q.1. Internets Initial development was supported by:",
+        "(A) ARPANET",
+        "(B) IBM",
+        "(C) Microsoft",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.2. World wide web was proposed by:",
+        "(A) Bill Gates",
+        "(B) Bill Rogers",
+        "(C) Tim Berners Lee",
+        "(D) None of Above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.3.What are the uses of the internet",
+        "(A) Communication",
+        "(B) Information Retrieval",
+        "(C) Presentation of Information",
+        "(D) All of the Above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4. .net domain is used for:",
+        "(A) educational institution",
+        "(B) internet infrastructure and Service Providers",
+        "(C) International Organizations",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.5. URL stands for:",
+        "(A) Uniform Resource Locator",
+        "(B) Uniform Resource Library",
+        "(C) United Resource Locators",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.6. Benefits of Email are:",
+        "(A) Speed",
+        "(B) Cost",
+        "(C) Record Keeping",
+        "(D) All of the Above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.7. WWW provides standardized access to:",
+        "(A) GOPHER",
+        "(B) TELENET",
+        "(C) FTP",
+        "(D) All of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.8.Which among the following is not an internet browser:",
+        "(A) Netscape Navigator",
+        "(B) Chrome",
+        "(C) Drupal",
+        "(D) Opera",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.9. What should be minimum requirement of random-access memory (RAM) for internet access?",
+        "(A) 8 MB",
+        "(B) 16 MB",
+        "(C) 32 MB",
+        "(D) 64 MB",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.10. A modern is not needed when accessing the internet through:",
+        "(A) LAN",
+        "(B) Cable",
+        "(C) Wi-Fi",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.11. In order to use cable for browsing web you will need:",
+        "(A) A cable modems",
+        "(B) Network Interface Card (NIC) ",
+        "(C) Both of Above",
+        "(D) None of These",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.12. ADSL gives:",
+        "(A) Faster downloading speed (receiving) than uploading speed (sending)",
+        "(B) Slower downloading speed (receiving) than uploading speed (sending)",
+        "(C) Same downloading speed (receiving) than uploading speed (sending)",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.13. What is the minimum bandwidth required for broadband connection:",
+        "(A) 128 kbps",
+        "(B) 256 kbps",
+        "(C) 512 kbps",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.14. The limit for ASDL service is:",
+        "(A) 800 Feet",
+        "(B) 10,000 Feet",
+        "(C) 18,000 Feet",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.15. Which of these is a variation of ADSL, but the modem can adjust the speed of the connection depending on the length and quality of the line:",
+        "(A) VDSL",
+        "(B) SDSL",
+        "(C) RADSL",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.16. An IP address is a:",
+        "(A) binary number that uniquely identifies computers.",
+        "(B) also identifies other devices on TCP/IP network.",
+        "(C) Both of Above",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.17. TCP stands for:",
+        "(A) Tools Control Protocol",
+        "(B) Transmission Control Protocol",
+        "(C) Transfer Control Protocol",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.18. IP stand for:",
+        "(A) Internal Protocol",
+        "(B) Internet Protocol",
+        "(C) Interior Protocol",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.19. Which among the following is correct?",
+        "(A) An IP address can be private-for use on Local Area Network (LAN)",
+        "(B) It can be use on the internet or other wide area network (WAL)",
+        "(C) IP addresses can e determined statistically (assigned to a computer by a system administrator) or dynamically (assigned by another device on the network on demand)",
+        "(D) All of the above.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.20. An internet protocol address (IP address) is:",
+        "(A) A numerical label assigned to each device (e.g. computer, printer) participating in a computer network",
+        "(B) It working for the communication",
+        "(C) Both of above",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.21. An IP and address serves which among the following principal functions:",
+        "(A) Host or network interface identification",
+        "(B) Location Addressing",
+        "(C) Both of Above",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.22. Role of IP addressing is:",
+        "(A) A name indicates what we seek",
+        "(B) An address indicates where it is",
+        "(C) A route indicates how to get there",
+        "(D) All of the above Show Answer",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.23. The designers of the internet protocol defined an IP address as a..",
+        "(A) 32 bit",
+        "(B) 34 bit",
+        "(C) 31 bit",
+        "(D) Nome of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.24.32 Bit system was known as Internet protocol version. which is still in use today:",
+        "(A) 4",
+        "(B) 5",
+        "(C) 3",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.25. Due to the growth of the internet and the predicted depletion of available addresses, a new version of IP version 6 using.for the address was developed in 1995:",
+        "(A) 128 Bits",
+        "(B) 129 Bits",
+        "(C) 130 Bits",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.26.Two versions of the internet protocol (IP) are in use such as IP version 4 and IP version 6 each version defines as IP address...",
+        "(A) Same",
+        "(B) Unique",
+        "(C) Different",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.27. In the early stages of development of the internet protocol, network administrators interpreted an IP address in . parts:",
+        "(A) Network Number Portion",
+        "(B) Host Number Portions",
+        "(C) Both of Above",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.28. High levels of demand have decreased the supply of un-allocated internet protocol version 4 addresses available for assignment to internet service providers and end user organization since the...",
+        "(A) 1980s",
+        "(B) 1990s",
+        "(C) 2000s",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.29. Which among the following definition is correct:",
+        "(A) Address-The unique number ID assigned to one host or interface in a network",
+        "(B) Subnet  A portion of a network sharing a particular subnet address",
+        "(C) subnet mask-A 32-bit combination used to describe which portion of an address refers to the subset and which part refers to the host",
+        "(D) All of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.30. NAT stand for:",
+        "(A) Network Address Translator",
+        "(B) Network Access Translator",
+        "(C) Network Acquired Translator",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.31. Cryptography is derived from the..word",
+        "(A) Greek",
+        "(B) French",
+        "(C) Latin",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.32. Cryptography is the study of information.",
+        "(A) Hiding",
+        "(B) Verification",
+        "(C) Both of Above",
+        "(D) None of These",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.33. argues that artificial intelligence is the next stage in evolution.",
+        "(A) Edward Fredkin",
+        "(B) George Dyson",
+        "(C) Nikeal Dyano",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.34. The intelligent paradigm became widely acceptable during the period of ..",
+        "(A) 1980s",
+        "(B) 1990s",
+        "(C) 1960s",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.35. Artificial Intelligence consists of:",
+        "(A) Theoretical Side",
+        "(B) Experimental Side",
+        "(C) Both of above",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.36. Artificial Intelligence consists of:",
+        "(A) Theoretical Side",
+        "(B) Experimental Side",
+        "(C) Both of above",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.37. Long term goal for Artificial Intelligence is:",
+        "(A) Social Intelligence",
+        "(B) Creativity",
+        "(C) General Intelligence",
+        "(D) All of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.38. Network Architecture refers to the layout of the network consisting of the hardware, software, connectivity, communication protocols and mode of transmission, such as",
+        "(A) Wired",
+        "(B) Wireless",
+        "(C) Wired or Wireless",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.39. Which among the following is used to access the network:",
+        "(A) Application Layer",
+        "(B) Presentation Layer",
+        "(C) Session Layer",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.40. Which among the following layer, main function is data formats, data encryption/decryption, data compression/decompression etc:",
+        "(A) Session Layer",
+        "(B) Transport Layer",
+        "(C) Presentation Layer",
+        "(D) None of the",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.41. Which layer has access to particular network services, billing functions etc.",
+        "(A) Session Layer",
+        "(B) Presentation Layer",
+        "(C) Transport Layer",
+        "(D) None of these",
+        " Ans .  A  "
+    ]
+]

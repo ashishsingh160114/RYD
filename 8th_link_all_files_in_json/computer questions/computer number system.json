@@ -1,0 +1,487 @@
+[
+    [
+        "Q.1 The hexadecimal digits are 1 to 0 and A to ..",
+        "(A) E",
+        "(B) F",
+        "(C) G",
+        "(D) D",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.2 The main advantage of hexadecimal numbers is the case of conversion from hexadecimal to.",
+        "",
+        "(A) decimal",
+        "(B) Binary",
+        "(C) ASCII",
+        "(D) BCD",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.3 Binary coded decimal (BCD) numbers express each digit as a ",
+        "(A) byte",
+        "(C) bit",
+        "(D) all of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.4 ASCII code is a 7 bit code for",
+        "(A) letters",
+        "(B) numbers",
+        "(C) other symbols",
+        "(D) all of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.5 How many bytes are there in 1011 1001 0110 1110 numbers?",
+        "(A) 1",
+        "(B) 2",
+        "(C) 4",
+        "(D) 8",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.6 An OR gate has 6 inputs, how many input words are in its truth table?",
+        "(A) 64",
+        "(B) 32",
+        "(C) 16",
+        "(D) 128",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.7 The binary equivalent of the octal Numbers 13.54 is..",
+        "(A) 1011.1011",
+        "(B) 1101.1110",
+        "(C) 1001.1110",
+        "(D) all of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.8 The octal equivalent of 111 010 is..",
+        "(A) 81",
+        "(B) 72",
+        "(C) 71",
+        "(D) all of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.9 A microprocessor with 12 address lines capable of addressing.",
+        "(A) 1024 locations",
+        "(B) 2048 locations",
+        "(C) 4096 locations",
+        "(D) Buk location",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.10 The binary equivalent of the hexadecimal number 7 BD is..",
+        "(A) 01111 0111101",
+        "(B) 111010111101",
+        "(C) 101110111101",
+        "(D) all of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.11 Octal equivalent of the number 11010.1011 is.",
+        "(A) 32.15",
+        "(B) 63.51",
+        "(C) 32.27",
+        "(D) all of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.12 The decimal equivalent of binary number 0.0111 is ",
+        "(A) 4.375",
+        "(B) 0.4375",
+        "(C) 0.5375",
+        "(D) -0.4375",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.13 The binary code of (73) power 10 is.",
+        "(A) 1010001",
+        "(B) 1000100",
+        "(C) 1100101",
+        "(D) 1001001",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.14 The range of the numbers which can be stored in an eight-bit register is..",
+        "(A)  128 to + 127",
+        "(B) -128 to + 128",
+        "(C)  999999 to + 999999",
+        "(D) none of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.15 The binary system has the radix of ..",
+        "(A) 0",
+        "(B) 1",
+        "(C) 2",
+        "(D)  ",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.16 Which of the following is termed as the minimum error code?",
+        "(A) Binary code ",
+        "(B) Gray code",
+        "(C) Excess 3 code",
+        "(D) Octal code",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.17 Twos complement of 1011.01 is.",
+        "(A) 0100.10",
+        "(B) 0100.11",
+        "(C) 1011.10",
+        "(D) 0100.01",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.18 The parity bit is added for .",
+        "(A) coding",
+        "(B) indexing",
+        "(C) error detection",
+        "(D) control key",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.19 Hexadecimal numbers are a mixture of ..",
+        "(A) binary and decimal numbers",
+        "(B) letters and decimal digits",
+        "(C) binary and octal numbers",
+        "(D) octal and decimal numbers",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.20 A half byte is called.",
+        "(A) bug",
+        "(B) nibble",
+        "(C) data",
+        "(D) bit",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.21 The most commonly used character codes for transmission is..",
+        "(A) EBCDIC",
+        "(B) ASCII",
+        "(C) Both (a) and (b)",
+        "(D) none of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.22 The binary number 10011101 is equal to which hexadecimal number?",
+        "(A) 9E",
+        "(B) 9F",
+        "(C) 9D",
+        "(D) FF",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.23 The binary coded decimal code 01100111 is equal to which decimal digit code",
+        "(A) 103",
+        "(B) 76",
+        "(C) 67",
+        "(D) -67",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.24 The decimal number 80 can be represented in BCD code as .",
+        "(A) 1000 0001",
+        "(B) 0101 0000",
+        "(C) 0010 0000",
+        "(D) 1000000",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.25 The twos complement in binary system is useful for expressing..",
+        "(A) positive numbers",
+        "(B) negative numbers",
+        "(C) both positive and negative numbers",
+        "(D) none of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.26 The result of truncating the decimal number  22.56 is.",
+        "(A) -22",
+        "(B)  23",
+        "(C) 0",
+        "(D) -22.56",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.27 ASCII code is an",
+        "(A) alphabet code",
+        "(B) numeric code",
+        "(C) alphanumeric code",
+        "(D) cyclic code",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.28 Floating-point numbers are normally used to represent",
+        "(A) very large or small numbers",
+        "(B) only large positive numbers",
+        "(C) only large negative numbers",
+        "(D) negative numbers within computer",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.29 The Gray code for decimal 7 is ",
+        "(A) 0111",
+        "(B) 1011",
+        "(C) 0100",
+        "(D) 0101",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.30 The range for 13-bits complement numbers, expressed in decimal, is from..",
+        "(A)  127 to + 128",
+        "(B)  127 to +127",
+        "(C)  128 to + 128",
+        "(D)  128 to + 127",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.31. The input hexadecimal representation of 1110 is _______________",
+        "(A) 0111",
+        "(B) E",
+        "(C) 15",
+        "(D) 14",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.32. Which of the following is not a binary number?",
+        "(A) 1111",
+        "(B) 101",
+        "(C) 11E",
+        "(D) 000",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.33. Convert the binary number 11001 to decimal. The answer is    ",
+        "(A) 25",
+        "(B) 13",
+        "(C) 3",
+        "(D) 4",
+        " Ans .  A ",
+        ""
+    ],
+    [
+        "Q.34. Convert the binary number 11011 to hexadecimal       ",
+        "(A) 1A",
+        "(B) B1",
+        "(C) 1B",
+        "(D) 2B",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.35. Convert the hexadecimal number 2C to decimal",
+        "(A) 3A",
+        "(B) 34",
+        "(C) 44",
+        "(D) 55",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.36. Cumulative addition of four bits ( 1 + 1 + 1 + 1 ) gives",
+        "(A) 1111",
+        "(B) 111",
+        "(C) 100",
+        "(D) 1001",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.37. Difference between binary coding and binary coded decimal is",
+        "(A) binary coding has a decimal format",
+        "(B) BCD has no decimal format",
+        "(C) binary coding is pure binary",
+        "(D) BCD is pure binary",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.38. Convert binary 01001110 to decimal.",
+        "(A) 4E",
+        "(B) 78",
+        "(C) 76",
+        "(D) 116",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.39. The octal numbering system:",
+        "(A) simplifies tasks",
+        "(B) groups binary numbers in groups of 4",
+        "(C) saves time",
+        "(D) simplifies tasks and saves time",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.40. Convert the following octal number to binary.",
+        "(A) 1101112",
+        "(B) 1111102",
+        "(C) 1111002",
+        "(D) 1001112",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.41. Which of the following is not a positional number system?",
+        "(A) Roman Number System",
+        "(B) Octal Number System",
+        "(C) Binary Number System",
+        "(D) Hexadecimal Number System",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.42. A computer language that is written in binary codes only is _____",
+        "(A) machine language",
+        "(B) C",
+        "(C) C#",
+        "(D) pascal",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.43. Convert the binary equivalent 10101 to its decimal equivalent.",
+        "(A) 21",
+        "(B) 12",
+        "(C) 22",
+        "(D) 31",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.44. Which of the following is the correct representation of a binary number?",
+        "(A) (124)2",
+        "(B) 1110",
+        "(C) (110)2",
+        "(D) (000)2",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.45. Convert the hexadecimal number B2 to binary   ",
+        "(A) 100011",
+        "(B) 11011",
+        "(C) 10110010",
+        "(D) 100100001        ",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.46. Convert the decimal number 20 to hexadecimal ",
+        "(A) 14 (Correct Answer)",
+        "(B) 11 (Your Answer)",
+        "(C) 1B",
+        "(D) 2B",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.47. Power of binary system for positional values is",
+        "(A) 2",
+        "(B) 10",
+        "(C) 8",
+        "(D) 16",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.48. Which is not a word size?",
+        "(A) 64",
+        "(B) 28",
+        "(C) 16",
+        "(D) 8",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.49. Which of the following is not a positional number system?",
+        "(A) Roman Number System",
+        "(B) Octal Number System",
+        "(C) Binary Number System",
+        "(D) Hexadecimal Number System",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.50. The octal equivalent of 1100101.001010 is ______",
+        "(A) 624.12",
+        "(B) 145.12",
+        "(C) 154.12",
+        "(D) 145.21",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.51. Number system which contains 5 symbols 0, 1, 2, 3 and 4, is",
+        "(A) binary system",
+        "(B) decimal system",
+        "(C) octal system",
+        "(D) quinary system",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.52. The binary number 1110 is equal to the decimal number ________.",
+        "(A) 3",
+        "(B) 1",
+        "(C) 7",
+        "(D) 14",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.53. The binary equivalent of the decimal number 10 is __________",
+        "(A) 0010",
+        "(B) 10",
+        "(C) 1010",
+        "(D) 010",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.54. Number system which contains 8 different symbols 0, 1, 2, 3, 4, 5, 6, and 7, is",
+        "(A) hexadecimal system",
+        "(B) binary system",
+        "(C) octal system",
+        "(D) quinary system",
+        " Ans .  C  "
+    ]
+]

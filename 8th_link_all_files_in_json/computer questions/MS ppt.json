@@ -1,0 +1,361 @@
+[
+    [
+        "Q.1. Which file format can be added to a power point show?",
+        "(A) .gif",
+        "(B) .jpg",
+        "(C) .wav",
+        "(D) All of above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.2.How to select one hyperlink after another during a slide presentation?",
+        "(A) Ctrl+K",
+        "(B) Ctrl+D",
+        "(C) Ctrl+H",
+        "(D) Tab",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.3.Which power point view works best for adding slide transition?",
+        "(A) Animations",
+        "(B) Chart Wizard",
+        "(C) Transition Wizard",
+        "(D) Auto Content Wizard",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4. Which power point view works best for adding slide transition?",
+        "(A) Slide sorter view",
+        "(B) Slide show view",
+        "(C) Slide view",
+        "(D) Notes",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.5. You can edit an embedded organization chart object by ?",
+        "(A) Double clicking the organization chart object.",
+        "(B) Clicking edit object",
+        "(C) Right clicking the chart object, then clicking edit MS-Organization Chart object.",
+        "(D) A and C both",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.6. Special effects used to introduce slides in a presentation are known as ?",
+        "(A) transition",
+        "(B) effects",
+        "(C) Custom animations",
+        "(D) annotations",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.7. Slide sorter can be accessed from which menu?",
+        "(A) View",
+        "(B) Edit",
+        "(C) File",
+        "(D) Insert",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.8. To print power point presentation, press:",
+        "(A) Ctrl+P",
+        "(B) Ctrl+S",
+        "(C) Ctrl+Shift+P",
+        "(D) Ctrl+A",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9. What would I choose to create a pre-formatted style?",
+        "(A) Format",
+        "(B) Slide layout",
+        "(C) Slide sorter view",
+        "(D) None of above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10. To edit a chart, we can",
+        "(A) Click and drag the chart object",
+        "(B) Double click the chart object",
+        "(C) Triple click the chart object",
+        "(D) Click the chart object",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.11. To preview a motion path effect using the custom animation task pane, we should",
+        "(A) double click the motion path",
+        "(B) click the show effect button",
+        "(C) click the play button",
+        "(D) None of above",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.12. You can create a new presentation by completing all of the following except",
+        "(A) Clicking the new button on the standard toolbar",
+        "(B) Clicking file, new",
+        "(C) Pressing ctrl+N",
+        "(D) Clicking file open",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.13. What is the term used when you press and hold the left mouse key and more the mouse around the slide?",
+        "(A) Moving",
+        "(B) Dragging",
+        "(C) Monitoring",
+        "(D) Highlighting",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.14. What term describes a background that appears as a grainy, non-smooth surface?",
+        "(A) Pattern",
+        "(B) Gradient",
+        "(C) Velvet",
+        "(D) Texture",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.15. Which of the following views is the best view to use when setting transition effects for all slides in a presentation?",
+        "(A) Slide",
+        "(B) Notes page view",
+        "(C) Outline view",
+        "(D) Slide sorter view",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.16. Which of the following will not advance the slides in a slide show view?",
+        "(A) The mouse buttons",
+        "(B) The enter key",
+        "(C) The tab key",
+        "(D) The esc key",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.17. Which option can be used to set custom timings for slides in a presentation?",
+        "(A) Slider Timings",
+        "(B) Slider Timer",
+        "(C) Rehearsal",
+        "(D) Slide Show Setup",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.18. Which type of fonts are best suite for titles and headlines?",
+        "(A) Sans Serif Fonts",
+        "(B) Picture Fonts",
+        "(C) Text Fonts",
+        "(D) Serif Fonts",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.19. Which key can be used to view Slide show?",
+        "(A) F5",
+        "(B) F2",
+        "(C) F7",
+        "(D) F8",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.20. Which of the following can you use to add times to the slides in a presentation?",
+        "(A) Rehearse timing button",
+        "(B) Slice show menu",
+        "(C) Slide transition button",
+        "(D) All of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.21. How can we view slide show repeated continuously?",
+        "(A) Repeat continuously",
+        "(B) Loop continuously until Esc",
+        "(C) loop more",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.22. How can we stop a slide show?",
+        "(A) Press the right arrow",
+        "(B) Press Ctrl+A",
+        "(C) Press Escape",
+        "(D) Press Ctrl+S",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.23. Power point can display data from which of the following add-in software of MS office",
+        "(A) Organization Chart",
+        "(B) Photo Album",
+        "(C) Equation Editor",
+        "(D) All of above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.24. The spelling dialog box can be involved by choosing spelling from...menu.",
+        "(A) tools",
+        "(B) view",
+        "(C) file",
+        "(D) insert",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.25. Which key do you press to check spelling?",
+        "(A) F9",
+        "(B) F7",
+        "(C) F5",
+        "(D) F3",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.26. Power point slides can have?",
+        "(A) title, text, graphs",
+        "(B) drawn objects, shapes",
+        "(C) clipart, drawn art, visual",
+        "(D) any of the above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.27. To open the existing presentation, press",
+        "(A) Ctrl+A",
+        "(B) Ctrl+O",
+        "(C) Ctrl+N",
+        "(D) Ctrl+L",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.28. Ellipse Motion is a predefined.",
+        "(A) Design Template",
+        "(B) Colour Scheme",
+        "(C) Animation Scheme",
+        "(D) None of above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.29. A file which contains ready made styles that can be used for a presentation is called?",
+        "(A) Pre-formatting",
+        "(B) Auto Style",
+        "(C) Wizard",
+        "(D) Template",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.30. What is maximum Zoom percentage in Microsoft Power Point?",
+        "(A) 100%",
+        "(B) 400%",
+        "(C) 300%",
+        "(D) 200%",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.31. How we can put a Chart in the presentation using Power Point?",
+        "(A) Insert-&gt;Pictures-&gt;Chart",
+        "(B) Edit-&gt;Chart",
+        "(C) Insert-&gt;Chart",
+        "(D) View-&gt;Chart",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.32. How we can replace a font on all sides with another font in Power point?",
+        "(A) Tools-&gt;Replace Fonts",
+        "(B) Format-&gt; Replace Fonts",
+        "(C) Edit-&gt;Fonts",
+        "(D) Tools-&gt;Fonts",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.33. How we can replace a font on all slide with another font in PowerPoint?",
+        "(A) CTRL+O",
+        "(B) CTRL+M",
+        "(C) CTRL+N",
+        "(D) CTRL+F",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.34. Shortcut to insert new slide in the current Presentation is ?",
+        "(A) Through slide sorter view",
+        "(B) Through slide view",
+        "(C) Through slide show",
+        "(D) Through normal view",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.35. The boxes that are displayed to indicate that the text, pictures or objects are placed in it is called?",
+        "(A) Word Art",
+        "(B) Auto Text",
+        "(C) Placeholder",
+        "(D) Text box",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.36. What is a slide-title master pair?",
+        "(A) The title is and text area of a specific slide",
+        "(B) A slide master and title master for a specific design template",
+        "(C) A slide master and title master merged in to a single slide",
+        "(D) Count",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.37. What is a motion path in Power point?",
+        "(A) A method of moving items on a slide",
+        "(B) A type of animation entrance effect",
+        "(C) A method of advancing slides",
+        "(D) All of above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.38. In power point the arrangement of elements such as Title and subtitle text, pictures, tables etc. is known as?",
+        "(A) Presentation",
+        "(B) Layout",
+        "(C) Design",
+        "(D) Scheme",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.39. Which pane would be used to enter a speakers information about what can be said about each slide?",
+        "(A) Notes pane",
+        "(B) Outline pane",
+        "(C) Slide pane",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.40. In Microsoft Power Point two kind of sound effects files that can be added to the presentation are?",
+        "(A) .wav files and .gif files",
+        "(B) .jpg files and .gif files",
+        "(C) .wav files and .mid files",
+        "(D) .wav files and .jpg files",
+        " Ans .  C  "
+    ]
+]

@@ -1,0 +1,541 @@
+[
+    [
+        "Q.1 Advantage of magnetic input media is ",
+        "(A) high speed",
+        "(B) flexibility in accessing data",
+        "(C) low cost",
+        "(D) All of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.2 Which of the following is not one of the three primary functions that on-line direct access system can serve?",
+        "(A) inquiry",
+        "(B) back-up",
+        "(C) update",
+        "(D) programming",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.3 A direct entry input device?",
+        "(A) optical scanner",
+        "(B) mouse",
+        "(C) light pen",
+        "(D) all of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.4 What device is used for entering x  y co-ordinates?",
+        "(A) card reader",
+        "(B) joystick",
+        "(C) keyboard",
+        "(D) all of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.5 Which one of the following is required when more than one person uses a central computer at the same time?",
+        "(A) terminal",
+        "(B) light pen",
+        "(C) digitizer",
+        "(D) mouse",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.6 Which of the following typically uses a keyboard for input?",
+        "(A) desktop terminal",
+        "(B) point of sale terminal",
+        "(C) financial transaction terminal",
+        "(D) all of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.7 Which of the following is not true of punched cards as data entry media?",
+        "(A) they can be used as turnaround documents.",
+        "(B) they are inexpensive.",
+        "(C) input is slow compared with other media",
+        "(D) they are easily damaged",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.8 The primary advantage of key to tape data entry system is ",
+        "(A) a large percentage of editing can be performed at the time of data entry",
+        "(B) key verification is easily performed",
+        "(C) tape is reusable",
+        "(D) keying errors can be detected as they occur",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.9 Linkage between CPU and users is provided by ",
+        "(A) peripheral devices",
+        "(B) storage",
+        "(C) control unit",
+        "(D) software",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.10 Which of the following is widely used in academic testing?",
+        "(A) MICR",
+        "(B) POS",
+        "(C) OCR",
+        "(D) OMR",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.11 Which printer is a non-impact printer that can produce very high quality, letter perfect printing?",
+        "(A) dot matrix printer",
+        "(B) daisy wheel printer",
+        "(C) electrostatic printer",
+        "(D) laser printer",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.12 The POS data entry system is used must extensively by ",
+        "(A) banking industry",
+        "(B) grocery industry",
+        "(C) railroad industry",
+        "(D) word-processing industry",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.13 A disadvantage of the laser printer is that ",
+        "(A) it is quieter than an impact printer",
+        "(B) it is very slow",
+        "(C) output is of a lower quality",
+        "(D) none of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.14 Data entry can be performed with all of the following except?",
+        "(A) OCR",
+        "(B) OMR",
+        "(C) COM",
+        "(D) MICR",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.15 Magnetic tape can serve as ",
+        "(A) input media",
+        "(B) output media",
+        "(C) secondary storage media",
+        "(D) all of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.16 The advantage of COM are ",
+        "(A) compact size, readability",
+        "(B) compact size, speed",
+        "(C) readability size, speed",
+        "(D) low cost, readability",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.17 MICR has made possible to ",
+        "(A) cashless society",
+        "(B) checkless society",
+        "(C) credit less society",
+        "(D) none of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.18 The parity bit is added for ",
+        "(A) coding",
+        "(B) indexing",
+        "(C) error detection",
+        "(D) updating",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.19 The two basic types of record access methods are ",
+        "(A) sequential and random",
+        "(B) direct and immediate",
+        "(C) sequential and indexed",
+        "(D) on line and real time",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.20 Which of the following types of terminals is entirely dependent for all its capabilities on the computer system to which it is connected?",
+        "(A) smart terminal",
+        "(B) dumb terminal",
+        "(C) microcomputer",
+        "(D) none of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.21 What input device uses switch contacts placed under a plastic pad which may be inscribed with symbols?",
+        "(A) touch pad",
+        "(B) punched card",
+        "(C) soft keyboard",
+        "(D) mouse",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.22 Which of the following is used only for data entry and storage and never for processing?",
+        "(A) mouse",
+        "(B) dumb terminal",
+        "(C) microcomputer",
+        "(D) all of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.23 Which of the following are often used to ensure data has been accurately input to the computer?",
+        "(A) keyboard",
+        "(B) light pen",
+        "(C) digitizers",
+        "(D) none of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.24 Which of the following is not a direct entry input device?",
+        "(A) keyboard",
+        "(B) light pen",
+        "(C) digitizers",
+        "(D) none of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.25 Which of the following would you most likely use at home as well as in the office connected to a central computer?",
+        "(A) dump terminal",
+        "(B) point of sale terminal",
+        "(C) financial transaction terminal",
+        "(D) microcomputer",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.26 Which of the following is used to insure the high quality of computer output?",
+        "(A) voice output system",
+        "(B) output controls",
+        "(C) computer output microfilm",
+        "(D) liquid crystal display",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.27 Which of the following technologies will you likely see in laptop computers?",
+        "(A) voice output systems",
+        "(B) output controls",
+        "(C) computer output microfilm",
+        "(D) liquid crystal display",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.28 Which of the following is the principal difference between a monochrome monitor and an RGB monitor?",
+        "(A) number of electron guns",
+        "(B) resolution",
+        "(C) size",
+        "(D) cost",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.29 Which of the following can be output by a computer?",
+        "(A) graphics",
+        "(B) voice",
+        "(C) text",
+        "(D) all of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.30 Output hardware is often categorized according to whether it.",
+        "(A) is expensive",
+        "(B) requires a large amount of electricity to work",
+        "(C) produces hardcopy or softcopy",
+        "(D) can fit on a desktop",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.31 Large computer system typically uses.",
+        "(A) dot-matrix printers",
+        "(B) daisy wheel printers",
+        "(C) ink jet printers",
+        "(D) line printers",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.32 Which of the following printers, are you sure will not be used if your objective is to print on multi carbonforms?",
+        "(A) daisy wheel",
+        "(B) cot-matrix",
+        "(C) laser",
+        "(D) thimble",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.33 Which of the following is not part of CRT?",
+        "(A) phosphorous screen",
+        "(B) shadow mask",
+        "(C) electron gun",
+        "(D) gas plasma",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.34 Which of the following does not affect the resolution of a video display image?",
+        "(A) bandwidth",
+        "(B) raster scan rate",
+        "(C) vertical and horizontal lines of resolution",
+        "(D) screen size",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.35 Which of the following is used to produce high quality graphics (hard copy) in color?",
+        "(A) RGB monitor",
+        "(B) plotter",
+        "(C) ink jet printer",
+        "(D) laser printer",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.36 The terminal device that functions as a cash register computer terminal, and OCR reader is ",
+        "(A) video display terminal",
+        "(B) OCR register terminal",
+        "(C) data collection terminal",
+        "(D) POS terminal",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.37 The technique designed to support the effective access of microfilmed data is ",
+        "(A) micro fiche retrieval",
+        "(B) COM",
+        "(C) micrographics",
+        "(D) all of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.38 An impact printer that uses an interchangeable, rotating printing unit for hard copy output is .",
+        "(A) terminal printer",
+        "(B) wire-matrix printer",
+        "(C) drum printer",
+        "(D) daisy wheel printer",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.39 Which of the following printing devices provide an output composed of a series of dots?",
+        "(A) coir-matrix printer",
+        "(B) band printer",
+        "(C) Wang image printer",
+        "(D) either (A) or (C)",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.40 Which of the following terminals output most closely resembles the output produced by a plotter?",
+        "(A) graphics terminal",
+        "(B) POS terminal",
+        "(C) hard copy terminals",
+        "(D) all of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.41 Which of the following impact printers print fastest?",
+        "(A) band printers",
+        "(B) chain printer",
+        "(C) drum printer",
+        "(D) all of them",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.42 Which of the following statements is true?",
+        "(A) all hard copy terminals use punched paper tapes.",
+        "(B) intelligent terminals provide hard copy outputs only.",
+        "(C) microfiche is always produced directly from printed outputs.",
+        "(D) None of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.43 In what storage device, recording is done by burning tiny pits on a circular disk?",
+        "(A) Punched cards",
+        "(B) floppy disk",
+        "(C) magnetic tape",
+        "(D) optical disk",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.44 The terminal device often used in checking change card that offer both a limited keyboard input and visual output is.",
+        "(A) intelligent terminal",
+        "(B) POS terminal",
+        "(C) video display terminal",
+        "(D) audio response unit",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.45 Which of the following is used to copy stored data into another?",
+        "(A) drum",
+        "(B) dump",
+        "(C) punching",
+        "(D) none of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.46 The computer code for the interchange of information between terminals is ",
+        "(A) ASCII",
+        "(B) BCD",
+        "(C) EBCDIC",
+        "(D) HOLLERITH",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.47 A temporary storage area, attached to the CPU for I/O operations is a .",
+        "(A) channel",
+        "(B) buffer",
+        "(C) register",
+        "(D) core",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.48 Josephson tunneling device illustrates principles associated with the advanced storage technique",
+        "(A) cryogenics",
+        "(B) CCD",
+        "(C) EBAM",
+        "(D) holographing",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.49 A serial card reader would be expected to be ",
+        "(A) faster than a parallel reader",
+        "(B) more expensive than a parallel reader",
+        "(C) Both a and b",
+        "(D) none of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.50 Punched cards use .",
+        "(A) alphanumeric code",
+        "(B) Hollerith code",
+        "(C) EBCDIC code",
+        "(D) ASCII code",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.51.The two types of output devices are -",
+        "(A) Monitor and Printer",
+        "(B) Floppy disc and CD",
+        "(C) Keyboard and Mouse",
+        "(D) Window 2000 and Windows NT",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.52. Mouse technique used for access in properties of any object is -",
+        "(A) Dragging",
+        "(B) Dropping",
+        "(C) Right clicking",
+        "(D) Shift clicking",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.53. Dot-matrix is a type of device -",
+        "(A) Scanner",
+        "(B) Printer",
+        "(C) Keyboard",
+        "(D) Mouse",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.54. Tab key used -",
+        "(A) To move the cursor on screen",
+        "(B) To indent a paragraph",
+        "(C) To move a cursor",
+        "(D) Only a and b",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.55. To go to the beginning of a text line press -",
+        "(A) Home",
+        "(B) Page up",
+        "(C) Enter",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.56.The most common input devices are -",
+        "(A) Microphone, printer",
+        "(B) Scanner, monitor",
+        "(C) Digital camera, speaker",
+        "(D) Keyboard, mouse",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.57. To see all information which device output uses?",
+        "(A) Monitor",
+        "(B) Keyboard",
+        "(C) ALU",
+        "(D) CPU",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.58. Type of mouse is -",
+        "(A) Mechanical, general",
+        "(B) Optical, mechanical",
+        "(C) Full duplex",
+        "(D) Automatic",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.59.The number of function keys in a keyboard is -",
+        "(A) 14",
+        "(B) 13",
+        "(C) 12",
+        "(D) 15",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.60. Printing head and paper is touched in",
+        "(A) Non-impact printer",
+        "(B) Impact printer",
+        "(C) Both a and b",
+        "(D) Thermal printer",
+        " Ans .  B "
+    ]
+]

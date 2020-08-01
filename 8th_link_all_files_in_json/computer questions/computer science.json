@@ -1,0 +1,360 @@
+[
+    [
+        "Q.1 In a generic microprocessor, instruction cycle time is.",
+        "(A) shorter than machine cycle time",
+        "(B) larger than machine cycle time",
+        "(C) exactly double the machine cycle time",
+        "(D) exactly the same as the machine cycle time.",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.2 What is the minimum number of operations required, for a microprocessor with 8 data pins, to read a 32-bit word?",
+        "(A) 1",
+        "(B) 2",
+        "(C) 4",
+        "(D) 8",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.3 The flow and timing of data to and form the microprocessor is regulated by",
+        "(A) control pins",
+        "(B) address pins",
+        "(C) data pins",
+        "(D) power pins",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.4 What type of control pins are needed in a microprocessor to regulate traffic on the bus, in order to prevent two devices from trying to use it at the same time?",
+        "(A) Bus control",
+        "(B) Interrupts",
+        "(C) Bus arbitration",
+        "(D) Status",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.5 A 32 bits microprocessor has the word length equal to.",
+        "(A) 2 bytes",
+        "(B) 1 bytes",
+        "(C) 4 bytes",
+        "(D) 8 bytes",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.6 A microprocessor with 12 address lines is capable of addressing",
+        "(A) 1024 locations",
+        "(B) 2048 locations",
+        "(C) 4096 locations",
+        "(D) 64 k locations",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.7 \" \"",
+        "(A)16-bit register that point to stack memory locations.",
+        "(B) 16-bit accumulator",
+        "(C) memory location in the stack",
+        "(D) flag register used for the stack",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.8 Which of the following statements is true about the Program Counter (PC) ?",
+        "(A) it is a cell in ROM",
+        "(B) It is a register",
+        "(C) During execution of the current instruction, its content changes.",
+        "(D) It counts the number of instructions executed in a program.",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.9 Which of the following is not a register?",
+        "(A) buffer",
+        "(B) stack",
+        "(C) program counter",
+        "(D) accumulator",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.10 The clock interrupt handle on a computer requires 2 msee per clock tick. The clock runs at 60 Hz. What per cent of the CPU is devoted to the clock?",
+        "(A) 1.2",
+        "(B) 7.5",
+        "(C) 12",
+        "(D) 18.5",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.11 If a microcomputer operates at 5 MHz with an 8 bit bus and a newer version operates at 20 MHz with a 32 bit bus, the maximum speed up possible approximately will be",
+        "(A) 2",
+        "(B) 4",
+        "(C) 6",
+        "(D) 16",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.12 Index register in a microprocessor is used for.",
+        "(A) indirect addressing",
+        "(B) pointing to the stack address",
+        "(C) address modification",
+        "(D) keeping track of the number of time a loop is executed",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.13 The sequence of events that happen during a typical operation.",
+        "(A) PC MAR memory MDR IR",
+        "(B) PC Memory MDR IR",
+        "(C) PC Memory IR",
+        "(D) PC MAR Memory IR",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.14 A byte addressable computer has memory capacity of 2m bytes add confirm 2n operations. An instruction involving 3 operands and operator needs a maximum of.",
+        "(A) 3m hits",
+        "(B) 3m + n hits",
+        "(C) m + n hits",
+        "(D) none of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.15 In the previous problem if the computer is word addressable with the word size being 8 bytes, then the answer will be",
+        "(A) 3m hits",
+        "(B) 3m + n hits",
+        "(C) m + n hits",
+        "(D) none of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.16 The addressing mode used in an instruction of the form ADD X, Y is.",
+        "(A) absolute",
+        "(B) immediate",
+        "(C) indirect",
+        "(D) index",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.17 Which of the following units cannot be used to measure the speed of computer?",
+        "(A) MIPS",
+        "(B) MFLOPS",
+        "(C) FLOPS",
+        "(D) BAUD",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.18 A set of related program is called.",
+        "(A) script",
+        "(B) arrays",
+        "(C) stacks",
+        "(D) package",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.19 Program status word (PSW) contains various (different) status of.",
+        "(A) CPU",
+        "(B) ALU",
+        "(C) program",
+        "(D) registers",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.20 Microprogramming is designing of.",
+        "(A) ALU",
+        "(B) CPU",
+        "(C) ROM",
+        "(D) Control Units",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.21. Which among the following is not an internet browser?",
+        "(A) Netscape Navigator",
+        "(B) Chrome",
+        "(C) Drupal",
+        "(D) Opera",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.22. What should be minimum requirement of random-access memory (RAM) for internet access?",
+        "(A) 8 MB",
+        "(B) 16 MB",
+        "(C) 32 MB",
+        "(D) 64 MB",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.23. A modern is not needed when accessing the internet through:",
+        "(A) LAN",
+        "(B) Cable",
+        "(C) Wi-Fi",
+        "(D) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.24.The time required for the fetching and execution of one simple machine instruction is",
+        "(A) Delay time",
+        "(B) CPU cycle",
+        "(C) Real-time",
+        "(D) Seek time",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.25.Binary numbers need more places for counting because",
+        "(A) They are always big numbers",
+        "(B) Any no. of 0's can be added in front of them",
+        "(C) Binary base is small",
+        "(D) 0's and l's have to be properly spaced apart",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.26. ASCII and EBCDIC are the popular character coding systems.",
+        "(A) Extended Binary Coded Decimal Interchange Code",
+        "(B) Extended Bit Code Decimal Interchange Code",
+        "(C) Extended Bit Case Decimal Interchange Code",
+        "(D) Extended Binary Case Decimal Interchange Code",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.27.Macro processor is an inbuilt function of -",
+        "(A) Assembler ",
+        "(B) Loader",
+        "(C) Linker      ",
+        "(D) Editor",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.28.When referring to instruction words, a mnemonic is:",
+        "(A) a short abbreviation for the operand address",
+        "(B) a short abbreviation for the operation to be performed",
+        "(C) a short abbreviation for the data word stored at the operand address",
+        "(D) shorthand for machine language",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.29.Which bus is bidirectional?",
+        "(A) data bus",
+        "(B) control bus",
+        "(C) address bus",
+        "(D) multiplexed bus",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.30. What type of process creates a smaller file that is faster to transfer over the internet?",
+        "(A) Compression",
+        "(B) Fragmentation",
+        "(C) Encapsulation",
+        "(D) None of the above",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.31. Which of the following is used to Manage Data Base?",
+        "(A) Operating System",
+        "(B) Compiler",
+        "(C) DBMS",
+        "(D) None of the above",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.32. Which of the following is an example of non-volatile memory?",
+        "(A) Cache memory",
+        "(B) RAM",
+        "(C) ROM",
+        "(D) None of the above",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.33. Which of the following memories is an optical memory?    ",
+        "(A) Floppy Disk",
+        "(B) Bubble Memories",
+        "(C) CDROM",
+        "(D) Core Memories",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.34.Java was originally invented by      ",
+        "(A) Oracle",
+        "(B) Microsoft",
+        "(C) Novell",
+        "(D) Sun",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.35. Whose trademark is the operating system UNIX?    ",
+        "(A) Motorola",
+        "(B) Microsoft",
+        "(C) BELL Laboratories",
+        "(D) AshtonTate",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.36. Main memory of computer is -",
+        "(A) Internal",
+        "(B)External",
+        "(C)(A) and (B)both",
+        "(D)Auxiliary",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.37. The contents of memory into blocks of the same size is called as:",
+        "(A) ROM",
+        "(B)EPROM",
+        "(C)EEPROM",
+        "(D)All of above",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.38. What is the permanent memory built into your computer called?",
+        "(A) RAM",
+        "(B)ROM",
+        "(C)CPU",
+        "(D)CD-ROM",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.39. In Binary System, the power of _____ is used .",
+        "(A) 2",
+        "(B) 4",
+        "(C) 6",
+        "(D) 8",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.40. Who among the following are the Founders of Social Networking Site: Twitter ?",
+        "(A) Chris Hughes, Dustin Moskovitz, Eduardo Saverin, Mark Zuckerberg",
+        "(B) Larry Page, Sergey Brin",
+        "(D) Jawed Karim, Chad Hurley, Steve Chen",
+        " Ans .  C   "
+    ]
+]

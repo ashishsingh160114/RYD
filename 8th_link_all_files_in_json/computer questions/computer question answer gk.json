@@ -1,0 +1,405 @@
+[
+    [
+        "Q.1 How many modes of operation are there in 8255 PPI?",
+        "(A) 1",
+        "(B) 2",
+        "(C) 3",
+        "(D) 4",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.2 The RST 5.5 Interrupt Service routine starts from the location.",
+        "(A) 0020 H",
+        "(B) 0024 H",
+        "(C) 0028 H",
+        "(D) 002C H",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.3 If instruction RST is written in a program the problem will jump to the location.",
+        "(A) 0020 H",
+        "(B) 0024 H",
+        "(C) 0028 H",
+        "(D) 002C H",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.4 SN 7410 IC is a .",
+        "(A) Triple 3 input NAND gate",
+        "(B) 2 input NAND gate",
+        "(C) Triple 3 input NAND with open collector",
+        "(D) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.5 Microprocessor 8085 is enhanced version of . With essentially the same construction set.",
+        "(A) 6800",
+        "(B) 68000",
+        "(C) 8080",
+        "(D) 8000",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.6 What is the main difference between synchronous and asynchronous transmission?",
+        "(A) band width required is different.",
+        "(B) pulse height is different.",
+        "(C) clocking is derived from the data in synchronous transmission.",
+        "(D) clocking is mixed with data in asynchronous transmission.",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.7 The transmission signal coding method for T, the carrier is called..",
+        "(A) NRZ",
+        "(B) Bipolar",
+        "(C) Manchester",
+        "(D) Binary",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.8 In a synchronous modem, the digital-to-analog converter sends a signal to the",
+        "(A) transmission line",
+        "(B) modulator",
+        "(C) terminal",
+        "(D) equalizer",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.9 Which section of a synchronous modem contains the scrambler?",
+        "(A) Terminal section",
+        "(B) Receiver section",
+        "(C) Control section",
+        "(D) Transmission section",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.10 The synchronous modems are more expensive than the asynchronous modems because.",
+        "(A) they must contain clock recovery circuits",
+        "(B) production volume is larger",
+        "(C) they must operate on a larger bandwidth",
+        "(D) They are larger",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.11 Which printer is a non-impact printer that can produce very high quality, letter-perfect printing?",
+        "(A) dot matrix printer",
+        "(B) daisy wheel printer",
+        "(C) electrostatic printer",
+        "(D) laser printer",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.12 The POS data entry system is used must extensively by ",
+        "(A) banking industry",
+        "(B) grocery industry",
+        "(C) railroad industry",
+        "(D) word-processing industry",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.13 A disadvantage of the laser printer is that ",
+        "(A) it is quieter than an impact printer",
+        "(B) it is very slow",
+        "(C) output is of a lower quality",
+        "(D) none of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.14 Data entry can be performed with all of the following except?",
+        "(A) OCR",
+        "(B) OMR",
+        "(C) COM",
+        "(D) MICR",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.15 Magnetic tape can serve as ",
+        "(A) input media",
+        "(B) output media",
+        "(C) secondary storage media",
+        "(D) all of these",
+        ""
+    ],
+    [
+        "Q.16. The word bandwidth is also used to mean ________?",
+        "A. width of the data cable ",
+        "B. number of the computers on a particular network ",
+        "C. amount of data transferred ",
+        "D. None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.17. Which of the following tool is not normally used during system analysis?",
+        "A. Program flow chart ",
+        "B. Grid chart ",
+        "C. Question check list ",
+        "D. None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.18. In order to save word document as a web page you need to?",
+        "A. put the appropriate graphics and links on the document ",
+        "B. save the document in simple text format ",
+        "C. use your web browser as an editor and save as URL ",
+        "D. save as HTML",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.19. The ______ of system includes the programs or instructions.",
+        "A. hardware ",
+        "B. icon ",
+        "C. software ",
+        "D. information",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.20. The advantage of DRAM is ?",
+        "A. It is cheaper than SRAM ",
+        "B. It can store more than that of SRAM ",
+        "C. It is faster than SRAM ",
+        "D. None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.21. What is the full form of ADSL ?",
+        "[A]Automatic Digital Subscriber Line",
+        "[B]Asymmetric Direct Subscriber Line",
+        "[C]Asymmetric Digital Subscriber Line",
+        "[D]None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.22.  Which among the following key is used for checking grammar and spelling?",
+        "[A]F3",
+        "[B]F5",
+        "[C]F7",
+        "[D]None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.23. An Autoresponder is a_______on mail server that automatically replies to e-mails ?",
+        "[A]command",
+        "[B]software",
+        "[C]program",
+        "[D]None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.24. DDL is used to define the structure of a database, including the tables, columns, and data types that it contains. Its full form is ?",
+        "[A]Data Definition Language.",
+        "[B]Data Definition Link",
+        "[C]Determination Language.",
+        "[D]None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.25. A DSLAM is a device used by Internet Service Providers (ISPs) to route incoming DSL connections to the Internet. What is its correct full form?",
+        "[A]Digital Subscriber Line Access Multiplexer ",
+        "[B]Digital Subscriber Line Access Multiplier ",
+        "[C]Digital Service Line Access Multiplexer ",
+        "[D]None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.26. When we work on any document on PC, it is stored temporarily on-",
+        "(A) RAM",
+        "(B)ROM",
+        "(C)CPU",
+        "(D)Flash memory",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.27. The faster, costlier and relatively small from of storage managed by computer system hardware is:",
+        "(A) Main Memory",
+        "(B)Flash Memory",
+        "(C)Cache",
+        "(D)Disk",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.28. The analytical engine developed during first generation of computers used __________ as a memory unit.",
+        "(A) RAM",
+        "(B)Floppies",
+        "(C)Cards",
+        "(D)Counter wheels",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.29. Which is the most common request-response protocol used in Internet for word processing?",
+        "(A) SMTP",
+        "(B) FTP",
+        "(C) HTTP",
+        "(D) TTY",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.30. Indian National Advisory Board for Libraries was setup in 1966 by -",
+        "(A) Association of Indian Universities",
+        "(B) Ministry of Education",
+        "(C) Planning Commission",
+        "(D) University Grants Commission",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.31. Which of the following is not a language of DBMS?",
+        "(A) DDL",
+        "(B) DML",
+        "(C) PASCAL",
+        "(D) PLI",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.32. One kilobyte is equal to:",
+        "(A) 1000 bytes",
+        "(B) 100 bytes",
+        "(C) 1024 bytes",
+        "(D) 1023 bytes",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.33. Which supercomputer is developed by the Indian Scientists?",
+        "(A) Param",
+        "(B) Super 301",
+        "(C) Compaq Presario",
+        "(D) CRAY YMP",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.34. In binary code, the number 7 is written as -",
+        "(A) 110",
+        "(B) 111",
+        "(C) 101",
+        "(D) 100",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.35.Load address for the first word of the program is called",
+        "(A) Linker address origin",
+        "(B) Load address origin",
+        "(C) Phase library",
+        "(D) Absolute library",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.36.Shell is the exclusive feature of",
+        "(A) UNIX",
+        "(B) DOS",
+        "(C) System software",
+        "(D) Application software",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.37.What is memory in Computer?",
+        "(A) is a sequence of instructions",
+        "(B) is the device where information is stored",
+        "(C) is an device that performs a sequence of operations specified by instructions in memory",
+        "(D) none of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.38.A computer program that converts assembly language to machine language is",
+        "(A) Compiler",
+        "(B) Interpreter",
+        "(C) Assembler",
+        "(D) Comparator",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.39.The time for which a piece of equipment operates is called",
+        "(A) Seek time",
+        "(B) Effective time",
+        "(C) Access time",
+        "(D) Real time",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.40.Which access method is used for obtaining a record from a cassette tape?",
+        "(A) Direct",
+        "(B) Sequential",
+        "(C) Random",
+        "(D) All of the above",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.41. Due to the growth of the internet and the predicted depletion of available addresses, a new version of IP version 6 using.for the address was developed in 1995:",
+        "(A) 128 Bits",
+        "(B) 129 Bits",
+        "(C) 130 Bits",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.42.Two versions of the internet protocol (IP) are in use such as IP version 4 and IP version 6 each version defines as IP address...",
+        "(A) Same",
+        "(B) Unique",
+        "(C) Different",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.43. In the early stages of development of the internet protocol, network administrators interpreted an IP address in . parts:",
+        "(A) Network Number Portion",
+        "(B) Host Number Portions",
+        "(C) Both of Above",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.44. In SQL the statement select*from R, S is equivalent to",
+        "(A) Select * from R natural join S",
+        "(B) Select * from R cross join S",
+        "(C) Select * from R union join S",
+        "(D) Select * from R inner join S",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.45. Which of the following is not a consequence of concurrent operations?",
+        "(A) Lost update problem",
+        "(B) Update anomaly",
+        "(C) unrepeatable read.",
+        "(D) Dirty read",
+        " Ans .  B  "
+    ]
+]

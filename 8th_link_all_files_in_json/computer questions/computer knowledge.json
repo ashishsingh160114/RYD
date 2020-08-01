@@ -1,0 +1,412 @@
+[
+    [
+        "Q.1. Transmission of data in one direction is called",
+        "A. simplex",
+        "B. duplex",
+        "C. triplex",
+        "D. None of these",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.2. This type of memory is commonly called temporary or volatile storage",
+        "A. ROM",
+        "B. RAM",
+        "C. Flash Memory",
+        "D. Virtual Memory",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.3. Which of the following is NOT a famous operating system?",
+        "A. Windows Vista",
+        "B. Linux",
+        "C. Sun OS",
+        "D. Virtual Box",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.4.  is the heart of the computer and this is where all the computing is done.",
+        "A. Keyboard",
+        "B. Mouse",
+        "C. Central Processing Unit",
+        "D. Printer",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.5. Computer Keyboard is an example of",
+        "A. input deviceB. output deviceC. input and output bothD. none of these",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.6. What is the full form of IP?",
+        "A. Internet programB. Internet protocolC. Interface programD. Interface protocol",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.7. Select the smallest memory size",
+        "A. kilobyteB. megabyteC. gigabyteD. terabyte",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.8. The word length of a home computer is",
+        "A. 8 bitsB. 16 bitsC. 32 bitsD. 64 bits",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.9. The first commercially available computer is",
+        "A. MACKB. IBMC. UNIVACD. APPPLE",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.10. The micro processor was introduced in",
+        "A. first generation computersB. second generation computersC. third generation computersD. fourth generation computer",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.11. KIS stands for",
+        "A. Knowbot Information ServicesB. Knowbot Information SolutionsC. Knowbot Information SecurityD. None of the above",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.12. Double precision variable can occupy",
+        "A. 2 bytesB. 4 bytesC. 8 bytesD. 16 bytes",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.13. UNIVAC is an example of",
+        "A. first generation computerB. second generation computerC. third generation computerD. fourth generation computer",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.14. Following performs modulation/demodulation",
+        "A. fiber opticB. modemC. satelliteD. coaxial cable",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.15. The alternative name for application software is",
+        "A. utility softwareB. practical softwareC. end user softwareD. specific software",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.16. A computer programmer is a person who",
+        "A. sells programB. use programsC. writes programsD. None of these",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.17. Which of the following is the input device?",
+        "A. scannerB. pointing MouseC. keyboardD. all the above",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.18. The set of instructions that tells the computer what to do is",
+        "A. SoftcopyB. HardwareC. SoftwareD. Hardcopy",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.19. In formatting, floppy is divided into",
+        "A. tracksB. sectorsC. both and bD. None of these",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.20. Multi programming operation provides",
+        "A. Handling of more jobsB. Better scheduling of workC. reduced computer idle timeD. All of the above",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.21. Direct Access Storage Device is also referred as",
+        "A. DISDB. DRDOC. DASDD. None of these",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.22. Laser printer is an example of",
+        "A. impact printerB. electro thermal printerC. ink jet printerD. electro static printer",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.23. The personal computers are also referred as",
+        "A. desktop microsB. palmtop computersC. advanced computersD. all the above",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.24. The Boolean operators of the Internet are",
+        "A. NAND, NOTB. OR, XORC. ADJ, ANDD. All the above",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.25. LAT stands for",
+        "A. Large Area TransmissionB. Local Area TransmissionC. Local Area TransportD. None of the above",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.26. BCD stands for",
+        "A. bits coded decimalB. binary coded decimalC. binary coded dataD. bytes coded decimal",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.27. Punched cards were first introduced by",
+        "A. JacquardB. PascalC. HollerithD. Powers",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.28. One byte is equivalent to",
+        "A. 8 bitB. 16 bitC. 32 bitD. 64 bit",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.29. The number of bits in a word is known as",
+        "A. word countB. word lengthC. bytesD. buffer",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.30. To move forward through the tabs",
+        "A. SHIFT+TABB. CTRL+SHIFT+TABC. CTRL+TABD. None of these",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.31. An Internet connection require",
+        "A. a personal computerB. a modemC. a dial up telephone lineD. all the above",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.32. One million bytes of information is abbreviated as",
+        "A. GBB. MBC. KBD. Bit",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.33. What does SNMP stands for?",
+        "A. Single Network Mail ProtocolB. Simple Network Management ProtocolC. Single Network Message ProtocolD. Simple Network Mail Protocol",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.34. Choose the odd one out",
+        "A. digital computerB. supercomputerC. mini computerD. micro computer",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.35. VLSI was first used with the computers of",
+        "A. first generationB. second generationC. third generationD. fourth generation",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.36. SLIP stands for",
+        "A. Serial Line ProtocolB. Serial Line Internet ProcessingC. Serial Line Internet ProtocolD. None of the above",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.37. Laser printer is an example of",
+        "A. inputB. scannerC. outputD. none of these",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.38. Which of the memory is also known as main memory?",
+        "A. external memoryB. primary memoryC. secondary memoryD. none of these",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.39. Which of the following stores more data?",
+        "A. FloppyB. DVDC. CDD. None of these",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.40. Assembly language is",
+        "A. machine LanguageB. high level programming languageC. a low level programming languageD. none of these",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.41. Primary memory is used by the",
+        "A. I/O devicesB. CPUC. UserD. None of these",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.42. The jump statements of Java consists of",
+        "A. breakB. returnC. continueD. all the above",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.43. BIND stands for",
+        "A. Binary Internet DomainB. Berkely Internet Name DomainC. Binary Intranet DomainD. None of the above",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.44. Which one of the following is not an internal DOS command?",
+        "A. COPYB. CLSC. BREAKD. BACKUP",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.45. IT stands for",
+        "A. Intelligent TechnologyB. Information TechnologyC. Integrated TechnologyD. Interesting Technology",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.46. Central Processing Unit (CPU) consists of",
+        "A. control unitB. arithmetic and logic unitC. registersD. all of these",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.47. The following is an non volatile memory",
+        "A. RAMB. ROMC. VLSID. LSI",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.48. Personal computer can be connected together to form a",
+        "A. supercomputerB. serverC. enterpriseD. network",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.49. CD ROM is a kind of",
+        "A. optical diskB. magneto optical diskC. magnetic diskD. none of these",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.50.  is not an example of centralized controlling topology.",
+        "A. starB. loopC. treeD. bus",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.51. Which of the following is considered to be the strongest password?",
+        "(A) examsbook@2018",
+        "(B) examsbook",
+        "(C) examsbook123",
+        "(D) 123examsbook",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.52. In database, a set of related data is known as:",
+        "(A) Field",
+        "(B) Entry",
+        "(C) Record",
+        "(D) File",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.53. Which of the following device is an example of primary memory?",
+        "(A) RAM",
+        "(B) Google Glass",
+        "(C) Modem",
+        "(D) Li-fi",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.54. ...........appears on the top of the MS-Access 2010 window and display the name of database file and file path.",
+        "(A) Title bar",
+        "(B) Navigation Pane",
+        "(C) Status Bar",
+        "(D) Backstage View",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.55. Which of the following is NOT valid set of data type in MS-Access 2010?",
+        "(A) Text, Auto Number, Attachment",
+        "(B) Hyperlink, Calculated, Yes/No",
+        "(C) Text, Number, Memo",
+        "(D) OLE Object, Integer, Money",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.56. If the user wants to go directly to the slide number 4 during the slide show in MS-Power point 2010. Which of the following shortcut key is used?",
+        "(A) 4+Tab",
+        "(B) 4+Enter",
+        "(C) 4+Shift",
+        "(D) 4+Ctrl",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.57. ...........is a valid example of IP address,",
+        "(A) 192.168.0.08",
+        "(B) examsbook@io.in",
+        "(C) www.examsbook.com",
+        "(D) c:/examsbook/file,doc",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.58. While sending an email, if an email address is put in to..........field, the person will get a copy of the email but no other recipient will see the email address that was put in the above field.",
+        "(A) Cc",
+        "(B) Bcc",
+        "(C) Junk",
+        "(D) Subject",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.59. Which of the following supports cashless transaction? Select the most appropriate option.",
+        "(A) Debit card payment",
+        "(B) Credit card payment",
+        "(C) Net banking payment",
+        "(D) All of the above",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.60. The option in Control panel by which we can manage the energy consumption of the device is:",
+        "(A) Internet Option",
+        "(B) Energy Option",
+        "(C) Electricity Option",
+        "(D) Power Option Show Answer",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.61. ..............is an application program that allows teachers to present their lesson in more dynamic may then simply lecturing and writing on the blackboard.",
+        "(A) MS-Word",
+        "(B) MS-Excel",
+        "(C) Ms-Power point",
+        "(D) MS-AccessShow Answer",
+        " Ans .  C "
+    ]
+]

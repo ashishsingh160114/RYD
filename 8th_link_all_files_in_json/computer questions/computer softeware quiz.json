@@ -1,0 +1,181 @@
+[
+    [
+        "Q.1.In an absolute loading scheme, which loader function is accomplished by programmer?",
+        "(A) Linking     ",
+        "(B) Allocation",
+        "(C) Both (a) and (b)    ",
+        "(D) Reallocation",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.2. Specialized program that allows user to utilize in specific application is classified as",
+        "(A) relative programs",
+        "(B) application programs",
+        "(C) relative programs",
+        "(D) replicate programs",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.3. Examples of system programs includes",
+        "(A) operating system of computer",
+        "(B) trace program",
+        "(C) compiler",
+        "(D) all of above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4. Translator for low level programming language were termed as",
+        "(A) Assembler",
+        "(B) Compiler",
+        "(C) Linker",
+        "(D) Loader",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.5.The translator which perform macro expansion is called a",
+        "(A) Macro processor",
+        "(B) Macro pre-processor",
+        "(C) Micro pre-processor",
+        "(D) Assembler",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6.A program in execution is called",
+        "(A) Process",
+        "(B) Instruction",
+        "(C) Procedure",
+        "(D) Function",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.7.Assembler is a machine dependent, because of?",
+        "(A) Argument list array(ALA)",
+        "(B) Macro definition table(MDT)",
+        "(C) Pseudo operation table(POT)",
+        "(D) Mnemonics operation table(MOT)",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.8.Macro processor is an inbuilt function of -",
+        "(A) Assembler ",
+        "(B) Loader",
+        "(C) Linker      ",
+        "(D) Editor",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9.When referring to instruction words, a mnemonic is:",
+        "(A) a short abbreviation for the operand address",
+        "(B) a short abbreviation for the operation to be performed",
+        "(C) a short abbreviation for the data word stored at the operand address",
+        "(D) shorthand for machine language",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.10.Which bus is bidirectional?",
+        "(A) data bus",
+        "(B) control bus",
+        "(C) address bus",
+        "(D) multiplexed bus",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.11. Set of programs which consist of full set of documentation is termed as",
+        "(A) database packages",
+        "(B) file packages",
+        "(C) bus packages",
+        "(D) software packages",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.12. Program which is used to control system performance is classified as",
+        "(A) experimental program",
+        "(B) system program",
+        "(C) specialized program",
+        "(D) organized program",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.13. Process is",
+        "(A) program in High-level language kept on disk",
+        "(B) contents of main memory",
+        "(C) a program in execution",
+        "(D) a job in secondary memory",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.14.Load address for the first word of the program is called",
+        "(A) Linker address origin",
+        "(B) Load address origin",
+        "(C) Phase library",
+        "(D) Absolute library",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.15.Shell is the exclusive feature of",
+        "(A) UNIX",
+        "(B) DOS",
+        "(C) System software",
+        "(D) Application software",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.16.What is memory in Computer?",
+        "(A) is a sequence of instructions",
+        "(B) is the device where information is stored",
+        "(C) is an device that performs a sequence of operations specified by instructions in memory",
+        "(D) none of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.17.A program -",
+        "(A) is a sequence of instructions",
+        "(B) is the device where information is stored",
+        "(C) is a device that performs a sequence of operations specified by instructions in memory",
+        "(D) none of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.18.A processor-",
+        "(A) is a sequence of instructions",
+        "(B) is the device where information is stored",
+        "(C) is a device that performs a sequence of operations specified by instructions in memory",
+        "(D) none of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.19.What is the difference between mnemonic codes and machine codes?",
+        "(A) There is no difference.",
+        "(B) Machine codes are in binary, mnemonic codes are in shorthand English.",
+        "(C) Machine codes are in shorthand English, mnemonic codes are in binary.",
+        "(D) Machine codes are in shorthand English, mnemonic codes are a high-level language.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.20.The software used to drive microprocessor-based systems is called:",
+        "(A) assembly language programs",
+        "(B) firmware",
+        "(C) BASIC interpreter instructions",
+        "(D) flowchart instructions",
+        " Ans .  A  "
+    ]
+]
