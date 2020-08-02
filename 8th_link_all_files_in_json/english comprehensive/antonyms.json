@@ -1,0 +1,615 @@
+[
+    [
+        "Q.1. He is in deep sleep.",
+        "A. map",
+        "B. sound",
+        "C. shallow",
+        "D. disturbed",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.2. Rama is always logical in his thinking.",
+        "A. correct",
+        "B. rational",
+        "C. irrational",
+        "D. illogical",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.3. Most of the people are loyal to their masters.",
+        "A. cordial",
+        "B. faithful",
+        "C. ungrateful",
+        "D. disloyal",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.4. Private enterprises are always successful in making profits.",
+        "A. generally",
+        "B. public",
+        "C. openly",
+        "D. governmental",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.5. Arun respected his parents.",
+        "A. respectful",
+        "B. respectfulness",
+        "C. respectedness",
+        "D. flouted",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.6. Prasanna has a gruff voice.",
+        "A. rougher",
+        "B. rough",
+        "C. mild",
+        "D. milder",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.7. Many policians parry questions asked by newspaper reporters.",
+        "A. answer",
+        "B. ward off",
+        "C. evasive",
+        "D. face",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.8. There were copious rains.",
+        "A. scanty",
+        "B. plenty",
+        "C. sufficient",
+        "D. scarcity",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.9. Angels descend from the heaven.",
+        "A. increase",
+        "B. ascend",
+        "C. gallop",
+        "D. come down",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.10. Mala looks pretty.",
+        "A. ugly",
+        "B. fine",
+        "C. fairly",
+        "D. unimpressive",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.11. The Pallava rule came to an abrupt end.",
+        "A. harsh",
+        "B. sudden",
+        "C. gradual",
+        "D. slow",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.12. Gandhiji practised Satyagraha.",
+        "A. obeyed",
+        "B. adhered on",
+        "C. abandoned",
+        "D. worked on",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.13. Even in adversity we must be confident.",
+        "A. adverse",
+        "B. prosper",
+        "C. prosperity",
+        "D. haydays",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.14. In 2011, all commodities have become dearer.",
+        "A. scarce",
+        "B. costly",
+        "C. cheaper",
+        "D. cheap",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.15. Our ancient people worshipped nature.",
+        "A. old",
+        "B. modern",
+        "C. past",
+        "D. historical",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.16. Dont write lengthy essays.",
+        "A. shorten",
+        "B. long",
+        "C. verbose",
+        "D. compact",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.17. After a long journey, we become weary.",
+        "A. jaded",
+        "B. fresh",
+        "C. fresh",
+        "D. wearisome",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.18. I abhor violence.",
+        "A. hase",
+        "B. avid",
+        "C. like",
+        "D. invite",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.19. Our neighbouring countries are always enimical.",
+        "A. social",
+        "B. friendly",
+        "C. unfriendly",
+        "D. hostile",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.20. One cannot please all people at all times.",
+        "A. pleasure",
+        "B. displeasure",
+        "C. un pleasure",
+        "D. none of these",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.21. The mist engulfed the ship.",
+        "A. cover",
+        "B. swallow",
+        "C. discover",
+        "D. permeate",
+        "Answer:A",
+        ""
+    ],
+    [
+        "Q.22. One must not disobey the boss.",
+        "A. resist",
+        "B. obey",
+        "C. obeyance",
+        "D. submission",
+        "Answer:B",
+        ""
+    ],
+    [
+        "Q.23. Nothing in life runs smooth.",
+        "A. polish",
+        "B. fine",
+        "C. rough",
+        "D. roughen",
+        "Answer:C",
+        ""
+    ],
+    [
+        "Q.24. Whatever he writes is hazy.",
+        "A. easy",
+        "B. filmy",
+        "C. misty",
+        "D. clear",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.25. The management of the school has closed all admissions.",
+        "A. open",
+        "B. limited",
+        "C. shut",
+        "D. disclose",
+        "Answer:D",
+        ""
+    ],
+    [
+        "Q.26Bias.",
+        "",
+        "(A) prejudice",
+        "(B) tendency",
+        "(C) resent",
+        "(D) inclination",
+        ""
+    ],
+    [
+        "Q.27Coincidence.",
+        "",
+        "(A) incidence",
+        "(B) accident",
+        "(C) chance",
+        "(D) adaptation",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.28Captivate.",
+        "",
+        "(A) allure",
+        "(B) bewitch",
+        "(C) charm",
+        "(D) repent",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.29Deter.",
+        "",
+        "(A) encourage",
+        "(B) differ",
+        "(C) postpone",
+        "(D) prorogue",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.30Distract.",
+        "",
+        "(A) calm",
+        "(B) attract",
+        "(C) contract",
+        "(D) protract",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.31 Obsolete.",
+        "",
+        "(A) up-to-date",
+        "(B) antiquated",
+        "(C) abolished",
+        "(D) disused",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.32Zest.",
+        "",
+        "(A) gusto",
+        "(B) relish",
+        "(C) crowd",
+        "(D) boredom",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.33Dilatory.",
+        "",
+        "(A) tardy",
+        "(B) late",
+        "(C) prompt",
+        "(D) delayed",
+        "The correct answer is option (C)",
+        "",
+        ""
+    ],
+    [
+        "Q.34Malleable",
+        "",
+        "(A) intractable",
+        "(B) dispersal",
+        "(C) plausible",
+        "(D) inexplicit",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.35Palatable.",
+        "",
+        "(A) lovable",
+        "(B) tasty",
+        "(C) rascal",
+        "(D) detesting",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.36Vernacular.",
+        "",
+        "(A) native",
+        "(B) incorrigible",
+        "(C) perfect",
+        "(D) pious",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.37Pastime.",
+        "",
+        "(A) employment",
+        "(B) amusement",
+        "(C) hobby",
+        "(D) pious",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.38Adolescent.",
+        "",
+        "(A) adult",
+        "(B) teen-aged",
+        "(C) essence",
+        "(D) immature",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.39Acute.",
+        "",
+        "(A) extremely sensitive",
+        "(B) dull",
+        "(C) sharp or severe in effect",
+        "(D) critical",
+        "The correct answer is option (B)",
+        "",
+        ""
+    ],
+    [
+        "Q.40Adhere.",
+        "",
+        "(A) to stick fast",
+        "(B) to be devoted",
+        "(C) locate",
+        "(D) loosen",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.41 Admire.",
+        "",
+        "(A) venerate",
+        "(B) celebrate",
+        "(C) display",
+        "(D) desire",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.42Adroit.",
+        "",
+        "(A) clumsy",
+        "(B) cleverly skillful",
+        "(C) dexterous",
+        "(D) profound",
+        "The correct answer is option (A)",
+        "",
+        ""
+    ],
+    [
+        "Q.43Adversity.",
+        "",
+        "(A) affliction",
+        "(B) adverse fortune",
+        "(C) catastrophe",
+        "(D) prosperity",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.45Jovial",
+        "",
+        "(A) scanty",
+        "(B) sad",
+        "(C) imposing",
+        "(D) rascal",
+        "The correct answer is option (B)",
+     ],
+    [
+        "Q.48Migratory.",
+        "",
+        "(A) wandering",
+        "(B) settled",
+        "(C) nomad",
+        "(D) inventory",
+        "The correct answer is option (B)",
+        "",
+        ""
+    ],
+    [
+        "Q.49Clandestine.",
+        "",
+        "(A) illicit",
+        "(B) open manner",
+        "(C) executed with secrecy",
+        "(D) surreptitious",
+        "The correct answer is option (B)",
+        "",
+        ""
+    ],
+    [
+        "Q.50Abandon.",
+        "",
+        "(A) to yield without restraint",
+        "(B) keep",
+        "(C) to leave completely and finally",
+        "(D) ensure",
+        "The correct answer is option (B)",
+        "",
+        ""
+    ],
+    [
+        "Q.51Abrupt.",
+        "",
+        "(A) sharp",
+        "(B) hurried",
+        "(C) lacking in continuity",
+        "(D) gradual",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.52Accuse .",
+        "",
+        "(A) impeach",
+        "(B) exonerate",
+        "(C) to blame",
+        "(D) to call to account",
+        "The correct answer is option (B)",
+        "",
+        ""
+    ],
+    [
+        "Q.53Compliment.",
+        "",
+        "(A) flatter",
+        "(B) panegyric",
+        "(C) eulogy",
+        "(D) disparagement",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.54Compress.",
+        "",
+        "(A) squeeze",
+        "(B) constrict",
+        "(C) expand",
+        "(D) pierce",
+        "The correct answer is option (C)",
+        "",
+        ""
+    ],
+    [
+        "Q.55Cautious.",
+        "",
+        "(A) wary",
+        "(B) impulsive",
+        "(C) circumspect",
+        "(D) gregarious",
+        "The correct answer is option (D)",
+     ],
+    [
+        "Q.57Inhibit.",
+        "",
+        "(A) waver",
+        "(B) prohibit",
+        "(C) release",
+        "(D) restrain",
+        "The correct answer is option (C)",
+        "",
+        ""
+    ],
+    [
+        "Q.58Conceal.",
+        "",
+        "(A) withdraw from observation ",
+        "(B) prevent from divulging",
+        "(C) yield",
+        "(D) reveal",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.59Conceit",
+        "",
+        "(A) favorable opinion",
+        "(B) imagination",
+        "(C) complacency",
+        "(D) humility",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.60Confess.",
+        "",
+        "(A) grant",
+        "(B) conceal",
+        "(C) concede",
+        "(D) acknowledge",
+        "The correct answer is option (B)",
+        "",
+        ""
+    ],
+    [
+        "Q.61Cranky",
+        "",
+        "(A) grouchy",
+        "(B) crotchety",
+        "(C) perverse",
+        "(D) good-natured",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.62Aggressive.",
+        "",
+        "(A) not getting justice",
+        "(B) militant",
+        "(C) retiring",
+        "(D) noisy",
+        "The correct answer is option (C)",
+        "",
+        ""
+    ],
+    [
+        "Q.63Agile.",
+        "",
+        "(A) brisk",
+        "(B) readily able to move quickly",
+        "(C) dim",
+        "(D) sluggish",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.64Aloof.",
+        "",
+        "(A) at a distance",
+        "(B) impartial",
+        "(C) reserved",
+        "(D) involved",
+        "The correct answer is option (D)",
+        "",
+        ""
+    ],
+    [
+        "Q.65Confusion.",
+        "",
+        "(A) disarray",
+        "(B) upright",
+        "(C) rigid",
+        "(D) order",
+        "The correct answer is option (D)  "
+    ]
+]
