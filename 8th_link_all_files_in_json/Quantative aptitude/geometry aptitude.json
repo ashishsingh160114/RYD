@@ -1,0 +1,300 @@
+[
+    [
+        "Q1. An octahedron has 12 edges, How many vertices does it have,</p>",
+        " (A) 10 ",
+        " (B)  6 ",
+        " (C) 8 ",
+        " (D) 18",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q2. If the circumradius of an equilateral triangle ABC be 8 cm, then the height of the triangle is</p>",
+        " (A) 8 cm ",
+        " (B) 12 cm ",
+        " (C) 16 cm ",
+        " (D) 6 cm ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q3. The distance between the center of two equal circles each of radius 3 cm, is 10 cm. The length of a transverse common tangent is</p>",
+        " (A) 4 cm ",
+        " (B) 10 cm ",
+        " (C) 8 cm ",
+        " (D) 6 cm",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q4. The length of diagonal BD of a parallelogram ABCD is 36 cm. P and Q are the centroids of triangle ABC and triangle ADC respectively. What is the length (in cm) of PQ?</p>",
+        " (A) 26 ",
+        " (B) 39 ",
+        " (C) 13 ",
+        " (D) 52",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q5. The radius of the circumcircle of a right-angled triangle is 15 cm and the radius of its in circle is 6 cm. Find the sides of the triangle.</p>",
+        " (A) 30 , 24 , 25 ",
+        " (B) 24 , 36 , 20",
+        " (C) 30 , 40 , 41 ",
+        " (D) 18 , 24 , 30 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q6. A unique circle can always be drawn through x number of given non-collinear points, then X must be</p>",
+        " (A) 4 ",
+        " (B) 1",
+        " (C) 2",
+        " (D) 3 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q7. In triangle ABC, AD, BE and CF are the medians intersecting at point G and area of triangle ABC is 156 cm<sup>2</sup>. what is the area (in cm<sup>2</sup>) of triangle FGE?</p>",
+        " (A) 26 ",
+        " (B) 39 ",
+        " (C) 13 ",
+        " (D) 52",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q8. The maximum number of common tangents drawn to two circles when both the circles touch each other externally is</p>",
+        " (A) 3 ",
+        " (B) 0",
+        " (C) 1",
+        " (D) 2 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q9. The length of the common chord of two intersecting circles is 24 cm. If the diameter of the circles are 30 cm and 26 cm, then the distance between the center (in cm) is</p>",
+        " (A) 15 ",
+        " (B) 16 ",
+        " (C) 13 ",
+        " (D) 14 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q10. An arc of 30  in one circle is double an arc in a second circle, the radius of which is three times the radius of the first. Then the angles subtended by the arc of the second circle at its center is</p>",
+        " (A) 5 ",
+        " (B) 6",
+        " (C) 3 ",
+        " (D) 4 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q11. Two circles intersect at A and B, P is a point on produced BA. PT and PQ are tangents to the circles. The relation of PT and PQ is</p>",
+        " (A) PT &gt; PQ ",
+        " (B) PT = PQ ",
+        " (C) PT = 2PQ ",
+        " (D) PT &lt; PQ ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q12. Two equal circles of radius 4 cm intersect each other such that each passes through the center of the other. The length of the common chord is </p>",
+        " (A) 23 cm ",
+        " (B) 43 cm ",
+        " (C) 22 cm ",
+        " (D) 8 cm",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q13. The length of a chord which is at a distance of 12 cm from the center of a circle of radius 13 cm is</p>",
+        " (A) 6 cm ",
+        " (B) 12 cm  ",
+        " (C) 10 cm ",
+        " (D) 5 cm  ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q14. The length of the common chord of two circles of radii 30 cm and 40 cm whose centers are 50 cm apart is (in cm)</p>",
+        " (A) 36 ",
+        " (B) 48",
+        " (C) 12 ",
+        " (D) 24 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q15. The ratio between the number of sides of two regular polygons is 1 : 2 and the ratio between there interior angles is 2 : 3. The number of sides of these polygons is respectively</p>",
+        " (A) 4, 8",
+        " (B) 7, 14 ",
+        " (C) 6 , 12 ",
+        " (D) 5, 10 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q16. If angle bisector of a triangle bisects the opposite side, then what type of triangle is it?</p>",
+        " (A) Isosceles or equilateral ",
+        " (B)  Isosceles ",
+        " (C) Right angled ",
+        " (D) Equilateral ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q17. The diagonals AC and BD of a cyclic quadrilateral ABCD intersect each other at the point P. Then, it is always true that</p>",
+        " (A) AP . BP = CP . DP ",
+        " (B) AP . CD = AB . CP",
+        " (C) BP . AB = CD . CP ",
+        " (D) AP . CP = BP . DP ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q18. If the circumcenter of the triangle lies outside it, then the triangle is</p>",
+        " (A) Right angled ",
+        " (B) Obtuse angle",
+        " (C) Equilateral",
+        " (D) Acute angled  ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q19. If ABC is an equilateral triangle and P, Q, R respectively denote the middle points of AB, BC, CA, then</p>",
+        " (A) PQ + QR = PQR + AB ",
+        " (B) PQ + QR = PR + 2AB ",
+        " (C) PQR must be a right angled",
+        " (D) PQR must be an equilateral triangle  ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q20. ABC is an isosceles triangle with AB = AC. The side BA is produced to D such that AB = AD. IfABC = 30, thenBCD is equal to</p>",
+        " (A) 30 ",
+        " (B) 60",
+        " (C)  45 ",
+        " (D) 90 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q21. If ABC is an isosceles triangle withC = 90 and AC = 5 cm then AB is :</p>",
+        " (A) 52 cm ",
+        " (B) 2.5 cm",
+        " (C) 5 cm ",
+        " (D) 10 cm ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q22. If AD, BE and CF are medians of ABC, then which one of the following statements is correct?</p>",
+        " (A) AD + BE + CF = AB + BC + CA ",
+        " (B) AD + BE + CF = 2 ( AB + BC + CA )",
+        " (C) ( AD + BE + CF ) &lt; AB + BC + CA ",
+        " (D) AD + BE + CF &gt; AB + BC + CA ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q23. ABC is an isosceles triangle with AB = AC, A circle through B touching AC at the middle point of Q, intersects AB at P. Then AP : AB is :</p>",
+        " (A) 3 : 5 ",
+        " (B) 1 : 4",
+        " (C) 2 : 3 ",
+        " (D) 4 : 1 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q24. If in a triangle, the orthocenter lies on vertex, then the triangle is</p>",
+        " (A) Right angled ",
+        " (B) Equilateral",
+        " (C) Acute angled ",
+        " (D)  Isosceles  ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q25. In a ABCA :B :C= 2 : 3 : 4 . A line CD drawn || to AB, then theACD is:</p>",
+        " (A) 80 ",
+        " (B) 20",
+        " (C) 40 ",
+        " (D) 60 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q26. Ratio of the number of sides of two regular polygons is 5 : 6 and the ratio of their each interior angle is 24 : 25. Then the number of sides of these two polygons are</p>",
+        " (A) 15, 18",
+        " (B) 35, 42",
+        " (C) 10,12 ",
+        " (D) 20,24",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q27. P and Q are center of two circles with radii 9 cm and 2 cm respectively, where PQ = 17 cm, R is the center of another circle of radius x cm, which touches each of the above two circles externally. IfPRQ = 90 , then the value of x is</p>",
+        " (A) 7 cm ",
+        " (B) 8 cm",
+        " (C) 4 cm ",
+        " (D) 6 cm ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q28. Each internal angle of regular polygon is two times its external angle. Then the number of sides of the polygon is:</p>",
+        " (A) 5 ",
+        " (B) 7",
+        " (C) 8 ",
+        " (D) 6 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q29. The in-radius of an equilateral triangle is of length 3 cm. Then the length of each of its medians is</p>",
+        " (A) 4 cm ",
+        " (B) 9 cm",
+        " (C) 12 cm ",
+        " (D) $${9\\over2} $$ cm",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q30. Each interior angle of a regular polygon is 144<sup>0</sup>. The number of sides of the polygon is</p>",
+        " (A)  10 ",
+        " (B) 8",
+        " (C) 9 ",
+        " (D) 11  ",
+        "Correct Answer : A "
+    ]
+]

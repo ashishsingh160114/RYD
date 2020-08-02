@@ -1,0 +1,304 @@
+[
+    [
+        "Q1. Find k, if the line 2x - 3y = 11 is perpendicular to the line 3x + ky = -4?</p>",
+        " (A) -1  ",
+        " (B) 2",
+        " (C) -2 ",
+        " (D) 1 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q2. What is the reflection of the point (-3, 1) in the line x = -2?</p>",
+        " (A) (1, 1) ",
+        " (B) (-3 , 5) ",
+        " (C) (-1, 1) ",
+        " (D) ( -3 , -5)  ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q3. The graphs of x = a and y = b intersect at</p>",
+        " (A) (-a, b) ",
+        " (B) (b, a) ",
+        " (C) ( a, b ) ",
+        " (D) (a, -b)",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q4. What is the equation of line whose slope is -1/2 and passes through the intersection of the lines x-y = -1 and 3x-2y = 0?</p>",
+        " (A) x + 2y = -8 ",
+        " (B) 3x + y = -7 ",
+        " (C) x + 2y = 8 ",
+        " (D) 3x + y = 7 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q5. A line passing through the origin perpendicularly cuts the line 3x  2y = 6 at point M. Find the co-ordinates of M.</p>",
+        " (A) $$\\left({-18\\over13},{-12\\over13} ",
+        "ight)$$",
+        " (B) $$\\left({-18\\over13},{12\\over13} ",
+        "ight)$$",
+        " (C) $$\\left({18\\over13},{12\\over13} ",
+        "ight)$$",
+        " (D) $$\\left({18\\over13},{-12\\over13} ",
+        "ight)$$",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q6. The linear equation such that each point on its graph has an ordinate four times its abscissa is:</p>",
+        " (A) x = 4y",
+        " (B) x + 4y = 0",
+        " (C) y + 4x = 0 ",
+        " (D) y = 4x",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q7. The point P(a, b) is first reflected in origin to P1 and P1 is reflected in Y-axis to (4, -3). What are the coordinates of point P?</p>",
+        " (A) ( -4 , 3 ) ",
+        " (B) ( 3 , 4 ) ",
+        " (C) ( 4 , 3 ) ",
+        " (D) ( -3 , 4 ) ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q8. What is the slope of the line perpendicular to the line passing through the points (-5, 1) and (-2, 0)?</p>",
+        " (A)  3 ",
+        " (B) -1/3 ",
+        " (C) -3 ",
+        " (D) 1/3",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q9. If (2<sup>x</sup>)(2<sup>y</sup>) = 8 and (9<sup>x</sup>)(3<sup>y</sup>) = 81 , then ( x , y ) is :</p>",
+        " (A) ( 1, 1 ) ",
+        " (B) ( 2, 2 )",
+        " (C) ( 1, 2 ) ",
+        " (D) ( 2, 1 ) ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q10. What is the equation of a line having slope -1/3 and y-intercept equal to 6?</p>",
+        " (A) x - 3y = 6 ",
+        " (B) x + 3 y = -18 ",
+        " (C) x + 3 y = 18 ",
+        " (D) x - 3y = -6",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q11. If (2, 0) is a solution of the linear equation 2x + 3y = 5, then the value of k is:</p>",
+        " (A) 2 ",
+        " (B) 4 ",
+        " (C)  6 ",
+        " (D) 5 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q12. If a linear equation is of the form x = k, where k is a constant, then graph of the equation will be</p>",
+        " (A) a line making positive acute angle with x - axis",
+        " (B) a line parallel to y - axis ",
+        " (C) a line parallel to x - axis ",
+        " (D) a line cutting both the axes ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q13. The point Q(a, b ) is first reflected in y-axis to Q1 and Q1 is reflected in x-axis to (-5,3 ). The co-ordinates of point Q are</p>",
+        " (A) (-5 , -3) ",
+        " (B) ( - 5, 3 ) ",
+        " (C) ( 5 , -3 )",
+        " (D) ( 5, 3 ) ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q14. Point A (2, 1) divides segment BC in the ratio 2 : 3. Co-ordinates of B are (1, -3 ) and C are (4 , y). What is the value of y ?</p>",
+        " (A) -8 ",
+        " (B) 7",
+        " (C) 8",
+        " (D) -7 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q15. The graph of the equations 25x + 75y = 225 and x = 9 meet the point:</p>",
+        " (A) ( 3, 0 ) ",
+        " (B) (0, 3)",
+        " (C) (0, 9) ",
+        " (D) (9, 0) ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q16. Point P is the midpoint of segment AB. Co-ordinates of point Pare (2,1) and point B are (11,5) Co-ordinates of point A are</p>",
+        " (A) ( 6.5, 3 ) ",
+        " (B) ( 7, 3 ) ",
+        " (C) ( -7, -3) ",
+        " (D) ( -6.5 , -3 )",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q17. The length of the portion of the straight line 3x + 4y = 12 intercepted between the axes is :</p>",
+        " (A) 4 ",
+        " (B) 7",
+        " (C) 5 ",
+        " (D) 3 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q18. The area bounded by the lines x = 0, y = 0, x + y = 1, 2x + 3y = 6 (in square units) is</p>",
+        " (A) $$2{1\\over2}$$",
+        " (B) 3",
+        " (C) 2  ",
+        " (D) $$2{1\\over3}$$",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q19. What is the equation of the line whose y-intercept is -3/4 and making an angle of 45  with the positive x-axis?</p>",
+        " (A) 4x - 4y = -3 ",
+        " (B) 3x - 3y = 4 ",
+        " (C) 4x - 4y = 3 ",
+        " (D) 3x - 3y = -4",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q20. The graph of 3x + 4y - 24 = 0 forms a triangle OAB with the coordinate axes, where O is the origin. Also, the graph of x + y + 4 = 0 forms a triangle OCD with the coordinate axes. Then the area of  OCD is equal to:</p>",
+        " (A) $${2\\over3}$$ of area of  OAB",
+        " (B) $${2\\over5}$$ of area of  OAB",
+        " (C) $${1\\over2}$$ of area of  OAB",
+        " (D) $${1\\over3}$$ of area of  OAB",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q21. Find co-ordinates of the midpoint of the segment joining points C (3, -5) and D ( -7,3)</p>",
+        " (A) (-5, 4) ",
+        " (B) (2,1)",
+        " (C) (-2, -1) ",
+        " (D) (5, -4) ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q22. In what ratio does the point T (x, 0) divide the segment joining the points S ( -4, -1 ) and U ( 1,4 )?</p>",
+        " (A) 1 : 2 ",
+        " (B) 2 : 1",
+        " (C) 1 : 4 ",
+        " (D) 4 : 1  ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q23. For what value of k, the system of equations kx + 2y = 2 and 3x + y = 1 will be coincident?</p>",
+        " (A) 5 ",
+        " (B) 6",
+        " (C) 2 ",
+        " (D) 3",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q24. Reflection of the point (-1, 4) in the x-axis is:</p>",
+        " (A) (-1, 4) ",
+        " (B) (-1, -4)",
+        " (C) (1, 4) ",
+        " (D) (1, -4) ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q25. If ax - 4y = -6 has a slope of -3 / 2. What is the value of a?</p>",
+        " (A) 3 ",
+        " (B) -6 ",
+        " (C) 6 ",
+        " (D) -3",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q26. Find the area of quadrilateral formed by joining points (4,2), (8,2), (8,14) and (4,10).</p>",
+        " (A) 25 Sq. units ",
+        " (B) 40 Sq. units",
+        " (C) 5 Sq. units ",
+        " (D) 10 Sq. units ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q27. The slopes of two lines are 1 and3. What is the angle between these two lines?</p>",
+        " (A)  $$45^0$$",
+        " (B)   $$60^0$$",
+        " (C)   $$15^0$$",
+        " (D)   $$30^0$$",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q28. The distance between the points (4, 8) and (k, -4) is 13. What is the value of k?</p>",
+        " (A) -1 ",
+        " (B) -3",
+        " (C) 1 ",
+        " (D) 3 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q29. Area of the triangle formed by the graph of the straight lines x - y = 0, x + y = 2 and the x-axis is:</p>",
+        " (A) 2 sq units ",
+        " (B) 4 sq units ",
+        " (C) 1 sq unit ",
+        " (D) None of these",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q30. Which of the following points lies on the line 5x + 4y = 2?</p>",
+        " (A) (-2,3) ",
+        " (B) (2,-3)",
+        " (C) ( 2,3 ) ",
+        " (D) (-2,-3) ",
+        "Correct Answer : A "
+    ]
+]

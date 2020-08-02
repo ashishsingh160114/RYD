@@ -1,0 +1,300 @@
+[
+    [
+        "Q1. If the least common multiple of two numbers, 1728 and K is 5184, then how many values of K are possible?</p>",
+        " (A) 6 ",
+        " (B) 7",
+        " (C) 11",
+        " (D) 8 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q2. Three bells ring simultaneously at 11 a.m. They ring at regular intervals of 20 minutes, 30 minutes, 40 minutes respectively. The time when all the three rings together next is:</p>",
+        " (A) 1.15 p.m. ",
+        " (B) 1.30 p.m.",
+        " (C) 2 p.m. ",
+        " (D) 1 p.m. ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q3. The largest number, which divides 25, 73 and 97 to leave the same remainder in each case, is</p>",
+        " (A)  21 ",
+        " (B) 6",
+        " (C) 24 ",
+        " (D) 23 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q4. A General of an Army wants to create a formation of square from 36562 army men. After arrangement, he found some army men remained unused.</p>",
+        " (A) 81",
+        " (B) 97 ",
+        " (C) 36 ",
+        " (D) 65 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q5. The LCM of three different numbers is 120. Which of the following cannot be their HCF?</p>",
+        " (A) 24",
+        " (B) 35 ",
+        " (C) 8 ",
+        " (D)  12 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q6. The HCF of two numbers, each having three digits, is 17 and their LCM is 714. The sum of the numbers will be:</p>",
+        " (A) 221  ",
+        " (B) 731",
+        " (C) 289 ",
+        " (D) 391 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q7. If the product of three consecutive numbers is 210 then the sum of the smaller numbers is:</p>",
+        " (A) 5 ",
+        " (B) 11",
+        " (C) 3 ",
+        " (D) 4 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q8. Two numbers are in the ratio 3 : 4. Their L.C.M. is 84. The greater number is</p>",
+        " (A) 28",
+        " (B) 84  ",
+        " (C) 21",
+        " (D) 24  ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q9. Three sets of English, Mathematics and Science books containing 336, 240, 96 books respectively have to be stacked in such a way that all the books are stored subject wise and the height of each stack is the same. Total number of stacks will be:</p>",
+        " (A) 22 ",
+        " (B) 48 ",
+        " (C) 14",
+        " (D) 21 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q10. The number of pairs of positive integers whose sum is 99 and HCF is 9 is:</p>",
+        " (A) 3 ",
+        " (B) 4",
+        " (C) 5 ",
+        " (D) 2 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q11. The HCF and LCM of two numbers are 12 and 924 respectively. Then the number of such pairs is:</p>",
+        " (A) 2 ",
+        " (B) 3",
+        " (C)  0 ",
+        " (D) 1 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q12. The least number, which is a perfect square and is divisible by each of the numbers 16, 20 and 24 is</p>",
+        " (A) 6400 ",
+        " (B) 14400",
+        " (C) 1600 ",
+        " (D) 3600 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q13. The greatest number that divides 411, 684, 821 and leaves 3, 4 and 5 as remainders, respectively, is</p>",
+        " (A) 136 ",
+        " (B) 204",
+        " (C) 254 ",
+        " (D) 146",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q14. The least number to be subtracted from 36798 to get a number which is exactly divisible by 78 is</p>",
+        " (A) 38 ",
+        " (B) 68 ",
+        " (C) 18 ",
+        " (D) 60 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q15. The least multiple of 7, which leaves the remainder 4, when divided by any of 6, 9, 15 and 18, is</p>",
+        " (A) 184 ",
+        " (B) 364",
+        " (C) 76 ",
+        " (D) 94 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q16. If the product of three consecutive numbers is 210 then sum of the smaller number is:</p>",
+        " (A) 5 ",
+        " (B) 11",
+        " (C) 3 ",
+        " (D) 4",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q17. The LCM of two multiples of 12 is 1056. If one of the numbers is 132, the other number is</p>",
+        " (A) 96 ",
+        " (B) 132",
+        " (C) 12 ",
+        " (D) 72",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q18. The largest 4 - digit number exactly divisible by each of 12, 15, 18 and 27 is :</p>",
+        " (A) 9930 ",
+        " (B) 9960",
+        " (C) 9690  ",
+        " (D) 9720 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q19. Find the greatest number that will divide 390, 495 and 300 without leaving a remainder.</p>",
+        " (A) 25 ",
+        " (B) 35",
+        " (C) 5 ",
+        " (D) 15  ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q20. When a number is divided by 15, 20 or 35, each time the remainder is 8. Then the smallest number is</p>",
+        " (A) 328 ",
+        " (B) 338",
+        " (C) 428 ",
+        " (D) 427 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q21. A number which when divided by 10 leaves remainder of 9, when divided by 9 leaves a remainder of 8, and when divided by 8 leaves a remainder of 7, is:</p>",
+        " (A) 359 ",
+        " (B) 1359 ",
+        " (C) 1539 ",
+        " (D) 539  ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q22. There are 24 peaches, 36 apricots and 60 bananas and they have to be arranged in several rows in such a way that every row contains the same number of fruits of only one type. What is the minimum number of rows required for this to happen?</p>",
+        " (A) 10",
+        " (B) 6",
+        " (C) 12 ",
+        " (D) 9 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q23. The smallest number, which when increased by 5 is divisible by each of 24, 32, 36 and 54, is</p>",
+        " (A)  571 ",
+        " (B) 427",
+        " (C) 869  ",
+        " (D) 859 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q24. If the students of a class can be grouped exactly into 6 or 8 or 10, then the minimum number of students in the class must be.</p>",
+        " (A) 180 ",
+        " (B) 240 ",
+        " (C) 60 ",
+        " (D) 120 ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q25. A fraction becomes $${1\\over 6}$$ when 4 is subtracted from its numerator and 1 is added to its denominator. If 2 and 1 are respectively added to its numerator and the denominator, it becomes $${1\\over 3}$$. Then, the LCM of the numerator and denominator of the fraction, must be</p>",
+        " (A) 5 ",
+        " (B) 70",
+        " (C) 14 ",
+        " (D) 350 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q26. What least number must be subtracted from 1936 so that the resulting number when divided by 9, 10 and 15 will leave in each case the same remainder 7?</p>",
+        " (A) 39 ",
+        " (B) 30",
+        " (C) 37 ",
+        " (D) 36 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q27. The least number, which when divided by 4, 5 and 6 leaves remainder 1, 2 and 3 respectively is:</p>",
+        " (A) 61",
+        " (B) 63",
+        " (C) 57",
+        " (D) 59 ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q28. A farmer has 945 cows and 2475 sheep. He farms them into flocks, keeping cows and sheep separate and having the same number of animals in each flock. If these flocks are as large as possible, then the maximum number of animals in each flock and total number of flocks required for the purpose are respectively</p>",
+        " (A) 45 and 76 ",
+        " (B) 46 and 75",
+        " (C) 15 and 228 ",
+        " (D) 9 and 380 ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q29. The product of the LCM and HCF of two numbers is 24. The difference of the two numbers is 2. Find the numbers?</p>",
+        " (A) 2 and 4 ",
+        " (B) 6 and 4",
+        " (C) 8 and 6 ",
+        " (D) 8 and 10 ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q30. A milkman has 75 litres milk in one cane and 45 litres in another. The maximum capacity of container which can measure milk of either container exact number:</p>",
+        " (A) 15 litres ",
+        " (B) 25 litres ",
+        " (C) 1 litres ",
+        " (D) 5 litres  ",
+        "Correct Answer : A "
+    ]
+]

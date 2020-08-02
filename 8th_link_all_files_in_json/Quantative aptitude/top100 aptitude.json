@@ -1,0 +1,818 @@
+[
+    [
+        "Q.1. A and B started a business by investing Rs. 36,000 and RS. 63,000. Find the share of each, out of the annual profit of Rs. 5500.",
+        "(A) Rs. 2000, Rs. 3500",
+        "(B) Rs. 2500, Rs. 3500",
+        "(C) Rs. 3500, Rs. 2500",
+        "(D) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.2. A starts some business with Rs. 50,000. After 3 months B joins him with Rs. 70,000. At the end of the year. In what ratio should they share the profit ?",
+        "(A) 1 : 3",
+        "(B) 3 : 2",
+        "(C) 1 : 5",
+        "(D) None of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.3. A started a business by investing Rs. 36,000. After 4 month B joined him with some investment. At he end of the year, the total profit was divided between them in the ratio of 9:7. How much capital was invested by B in the business?",
+        "(A) Rs. 40,000",
+        "(B) Rs. 42,000",
+        "(C) Rs. 41,000",
+        "(D) None of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.4. A started some business with RS 26,000. After 3 month B joined him with Rs. 16,000. After some more time C joined them with Rs. 25,000. At he end of the year, out of a total profit of Rs.15,453 C gets Rs. 3825 as his share. How many month after B joined the business did C join?",
+        "(A) 3",
+        "(B) 4",
+        "(C) 5",
+        "(D) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.5. A, B and C started a business with their investment in the ratio 1 : 2 : 4. After 6 month A invested the half amount more as before and B invested same the amount as before while C withdrewof the their investment. Find the ratio of their profits at the end of the year.",
+        "(A) 5 : 12 : 13",
+        "(B) 5 : 11 : 14",
+        "(C) 5 : 12 : 14",
+        "(D) None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.6. A started a business with Rs. 52,000 and after 4 months B joined him with Rs. 39,000. At the end of the year, out of the total profit B received total 20,000 including 25% of the profit as commission for managing the business. What amount did A receive?",
+        "(A) Rs. 20,000",
+        "",
+        "(B) Rs. 10,000",
+        "(C) Rs. 15,000",
+        "(D) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.7. A working partner get 20% as his commission of the profit after his commission is paid. If the working partners commission is Rs. 8000, Then what is the total profit in the business?",
+        "(A) Rs. 47,000",
+        "(B) Rs. 45,000",
+        "(C) Rs. 48,000",
+        "(D) None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.8. Sharma Reader publication makes a profit of 9,00,000, 20% of which is paid as taxes. If the rest is divided among the partners P Q and R in the ratio of  1:: 2, then the shares of P, Q and R are respectively:",
+        "(A)Rs. 2,40,000; Rs. 3,20,000; Rs. 1,60,000",
+        "(B) Rs. 3,20,000; Rs. 2,40,000; Rs. 1.60,000",
+        "(C) Rs. 1,60,000; Rs. 3,20,000; Rs. 2,40,000",
+        "(D) Rs. 1,60,000; Rs. 2,40,000; Rs. 3,20,000",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.9. We have to divide a sum of Rs. 13,950 among three person A, B and C. B must get the double of As share and C must get Rs. 50 less than the double of Bs share. The share of A will be :",
+        "(A) Rs. 1950",
+        "(B) Rs. 1981.25",
+        "(C) Rs. 2000",
+        "(D) Rs. 2007.75",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.10. A started business with Rs. 45,000 and B joined after ward with 30,000. If the profit at the end of a year was divided in the ratio 2 : 1 respectively, then B would have joined A for business after.",
+        "(A) 1 month",
+        "(B) 2 month",
+        "(C) 3 month",
+        "(D) 4 month",
+        " Ans . C ",
+        ""
+    ],
+    [
+        "Q.11. Out of 10 teachers of a school, one teacher retires and in place of him a new teacher 25 yrs. old joins. As a result of it average age of the teachers reduces by 3 yrs. Age of the retired teacher (in yrs.) is.",
+        "(A) 55",
+        "(B) 65",
+        "(C) 45",
+        "(D) 75",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.12. The average weight of 20 students in a class is increased by 0.75 kg when one student of 35 kg replaced by a new student weight of the new student (in kg) is:",
+        "(A) 35",
+        "(B) 40",
+        "(C) 45",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.13. In a class, three are 40 boys and their age is 16 years. One boy, aged 17 years, leaving the class and another joining, the average age becomes 15.875 years. The age of the new boy is :",
+        "(A) 12 years",
+        "(B) 14.5 years",
+        "(C) 15 years",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.14. The average age of 8 men is increased by 2 years when two of them whose age are 21 and 23 years replaced by two new men. The age of the two new men is :",
+        "(A) 22 years",
+        "(B) 24 years",
+        "(C) 28 years",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.15. The average age of 30 boys in a class is 15 years. One boy, aged 20 years, left the class, but two new boys came in his place whose age differs by 5 years. If the average of all the boys now in the class becomes 15 years, the age of the younger newcomer is:",
+        "(A) 20 years",
+        "(B) 15 years",
+        "(C) 10 years",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.16. The average marks of 32 boys of section A of class X is 60 whereas the average marks of 40 boys of section B of class X is 33. The average marks for both the sections combined together is",
+        "(A) 44",
+        "(B) 45",
+        "(C) 46",
+        "(D) 45",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.17. A man bought 13 articles at Rs. 70 each, 15 at Rs. 60 each and 12 at Rs. 65 each. The average price per article is",
+        "(A) Rs. 60.25",
+        "(B) Rs. 64.75",
+        "(C) Rs. 65.75",
+        "(D) Rs. 62.25",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.18. A fruit seller sold big, medium and small sized apples for Rs. 15, Rs. 10, and Rs. 5 respectively. The total number of apples sold were in the ratio 3 : 2 : 5. Find the average cost of an apple.",
+        "(A) 8",
+        "(B) 10",
+        "(C) 9",
+        "(D) 7",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.19. A man purchased 7 bags of rice at the rate of Rs. 800 each, 8 bags of rice at Rs. 1000 each and 5 bag of rice at the rate of Rs. 1200 each. What is the average cost of one bag of rice?",
+        "(A) Rs. 1000",
+        "(B) Rs. 980",
+        "(C) Rs. 1120",
+        "(D) Rs. 1050",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.20. Three Science classes A, B and C take a Life Science test. The average score of class B is 76. The average score of class A and B is 79 and average score of class B and C is 81, Then the average score of class A, B and C is",
+        "(A) 80",
+        "(B) 81",
+        "(C) 80.5",
+        "(D) 81.5       ",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.21. =?",
+        "(A) 202",
+        "(B) 232",
+        "(C) 242",
+        "(D) 332",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.22. The square root of 64009 is :",
+        "(A) 253",
+        "(B) 347",
+        "(C) 363",
+        "(D) 803",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.23. The digit in the units place in the square root of 15876 is :",
+        "(A) 2",
+        "(B) 4",
+        "(C) 6",
+        "(D) 8",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.24. =?",
+        "(A) 1.05",
+        "(B) 1.25",
+        "(C) 1.45",
+        "(D) 1.55",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.25. The value of is",
+        "(A) 0.02",
+        "(B) 0.2",
+        "(C) 0.51",
+        "(D) 0.63",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.26. The value ofis",
+        "(A) 0.011",
+        "(B) 0.11",
+        "(C) 0.347",
+        "(D) 1.1",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.27. The value ofis",
+        "(A) 0.008",
+        "(B) 0.08",
+        "(C) 0.252",
+        "(D) 0.8",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.28. What is the smallest number to be subtracted from 549162 in order to make it a perfect square?",
+        "(A) 28",
+        "(B) 36",
+        "(C) 62",
+        "(D) 81",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.29. The smallest number added to 680621 to make the sum a perfect square is :",
+        "(A) 4",
+        "(B) 5",
+        "(C) 6",
+        "(D) 8",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.30. The greatest four-digit perfect square number is :",
+        "(A) 9000",
+        "(B) 9801",
+        "(C) 9900",
+        "(D) 9981",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.31. A train moves past a telegraph post and a bridge 264 m ling in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+        "(A) 69.5 km/hr",
+        "(B) 70 km/hr",
+        "(C) 79 km/hr",
+        "(D) 79.2 km/hr",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.32. A train takes 18 seconds to pass completely through a station 162m long and 15 second through another station 120 m long. The length of the train is :",
+        "(A) 70 m",
+        "(B) 80 m",
+        "(C) 90 m",
+        "(D) 100 m",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.33. How many seconds will a 500 metre long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+        "(A) 25",
+        "(B) 30",
+        "(C) 40",
+        "(D) 45",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.34. A jogger running at 9 kmph alongside a railway track is 240 metres ahead of the engine of a 120 metre long train running at 45 kmph in the same direction. In how much time will the train pass the jogger ?",
+        "(A) 3.6 sec",
+        "(B) 18 sec",
+        "(C) 36 sec",
+        "(D) 72 sec",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.35. A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going ?",
+        "(A) 5 sec",
+        "(B) 6 sec",
+        "(C) 7 sec",
+        "(D) 10 sec",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.36. Two trains 200 m and 150 m long are running on parallel rails at the rate of 40 kmph and 45 kmph respectively. In how much time will they cross each other, if they are running in the same direction?",
+        "(A) 72 sec",
+        "(B) 132 sec",
+        "(C) 192 sec",
+        "(D) 252 sec",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.37. Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite direction on parallel tracks. The time (in seconds) which they take to cross each other is :",
+        "(A) 9",
+        "(B) 9.6",
+        "(C) 10",
+        "(D) 10.8",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.38. Two trains are moving in opposite directions@60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in second is :",
+        "(A) 36",
+        "(B) 45",
+        "(C) 48",
+        "(D) 49",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.39. A train 125m long passes a man, running at 5 kmph in the same direction in which the train is going, in 10 seconds. The speed of the train is :",
+        "(A) 45 km/hr",
+        "(B) 50 km/hr",
+        "(C) 54 km/hr",
+        "(D) 55 km/hr",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.40. A train 110 m long passes a man, running at 6 kmph in the direction opposite to that of the train, in 6 second. The speed of the train is :",
+        "(A) 54 km/hr",
+        "(B) 60 km/hr",
+        "(C) 66 km/hr",
+        "(D) 72 km/hr",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.41. A sum of Rs. 312 was divided among 100 boys and girls in such a way that each boy gets Rs. 3.60 and each girl Rs. 2.40. The number of girls is:",
+        "(A) 35",
+        "(B) 40",
+        "(C) 60",
+        "(D) 65",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.42. Each boy contributed rupees equal to the number of girls and each girl contributed rupees equal to the number of boys in a class of 60 students. If the total contribution thus collected is Rs. 1600, how many boys are there in the class?",
+        "(A) 25",
+        "(B) 30",
+        "(C) 50",
+        "(D) Data inadequate",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.43. In an examination, a student scores 4 marks for every correct answer and loses 1 marks for every wrong answer. If he attempts all 60 question and secure 130 marks, the number of question he attempts correctly is:",
+        "(A) 35",
+        "(B) 38",
+        "(C) 40",
+        "(D) 42",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.44. A cricket team won 3 matches more than they lost. If a win gives them 2 points and loss (-1) point, how many matches, in all, have they played if their score is 23?",
+        "(A) 17",
+        "(B) 20",
+        "(C) 37",
+        "(D) 40",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.45. On childrens Day, sweets were to be equally distributed among 175 children in a school. Actually, on the childrens Day, 35 children were absent and therefore each child got 4 sweets extra. Total how many sweets were available for distribution?",
+        "(A) 2400",
+        "(B) 2480",
+        "(C) 2680",
+        "(D) 2750",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.46. A certain number of tennis balls were purchased for Rs. 450. Five more balls could have been purchased in the same amount if each ball was cheaper by Rs. 15. The number of balls purchased was:",
+        "(A) 10",
+        "(B) 15",
+        "(C) 20",
+        "(D) 25",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.47. The price of 10 chairs is qual to that of 4 tables. The price of 15 chairs and 2 tables together is Rs. 4000. The total price of 12 chairs and 3 tables is:",
+        "(A) Rs. 3500",
+        "(B) Rs. 3750",
+        "(C) Rs. 3840",
+        "(D) Rs. 3900",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.48. The price of 2 sarees and 4 shirts is Rs. 1600. With the same money one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay?",
+        "(A) Rs. 1200",
+        "(B) Rs. 2400",
+        "(C) Rs. 4800",
+        "(D) cannot be determined",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.49. In a classroom, if 6 students per bench are assigned to accommodate all student, one more bench will be required. However, if 7 students are accommodated per bench, there would be space left for 5 students. What is the number of students in the class?",
+        "(A) 30",
+        "(B) 42",
+        "(C) 72",
+        "(D) None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.50. In a group of buffaloes and ducks, the number of legs are 24 more than twice the number of heads. What is the number of buffaloes in the group?",
+        "(A) 6",
+        "(B) 8",
+        "(C) 10",
+        "(D) 12",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.51. Two pipes A and B can separately fill a cistern in 60 minutes and 75 minutes respectively. There is a third pipe in the bottom of the cistern to empty it. If all the tree pipes are simultaneously opened, then the cistern is full in 50 minutes. In how much time the third pipe alone can empty the cistern?",
+        "(A) 80 min",
+        "(B) 100 min",
+        "(C) 110 min",
+        "(D) 120 min",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.52. A Cistern can be filled by a tap in 4 hours while it can be emptied by another tap in 9 hours. If both the taps are opened simultaneously then after how much time will the cistern get filled?",
+        "(A) 4.5 hrs",
+        "(B) 5 hrs",
+        "(C) 6.5 hrs",
+        "(D) 7.2 hrs",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.53. A pump can fill a tank with water in 2 hours. Because of a leak, it took hours to fill the tank. The leak can drain all the water of the tank in:",
+        "(A)  hrs",
+        "(B) 8 hrs",
+        "(C) 10 hrs",
+        "(D) 14 hrs",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.54. A tap can fill a tank in 6 hours. After the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?",
+        "(A) 3 hrs",
+        "(B) 3 hrs 45 min",
+        "(C) 4 hrs",
+        "(D) 5 hrs 15.",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.55. One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in :",
+        "(A) 80 min",
+        "(B) 108 min",
+        "(C) 144 min",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.56. A water tank is two-fifth full. Pipe A can fill a tank in 10 minutes and pipe B can empty it in 6 minutes. If both the pipes are open, how long will it take to empty or fill the tank completely?",
+        "(A) 6 min to empty",
+        "(B) 6 min to fill",
+        "(C) 8min to empty",
+        "(D) 8 min to fill",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.57. A tank is filled in 5 hours by three pipes A, B and C. The pipe C is twice as fast as B and B is twice as fast as A. How much time will pipe A alone take to fill the tank?",
+        "(A) 15 hrs",
+        "(B) 25 hrs",
+        "(C) 35 hrs",
+        "(D)45",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.58. Pipe A can fill a tank in 5 hours, pipe B in 10 hours and pipe C in 30 hours. If all the pipes are open, in how many hours will the tank be filled?",
+        "(A) 1",
+        "(B) 2.5",
+        "(C) 3",
+        "(D) 3.5",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.59. A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:",
+        "(A) 6 hrs",
+        "(B) 12 hrs",
+        "(C) 15 hrs",
+        "(D) 30 hrs",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.60. Pipes A and B can fill a tank in 5 and 6 hours respectively. Pipe C can empty it in 12 hours. If all the tree pipe are opened together, then the tank will be filled in:",
+        "(A)  hours",
+        "(B)  hours",
+        "(C)  hours",
+        "(D) hours",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.61. What percent of the total spending is spent on Tennis?",
+        "(A) ",
+        "(B) ",
+        "(C) 25 %",
+        "(D) 45 %",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.62. If for a certain quantity of books, the publisher has to pay Rs. 30,600 as printing cost, then what will be the amount of royalty to be paid for these books?",
+        "(A) Rs. 19,450",
+        "(B) Rs. 21,200",
+        "(C) Rs. 22,950",
+        "(D) Rs. 26,150",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.63. The price of the book is marked 20% above the C.P. If the market price of the book is Rs. 180, then what is the cost of the paper used in a single copy of the books?",
+        "(A) Rs. 36",
+        "(B) Rs. 37.50",
+        "(C) Rs. 42",
+        "(D) Rs. 44.25",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.64. What is the central angle of the sector corresponding to the expenditure incurred on Royalty?",
+        "(A) 150",
+        "(B) 240",
+        "(C) 540",
+        "(D) 480",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.65. For an edition of 12,500 copies, the amount of Royalty paid by the publisher is Rs. 2,18,250. What should be the selling price of the book if the publisher desires a profit of 5%?",
+        "(A) Rs. 152.50",
+        "(B) Rs. 157.50",
+        "(C) Rs. 162.50",
+        "(D) Rs. 167.50",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.66. Which two expenditures together have a central angle of 1080?",
+        "(A) Binding Cost and Transportation Cost",
+        "(B) Printing Cost and Paper Cost",
+        "(C) Royalty and Promotion Cost",
+        "(D) Binding Cost and Paper Cost",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.67. If 5500 copies are published and the transportation cost on them amounts to Rs. 82,500, then what should be the selling price of the book so that the publisher can earn a profit of 25%?",
+        "(A) Rs. 187.50",
+        "(B) Rs. 191.50",
+        "(C) Rs. 175",
+        "(D) Rs. 180",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.68. If the difference between the two expenditures is represented by 180in the pie-chart, then these expenditures possibly are:",
+        "(A) Binding Cost and Promotion Cost",
+        "(B) Paper Cost and Royalty",
+        "(C) Binding Cost and Printing Cost",
+        "(D) Paper Cost and Printing Cost",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.69. Royalty on the book is less than the printing cost by :",
+        "(A) 5%",
+        "(B) ",
+        "(C) 20%",
+        "(D) 25%",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.70. If for an edition of the book, the cost of paper is Rs. 56250, then find the promotion cost for this edition?",
+        "(A) Rs. 20,000",
+        "(B) Rs. 22,500",
+        "(C) Rs. 25,500",
+        "(D) Rs. 28,125",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.71.At what time between 7 and 8 o'clock will the hands of a clock be in the same straight line but, not together?",
+        "(A)  min. past 7",
+        "(B) 5 min. past 7",
+        "(C)  min. past 7",
+        "(D)  min. past 7",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.72. An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+        "(A) 150",
+        "(B) 144",
+        "(C) 180",
+        "(D) 168",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.73. At what time between 5.30 and 6 will the hands of a clock be at right angles?",
+        "(A)  min. past 5",
+        "(B)  min. past 5",
+        "(C) 45min. past 5",
+        "(D) 40min. past 5",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.74. The reflex angle between the hands of a clock at 10.25 is:",
+        "(A) ",
+        "(B) 1800",
+        "(C) ",
+        "(D) 195",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.75. The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:",
+        "(A) 10",
+        "(B) 0",
+        "(C) 20",
+        "(D) 5",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.76. A clock is started at noon. By 10 minutes past 5, the hour hand has turned through:",
+        "(A) 150",
+        "(B) 145",
+        "(C) 160",
+        "(D) 155",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.77. At what angle the hands of a clock are inclined at 15 minutes past 5?",
+        "(A) 640",
+        "(B) ",
+        "(C) ",
+        "(D) ",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.78. A watch which gains 5 seconds in 3 minutes was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is:",
+        "(A) 4 p.m.",
+        "(B)  min. past 3",
+        "(C)  min. past 4",
+        "(D)  min. past 3",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.79.At 3:40, the hour hand and the minute hand of a clock form an angle of:",
+        "(A) 125",
+        "(B) 120",
+        "(C) 135",
+        "(D) 130",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.80. How much does a watch lose per day, if its hands coincide every 64 minutes?",
+        "(A)  min",
+        "(B)  min",
+        "(C) 96 min.",
+        "(D) 90 min.",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.81. A, B and C started a business by investing Rs. 1,20,000, Rs. 1,35,000 and Rs. 1,50,000 respectively. Find the share of each, out of an annual profit of Rs. 56,700.",
+        ""
+    ],
+    [
+        "Q.82. Alfred started a business investing Rs. 45,000. After 3 months, Peter joined him with a capital of Rs. 60,000. After another 6 months, Ronald joined them with a capital of Rs. 90,000. At the end of the year, they made a profit of Rs. 16,500. Find the share of each.",
+        ""
+    ],
+    [
+        "Q.83. A, B and C start a business each investing Rs. 20,000. After 5 months A withdrew Rs.5000, B withdrew Rs. 4000 and C invests Rs. 6000 more. At the end of the year, a total profit of Rs. 69,900 was recorded. Find the share of each.",
+        ""
+    ],
+    [
+        "Q.84. A,B,C enter into a partnership investing Rs. 35,000 Rs. 45,000 and Rs. 55,000 respectively. The respective shares of A,B,C in annual profit of Rs. 40,500 are :",
+        ""
+    ],
+    [
+        "Q.85. Reena and Shaloo are partners in a business. Reena invests Rs. 35,000 for 8 months and Shaloo invests Rs. 42000 for 10 months. Out of a profit of Rs. 31,570, Reena share is :",
+        ""
+    ],
+    [
+        "Q.86. P and Q started a business investing Rs. 85,000 and Rs. 15,000 respectively. In what ratio the profit earned after 2 years be divided between P and Q respectively?",
+        "(A) 3 : 4",
+        "(B) 3 : 5",
+        "(C) 15 : 23",
+        "(D)17 : 23",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.87. A, B, C enter into a partnership investing Rs. 35,000 and Rs. 45,000 and Rs. 55,000 respectively. The respectively shares of A, B, C, in an annual profit of Rs. 40,500 are:",
+        "(A) Rs. 10,500, Rs. 13,500, Rs. 16,500",
+        "(B) Rs. 11,500, Rs. 13,000, Rs. 16,000",
+        "(C) Rs. 11,000, Rs. 14,000, Rs. 15,500",
+        "(D) Rs. 11,500 Rs. 12,500 Rs. 16,500",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.88. Reena and Shaloo are partners in a business. Reena invests Rs. 35,000 for 8 months and Shaloo invests Rs. 42,000 for 10 months. Out of a profit of Rs. 31,570, Reenas share is:",
+        "(A) Rs. 9471",
+        "(B) Rs. 12,628",
+        "(C) Rs. 18,040",
+        "(D) Rs. 18,942",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.89. Simran started a software business by investing Rs. 50,000. After six months, Nanda joined her with a capital of Rs. 80,000. After 3 years, they earned a profit of Rs. 24,500. What was Simran's share in the profit?",
+        "(A) Rs. 9423",
+        "(B) Rs. 10,250",
+        "(C) Rs. 12,500",
+        "(D) Rs. 14,000",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.90. A and B started a business in partnership investing Rs. 20,000 and Rs. 15,000 respectively. After six months, C joined them with Rs. 20,000. What will be Bs share in the total profit of Rs.25000 earned at the end of 2 years from the starting of the business?",
+        "(A) Rs. 7500",
+        "(B) Rs. 9000",
+        "(C) Rs. 9500",
+        "(D) Rs. 10,000",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.91. Arun, Kamal and Vinay invested Rs. 8000, Rs. 4000 and Rs. 8000 respectively in a business. Arun left after six months. If after eight months, there was a gain of Rs. 4005, then what will be the share of Kamal?",
+        "(A) Rs. 890",
+        "(B) Rs. 1335",
+        "(C) Rs. 1602",
+        "(D) Rs. 1780",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.92. Shekhar started a business investing Rs. 25,000 in 1999. In 2000, he invested an additional amount of Rs. 10,000 and Rajeev joined him with an amount of Rs. 35,000. In 2001, Shekhar invested another additional amount of Rs. 10,000 and Jatin joined them with an amount of Rs. 35,000. What will be Rajeevs share in the profit of Rs. 1,50,000 earned at the end of 3 years from the start of the business in 1999?",
+        "(A) Rs. 45,000",
+        "(B) Rs. 50,000",
+        "(C) Rs. 70,000",
+        "(D) Rs. 75, 000",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.93 A man covers a certain distance at 36 km/ph. How many meters does he cover in 2 minutes?",
+        "(A) 1000 mt",
+        "(B) 120 mt",
+        "(C) 1200 mt",
+        "(D) 600 mt",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.94 Walking 5/6 of its usual speed, a train is 10 minutes late. Find its usual time to cover the journey?",
+        "(A)20 min",
+        "(B) 50 min",
+        "(C) 60 min",
+        "(D) 40 min",
+        " Ans . B  "
+    ]
+]
