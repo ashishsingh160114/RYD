@@ -1,0 +1,385 @@
+[
+    [
+        "Q : Q.1. Storage which stores or retains data after power off is called-",
+        "(A) Volatile storage",
+        "(B)Non-volatile storage",
+        "(C)Sequential storage",
+        "(D)Direct storage",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.2. A permanent memory, which halls data and instruction for start-up the computer and does not erase data after power off.",
+        "(A) Network interface card",
+        "(B)CPU",
+        "(C)RAM",
+        "(D)ROM",
+        "(E)None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.3. Which of the following memories must be refreshed many times per second?",
+        "(A) EPROM",
+        "(B)ROM",
+        "(C)Static RAM",
+        "(D)Dynamic RAM",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.4.USB-type storage device is -",
+        "(A) Secondary",
+        "(B)Axillary",
+        "(C)Tertiary",
+        "(D)Primary",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.5. Which of the following places the common data elements in order from smallest to largest?",
+        "(A) Character, File, Record, Field, Database, File",
+        "(B)Character, Record, Field, Database, File",
+        "(C)Character, Field, Record, File, Database",
+        "(D)Bit, Byte, Character, Record, Field, File, Database",
+        "(E)None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q : Q.6. Which device is used to back up the data?",
+        "(A) Floppy Disk   ",
+        "(B)Tape ",
+        "(C)Network Drive.   ",
+        "(D)All of the above",
+        "(E)None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.7. A half byte is known as_____.",
+        "(A) data",
+        "(B)bit",
+        "(C)half byte",
+        "(D)nibble",
+        "(E)None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.8. Main memory of computer is -",
+        "(A) Internal",
+        "(B)External",
+        "(C)(A) and (B)both",
+        "(D)Auxiliary",
+        "(E)None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.9. The contents of memory into blocks of the same size is called as:",
+        "(A) ROM",
+        "(B)EPROM",
+        "(C)EEPROM",
+        "(D)All of above",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.10. What is the permanent memory built into your computer called?",
+        "(A) RAM",
+        "(B)ROM",
+        "(C)CPU",
+        "(D)CD-ROM",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.11. With a CD you can...........",
+        "(A) read",
+        "(B)write",
+        "(C)read and write",
+        "(D)either read or write",
+        "(E)None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q : Q.12. RAM is a.......memory-",
+        "(A) external",
+        "(B)auxiliary",
+        "(C)internal",
+        "(D)main",
+        "(E)none of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.13. __________ is the permanent memory built into your computer called.",
+        "(A) ROM",
+        "(B)CPU",
+        "(C)DVD-ROM",
+        "(D)RAM",
+        "(E)None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.14. Magnetic tape is not practical for applications where data must be quickly recalled because tape is __________.",
+        "(A) A random-access medium",
+        "(B)A sequential-access medium",
+        "(C)A read-only medium",
+        "(D)An expensive storage medium",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.15. What is the main advantage of magnetic core memory over semiconductor RAM memory?",
+        "(A) More compact and smaller",
+        "(B)More economical",
+        "(C)A bit does not have to write after reading",
+        "(D)Non-volatile",
+        "(E)None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.16. Hard disc drives are considered.........storage-",
+        "(A) Flash",
+        "(B)Non-volatile",
+        "(C)Temporary",
+        "(D)Non-permanent",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.17. Flash is ................",
+        "(A) Software",
+        "(B)Hardware",
+        "(C)ROM",
+        "(D)PROM",
+        "(E)E REM",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.18. Permanent instructions that the computer uses when it is turned on and that cannot be changed by other instructions are contained in-",
+        "(A) ROM",
+        "(B)RAM",
+        "(C)ALU",
+        "(D)CPU",
+        "(E)DRAM",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.19. Flash memory is also called as __________.",
+        "(A) Flash RAM",
+        "(B)Flash ROM",
+        "(C)Flash DRAM",
+        "(D)Flash DROM",
+        "(E)None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.20. A Winchester disk is a_________. ",
+        "(A) disk stack",
+        "(B)removable disk",
+        "(C)flexible disk",
+        "(D)All of these",
+        "(E)None of these",
+        " Ans .  A",
+     	""
+    ],
+    [
+        "Q : Q.22. Typical acronym of reusable optical storage will be......",
+        "(A) CD",
+        "(B)CD-RW",
+        "(C)DVD",
+        "(D)RPM",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.23. Data gathering in computer means, they allow to use.........data.",
+        "(A) Present",
+        "(B)Input",
+        "(C)Output",
+        "(D)Store",
+        "(E)None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.24. The process to copy the software in hard disk from secondary storage media is called -",
+        "(A) Configuration",
+        "(B)Download",
+        "(C)Storage",
+        "(D)Upload",
+        "(E)Escalation",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q : Q.25. When we work on any document on PC, it is stored temporarily on-",
+        "(A) RAM",
+        "(B)ROM",
+        "(C)CPU",
+        "(D)Flash memory",
+        "(E)CD-ROM",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.26. The faster, costlier and relatively small from of storage managed by computer system hardware is:",
+        "(A) Main Memory",
+        "(B)Flash Memory",
+        "(C)Cache",
+        "(D)Disk",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q : Q.27. The analytical engine developed during first generation of computers used __________ as a memory unit.",
+        "(A) RAM",
+        "(B)Floppies",
+        "(C)Cards",
+        "(D)Counter wheels",
+        "(E)None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.28. Which of the following is used to hold ROM, RAM, CPU and expansion cards?",
+        "(A) Computer bus",
+        "(B)Motherboard",
+        "(C)Cache memory",
+        "(D)All of these",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.29. Which of the following medium is used between CPU &amp; RAM TO speed up the processing power of a CPU?",
+        "(A) Virtual Memory",
+        "(B)D RAM",
+        "(C)Flash Memory",
+        "(D)Cache Memory",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.30. Breaking logical memory into blocks of the same size is called as:",
+        "(A) Frames",
+        "(B)Segments",
+        "(C)Packets",
+        "(D)Pages",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.31. Which one is random access memory-",
+        "(A) RAM",
+        "(B)ROM",
+        "(C)P-ROM",
+        "(D)All of these",
+        "(E)None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.32. Where, data will remain intact even when the computer is turned of",
+        "(A) RAM",
+        "(B)Mother board",
+        "(C)Secondary storage device",
+        "(D)Primary storage device",
+        "(E)None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q : Q.33. For permanent memory in computer objects used are -",
+        "(A) Floppy disc",
+        "(B)Magnetic tape",
+        "(C)Hard disc",
+        "(D)Optical disc",
+        "(E)All of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q : Q.34. Main memory works in conjunction with __________.",
+        "(A) RAM",
+        "(B)CPU",
+        "(C)Graphics card",
+        "(D)LAN",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.35. SRAM stands for-",
+        "(A) Special Random-Access Memory",
+        "(B)Supreme Random-Access Memory",
+        "(C)Static Random-Access Memory",
+        "(D)Stable Random-Access Memory",
+        "(E)None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q : Q.36. What is the capacity of super computers floppy disc?",
+        "(A) 400 M",
+        "(B)500 M",
+        "(C)600 M",
+        "(D)700 M",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.37.Built in memory of computer is.................",
+        "(A) EROM",
+        "(B)ROM",
+        "(C)RAM",
+        "(D)PROM",
+        "(E)E REM",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q : Q.38. FLASH is..............",
+        "(A) Flash",
+        "(B)D-RAM",
+        "(C)S-RAM",
+        "(D)P-RAM",
+        "(E)None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q : Q.39. Virtual memory is_______.",
+        "(A) memory on the hard disk that the CPU uses an extended RAM",
+        "(B)in RAM",
+        "(C)only necessary if you do not have any RAM in your computer",
+        "(D)a backup device for floppy disk",
+        "(E)None of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q : Q.40. USB stands for-",
+        "(A) Uniform Service Bus",
+        "(B)Universal Serial Bus",
+        "(C)Universal Sector Buffer",
+        "(D)Universe Service Bus",
+        "(E)None of these",
+        " Ans .  "
+    ]
+]

@@ -1,0 +1,822 @@
+[
+    [
+        "Q.1)Who was the first pre-Socratic philosopher to suggest that matter could neither be created nor destroyed?",
+        " Ans .Parmenides",
+        ""
+    ],
+    [
+        "Q.2) In 1729 AD, Pieter Van Musschenbroek used the term PHYSICS for the first time. What was the subject called so far?",
+        " Ans .Natural philosophy",
+        ""
+    ],
+    [
+        "Q.3) Which Greek philosopher suggested that the material world was composed of four basic elements  air, water, fire and earth?",
+        " Ans .Empedocles",
+        ""
+    ],
+    [
+        "Q.4) Who in 1231 was the first to describe the science of optics?",
+        " Ans .Robert Grosseteste",
+        ""
+    ],
+    [
+        "Q.5) Who was burnt to death for suggesting that the sun might be an ordinary star?",
+        " Ans .Giordano Bruno",
+        ""
+    ],
+    [
+        "Q.6) Who in 1643 was the first person to create vacuum above the liquid?",
+        " Ans .Evangelista Torricelli",
+        ""
+    ],
+    [
+        "Q.7) Who in 1786 invented the gold leaf electroscope?",
+        " Ans .Abraham Bennet",
+        ""
+    ],
+    [
+        "Q.8) Who encouraged Newton to write his idea for Principia?",
+        " Ans .Edmund Halley",
+        ""
+    ],
+    [
+        "Q.9) Who in 1808 discovered polarization of light and introduced the term Polarization?",
+        " Ans .Etienne-Louis Malus",
+        ""
+    ],
+    [
+        "Q.10) The first scientist to apply scientific reasoning to cosmology was Rene Descartes. What was his theory called?",
+        " Ans .Vortex Theory",
+        ""
+    ],
+    [
+        "Q.11) In which year did Otto Von Guericke demonstrate his famous Magdeburg experiment dealing vacuum?",
+        " Ans .1672",
+        ""
+    ],
+    [
+        "Q.12) Who was the first to attack Newtons Corpuscular theory of light?",
+        " Ans .Thomas Young",
+        ""
+    ],
+    [
+        "Q.13) Who was the first person to design models of flying machine?",
+        " Ans .Leonardo da Vinci",
+        ""
+    ],
+    [
+        "Q.14) Who in 1749 developed a method for making an artificial magnet?",
+        " Ans .John Canton",
+        ""
+    ],
+    [
+        "Q.15) Hydrodynamic gave an explanation of Bernoullis theorem in 1738. Who was the first to suggest this theorem?",
+        " Ans .Daniel Bernoulli",
+        ""
+    ],
+    [
+        "Q.16) Who invented the Leyden jar?",
+        " Ans .Pieter Van Musschenbroek and Ewald Georg von Kleist",
+        ""
+    ],
+    [
+        "Q.17) Which famous Danish physicist in 1675 measured the speed of light?",
+        " Ans .Romer",
+        ""
+    ],
+    [
+        "Q.18) What did Sir William Herschel discover in 1800?",
+        " Ans .Infra-red radiation",
+        ""
+    ],
+    [
+        "Q.19) In which year did G.S. Ohm formulate Ohms law?",
+        " Ans .1827",
+        ""
+    ],
+    [
+        "Q.20) In which year did A. Michelson and E. Morley conduct their experiment to verify the existence of ether?",
+        " Ans .1887",
+        ""
+    ],
+    [
+        "Q.21) Who in 1939 suggested the name meson for middle-weight particles?",
+        " Ans .Homi J. Bhabha",
+        ""
+    ],
+    [
+        "Q.22) What is the importance of 2nd December 1942?",
+        " Ans .The creation of the first controlled chain reaction",
+        ""
+    ],
+    [
+        "Q.23) Which philosopher conjectured that if the moon did not move, it would fall upon the earth?",
+        " Ans .Anaxagoras",
+        ""
+    ],
+    [
+        "Q.24) Who said, A bird is an instrument working according to the mathematical laws?",
+        " Ans .Leonardo da Vinci",
+        ""
+    ],
+    [
+        "Q.25) Who said, All falling bodies, irrespective of their size, descend at the same speed?",
+        " Ans .Galileo Galilei",
+        ""
+    ],
+    [
+        "Q.26) Which Austrian physicist developed the philosophy that all knowledge is simply sensation?",
+        " Ans .Ernest Mach",
+        ""
+    ],
+    [
+        "Q.27) Who contemplated A freely floating magnet orients itself in the north-south direction?",
+        " Ans .Robert Norman",
+        ""
+    ],
+    [
+        "Q.28) Who gave the idea Electricity flows through space from heated metal?",
+        " Ans .Thomas Alva Edison",
+        ""
+    ],
+    [
+        "Q.29) Moving particles have wave characteristics. Who proposed the idea first?",
+        " Ans .Victor de Broglie",
+        ""
+    ],
+    [
+        "Q.30) Who suggested that light is made up of packets of energy known as protons?",
+        " Ans .Albert Einstein",
+        ""
+    ],
+    [
+        "Q.31) Who first gave the concept of Atom?",
+        " Ans .Kanada",
+        ""
+    ],
+    [
+        "Q.32) How many times is the proton heavier than the electron?",
+        " Ans .1836 times",
+        ""
+    ],
+    [
+        "Q.33) What is AMU?",
+        " Ans .It is the unit of atomic mass",
+        ""
+    ],
+    [
+        "Q.34) The energy released from the sun and the other stars is due to what?",
+        " Ans .Nuclear fusion",
+        ""
+    ],
+    [
+        "Q.35) The force that tends to make a nucleus fly apart?",
+        " Ans .Electrostatic repulsion",
+        ""
+    ],
+    [
+        "Q.36) Which force is responsible to keep the atomic nuclei together?",
+        " Ans .Nuclear force only",
+        ""
+    ],
+    [
+        "Q.37) How do the electrons move according to the Rutherford model of the atom?",
+        " Ans .Electrons orbit the positively charged nuclei",
+        ""
+    ],
+    [
+        "Q.38) What does the phenomenon of photo-electric emission establish?",
+        " Ans .The quantum nature of light",
+        ""
+    ],
+    [
+        "Q.39) When does the emission of energy take place?",
+        " Ans .An electron jumps from the higher orbit to the lower orbit",
+        ""
+    ],
+    [
+        "Q.40) What did Rutherfords gold foil experiment prove?",
+        " Ans .Positively charged protons are contained in the nucleus of the atom",
+        ""
+    ],
+    [
+        "Q.41) What are Alpha particles?",
+        " Ans .Helium nucleus",
+        ""
+    ],
+    [
+        "Q.42) How does Alpha, Beta and Gama radiations come out of a radioactive substance?",
+        " Ans .spontaneously",
+        ""
+    ],
+    [
+        "Q.43) Where is installed the most powerful accelerator, the atom smasher?",
+        " Ans .Illinois, USA",
+        ""
+    ],
+    [
+        "Q.44) Where in India is cyclotron, the particle accelerator machine installed?",
+        " Ans .Kolkata",
+        ""
+    ],
+    [
+        "Q.45) X-rays consists of what?",
+        " Ans .Electromagnetic radiations",
+        ""
+    ],
+    [
+        "Q.46) What are cosmic rays?",
+        " Ans .High energy particles",
+        ""
+    ],
+    [
+        "Q.47) Who discovered positron?",
+        " Ans .Anderson",
+        ""
+    ],
+    [
+        "Q.48) What is ratio of the frequencies of the long wavelength limits of the Hyman and Balmer series of hydrogen?",
+        " Ans .5:27",
+        ""
+    ],
+    [
+        "Q.49) What is called the law of equivalence of mass and energy?",
+        " Ans .Einsteins law",
+        ""
+    ],
+    [
+        "Q.50) What is known as, no two fermions can exist in identical quantum states?",
+        " Ans .Pauli Exclusion Principle",
+        ""
+    ],
+    [
+        "Q.51) What is called the Weinberg and Salam theory unifying electromagnetic forces and weak nuclear interaction?",
+        " Ans .Electroweak theory",
+        ""
+    ],
+    [
+        "Q.52) What is the name of the hypothetical theory that would unify all the fundamental forces of nature?",
+        " Ans .super grand unified theory",
+        ""
+    ],
+    [
+        "Q.53) What is called exchange of energy between one particles and an electromagnetic wave?",
+        " Ans .Interaction",
+        ""
+    ],
+    [
+        "Q.54) What does Frank-Hertz experiment establish?",
+        " Ans .The Frank-Hertz experiment establish that there are discrete energy levels in atoms",
+        ""
+    ],
+    [
+        "Q.55) In which regions of the spectrum, Hyman and balmer series lie?",
+        " Ans .They lie in ultraviolet and visible regions respectively",
+        ""
+    ],
+    [
+        "Q.56) In which regions of the spectrum, the Paschen series lies?",
+        " Ans .In ultraviolet and infra-red",
+        ""
+    ],
+    [
+        "Q.57) Who gave principle that any given quantum orbit in an atom can be occupied by no more than two electrons?",
+        " Ans .Pauli",
+        ""
+    ],
+    [
+        "Q.58) Who introduced the concept of electron spin?",
+        " Ans .Uhlenbeck and Goudsmit",
+        ""
+    ],
+    [
+        "Q.59) In which form is energy radiated from a source?",
+        " Ans .Photons",
+        ""
+    ],
+    [
+        "Q.60) What must we consider to explain fine structure of the spectrum of hydrogen atom?",
+        " Ans .Spin angular momentum",
+        ""
+    ],
+    [
+        "Q.61) What is the use of Altimeter?",
+        " Ans .To measure the altitude",
+        ""
+    ],
+    [
+        "Q.62) What is the use of Ammeter?",
+        " Ans .To measure the flow of electric current",
+        ""
+    ],
+    [
+        "Q.63) What is the use of Anemometer?",
+        " Ans .To measure the speed or force of the wind",
+        ""
+    ],
+    [
+        "Q.64) What is the use of electroscope?",
+        " Ans .To measure the electrostatic charge",
+        ""
+    ],
+    [
+        "Q.65) What is the use of Calorimeter?",
+        " Ans .To measure the amount of heat",
+        ""
+    ],
+    [
+        "Q.66) What is the use of Speedometer?",
+        " Ans .To indicate the speed of a vehicle",
+        ""
+    ],
+    [
+        "Q.67) What is the use of Rectifier?",
+        " Ans .It is an apparatus for condensing a hot vapor to a liquid in distillation",
+        ""
+    ],
+    [
+        "Q.68) What is the use of Gyroscope?",
+        " Ans .To illustrate dynamics of rotating bodies",
+        ""
+    ],
+    [
+        "Q.69) What is the use of Barometer?",
+        " Ans .To measure the atmospheric pressure",
+        ""
+    ],
+    [
+        "Q.70) What the use of Fathometer?",
+        " Ans .To measure the depth of water",
+        ""
+    ],
+    [
+        "Q.71) What is the use of Periscope?",
+        " Ans .To observe objects on the surface from the submarine",
+        ""
+    ],
+    [
+        "Q.72) What is the purpose of Mariners compass?",
+        " Ans .To find the direction of the ship in the sea",
+        ""
+    ],
+    [
+        "Q.73) What is the use of Stereoscope?",
+        " Ans .To see the photos taken by two cameras placed at two different angles",
+        ""
+    ],
+    [
+        "Q.74) What is the use of Callipers?",
+        " Ans .To measure the internal and external diameter of a tube",
+        ""
+    ],
+    [
+        "Q.75) What is the purpose of a Geiger counter?",
+        " Ans .To detect and count nuclear particles and radiation",
+        ""
+    ],
+    [
+        "Q.76) What is the use of Cardiograph?",
+        " Ans .It is an instrument to record the beats of heart",
+        ""
+    ],
+    [
+        "Q.77) What is the use of Audiometer?",
+        " Ans .To measure the intensity of sound",
+        ""
+    ],
+    [
+        "Q.78) What is the use of Saccharometer?",
+        " Ans .To determine the sugar concentration in a liquid",
+        ""
+    ],
+    [
+        "Q.79) What is the use of Photometer?",
+        " Ans .To measure the intensity of light",
+        ""
+    ],
+    [
+        "Q.80) What is the use of Hygrometer?",
+        " Ans .To measure the humidity of atmosphere",
+        "",
+        ""
+    ],
+    [
+        "Q.81. Which of the following measurements is not a unit of distance? ",
+        "A. Ammeter B. Cubit C. Parsec D. angstrom",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.82. Which one of the following remains constant while throwing a ball upward? ",
+        "A. Displacement B. Kinetic energy C. Acceleration D. Velocity",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.83. Pure water freezes at what temperature? ",
+        "A. 47 F B. 32 F C. 0 F D. 19 F",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.84. Which vitamin is abundant in citrus fruits? ",
+        "A. Vitamin A B. Vitamin B C. Vitamin C D. Vitamin D",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.85. Zinc Oxide is ",
+        "A. Acidic B. Basic C. Neutral D. Amphoteric",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.86. Pure water is a _____________ Conductor of electricity. ",
+        "A. super conductor B. bad conductor C. speed conductor D. None of these",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.87. What elements three isotopes have different names? ",
+        "A.Helium B.Oxygen C.Carbon D.Hydrogen",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.88. On which one of the following conservation laws, does a rocket work? ",
+        "A. Mass B. Energy C. Linear momentum D. Angular momentum",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.89. Which one among the following radiations carries maximum energy? ",
+        "A. Ultraviolet rays B. Gamma rays C. X- rays D. Infra red rays",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.90. The Central Arid Zone Research Institute (CAZRI) is located at ",
+        "A. Jaipur B. Jodhpur C. Jaisalmer D. Jallandhar",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.91. What is the main constituent of coal gas? ",
+        "A. Oxygen B. Water C. Nitrogen D. Methane",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.92. Recoil of a gun is an example of ",
+        "A. Conservation of mass B. conservation of energy C. conservation into KE D. conservation of linear momentum",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.93. What is the heaviest of the naturally occurring Noble gases? ",
+        "A. Radon B. Xenon C. Helium D. Argon",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.94. Aviation fuel for Jet aero planes consists of purified ",
+        "A. Petrol B. Kerosene C. Gasoline D. Diesel",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.95. A piece of stone and or iron traveling through space that moves through the earths atmosphere is ",
+        "A. Planet B. Sun C. Moon D. Meteor",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.96. Which one of the following common devices works on the basis of the principle of mutual induction? ",
+        "A. Tube light B. Transformer C. Photodiode D. Led",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.97. Dc current can be controlled by which one of the following components? ",
+        "A.Impedance B.Resistance C.Capacitance D.Inductance",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.98. Mesons are found in ",
+        "A. Alpha -rays B. Laser beam C. X  rays D. Cosmic rays",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.99. A moderator is used in nuclear reactors in order to ",
+        "A. increase the motoneurons B. decrease the motoneurons C. slow down the speed of neutrons D. Anthony S. DMello",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.100. The wavelength of X-rays is of the order of ",
+        "A. 1 cm B. 1 m C. 10 micron D. 1 Angstrom",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.101. In a sitar wire which one of the following types of vibration is produced? ",
+        "A. Progressive longitudinal B. Stationary longitudinal C. Progressive transverse D. Stationary transverse",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.102. Which gas in the atmosphere saves us from the ultra violet rays of the sun? ",
+        "A. Nitrogen B. Oxygen C. Ozone D.Carbon Monoxide",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.103. What is the study of plants called? ",
+        "A. Physics B. Chemistry C. Zoology D. Biology",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.104. The three methods of science are observation, experimentation and ",
+        "A. Hypothesis B. Measurement C. Deduction D. inference",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.105. The Central Arid Zone Research Institute (CAZRI) is located at ",
+        "A. Jaipur B. Jodhpur C. Jaisalmer D. Jallandhar",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.106. What is the more common name for a polymer of amino acids? ",
+        "A. Protein B. Carbohydrate C. Enzyme D. Sugar",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.107. Which rare element would you associate with Marie and Pierre Curie? ",
+        "A. Uranium B. Gold C. Radium D. Platinum",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.108. Which chemical element is represented by the symbol Zn? ",
+        "A. Aluminum B. Copper C. Gold D. Zinc",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.109. Who discovered Penicillin? ",
+        "A. Robert Koch B. Sir Alexander Fleming C. Watson and Crick D. Louis Pasteur",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.110. In which one among the following is the speed of sound maximum? ",
+        "A. Alit at 0 degree B. Alit at 100 degree C. Water D. Wood",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.111. Optic fibers are mainly used for which of the following? ",
+        "A. Communication B. Weaving C. Musical instruments D. Food industry",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.112. Who invented Bakelite? ",
+        "A. Charles Goodyear B. Leo Hendrik Baekeland C. Roy Plunkett D.Henry Ford",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.113. Rocket engine works on the principle of ",
+        "A. Newtons third law B. Newtons first law C. Newtons second law D. None of these.",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.114. Cryogenic engines find application in ",
+        "A. Rocket technology B. Frost free refrigerators C. Sub-marine propulsion D. researches in superconductivity",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.115. The best and the poorest conductors of heat are respectively ",
+        "A. Silver(AG) and lead(PB) B. Copper(CU) dialuminium (AL) C. Silver(AG)and gold(AU) D. Copper(CU)and gold(AU)",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.116. What is the main component of biogas and natural gas? ",
+        "A. Ethane B. Methane C. Propane D. Butane",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.117. Who of the following recognized that large quantity of energy is released as a result of the fusion of hydrogen nuclei to form deuterium? ",
+        "A. Enrico Fermi B. Glenn Seaborg C. Hans Bethe D.Werner Heisenberg",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.118. The phenomenon of total internal reflection is observed in which one of the following? ",
+        "A. Glowing tube light B. Light passing through lens C. Sparkling diamond D. Twinkling star.",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.119. Through which one among the following materials does sound travel slowest? ",
+        "A. Air B. Glass C. Water D. Wood",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.120. Which one of the following is printed on a commonly used fluorescent tube light? ",
+        "A. 220 K B. 273 K C. 6500 K D. 9000 K",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.121. On a clean glass plate a drop of water spreads to form a thin layer whereas a drop of mercury remains almost spherical because",
+        "A. mercury is a metal B. density of mercury is greater than that of water C. cohesion of mercury is greater than its adhesion with glass D. cohesion of water is greater than its adhesion with glass",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.122. Suitable impurities are added to a semiconductor depending on its use. This is done in order to",
+        "A. increase its life B. enable it to withstand higher voltages C. increase its electrical conductivity D. increase its electrical resistivity",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.123. Stars twinkle because",
+        "A.the intensity of light emitted by them changes with time",
+        "B. the distance of the stars from the earth changes with time",
+        "C. the refractive index of the different layers of the earths atmosphere changes continuously, consequently the position of the image of a start changes with time",
+        "D. the light from the star is scattered by the dust particles and air molecules in the earths atmosphere",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.124. It takes much longer to cook food in the hills than in the plains, because",
+        "A.in the hills the atmospheric pressure is lower than that in the plains and therefore water boils at a temperature lower than 100oC causing an increase in cooking time",
+        "B. due to low atmospheric pressure on the hills, the water boils at a temperature higher than 100oC and therefore water takes longer to boil",
+        "C.in the hills the atmospheric density is low and therefore a lot of heat is lost to the atmosphere",
+        "D.in the hills the humidity is high and therefore a lot of heat is absorbed by the atmosphere leaving very little heat for cooking",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.125. Moment of inertia is",
+        "A.vector B. scalar C. phasor D. tensor",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.126. Of the following natural phenomena, tell which one known in Sanskrit as deers thirst?",
+        "A.Rainbow B.Earthshine C.Halo D.Mirage",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.127. Inside an aeroplane, flying at a high altitude,",
+        "A.the pressure is the same as that outside B.normal atmospheric pressure is maintained by the use of air pumps C.the pressure inside is less than the pressure outside D.normal humidity and partial vacuum are maintained",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.128. Sound travels with a different speed in media. In what order does the velocity of sound increase in these media?",
+        "A.Water, iron and air B.Iron, air and water C.Air, water and iron D.Iron, water and air",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.129. One thousand microns is equal to",
+        "A.10-3m B.10-6m C.10-9m D.10-12m",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.130. Sound travels at the fastest speed in",
+        "A.steel B.water C.air D.vacuum",
+        " Ans .A",
+          ""
+    ],
+    [
+        "Q.131. Colour formation in thin films is due to",
+        "A. reflection B. refraction C. interference D. diffraction",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.132. A transformer",
+        "A. transforms energy B. generates e.m.f. C. transforms frequency D. transforms voltage",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.133. Sound travels fast through",
+        "A. water B. air C. steel D. vacuum",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.134. The lens used to rectify long sight is",
+        "A. convex lens B. concave lens C. plano concave lens D. plano convex lens",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.135. A watch based on the oscillating spring is taken from earth to moon, it will",
+        "A. run slow B. run fast C. stop altogether D. give the same time",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.136. When milk is churned cream gets separated due to",
+        "A. gravitational force B. frictional force C. centripetal force D. centrifugal force",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.137. We cannot see during a fog because of",
+        "A. refraction B. internal reflection C. scattering of light D. reflection of light",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.138. Earthquake is measured using",
+        "A. seismograph B. altimeter C. barometer D. laser rays",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.139. The term Mach is used to measure speed of",
+        "A. sound B. wind C. ship D. aeroplane",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.140. Who is the father of discoveries?",
+        "A. Edison B. Pascal C. Einstein D. Archimedes",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.141. Xrays travel with the velocity of",
+        "A. positive rays B. sound C. light D. alpha rays",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.142. Power of a lens is measured in",
+        "A. ultrasonic unit B. decibel C. dioptre D. magnification",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.143. Bhabha Atomic Research Centre(BARC) is located at",
+        "A. Colaba B. Trombay C. Malabar D. Juhu",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.144. Power reactor is located in Tamil Nadu at",
+        "A. Kalpakkam B. Sriharikota C. Tuticorn D. Pudukottai",
+        " Ans .A",
+        ""
+    ],
+    [
+        "Q.145. Einstein got the Nobel Prize for his theory of",
+        "A. radio activity B. relativity C. polarisation D. photo electric effect",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.146. Television was discoved by",
+        "A. Bohr B. J.L.Baird C. Becquerrel D. H.J.Bhaba",
+        " Ans .B",
+        ""
+    ],
+    [
+        "Q.147. An artificial satellite can be tracked very precisely from the earth by using",
+        "A. sonar B. radar C. zeeman effect D. doppler effect",
+        " Ans .D",
+        ""
+    ],
+    [
+        "Q.148. Solar cells are made up of",
+        "A. germanium B. helium C. both silicon and germanium D. silicon",
+        " Ans .C",
+        ""
+    ],
+    [
+        "Q.149. The colour of star is an indication of its",
+        "A. weight B. size C. temperature D. distance from the earth",
+        " Ans .C  "
+      ]
+]
