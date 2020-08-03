@@ -1,0 +1,100 @@
+[
+    [
+        "Q.1. In these series given below, how many 8s are there each of which is exactly divisible by its immediately preceding as well as succeeding numbers?",
+        "            2 8 3 8 2 4 8 2 4 8 6 8 2 8 2 4 8 3 8 2 8 6",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.2. The position of the first and the second digits in the numbers 94316875 are interchanged. Similarly, the positions of the third and fourth digits are interchanged and so on. Which of the following will be the third to the left of the seventh digit from the left end after the rearrangement?",
+        "(A) 1",
+        "(B) 4",
+        "(C) 6",
+        "(D) 8",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.3. If it is possible to form a number with the second, the fifth and the eight digits of the number 31549786, which is the perfect square of a two-digit even number, which of the following will be the second digit of that even number?",
+        "(A) 1",
+        "(B) 4",
+        "(C) 6",
+        "(D) No such number can be formed",
+        "(E) None of these.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. Manik is fourteenth from the right end in a row of 40 boys. What is his position from the left end?",
+        "(A) 24th",
+        "(B) 25th",
+        "(C) 26th",
+        "(D) 27th",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.5. In a row of boys facing the North, A is sixteenth form the left end and C is sixteenth form the right end. B, who is fourth to the right of A, is fifth to the left of C in the row. How many boys are there in the row?",
+        "(A) 39",
+        "(B) 40",
+        "(C) 41",
+        "(D) 42",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6. In a row of girls, Kamya is fifth from the left and Preeti is sixth from the right When they exchange their position, then Kamya becomes thirteenth form the left. What will be Preetis position form the right?",
+        "(A) 7th",
+        "(B) 11th",
+        "(C) 14th",
+        "(D) 18th",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.7. Sam ranked ninth form the top and thirty-eighth form the bottom in a class. How many students are there in the class?",
+        "(A) 45",
+        "(B) 46",
+        "(C) 47",
+        "(D) 48",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.8. Standing on a platform, Amit told Sunita that Aligarh was more than ten kilometres but less than fifteen kilometres from there. Sunita knew that it was more than twelve but less than fourteen kilometres from there. If both of them were correct which of the following could be the distance of Aligarh from the platform?",
+        "(A) 11 km",
+        "(B) 12 km",
+        "(C) 13 km",
+        "(D) 14 km",
+        "(E) 15 km",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.9. Ashish leaves his house at 20 minutes to seven in the morning, reaches Kunals house in 25 minutes, they finish their breakfast in another 15 minutes and leave for their office which takes another 35 minutes. At what time do they leave Kunals house to reach their office?",
+        "(A) 7.40 a.m",
+        "(B) 7.20 a.m",
+        "(C) 7.45 a.m",
+        "(D) 8.15 a.m",
+        "(E) 7.55 a.m",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.10. Ajay left home for the bus stop 15 minutes earlier than usual. It takes 10 minutes to reach the stop. He reached the stop at 8.40 am. What time does he usually leave home for the bus stop?",
+        "(A) 8.30 a.m.",
+        "(B) 8.45 p.m.",
+        "(C) 8.55 a.m.",
+        "(D) Data inadequate",
+        "(E) None of these",
+        " Ans . "
+    ]
+]

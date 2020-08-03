@@ -1,0 +1,101 @@
+[
+    [
+        "Q.1. If REQUEST is written as S2R52TU, then how will ACID be written?",
+        "(A) 1394",
+        "(B) IC94",
+        "(C) BDJE",
+        "(D) B3J4",
+        "(E) None of these",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.2. If each of the letters in the English alphabet is assigned odd numerical value beginning A = 1, B = 3 and so on, what will be the total value of the letters of the word INDIAN?",
+        "(A) 86",
+        "(B) 88",
+        "(C) 89",
+        "(D) 96",
+        "(E) None of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.3. In a certain code, the word DEAL is coded as 4  5  1  12. Following the same rule of coding, what should e the code for the word LADY?",
+        "(A) 12  4  1  25",
+        "(B) 12  1  4  25",
+        "(C) 10  1  4  23",
+        "(D) 12  1  4  22",
+        "(E) None of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.4. If A = 2, M = 26, Z = 52, then BET = ?",
+        "(A) 44",
+        "(B) 54",
+        "(C) 64",
+        "(D) 72",
+        "(E) None of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.5. If A = 26, SUN = 27, then CAT =?",
+        "(A) 24",
+        "(B) 27",
+        "(C) 32",
+        "(D) 120",
+        "(E) None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.6. If in a certain code, BAT = 23 and CAT = 24, then how will you code BALL?",
+        "(A) 27",
+        "(B) 28",
+        "(C) 32",
+        "(D) 120",
+        "(E) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.7. If GO = 32, SHE = 49, then SOME will be equal to",
+        "(A) 56",
+        "(B) 58",
+        "(C) 62",
+        "(D) 64",
+        "(E) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.8. If AT = 20, BAT = 40, then CAT will be equal to",
+        "(A) 30",
+        "(B) 50",
+        "(C) 60",
+        "(D) 70",
+        "(E) 80",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.9. If ZIP = 198 and ZAP = 246, then how will you code VIP?",
+        "(A) 174",
+        "(B) 222",
+        "(C) 888",
+        "(D) 990",
+        "(E) 996",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.10. DEER = 12215 and HIGH = 5654, how will you code HEEL?",
+        "(A) 2328",
+        "(B) 3449",
+        "(C) 4337",
+        "(D) 5229",
+        "(E) None of these.",
+        " Ans . D "
+    ]
+]

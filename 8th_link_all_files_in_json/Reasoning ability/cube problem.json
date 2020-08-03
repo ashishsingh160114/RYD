@@ -1,0 +1,71 @@
+[
+    [
+        "Q.1. A cube is cut into two equal parts along a plane parallel to one of its faces. One piece is then coloured red on the two larger faces and green on the remaining while the other is coloured green on two smaller adjacent faces and red on the remaining. Each is then cut into 32 cubes of the same size. The 64 cubes are then mixed up.",
+        "1. How many cubes have no coloured face at all?",
+        "(A) 16",
+        "(B) 8",
+        "(C) 4",
+        "(D) 0",
+        " Ans .  D",
+        "2. How many cube have only one coloured face?",
+        "(A) 8",
+        "(B) 16",
+        "(C) 20",
+        "(D) 24",
+        " Ans .  D",
+        "3. How many cubes have two red and one green face?",
+        "(A) 4",
+        "(B) 8",
+        "(C) 12",
+        "(D) 16",
+        " Ans .  A",
+        "4. How many cubes have one face red another green?",
+        "(A) 32",
+        "(B) 24",
+        "(C) 16",
+        "(D) 8",
+        " Ans .  B",
+        "5. What is the number of cubes with at least one green face?",
+        "(A) 46",
+        "(B) 38",
+        "(C) 36",
+        "(D) 28",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.2. How many smaller cubes was the original large cube cut into?",
+        "(A) 27",
+        "(B) 48",
+        "(C) 64",
+        "(D) 125",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.3. How many small cubes have exactly one face painted?",
+        "(A) 12",
+        "(B) 24",
+        "(C) 16",
+        "(D) 32",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. How may small cubes have exactly two faces painted?",
+        "(A) 6",
+        "(B) 12",
+        "(C) 18",
+        "(D) 24",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.5. How many small cubes have exactly three faces painted?",
+        "(A) 0",
+        "(B) 8",
+        "(C) 27",
+        "(D) 64",
+        " Ans .  B"
+    ]
+]

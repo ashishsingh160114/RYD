@@ -1,0 +1,104 @@
+[
+    [
+        "Q.1. If A + B means A is the brother of B; A x B means A is the son of B; and A % B means B is the daughter of A then which of the following means M is the maternal uncle of N?",
+        "(A) M % O x N + P",
+        "(B)  M + O x N",
+        "(C) N + O % M",
+        "(D) M + O % N",
+        "(E) None of these",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.2. Pointing to a photograph Lata says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Lata?",
+        "(A)  Uncle",
+        "(B)  Brother",
+        "(C)  Data is inadequate",
+        "(D) Cousin",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.3. If A + B means A is the father of B; A - B means A is the brother B; A % B means A is the wife of B and A x B means A is the mother of B, which of the following shows that M is the maternal grandmother of T?",
+        "(A) M x N - S % T",
+        "(B)  M x N % S + T",
+        "(C) M x N x S % T",
+        "(D) M x S - N % T",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.4. If D is the brother of B, how B is related to C? To answer this question which of the statements is/are necessary?",
+        "1. The son of D is the grandson of C.",
+        "2. B is the sister of D.",
+        "(A)  Only 2",
+        "(B)  Only 1",
+        "(C)  1 and 2 both are required",
+        "(D) Either 1 or 2",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.5. Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?",
+        "(A) Brother",
+        "(B)  Son",
+        "(C) Brother-in-law",
+        "(D) Cousin",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.6.Pointing to a photograph. Bajpai said, \"He is the son of the only daughter of the father of my brother.\" How Bajpai is related to the man in the photograph?",
+        "(A)  Brother",
+        "(B)  Nephew",
+        "(C)  Maternal Uncle",
+        "(D) Father",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.7. If A + B means A is the sister of B; A x B means A is the wife of B, A % B means A is the father of B and A - B means A is the brother of B. Which of the following means T is the daughter of P?",
+        "(A)  P x Q % R - T + S",
+        "(B)  P x Q % R + S - T",
+        "(C)  P x Q % R + S + T",
+        "(D) P x Q % R + T - S",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.8. Veena who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep who is the only brother of Ashok. How Kalyani is related to Ashok?",
+        "(A)  Aunt",
+        "(B)  Mother-in-law",
+        "(C)  Sister-in-law",
+        "(D) Wife",
+        "(E) None of these",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.9.Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
+        "(A)  Grandmother",
+        "(B)  Sister",
+        "(C)  Mother",
+        "(D) Mother-in-law",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.10. Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
+        "(A)  Grandmother",
+        "(B)  Sister",
+        "(C)  Mother",
+        "(D) Mother-in-law",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.11. Amit said - \"This girl is the wife of the grandson of my mother\". How is Amit related to the girl?",
+        "(A)  Grandfather",
+        "(B)  Brother",
+        "(C)  Father-in-law",
+        "(D) Husband",
+        " Ans . C "
+    ]
+]

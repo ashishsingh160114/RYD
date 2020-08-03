@@ -1,0 +1,237 @@
+[
+    [
+        "Q.1. Directions (1-5): Study the following information carefully to answer these questions. P, Q, R, S, T, U, V and W are sitting around a circular table, facing the centre. P sits third to the right of W and third to the left of Q. S sits second to the right of T. V sits second to the left of R. T is not the neighbour of Q while U is neither a neighbour of T nor of W. ",
+        "",
+        "Starting from Ps position, if all the eight are arranged in alphabetical order in clockwise direction, the seating position of how many members (excluding P) would not change?",
+        "(A) None",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        "(E) Four",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.2. Who sits second to the left of V?",
+        "(A) R",
+        "(B) P",
+        "(C) U",
+        "(D) T",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.3. Which of the following pairs has only one person sitting between them, if the counting is done in the clockwise direction?",
+        "(A) T ,V",
+        "(B) V, Q",
+        "(C) W, P",
+        "(D) R, P",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4. Who sits between U and P?",
+        "(A) S",
+        "(B) R",
+        "(C) V",
+        "(D) Q",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.5.Four of the following are alike in a certain way based on their positions in the seating arrangement and so form a group. Which is the one that does not belong to that group?",
+        "(A) W, T",
+        "(B) P, U",
+        "(C) S, Q",
+        "(D) R, P",
+        "(E) P, Q",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.6.  Directions (6-10): Study the following information to answer the given questions. students Varun, Udit and Tarun are seated in a circle facing the centre. Akash, Bharti and Charu are also seated in the same circle but two of them are not facing the centre (facing opposite direction of the centre.) Varun is second to the left of Charu. Udit is second to the right of Akash. Bharti is third to the left of Tarun. Charu is second to the right of Tarun. Akash is seated next to Varun. ",
+        "",
+        "Which of the following is Varuns position with respect to Charu?",
+        "(A) Second to the right",
+        "(B) Third to the left",
+        "(C) Fourth to the right",
+        "(D) Fourth to the left",
+        "(E) Cannot be determined",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.7. Which of the following are not facing the centre?",
+        "(A) Bharti-Akash",
+        "(B) Charu-Akash",
+        "(C) Bharti-Charu",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.8. Which of the following is true regarding the seating arrangement?",
+        "(A) Akash, Bharti and Charu are seated adjacent",
+        "(B) Varun, Udit and Tarun are seated adjacent",
+        "(C) There are two persons whose seating arrangement cannot be",
+        "(D) Those not facing the centre are seated adjacent",
+        "(E) there are only two persons seated between Varun and Tarun",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.9. Which of the following is Taruns Position with respect to Bharti?",
+        "(A) Third to the right",
+        "(B) Second to the right",
+        "(C) Third to the left",
+        "(D) Third either to the right or to the left",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.10. Which of the following is Akashs position with respect to Udit?",
+        "(A) Second to the left",
+        "(B) Second to the right",
+        "(C) Third to the right",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.11.   Directions (11-15): Study the following information carefully and answer the questions given below: Eight students Sameer, Sally, Salina, Sadie, Suchi, Shanky, Shane and Smith are sitting around a circular table. Three of them are facing the centre. Suchi is not an immediate neighbor of Sadie or Salina. The one who sits exactly between Sadie and Shanky is not facing the centre. Shane is third to the right of Sameer and is facing the centre. Salina is third to the left of Sadie and both are facing the centre. Shanky is immediate neighbor of Suchi but not the neighbor of Sameer. Sally does not sit second to the right of Shane. ",
+        "",
+        "Who among the following sits third to the left of Salina?",
+        "(A) Sadie",
+        "(B) Suchi",
+        "(C) Shanky",
+        "(D) Shane",
+        "(E) None of the above",
+        " Ans .  C",
+    ],
+    [
+        "Q.14. Who among the following sits opposite Salina?",
+        "(A) Sally",
+        "(B) Sameer",
+        "(C) Shane",
+        "(D) Smith",
+        "(E) Shanky",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.15. Who among the following are immediate neighbours of Sameer?",
+        "(A) Sadie, Smith",
+        "(B) Sadie, Sally",
+        "(C) Salina, Smith",
+        "(D) Salina, Suchi",
+        "(E) None of the above",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.16.   Directions (16-20): Study the following information carefully to answer these questions. A, B, C, D, E, F, G and H are sitting around a circle facing the centre. F is third to the right of C and second to the left of H. D is not an immediate neighbour of C or H. E is on the immediate right of A, who is second to the right of G. ",
+        "",
+        "Who is second to the left of C ?",
+        "(A) A",
+        "(B) B",
+        "(C) E",
+        "(D) D",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.17. Who sits between G and D?",
+        "(A) H",
+        "(B) D",
+        "(C)F",
+        "(D) E",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.18. Which of the following pairs of persons has first person sitting to the right of the second person?",
+        "(A) CB",
+        "(B) AE",
+        "(C) FG",
+        "(D) HA",
+        "(E) DB",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.19. Which of the following is the correct position of B with respect to H?",
+        "I. Second to the right",
+        "II. Fourth to the right",
+        "(A) Only I",
+        "(B) Only II",
+        "(C) Only III",
+        "(D) Both II &amp; III",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.20. Who is on the immediate right of C?",
+        "(A) E",
+        "(B) B",
+        "(C) D",
+        "(D) B or D",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.21.  Direction (21-25): Eight executives - H, I, J, K, L, M, N & P are sitting around a circular table.M is third to the right of J & second to the left of K. H is at immediate left of I. P is at immediate right of K. L is third to the left of N. ",
+        "",
+        "Which of the following is definitely correct?",
+        "(A) K is at immediate right to P",
+        "(B) P is second to the right of J",
+        "(C) H is at immediate left of J",
+        "(D) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.22. Which of the following pair of persons shows the nearest neighbour of M?",
+        "(A) K, I",
+        "(B) L, I",
+        "(C) H, I",
+        "(D) H, L",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.23. Who is at immediate right of J?",
+        "(A) L",
+        "(B) I",
+        "(C) N",
+        "(D) H",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.24. In which of the following pairs, second person is second to the right of first person?",
+        "(A) LI",
+        "(B) NL",
+        "(C) PJ",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.25. Who is second to the left of M?",
+        "(A) H",
+        "(B) P",
+        "(C) J",
+        "(D) K",
+        " Ans .  A  "
+    ]
+]

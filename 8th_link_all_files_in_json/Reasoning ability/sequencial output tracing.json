@@ -1,0 +1,94 @@
+[
+    [
+        "Q.1. Which of the following will be Step III for the input below?",
+        "Input: 09 25 16 30 32 18 17 06",
+        "(A) 32 30 25 09 16 18 17 06",
+        "(B) 32 30 09 25 16 18 17 06",
+        "(C) 32 09 25 16 30 18 17 06",
+        "(D) 32 30 09 25 16 19 17 06",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.2. Which is the last step for the input below?",
+        "Input: 16 09 25 27 06 05",
+        "(A) Step II",
+        "(B) Step III",
+        "(C) Step IV",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3. What is the output of Step V for the input below?",
+        "Input: 25 08 35 11 88 67 23",
+        "(A) 08 11 23 25 35 67 88",
+        "(B) 88 67 35 25 23 11 08",
+        "(C) 88 67 35 25 23 08 11",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. Which one the following would be the last step for the input below?",
+        "Input: 03 31 43 22 11 09",
+        "(A) Step II",
+        "(B) Step III",
+        "(C) Step IV",
+        "(D) None of these.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.5. If the output of Step IV is as given below, what was the input?",
+        "Step IV: 92 86 71 69 15 19 06 63 58",
+        "(A) 15 19 06 63 58 86 92 69 71",
+        "(B) 15 86 19 92 06 69 63 58 71",
+        "(C) 86 92 69 71 15 19 06 63 58",
+        "(D) Cannot be determined",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.6. What will be step III for the following input?",
+        "Input: 68 182 39 93 129 46 21 58",
+        "(A) 21 39 129 93 46 58 182",
+        "(B) 21 39 93 129 46 58 182",
+        "(C) 21 68 93 129 46 58 182",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.7. Given below is the fifth step of an input. What will be the third step?",
+        "(A) 17 32 82 43 69 93 49 56 99 106",
+        "(B) 17 32 82 69 43 93 49 56 99 106",
+        "(C) 17 32 82 69 93 43 49 56 99 106",
+        "(D) 17 32 82 69 43 93 56 56 99 106",
+        "(E) Cannot be determined.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.8. What will be the last step for the following input?",
+        "Input: 138 63 49 93 89 122 32 71",
+        "(A) 32 49 63 71 89 93 122 138",
+        "(B) 32 49 71 63 89 93 122 138",
+        "(C) 32 49 63 71 93 89 122 138",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.9. How many steps will be required for getting the final output for the following input ?",
+        "Input: 101 85 66 49 73 39 142 25 115 74",
+        "(A) Five",
+        "(B) Six",
+        "(C) Seven",
+        "(D) Eight",
+        "(E) None of these",
+        " Ans .  D  "
+    ]
+]

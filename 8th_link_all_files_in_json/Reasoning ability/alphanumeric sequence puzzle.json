@@ -1,0 +1,103 @@
+[
+    [
+        "Q.1. Which of the following is the seventh to the right of the eighteenth from the right end?",
+        "W 1 R % 4 J E # 7 M 2 I 9 B H 3 A $ 9 F Q 5 G 6 U S P",
+        "(A) A",
+        "(B) E",
+        "(C) $",
+        "(D) #",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.2. If the order of the last fifteen elements is reversed, which of the following will be fifth to the right of twelfth from the left end?",
+        "W 1 R % 4 J E # 7 M 2 I 9 B H 3 A $ 9 F Q 5 G 6 U S P",
+        "(A) U",
+        "(B) $",
+        "(C) 3",
+        "(D) 6",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3. Four of the following five are a like in a certain way on the basis of above arrangement and hence form a group. Which one does not belong to that group?",
+        "W 1 R % 4 J E # 7 M 2 I 9 B H 3 A $ 9 F Q 5 G 6 U S P",
+        "(A) R W 4",
+        "(B) 5 F G",
+        "(C) 9 Q A",
+        "(D) 3 B $",
+        "(E) 7 E T",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.4. If the position of E and A are interchanged and similarly the position of R and U are interchanged then how many symbols will be there each of which is either preceded or followed by a vowel?",
+        "W 1 R % 4 J E # 7 M 2 I 9 B H 3 A $ 9 F Q 5 G 6 U S P",
+        "(A) None",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        "(E) Four",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.5. What should come in place of question mark on the basis of the above arrangement?",
+        " R 4 #           M 2 B            3 $ Q              ?",
+        "(A) 5 G U",
+        "(B) D 6 S",
+        "(C) 5 G S",
+        "(D) D 6 P",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.6. Which of the following letters is exactly midway between only letters falling between C and 5?",
+        "A B 7 C D 9 Z Y * P 2 M \u00a9 K S 3 \u2191 5 N T @",
+        "(A) K",
+        "(B) M",
+        "(C) P",
+        "(D) Y",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.7. If each symbol of the above sequence is replaced with a letter and each digit is replaced with new symbol, then how many letters will be there in the sequence?",
+        "A B 7 C D 9 Z Y * P 2 M \u00a9 K S 3 \u2191 5 N T @",
+        "(A) 4",
+        "(B) 12",
+        "(C) 16",
+        "(D) 17",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.8. If the first element from the left interchanges place with the tenth element from the left, similarly second with ninth, third with eight, fourth with seventh and so on, then which of the following will be seventh to the left of eight element from the right?",
+        "A B 7 C D 9 Z Y * P 2 M \u00a9 K S 3 \u2191 5 N T @",
+        "(A) C",
+        "(B) D",
+        "(C) 7",
+        "(D) 9",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9. How many such digits are there in the sequence each of which is immediately preceded as well as followed by a letter?",
+        "A B 7 C D 9 Z Y * P 2 M \u00a9 K S 3 \u2191 5 N T @",
+        "(A) Nil",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        "(E) None of these",
+        " Ans .  D "
+    ],
+    [
+        ""
+    ]
+]

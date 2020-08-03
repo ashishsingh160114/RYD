@@ -1,0 +1,470 @@
+[
+    [
+        "Q.1. Direction (1-5): - S, R, N, L, M, T, O, &amp; P are eight persons sitting in a circle facing the center. Their different occupations are-reporter, doctor, cricketer, teacher, accountant, shopkeeper, painter &amp; Supervisor, but not necessarily in the same order as given.",
+        "",
+        "Who form the following is a reporter?",
+        "(A) O",
+        "(B) L",
+        "(C) N",
+        "(D) R",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.2. What is the position of S regarding R?",
+        "(A) Third to the right",
+        "(B) Second to the right",
+        "(C) Third to the left",
+        "(D) Second to the left",
+        "(E) Fourth to the right.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3. If we count in the anti-clockwise direction starting from N; then how many persons are sitting between P &amp; N?",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4. As per the position mentioned above; four of the following pairs are alike &amp; so they form their group. Which one does not belong to this group?",
+        "(A) Teacher-Painter",
+        "(B) Supervisor  Shopkeeper",
+        "(C) Cricketer  Reporter",
+        "(D) Doctor  Accountant",
+        "(E) Shopkeeper  Doctor",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.5. Which of the following statement is false regarding the above-mentioned arrangement?",
+        "(A) N is at the immediate right of supervisor.",
+        "(B) Cricketer is third to the right of shopkeeper.",
+        "(C) Doctor is sitting exactly between supervisor &amp; accountant",
+        "(D) L is neither a teacher nor a supervisor.",
+        "(E) Only three persons are between S &amp; N.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.6.  Direction (6-10)  Eight executives - H, I, J, K, L, M, N &amp; P are sitting around a circular table. M . M is third to the right of J &amp; second to the left of K. H is at immediate left of I. P is at immediate right of K. L is third to the left of N.",
+        "",
+        "Which of the following pair of persons shows the nearest neighbour of M?",
+        "(A) K, I",
+        "(B) L, I",
+        "(C) H, I",
+        "(D) H, L",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.7. In which of the following pairs, second person is second to the right of first person?",
+        "(A) LI",
+        "(B) NL",
+        "(C) PJ",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.8. Which of the following is definitely correct?",
+        "(A) K is at immediate right to P",
+        "(B) P is second to the right of J",
+        "(C) H is at immediate left of J",
+        "(D) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.9. Who is at immediate right of J?",
+        "(A) L",
+        "(B) I",
+        "(C) N",
+        "(D) H",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.10 Who is second to the left of M?",
+        "(A) H",
+        "(B) P",
+        "(C) J",
+        "(D) K",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.11. AYD, BVF, DRH, ?, KGL",
+        "(A) FMI",
+        "(B) GMJ",
+        "(C) HLK",
+        "(D) GLJ",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.12. 42 40 38 35 33 31 28",
+        "(A) 25 22",
+        "(B) 26 23",
+        "(C) 26 24",
+        "(D) 25 23",
+        "(E) 26 22",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.13. Pituitary : Brain : : Thymus : ?",
+        "(A) Larynx",
+        "(B) Spinal Cord",
+        "(C) Throat",
+        "(D) Chest",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.14. Here are some words translated from an artificial language.",
+        "(A) gorbltusl",
+        "(B) flurgorbl",
+        "(C) arthflur",
+        "(D) pixnarth",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.15. A, CD, GHI, ?, UVWXY",
+        "(A) LMNO",
+        "(B) MNO",
+        "(C) MNOP",
+        "(D) NOPQ",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.16. 6 10 14 18 22 26 30",
+        "(A) 36 40",
+        "(B) 33 37",
+        "(C) 38 42",
+        "(D) 34 36",
+        "(E) 34 38",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.17. Blunt : Sharp : : Sow : ?",
+        "(A) Water",
+        "(B) Crow",
+        "(C) Farm",
+        "(D) Reap",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.18. Here are some words translated from an artificial language.",
+        "(A) leshsrench",
+        "(B) ochhapl",
+        "(C) haploch",
+        "(D) haplresbo",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.19. AK, EO, IS, ?",
+        "(A) MW",
+        "(B) MV",
+        "(C) XW",
+        "(D) NX",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.20. 8 12 9 13 10 14 11",
+        "(A) 14 11",
+        "(B) 15 12",
+        "(C) 8 15",
+        "(D) 15 19",
+        "(E) 8 5",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.21. Amnesia : Memory : : Paralysis : ?",
+        "(A) Movement",
+        "(B) Limbs",
+        "(C) Handicapped",
+        "(D) Legs",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.22.Here are some words translated from an artificial language.",
+        "(A) deeryclostagnos",
+        "(B) agnosdelano",
+        "(C) agnosvitriblunin",
+        "(D) trymuttiagnos",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.23. MHZ, NIW, OKT, PNQ, ?",
+        "(A) RRN",
+        "(B) QRN",
+        "(C) QRM",
+        "(D) QQN",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.24. 36 31 29 24 22 17 15",
+        "(A) 13 11",
+        "(B) 10 5",
+        "(C) 13 8",
+        "(D) 12 7",
+        "(E) 10 8",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.25. Book : Publisher : : Film : ?",
+        "(A) Producer",
+        "(B) Director",
+        "(C) Editor",
+        "(D) Writer",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.26. Here are some words translated from an artificial language.",
+        "(A) wilkozwet",
+        "(B) spadiwilko",
+        "(C) moolobreil",
+        "(D) spadivolo",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.27. DHL, PTX, BFJ, ?",
+        "(A) CGK",
+        "(B) KOS",
+        "(C) NRV",
+        "(D) RVZ",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.28. 3 5 35 10 12 35 17",
+        "(A) 22 35",
+        "(B) 35 19",
+        "(C) 19 35",
+        "(D) 19 24",
+        "(E) 22 24",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29. Influenza : Virus : : Typhoid : ?",
+        "(A) Bacillus",
+        "(B) Parasite",
+        "(C) Protozoa",
+        "(D) Bacteria",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.30. Here are some words translated from an artificial language.",
+        "(A) poenmigen",
+        "(B) cuopeisel",
+        "(C) lasandansa",
+        "(D) poenforc",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.31. G, H, J, M, ?, V",
+        "(A) Q",
+        "(B) T",
+        "(C) O",
+        "(D) R",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.32. 13 29 15 26 17 23 19",
+        "(A) 21 23",
+        "(B) 20 21",
+        "(C) 20 17",
+        "(D) 25 27",
+        "(E) 22 20",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.33. Radio : Listener : : Film : ?",
+        "(A) Producer",
+        "(B) Actor",
+        "(C) Viewer",
+        "(D) Director",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.34. Here are some words translated from an artificial language.",
+        "(A) godaromz",
+        "(B) lazbim",
+        "(C) wasibako",
+        "(D) romzpeo",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.35. LXF, MTJ, NPN, OLR, ?",
+        "(A) PHV",
+        "(B) PIU",
+        "(C) PJW",
+        "(D) PKX",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.36. 14 14 26 26 38 38 50",
+        "(A) 60 72",
+        "(B) 50 62",
+        "(C) 50 72",
+        "(D) 62 62",
+        "(E) 62 80",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.37. Spider : Insect : : Crocodile : ?",
+        "(A) Reptile",
+        "(B) Mammal",
+        "(C) Frog",
+        "(D) Carnivore",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.38.Here are some words translated from an artificial language.",
+        "(A) granahoon",
+        "(B) pinishur",
+        "(C) pinihoon",
+        "(D) melkegrana",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.39. ATTRIBUTION, TTRIBUTIO, RIBUTIO, IBUTI, ?",
+        "(A) IBU",
+        "(B) UT",
+        "(C) UTI",
+        "(D) BUT",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.40. 44 41 38 35 32 29 26",
+        "(A) 24 21",
+        "(B) 22 19",
+        "(C) 23 19",
+        "(D) 29 32",
+        "(E) 23 20",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.41. Foresight : Anticipation : : Insomnia : ?",
+        "(A) Treatment",
+        "(B) Disease",
+        "(C) Sleeplessness",
+        "(D) Unrest",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.42. Here are some words translated from an artificial language.",
+        "(A) kratafoni",
+        "(B) kratadafta",
+        "(C) loktifoni",
+        "(D) daftaimo",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.43. KUZ, MOX, OIV, QET....?",
+        "(A) SUR",
+        "(B) SDR",
+        "(C) SMR",
+        "(D) SAR",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.44. 34 30 26 22 18 14 10",
+        "(A) 8 6",
+        "(B) 6 4",
+        "(C) 14 18",
+        "(D) 6 2",
+        "(E) 4 0",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.45. Virology : Virus : : Semantics : ?",
+        "(A) Amoeba",
+        "(B) Language",
+        "(C) Nature",
+        "(D) Society",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.46. Here are some words translated from an artificial language.",
+        "(A) lelifroti",
+        "(B) lelipleka",
+        "(C) plekabroon",
+        "(D) frotibroon",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.47. SHG, RIF, QJE, PKD, ?",
+        "(A) OLE",
+        "(B) OLC",
+        "(C) NMC",
+        "(D) NLB",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.48. 32 31 32 29 32 27 32",
+        "(A) 25 32",
+        "(B) 31 32",
+        "(C) 29 32",
+        "(D) 25 30",
+        "(E) 29 30",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.49. Novelty : Oldness : : Newness : ?",
+        "(A) Culture",
+        "(B) Discovery",
+        "(C) Model",
+        "(D) Antiquity",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.50.Here are some words translated from an artificial language.",
+        "(A) cabelwir",
+        "(B) conocabel",
+        "(C) almamyn",
+        "(D) conoalma",
+        " Ans .  A  "
+    ]
+]

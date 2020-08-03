@@ -1,0 +1,101 @@
+[
+    [
+        "Q.1. If cook is called butler, butler is called manager, manager is called teacher, teacher is called clerk and clerk is called principal, who will teach in a class?",
+        "(A) Cook",
+        "(B) Butler",
+        "(C) Manager",
+        "(D) Teacher",
+        "(E) Clerk",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.2. If diamond is called gold, gold is called silver, silver is called ruby and ruby is called emerald, which is the cheapest jewel?",
+        "(A) Dimond",
+        "(B) Silver",
+        "(C) Gold",
+        "(D) Ruby",
+        "(E) Emerald",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.3. If eye is called hand , hand is called mouth, mouth is called ear, ear is called nose and nose is called tongue, with which of the following would a person hear?",
+        "(A) Eye",
+        "(B) Mouth",
+        "(C) Nose",
+        "(D) Ear",
+        "(E) Tongue",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.4. If 'white' is called 'blue', 'blue' is called 'red', 'red' is called yellow' yellow' is called green 'green' is called 'black', 'black' is called violet and 'violet' is called orange', what would be the colour of human blood?",
+        "(a) Red",
+        "(b) Green",
+        "(c) Yellow",
+        "(d) Violet",
+        "(e) Orange",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.5. If 'oranges' are 'apples', 'bananas' are 'apricots', 'apples' are 'chillies', 'apricots' are orange and chillies are 'bananas', then which of the following are green in colour?",
+        "(a) Apricots",
+        "(b) Apples",
+        "(c) Chillies",
+        "(d) Bananas",
+        "(e) Oranges",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.6. If 'pen' is 'table', 'table' is 'fan', 'fan' is 'chair' and 'chair' is 'roof, on which of the following will a person sit?",
+        "(a) Fan",
+        "(b) Chair",
+        "(c) Roof",
+        "(d) Table",
+        "(e) Pen",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.7. If `bat' is 'racket', 'racket' is 'football', 'football' is 'shuttle', 'shuttle' is 'Ludo' and Ludo is carrom, what is cricket played with ?",
+        "(a) Racket",
+        "(b) Football",
+        "(c) Bat",
+        "(d) Shuttle",
+        "(e) Cannon.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.8. If 'sky' is 'star', 'star' is 'cloud', 'cloud' is 'earth', 'earth' is 'tree' and tree is 'book', then where do the birds fly?",
+        "(a) Cloud",
+        "(b) Sky",
+        "(c) Star",
+        "(d) Data inadequate",
+        "(e) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.9. If 'room' is called 'bed', 'bed' is called 'window', 'window' is called 'flower' and 'flower is called 'cooler', on what would a man sleep?",
+        "(a) Window",
+        "(b) Bed",
+        "(c) Flower",
+        "(d) Cooler",
+        "(e) None of these ",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10. If 'book' is called 'watch', 'watch' is called 'bag', 'bag' is called dictionary' and dictionary is called window, which is used to carry the books?",
+        "(a) Dictionary",
+        "(b) Bag",
+        "(c) Book",
+        "(d) Watch ",
+        "(e) None of these",
+        " Ans .  A "
+    ]
+]

@@ -1,0 +1,101 @@
+[
+    [
+        "Q.1. Which of the following words will come second in the English dictionary?",
+        "(A) Magical",
+        "(B) Magnify",
+        "(C) Maternal",
+        "(D) Marshal",
+        "(E) Magnetic",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.2. Arrange the following words according to dictionary arrangement:",
+        "1. Epitaxy 2. Episode 3. Epigene 4. Epitome 5. Epilogue",
+        "(A) 1, 2, 3, 4, 5",
+        "(B) 3, 2, 5, 4, 1",
+        "(C) 3, 5, 2, 1, 4",
+        "(D) 5, 4, 2, 1, 3",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.3. How many such letters are there in the word BACKLASH each of which is as far away from the beginning of the word as it is form the beginning of the English alphabet?",
+        "(A) None",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        "(E) More than three",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.4. If the letters in the word POWERFUL are rearranged as they appear in the English alphabet, the position of how many letters will remain unchanged after the rearrangement?",
+        "(A) None",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        "(E) More than three",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.5. Number of letters skipped in between adjacent letters in the series is odd.",
+        "(A) BDHLR",
+        "(B) EIMQV",
+        "(C) FIMRX",
+        "(D) MPRUX",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.6. Number of letters skipped in between the adjacent letters in the series are multiples of 3.",
+        "(A) AELPZ",
+        "(B) DHLPU",
+        "(C) GKOTZ",
+        "(D) LORUX",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.7. Which letter is exactly midway between G and Q in the given alphabet?",
+        "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+        "(A) K",
+        "(B) L",
+        "(C) M",
+        "(D) N",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.8. Which letter is midway between the eighteenth letter form the left end and tenth letter from the right end of the given alphabet?",
+        "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+        "(A) No letter",
+        "(B) K",
+        "(C) Q",
+        "(D) R",
+        "(E) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.9. Which letter in the alphabet is as far from G as T is form M?",
+        "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+        "(A) M",
+        "(B) N",
+        "(C) O",
+        "(D) P",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.10. Which letter is sixteenth to the right of the letter which is fourth to the left of I?",
+        "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+        "(A) S",
+        "(B) T",
+        "(C) U",
+        "(D) V",
+        "(E) Y",
+        " Ans . C "
+    ]
+]

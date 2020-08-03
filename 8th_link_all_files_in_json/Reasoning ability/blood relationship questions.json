@@ -1,0 +1,362 @@
+[
+    [
+        "Q1. How is U related P in the given expression?</p>U # TSRQ + P</p>",
+        " (A) Sister ",
+        " (B) Husband ",
+        " (C) Wife ",
+        " (D) Mother-in-law ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q2. Introducing Kavi, Veena said, She is the sister of the son of the wife of my husband. How is Veena related to Kavi?</p>",
+        " (A) Aunt",
+        " (B) Sister",
+        " (C) Mother",
+        " (D) Daughter",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q3. In the expression PQ-T how is T related to P?</p>",
+        " (A) Son ",
+        " (B) Mother ",
+        " (C) Daughter ",
+        " (D) Can't be determined ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q4. A and B are brothers. E is the daughter of F. F is the wife of B. What is the relation of E to A?</p>",
+        " (A) niece ",
+        " (B) Sister-In-Law ",
+        " (C) Sister ",
+        " (D) daughter ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q5. How is A related to F in the given expression?</p>A + B  C  D * E # F</p>",
+        " (A) Son ",
+        " (B) Son- in- law ",
+        " (C) Brother ",
+        " (D) Father- in- law ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q6. If A + B means A is the brother of B; A - B means A is the sister of B and A x B means A is the father of B. Which of the following means that C is the son of M?</p>",
+        " (A) M - N x C + F",
+        " (B) F - C + N x M",
+        " (C) N + M - F x C",
+        " (D) M x N - C + F",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q7. P's father is Q is B's paternal uncle. How is A related to B?</p>",
+        " (A) Mother ",
+        " (B) Cousin ",
+        " (C) Aunt ",
+        " (D) Data inadequate ",
+        " (E) None of these ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q8. Pointing to a girl Sandeep said, \"She is the daughter of the only sister of my father.\" How is sandeep related to the girl?</p>",
+        " (A) Uncle",
+        " (B) Cousin",
+        " (C) Father",
+        " (D) Grandfather",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q9. A is the brother of B. B is the brother of C. D is the father of A. Based on these three statements, which of the following statements cannot be definitely true?</p>",
+        " (A) A is the brother of C ",
+        " (B) C is the brother of A ",
+        " (C) B is the brother of A ",
+        " (D) B is the son of D ",
+        " (E) A , B and C are D's children ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q10. Pointing to a girl, Rahul said She is the only daughter-in-law of my grandfathers only daughter-in-laws only son. Then how is that girl related to Rahul?</p>",
+        " (A) Sister ",
+        " (B) Daughter-in-law ",
+        " (C) Daughter ",
+        " (D) Cant be determined ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q11. A is the uncle of B, who is the daughter of C and C is the daughter-in-law of P. How is A related to P?</p>",
+        " (A) Son ",
+        " (B) Son-in-law ",
+        " (C) Brother ",
+        " (D) None of these ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q12. Heena is daughter of Ajay. Mala, Achlas sister has a son Romi and daughter Sushila. Kamla is maternal aunt of sushila and mother of Krishna. Romi is cousin of Krishna. Krishna is brother of Heena. How is Achla related to Ajay?</p>",
+        " (A) Cousin ",
+        " (B) Sister-in-law",
+        " (C) Niece ",
+        " (D) Sister",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q13. A is the brother of B, C is the father of D, E is the mother of B. A and D are brother. How is E related to C?</p>",
+        " (A) Niece ",
+        " (B) Wife ",
+        " (C) Sister ",
+        " (D) Sister-in-law ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q14. E is the sister of B. A is the father of C. B is the son of C. So how is A related to E?</p>",
+        " (A) Grandfather",
+        " (B) Granddaughter",
+        " (C) Father",
+        " (D) Great-Grandfather",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q15. . Introducing a man to her husband a woman said \" His brother's father is the only son of my grandfather \". How is the woman related to his man?</p>",
+        " (A) Sister ",
+        " (B) Daughter ",
+        " (C) Mother ",
+        " (D) Aunt ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q16. Pointing towards a girl Rama said that she is only child of my uncles fathers only sisters daughter. Then how is Rama related to that girl?</p>",
+        " (A) Uncle ",
+        " (B) Aunt ",
+        " (C) Mother ",
+        " (D) Cannot be determined ",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q17. Sushant said \"This girl is the wife of the grandson of my mother. How is Sushant to the girl?</p>",
+        " (A) Husband",
+        " (B) Father-in-law ",
+        " (C) Father ",
+        " (D) Grandfather ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q18. Jyothi said to Chitra, Father of your daughter is the son of my brother. How is Jothis brother related to Chitras daughter?</p>",
+        " (A) Son ",
+        " (B) Uncle ",
+        " (C) Grandfather ",
+        " (D) Grandson ",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q19. A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?</p>",
+        " (A) Cousin",
+        " (B) Niece ",
+        " (C) Nephew ",
+        " (D) Son ",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q20. In a family, X and Y are sisters. Y is the mother of A. C is the son of A. B is the son of X. Which of die following statements is true?</p>",
+        " (A) A is the son of X and Y. ",
+        " (B) B and A are cousins. ",
+        " (C) X is the Father of B. ",
+        " (D) X is Cs Grandmother. ",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q21. A family consists of six members P, Q, R, X, Y and Z. Q is the son of R but R is not mother of Q. P and R are a married couple. Y is the brother of R. X is the daughter of P. Z is the brother of P. How many children does P have?",
+        " (A) 4",
+        " (B) 3",
+        " (C) 2",
+        " (D) 1",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q22. Pointing to a man in a photograph, a woman said, \"His brother's father is the only son of my grandfather.\" How is the woman related to the man in the photograph ?",
+        " (A) Aunt\t",
+        " (B) Mother",
+        " (C) Daughter",
+        " (D) Sister",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q23. A family consists of six members P, Q, R, S, T and U. There are two married couples. Q is a doctor and the father of T. U is grandfather of R and is a contractor. S is grandmother of T and is a housewife. There is one doctor, one contractor, one nurse, one housewife and two students in the family. Which of the following is definitely a group of male members?",
+        " (A) QUP\t",
+        " (B) UT",
+        " (C) QU",
+        " (D) QUT",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q24. Ram is brother of Rahul. Sapana is sister of Shyam. Rahul is son of Sapana. How is Ram related to Sapana?",
+        " (A) Father",
+        " (B) Son",
+        " (C) Grandfather",
+        " (D) Grand Son",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q25. A is the son of B, C.  B's sister has a son D and a daughter E. F is the maternal uncle of D. How many nephews does F have?",
+        " (A) 1",
+        " (B) 2",
+        " (C) 3",
+        " (D) 0",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q26. Q is the brother of R; P is the sister of Q; T is the brother of S; S is the daughter of R. Who are the cousins of Q ?",
+        " (A) Q and T",
+        " (B) S and T",
+        " (C) R and P",
+        " (D) P and T",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q27. All the six members of a family A, B, C, D, E and F are travelling together. B is the son of C but C is not the mother of B.  A and C are a married couple. E is the brother of C. D is the daughter of A. F is the brother of B.  Who is the mother of B?",
+        " (A) A",
+        " (B) B",
+        " (C) C",
+        " (D) D",
+        "Correct Answer : A",
+        "",
+        ""
+    ],
+    [
+        "Q28. A and B are a married couple, A being the male member. D is the only son of C, who is the brother of A. E is the sister of D. B is the daughter-in-law of F, whose husband has died. How many male members are there in the family?",
+        " (A) 2",
+        " (B) 4",
+        " (C) 1",
+        " (D) 3",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q29. A introduces B saying, \"He is the husband of the granddaughter of the father of my father \". How is A related to B?",
+        " (A) Grand Father",
+        " (B) Brother-in-law",
+        " (C) Grand Son",
+        " (D) Son",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q30. Rajkumar told Anand, 'Yesterday I defeated the only brother of the daughter of my grandmother.' Whom did Rajkumar defeat?",
+        " (A) Daughter",
+        " (B) Grand Daughter",
+        " (C) Father",
+        " (D) Grand Son",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q31. A man said to a lady, \"Your mother's husband's sister is my aunt!! How is the lady related to the man",
+        " (A) Grand Son",
+        " (B) Mother",
+        " (C) Daughter",
+        " (D) Sister",
+        "Correct Answer : D",
+        "",
+        ""
+    ],
+    [
+        "Q32. Pointing to a man in a photograph. Bipasa said. \"His mother's only daughter is my mother.\" How is Bipasa related to that man?",
+        " (A) Sister in law",
+        " (B) Niece",
+        " (C) Mother",
+        " (D) Sister",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q33. Q's mother is sister of P and daughter of M. S is daughter of P and sister of T. How is M related to T?",
+        " (A) Father",
+        " (B) Either Grandmother or Father",
+        " (C) Either Grandmother or Grandfather",
+        " (D) Either Grandmother or Mother",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q34. A, B, C, D, E, F and G are members of a family consisting of four adults and three children, two of whom, F and G are girls. A and D are brothers and A is a doctor. E is an engineer married to one of the brothers and has two children. if is married to D and G is their child. Who is C ?",
+        " (A) F's father",
+        " (B) E's daughter",
+        " (C) A's son",
+        " (D) G's brother",
+        "Correct Answer : C",
+        "",
+        ""
+    ],
+    [
+        "Q35. Sita told Poja, \"The girl I met yesterday at the beach was the youngest daughter of the brother-in-law of my friend's mother.\" How is the girl related to Sita's friend?",
+        " (A) Aunt\t",
+        " (B) Cousin",
+        " (C) Niece",
+        " (D) Mother",
+        "Correct Answer : B",
+        "",
+        ""
+    ],
+    [
+        "Q36. Pointing to a girl in the photograph, Raju said, \"Her mother's brother is the only son of my mother's father.\" How is the girl's mother related to Raju?",
+        " (A) Daughter\t",
+        " (B) Mother",
+        " (C) Grandmother",
+        " (D) Aunt",
+        "Correct Answer : D  "
+    ]
+]

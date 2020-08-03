@@ -1,0 +1,98 @@
+[
+    [
+        "Q.1. A is the son of B.C, B`s sister has a son D and a daughter E.F is the maternal uncle of D. How is E related to F?",
+        "(A) Daughter",
+        "(B) Sister",
+        "(C) Wife",
+        "(D) Niece",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.2. Rahul`s mother is the only daughter of Monika`s father. How is Monika`s husband related to Rahul?",
+        "(A) Father",
+        "(B) Uncle",
+        "(C) Brother",
+        "(D) Grandfather",
+        "(E) Data inadequate",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3. A is the son of B. C, B`s sister has a son D and a daughter E. F is the maternal uncle of D. How is A related to D?",
+        "(A) Nephew",
+        "(B) Cousin",
+        "(C) Brother",
+        "(D) Uncle",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. If (i) M is brother of N;",
+        "(A) N is brother of D",
+        "(B) N is brother of B",
+        "(C) D is brother of M",
+        "(C) M is brother of B",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.5. Q`s mother is sister of P and daughter of M. S is daughter of P and sister of T. How is M related to T?",
+        "(A) Father",
+        "(B) Grandmother",
+        "(C) Grandfather or Grandmother",
+        "(D) Grandfather",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6. Deepak is brother of Ravi. Rekha is sister of Atul. Ravi is son of Rekha. How is Deepak related to Rekha?",
+        "(A) Brother",
+        "(B) Son",
+        "(C) Father",
+        "(D) Nephew",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.7. A is father of C and D is son of B. E is brother of A. If C is sister of D, how is B related to E ?",
+        "(A) Brother-in-Law",
+        "(B) Daughter",
+        "(C) Sister-in-Law",
+        "(D) Husband",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.8. A is B`s sister. C is B`s mother. D is C`s father. E is D`s mother. Then, how is A related to D?",
+        "(A) Grandfather",
+        "(B) Grandmother",
+        "(C) Grand daughter",
+        "(D) Daughter",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.9. Daya has a brother Anil, Daya is the son of Chandra. Bimal is Chandra`s father. In term of relationship, what is Anil of Bimal?",
+        "(A) Grandson",
+        "(B) Son",
+        "(C) Grandfather",
+        "(D) Brother",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10. Give that:",
+        "1. A is brother of B.",
+        "2. C is brother of A.",
+        "3. D is brother of E.",
+        "4. E is brother of B.",
+        "(A) B",
+        "(B) A",
+        "(C) E",
+        "(D) C",
+        " Ans .  B "
+    ]
+]

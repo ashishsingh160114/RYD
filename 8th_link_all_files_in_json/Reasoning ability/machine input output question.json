@@ -1,0 +1,201 @@
+[
+    [
+        "Q.1. Which of the following combinations represent the first two and last two elements in the step V of the given input?",
+        "(A) 12, lemon and 36, exam",
+        "(B) 41, test and orange, 36",
+        "(C) lemon, 41 and 59, orange",
+        "(D) 12, lemon and orange, 36",
+        "(E) lemon, 41 and 36, exam",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.2. Which element comes exactly between 85 and lake in Step III of the given input?",
+        "(A) yellow",
+        "(B) 59",
+        "(C) exam",
+        "(D) test",
+        "(E) orange",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.3. Which of the following element is fourth to the right of the one which is ninth from the right end in step V of the given input?",
+        "(A) yellow",
+        "(B) 36",
+        "(C) 12",
+        "(D) exam",
+        "(E) 85",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.4. If in the first step, 59 interchanges its position with lemon and orange also interchanges its position with 12 then which element will be to the immediate left of 41?",
+        "(A) orange",
+        "(B) 59",
+        "(C) lemon",
+        "(D) 12",
+        "(E) exam",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.5. In which step are the elements test 85 yellow 59 found in the same order?",
+        "(A) Fourth",
+        "(B) Third",
+        "(C) Fifth",
+        "(D) The given order of elements is not found in any step",
+        "(E) Second",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.6. Which of the following combinations represent the first two and the last two elements in Step IV of the given input?",
+        "(A) House Gun and 34 42",
+        "(B) House Gun and 52 71",
+        "(C) House Gun and 42 71",
+        "(D) House Gun and 34 52",
+        "(E) House Gun and 42 52",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.7. If in the second step,17 interchanges its position with 25 and Gun also interchanges its position with Forest then which element will be the second from the left end?",
+        "(A) Gun",
+        "(B) House",
+        "(C) Forest",
+        "(D) Eagle",
+        "(E) 18",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.8. Which element is third to the left of the one which is eighth from the left in Step III of the given Input?",
+        "(A) Forest",
+        "(B) 17",
+        "(C) Eagle",
+        "(D) Gun",
+        "(E) 42",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.9. Which element comes exactly between 17 and 25 in Step III of the given Input?",
+        "(A) Gun",
+        "(B) House",
+        "(C) Ant",
+        "(D) Eagle",
+        "(E) 18",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.10. In which step are the elements  Ant 17 Eagle 25 found in the same order?",
+        "(A) Fourth",
+        "(B) Third",
+        "(C) The given order of elements is not found in any step",
+        "(D) Fifth",
+        "(E) Second",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.11. If in the last step 2 is added to each of the odd numbers and 1 is subtracted from each of the even numbers, then how many numbers multiple of 3 will be formed?",
+        "(A) One",
+        "(B) Two",
+        "(C) More than three",
+        "(D) None",
+        "(E) Three",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.12.Which element comes exactly between typhoon and tour in Step III of the given input?",
+        "(A) to",
+        "(B) 63",
+        "(C) 56",
+        "(D) table",
+        "(E) 91 ",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.13. Which element is fourth to the left of one which is ninth from the left end in second last step?",
+        "(A) 72",
+        "(B) table",
+        "(C) tablet",
+        "(D) 91",
+        "(E) typhoon",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.14. Which of the following combinations represent the sixth and eighth element in Step II of the given input from left end?",
+        "(A) tea and 63",
+        "(B) 63 and tablet",
+        "(C) 48 and table",
+        "(D) 72 and tablet ",
+        "(E) 72 and tea",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.15. If the Step IV, 72 interchange its position with table and typhoon also interchanges its position with 91 then which element will be to the immediate right of 91?",
+        "(A) to",
+        "(B) 63",
+        "(C) 72",
+        "(D) typhoon",
+        "(E) 52",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.16.Which of the following combinations represent the third and fifth element from the left end in Step III of the given input?",
+        "(A) Orange, 9",
+        "(B) Orange, Radar",
+        "(C) Wow, 5",
+        "(D) Wow, 18",
+        "(E) Rotator, 11",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.17.If in the third step,9 interchanges its position with 14 and Orange also interchanges its position with rotator then which element will be to the immediate right of 18?",
+        "(A) 14",
+        "(B) Radar",
+        "(C) 11",
+        "(D) Union",
+        "(E) Rotator",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.18. Which element is fifth to the right of the one which is eighth from the right in Step II of the given Input?",
+        "(A) 14",
+        "(B) Radar",
+        "(C) 11",
+        "(D) Union",
+        "(E) Rotator",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.19. Which element comes exactly between 9 and 18 in Step II of the given Input?",
+        "(A) 14",
+        "(B) Radar",
+        "(C) 11",
+        "(D) Union",
+        "(E) Rotator",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.20. In which step are the elements 5 9 14 18 Orange found in the same order?",
+        "(A) Fourth",
+        "(B) Third",
+        "(C) The given order of elements is not found in any step",
+        "(D) Second",
+        "(E) First",
+        " Ans . D "
+    ]
+]

@@ -1,0 +1,121 @@
+[
+    [
+        "Q.1.What is the code for 'sky' in the code language?",
+        "1. In the code language, 'sky is clear' is written as 'de ra fa'.",
+        "2. In the same code language, 'make it clear' is written as 'de ga jo'.",
+        "(A) I alone is sufficient while II alone is not sufficient",
+        "(B) II alone is sufficient while I alone is not sufficient",
+        "(C) Either I or II is sufficient",
+        "(D) Neither I nor II is sufficient",
+        "(E) Both I and II are sufficient",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.2. In a certain code '13' means 'stop smoking' and '59' means 'injurious habit'. What is the meaning of '9' and '5' respectively in that code?",
+        "1.'157' means 'stop bad habit'.",
+        "2.'839'means 'smoking is injurious'.",
+        "(A) if the data in statement I alone are sufficient to answer the question",
+        "(B) if the data in statement II alone are sufficient answer the question",
+        "(C) if the data either in I or II alone are sufficient to answer the question",
+        "(D) if the data even in both the statements together are not sufficient to answer the question;",
+        "(E) if the data in both the statements together are needed.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.3.How many children are there between P and Q in a row of children?",
+        "1. P is fifteenth from the left in the row.",
+        "2. Q is exactly in the middle and there are ten children towards his right.",
+        "(A) I alone is sufficient while II alone is not sufficient",
+        "(B) II alone is sufficient while I alone is not sufficient",
+        "(C) Either I or II is sufficient",
+        "(D) Neither I nor II is sufficient",
+        "(E) Both I and II are sufficient",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.4. When is Manohar's birthday this year ?",
+        "1.It is between January 13 and 15, January 13 being Wednesday.",
+        "2.It is not on Friday.",
+        "(A) if the data in statement I alone are sufficient to answer the question;",
+        "(B) if the data in statement II alone are sufficient answer the question;",
+        "(C) if the data either in I or II alone are sufficient to answer the question;",
+        "(D) if the data even in both the statements together are not sufficient to answer the question;",
+        "(E) if the data in both the statements together are needed",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.5.How is T related to K?",
+        "1.R's sister J has married Ts brother L, who is the only son of his parents.",
+        "2.K is the only daughter of L and J.",
+        "(A) I alone is sufficient while II alone is not sufficient",
+        "(B) II alone is sufficient while I alone is not sufficient",
+        "(C) Either I or II is sufficient",
+        "(D) Neither I nor II is sufficient",
+        "(E) Both I and II are sufficient",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.6. On which day the flat was purchased by Rohan in 1996 ?",
+        "1.Certainly before 18th December, 1996 but definitely not before 15th December, 1996.",
+        "2.Certainly after 16th December, 1996 but not later than 19th December, 1996.",
+        "(A) if the data in statement I alone are sufficient to answer the question;",
+        "(B) if the data in statement II alone are sufficient answer the question;",
+        "(C) if the data either in I or II alone are sufficient to answer the question;",
+        "(D) if the data even in both the statements together are not sufficient to answer the question;",
+        "(E) if the data in both the statements together are needed.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.7.How is J related to P ?",
+        "1.M is brother of P and T is sister of P.",
+        "2.P's mother is married to J's husband who has one son and two daughters.",
+        "(A) I alone is sufficient while II alone is not sufficient",
+        "(B) II alone is sufficient while I alone is not sufficient",
+        "(C) Either I or II is sufficient",
+        "(D) Neither I nor II is sufficient",
+        "(E) Both I and II are sufficient",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.8. Is Arun taller than Sachin ?",
+        "1.Dinesh is of the same height as Arun and Sachin.",
+        "2.Sachin is not shorter than Dinesh.",
+        "(A) if the data in statement I alone are sufficient to answer the question;",
+        "(B) if the data in statement II alone are sufficient answer the question;",
+        "(C) if the data either in I or II alone are sufficient to answer the question;",
+        "(D) if the data even in both the statements together are not sufficient to answer the question;",
+        "(E) if the data in both the statements together are needed",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9.How is X related to Y ?",
+        "1.Y and Z are children of D who is wife of X.",
+        "2.R's sister X is married to Ys father.",
+        "(A) I alone is sufficient while II alone is not sufficient",
+        "(B) II alone is sufficient while I alone is not sufficient",
+        "(C) Either I or II is sufficient",
+        "(D) Neither I nor II is sufficient",
+        "(E) Both I and II are sufficient",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.10. Buses are always punctual in city X. How long, at the most, will Mr. Roy have to wait for the bus?",
+        "1.Mr. Roy has come to the bus stand at 9 A.M.",
+        "2.There is a bus at 10 A.M. and Possibly another bus even earlier.",
+        "(A) if the data in statement I alone are sufficient to answer the question;",
+        "(B) if the data in statement II alone are sufficient answer the question;",
+        "(C) if the data either in I or II alone are sufficient to answer the question;",
+        "(D) if the data even in both the statements together are not sufficient to answer the question;",
+        "(E) if the data in both the statements together are needed.",
+        " Ans .  E "
+    ]
+]
