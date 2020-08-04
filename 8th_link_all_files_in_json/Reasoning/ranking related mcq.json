@@ -1,0 +1,116 @@
+[
+    [
+        "Q.1. In a class of 35 students, Prasanna is placed seventh from the bottom whereas Suganya is placed ninth from the top. Karthi is placed exactly in between the two. What is Prasannas position from Karthi?  ",
+        "A. 9 B. 10 C. 11 D. 13",
+        " Answer : B. 10",
+        ""
+    ],
+    [
+        "Q.2. Murugan ranked ninth from the top and thirty eighth from the bottom in a class. How many students are there in the class?  ",
+        "A.44 B.45 C.46 D.47",
+        " Answer : C.46",
+    ],
+    [
+        "Q.4. A class of boys stands in a single line. One boy is nineteenth in order from both the ends. How many boys are there in the class?  ",
+        "A. 27 B. 37 C. 38 D. 39",
+        " Answer : B. 37",
+        ""
+    ],
+    [
+        "Q.5. In a row of 40 boys, Sathish was shifted 10 places to the right of Rohan and Kewal was shifted 10 places to the left of Vilas. If Vilas was twenty sixth from the left and there were three boys between Kewal and Sathish was shifting, what was the position of Rohan in the row?  ",
+        "A. 10th from the right end B. 10th from the left end C. 39th from the right end D. Data inadequate",
+        " Answer : D. Data inadequate",
+        ""
+    ],
+    [
+        "Q.6. In a row of boys, Deepak is seventh from the left and Madhu ia twelfth from the right.If they interchange their positions, Deepak becomes twenty-second from the left. How many boys are there in the row ?  ",
+        "A. 19 B. Cannot be determined C. 33 D. None of these",
+        " Answer : C. 33",
+        ""
+    ],
+    [
+        "Q.7. Rahul ranked ninth from the top and thirty eighth from the bottom in a class. How many students are there in the class ?  ",
+        "A.45 B.46 C.47 D.48",
+        " Answer : B.46",
+    ],
+    [
+        "Q.9. Three persons A, B and C are standing in a queue. There are five persons between A and B and eight persons between B and C. If there be three persons ahead of C and 21 persons behind A, what could be the minimum number of persons in the queue ?  ",
+        "A. 41 B. 40 C. 28 D. 27",
+        " Answer : C. 28",
+        ""
+    ],
+    [
+        "Q.10. Manoj and Sachin are ranked seventh and eleventh respectively from the top in a class of 31 students. What will be their respective ranks from the bottom in the class ?  ",
+        "A. 20th and 24th B. 24th and 20th C. 26th and 22nd D. 25th and 21st",
+        " Answer : D. 25th and 21st",
+        ""
+    ],
+    [
+        "Q.11. Some boys are sitting in a row. P is sitting fourteenth from the left and Q is seventh from the right. If there are four boys between P and Q, how many boys are there in the row ?  ",
+        "A. 25 B. 23 C. 21 D. 21",
+        " Answer : A. 25",
+        ""
+    ],
+    [
+        "Q.12. If Atul finds that he is twelfth from the right in a line of boys and fourth from the left, how many boys should be added to the line such that there are 28 boys in the line ?  ",
+        "A.12 B.13 C.14 D.20",
+        " Answer : B.13",
+    ],
+    [
+        "Q.14. In a row of trees , one tree is fifth from either end of the row. How many trees are there in the row?  ",
+        "A. 8 B. 9 C. 10 D. 11",
+        " Answer : B. 9",
+        ""
+    ],
+    [
+        "Q.15. In a row of ten boys, when Rohit was shifted by two places towards the left, he became seventh from the left end.What was his earlier position from the right end of the row ?  ",
+        "A. First B. Second C. Fourth D. Sixth",
+        " Answer : B. Second",
+        ""
+    ],
+    [
+        "Q.16. In a class of 60, where girls are twice that of boys, Kamal ranked seventeenth from the top. If there are 9 girls ahead of Kamal, how many boys are after him in rank?  ",
+        "A. 3 B. 7 C. 12 D. 23",
+        " Answer : C. 12",
+        ""
+    ],
+    [
+        "Q.17. In a row of boys, jeevan is seventh from the start and eleventh from the end. In another row of boys, Vikas is tenth from the start and twelfth from the end. How many boys are there in both the rows together?  ",
+        "A.36 B.37 C.38 D.40",
+        " Answer : C.38",
+    ],
+    [
+        "Q.19. Rajan is sixth from the left end and Vinay is tenth from the right end in a row of boys. If there are eight boys between Rajan and Vinay, how many boys are there in the row?  ",
+        "A. 23 B. 24 C. 25 D. 26",
+        " Answer : B. 24",
+        ""
+    ],
+    [
+        "Q.20. In a row of girls, Rita and Monika occupy the ninth place from the right place from the right end and tenth place from the left end, respectively. If they interchange their places, then Rita and Monika occupy seventeenth place from the left respectively. How many girls are there are in the row?  ",
+        "A. 24 B. 25 C. 26 D. Data inadequate",
+        " Answer : C. 26",
+        ""
+    ],
+    [
+        "Q.21. Aruna ranks twelfth in a class of forty-six.What will be her rank from the last ?  ",
+        "A. 33 B. 34 C. 35 D. 36",
+        " Answer : C. 35",
+        ""
+    ],
+    [
+        "Q.22. Manisha ranked sixteenth from the top and twenty ninth from the bottom among those who passed an examination. Six boys did not participate in the competition and five failed in it. How many boys were there in the class ?  ",
+        "A.40 B.44 C.50 D.55",
+        " Answer : D.55",
+    ],
+    [
+        "Q.24. In a queue, Amnta is l0th from the front while Mukul is 25th from behind and Manna is just in the middle of the two. If there be 50 persons in the queue, what position does Mamta occupy from the front ?  ",
+        "A. 20th B. 18th C. 17th D. 19th",
+        " Answer : B. 18th",
+        ""
+    ],
+    [
+        "Q.25. Raman ranks sixteenth from the top and forty ninth from the bottom in a class. How many students are there in the class ?  ",
+        "A. 64 B. 65 C. 66 D. Cannot be determined",
+        " Answer : A. 64 "
+    ]
+]

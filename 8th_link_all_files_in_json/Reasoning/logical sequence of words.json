@@ -1,0 +1,795 @@
+[
+    [
+        "Q.1. 1. Rain 2. Vaporization 3. Water 4. Condensation 5. Clouds",
+        "(A) 1, 3, 2, 4, 5",
+        "(B) 3, 2, 4, 5, 1",
+        "(C) 3, 2, 5, 4, 1",
+        "(D) 2, 3, 5, 4, 1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.2. 1. Digestion 2. Cooking 3. Chewing 4. Swallowing 5. Testing",
+        "(A) 5, 2, 3, 4, 1",
+        "(B) 2, 5, 3, 4, 1",
+        "(C) 3, 5, 2, 4, 1",
+        "(D) 2, 5, 4, 3, 1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.3. 1. Plant 2. Food 3. Seed 4. Leaf 5. Flower",
+        "(A) 1, 3, 4, 5, 2",
+        "(B) 3, 1, 4, 5, 2",
+        "(C) 3, 2, 4, 5, 1",
+        "(D) 5, 4, 3, 2, 1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. 1. Book 2. Pulp 3. Wood Stilt 4. Forest 5. Paper",
+        "(A) 3, 2, 5, 1, 4",
+        "(B) 2, 5, 1, 4, 3",
+        "(C) 4, 3, 2, 5, 1",
+        "(D) 5, 4, 3, 1, 2",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.5. 1. Accident 2. Judge 3. Doctor 4. Advocate 5. Police",
+        "(A) 1, 3, 4, 2, 5",
+        "(B) 1, 3, 5, 4, 2",
+        "(C) 1, 2, 3, 4, 5",
+        "(D) 1, 2, 5, 4, 3",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.6. 1. Rock 2. Hill 3. Mountain 4. Ranges 5. Stone",
+        "(A) 1, 3, 4, 2, 5",
+        "(B) 5, 1, 2, 3, 4",
+        "(C) 4, 3, 2, 5, 1",
+        "(D) 5, 2, 3, 4, 1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.7. 1. Birth 2. Death 3. Burials 4. Marriage 5. Education",
+        "(A) 1, 3, 4, 5, 2",
+        "(B) 4, 5, 3, 1, 2",
+        "(C) 1, 5, 4, 2, 3",
+        "(D) 2, 3, 4, 5, 1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.8. 1. Adult 2. Kid 3. Infant 4. Child 5. Young",
+        "(A) 1, 3, 4, 5, 2",
+        "(B) 3, 2, 4, 5, 1",
+        "(C) 2, 3, 5, 4, 1",
+        "(D) 2, 3, 4, 1, 5",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.9. 1. Seed 2. Flower 3. Soil 4. Plant 5. Fruit",
+        "(A) 4, 2, 5, 1, 3",
+        "(B) 2, 5, 4, 1, 3",
+        "(C) 3, 2, 1, 5, 4",
+        "(D) 3, 1, 4, 2, 5",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.10. 1. Pulp 2. Printing 3. Paper 4. Purchase 5. Publication",
+        "(A) 1, 3, 2, 5, 4",
+        "(B) 1, 4, 5, 2, 3",
+        "(C) 1, 2, 3, 5, 4",
+        "(D) 1, 5, 4, 2, 3",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.11. 1. Leaf 2. Fruit 3. Stem 4. Root. Flower",
+        "(A) 4,3,1,5,2",
+        "(B) 3,4,5,1,2",
+        "(C) 4,1,3,5,2",
+        "(D) 4,3,1,2,5",
+        " Ans .  A",
+        "Direction (12): which of the following options shows the proper order of the given words?",
+        ""
+    ],
+    [
+        "Q.12. 1. Vaporization 2. Rain 3. Sea 4. Clouds",
+        "(A) 1,2,3,4",
+        "(B) 4,1,2,3",
+        "(C) 3,1,4,2",
+        "(D) 2,4,1,3",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.13. Which of the following option shows the proper order of the given words?",
+        "1. Family 2. Community 3. Member 4. Area 5. Country",
+        "(A) C, A, D, B, E",
+        "(B) C, A, B, D, E",
+        "(C) C, A, B, E, D",
+        "(D) C, A, D, E, B",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.14. Arrange the given dates in the descending order according to their chronology.",
+        "(1) 15.04.1950",
+        "(2) 15.05.1960",
+        "(3) 14.06.1960",
+        "(4) 20.04.1950",
+        "(5) 25.05.1960",
+        "(A) 1,5,2,3,4",
+        "(B) 1,3,2,4,5",
+        "(C) 1,4,2,5,3",
+        "(D) 1,2,4,5,3",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.15. 1. Typing 2. Printing 3. Beginning(Opening) 4. Saving 5. Closing",
+        "(A) 1, 2, 3, 4,5",
+        "(B) 3, 4, 1, 2,5",
+        "(C) 3, 1, 4, 2, 5",
+        "(D) 4, 3, 2, 1,5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.16. 1. Plant 2. Tree 3. Soil 4. Fruit 5. Seed",
+        "(A) 3,4,1,2,5",
+        "(B) 3,5,1,2,4",
+        "(C) 3,2,5,4,1",
+        "(D) 5,2,1,4,3",
+        " Ans .  B",
+        "Direction (17): Arrange the following words in the order of the dictionary &amp; select the option showing the proper order:",
+        ""
+    ],
+    [
+        "Q.17. 1. Epitaxy 2. Episode 3. Epigene 4. Epitome 5. Epilogue",
+        "(A) 2,1,4,3,5",
+        "(B) 3,5,2,1,4",
+        "(C) 2,3,5,4,1",
+        "(D) 5,3,1,4,2",
+        " Ans .  B",
+        "Direction (18): Arrange the following words in the order of the dictionary &amp; select the option showing the proper order:",
+        ""
+    ],
+    [
+        "Q.18. 1. Eagle 2. Earth 3. Eager 4. Early 5. Each",
+        "(A) 2,1,4,3,5",
+        "(B) 1,5,2,4,3",
+        "(C) 2,3,5,4,1",
+        "(D) 5,3,1,4,2",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.19. 1. Plant 2. Food 3. Seed 4. Leaf 5. Flower",
+        "(A) 1,3,4,5,2",
+        "(B) 3,2,4,5,1",
+        "(C) 3,1,4,5,2",
+        "(D) 5,4,3,2,1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.20. 1. Typing 2. Printing 3. Opening(Starting) 4. Saving 5. Closing",
+        "(A) 3,4,1,2,5",
+        "(B) 3,5,4,2,1",
+        "(C) 3,1,4,2,5",
+        "(D) 3,2,1,4,5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.21. 1. Child 2. Occupation 3. Marriage 4. Infant 5. Education",
+        "(A) 1,3,5,2,4",
+        "(B) 2,1,4,3,5",
+        "(C) 4,1,5,2,3",
+        "(D) 5,4,1,3,2",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.22. 1. Grandfather 2. Brother 3. Father 4. Son 5. Grandson",
+        "(A) 4,5,2,1,3",
+        "(B) 5,1,3,2,4",
+        "(C) 5,4,2,3,1",
+        "(D) 5,4,2,3,1",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.23. 1. Building 2. Road 3. Room 4. Town 5. District",
+        "(A) 3, 2, 1, 4, 5",
+        "(B) 3,1,4,2,5",
+        "(C) 3,1,2,4,5",
+        "(D) 3,1,2,5,4",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.24. 1. Pulp 2. Printing 3. Paper 4. Purchase 5. Publication",
+        "(A) 1,3,2,5,4",
+        "(B) 1,4,5,2,3",
+        "(C) 1,2,3,5,4",
+        "(D) 1,5,4,2,3",
+        " Ans .  A",
+        "Q.23. 1. Rock 2. Hill 3. Mountain 4. Range 5. Stone",
+        "(A) 1,3,4,2,5",
+        "(B) 5,1,2,3,4",
+        "(C) 4,3,2,5,1",
+        "(D) 5,2,3,4,1",
+        " Ans .  B",
+        "Q.24. Which of the given option shows the proper order of the following words?",
+        "1. Seed 2. Flower 3. Soil 4. Plant 5. Fruit",
+        "(A) 4,2,5,1,3",
+        "(B) 2,5,4,1,3",
+        "(C) 3,2,1,5,4",
+        "(D) 3,1,4,2,5",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.25. 1. Major 2. Caption 3. Colonel 4. Brigadier 5. Lieutenant General",
+        "(A) 5,4,3,1,2",
+        "(B) 5,1,4,2,3",
+        "(C) 4,5,1,3,2",
+        "(D) 3,4,2,5,1",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.26. Which of the following options shows the proper order of the given words?",
+        "1. Sentence 2. Word 3. Chapter 4. Phrases 5. Paragraph",
+        "(A) 4,3,1,2,5",
+        "(B) 2,3,5.4,1",
+        "(C) 3,5,1,4,2",
+        "(D) 1,3,2,4,5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.27.Which of the following option shows the ascending order of the given words?",
+        "1. Green Vegetables 2. Market 3. Cutting 4. Cooking 5. Food",
+        "(A) 1,2,3,4,5",
+        "(B) 2,1,3,4,5",
+        "(C) 3,1,2,5,4",
+        "(D) 5,2,1,3,4",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.28. 1. Birth 2. Death 3. Burial 4. Marriage 5. Education",
+        "(A) 1,3,4,5,2",
+        "(B) 4,5,3,1,2",
+        "(C) 1,5,4,2,3",
+        "(D) 2,3,4,5,1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29. 1. Accident 2. Judge 3. Doctor 4. Lawyer 5. Police",
+        "(A) 1,3,4,2,5",
+        "(B) 1,3,5,4,2",
+        "(C) 1,2,3,4,5",
+        "(D) 1,2,5,4,3",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.30.1. Heel 2. Shoulder 3. Skull 4. Neck 5. Knee 6. Chest 7. Thigh 8. Stomach 9. Mouth 10. Hand",
+        "(A) 3,4,7,9,2,5,8,10,6,1",
+        "(B) 3,9,4,2,10,6,8,7,5,1",
+        "(C) 2,4,7,10,1,5,8,9,6,3",
+        "(D) 4,7,10,1,9,6,3,2,5,8",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.31.Which of the following option shows the proper order of the given words?",
+        "1. Digestion 2. Cooking 3. Chewing 4. Swallowing 5. Testing ",
+        "(A) 5,2,3,4,1",
+        "(B) 2,5,3,4,1",
+        "(C) 3,5,2,4,1",
+        "(D) 2,5,4,3,1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.32.1. Income 2. Fame 3. Education 4. Employment",
+        "(A) 1, 2, 3, 4",
+        "(B) 3, 4, 1, 2",
+        "(C) 3, 4, 2, 1",
+        "(D) 4, 3, 2, 1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.33. Arrange the following words in the order of the dictionary:",
+        "1. Inventory 2. Involuntary 3. Invisible 4. Invariable 5. Investigate",
+        "(A) 4,2,5,3,1",
+        "(B) 4,5,1,3,2",
+        "(C) 2,5,4,1,3",
+        "(D) 4,1,5,3,2",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.34.Which of the following option shows the proper order of the given words?",
+        "(A) 1,3,4,2,5",
+        "(B) 5,1,2,3,4",
+        "(C) 4,3,2,5,1",
+        "(D) 5,2,3,4,1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.35.Which of the following option will be the proper order of the given words?",
+        "1. Lip 2. Eyes 3. Nose 4. Ear 5. Head",
+        "(A) 1,2,3,4,5",
+        "(B) 5,4,3,2,4",
+        "(C) 5,2,4,3,1",
+        "(D) 1,3,4,2,5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.36. 1. Destination 2. Purchasing ticket 3. Getting into 4. Journey 5. Planning",
+        "(A) 4,3,1,2,5",
+        "(B) 5,2,3,4,1",
+        "(C) 1,2,3,4,5",
+        "(D) 3,4,5,1,2",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.37. 1. Study 2. Work. 3. Examination 4. Earning 5. Appointment",
+        "(A) 1, 3, 5,2,4",
+        "(B) 1, 2, 3, 4, 5",
+        "(C) 1, 3, 2, 5, 4",
+        "(D) 1, 3, 5, 4, 2",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.38.1. Journey 2. Destination 3. Payment 4. Reservation 5. Availability of berth/seat of reservation.",
+        "(A) 1, 2, 3, 4, 5",
+        "(B) 2, 3, 5, 4, 1",
+        "(C) 2, 1, 5, 3, 4",
+        "(D) 2, 5, 3, 4, 1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.39.1. Honey 2. Flower 3. Fly 4. Wax",
+        "(A) 3, 1, 2, 4",
+        "(B) 3, 2, 1, 4",
+        "(C) 3, 2, 4, 1",
+        "(D) 2, 3, 1, 4",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.40. 1. Probation period 2. Interview 3. Selection 4. Appointment 5. Advertisement 6. Application",
+        "(A) 5, 6, 4, 2, 3, 1",
+        "(B) 5, 6, 3, 2, 4, 1",
+        "(C) 5, 6, 2, 3, 4, 1",
+        "(D) 6, 5, 4, 2, 3, 1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.41. 1. Infant 2. Elderly 3. Mature 4. Young 5. Child",
+        "(A) 5, 4, 3, 2, 1",
+        "(B) 3, 4, 2, 1, 5",
+        "(C) 1, 5, 4, 3, 2",
+        "(D) 2, 3, 4, 5, 1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.42.1. Fruit 2. Flower 3. Seed 4. Pollen 5. Bud",
+        "(A) 1, 2, 3, 4, 5",
+        "(B) 4, 2, 5, 3, 1",
+        "(C) 5, 2, 4, 3, 1",
+        "(D) 5, 2, 4, 1, 3",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.43.1. Rain 2. Monsoon 3. Rescue 4. Flood 5. Shelter 6. Relief",
+        "(A) 1, 2, 4, 5, 3, 6",
+        "(B) 1, 2, 3, 4, 5, 6",
+        "(C) 2, 1, 4, 3, 5, 6",
+        "(D) 4, 1, 2, 3, 6, 5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.44.1. Ocean 2. Rain 3. Cloud 4. River 5. Monsoon",
+        "(A) 3, 2, 1, 5, 4",
+        "(B) 5, 3, 2, 4, 1",
+        "(C) 1, 3, 2, 5, 4",
+        "(D) 5, 2, 3, 4, 1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.45. 1. Wall 2. Clay 3. Building 4. Room 5. Brick",
+        "(A) 5, 2, 1, 4, 3",
+        "(B) 2, 5, 4, 1,3",
+        "(C) 2, 5, 1, 4, 3",
+        "(D) 1, 2, 3, 4, 5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.46.1. Never 2. Sometimes 3. Generally, 4. Occasionally",
+        "(A) 5,2, 1, 3, 4",
+        "(B) 5, 3, 2, 1, 4",
+        "(C) 5, 3, 2, 4, 1",
+        "(D) 5, 2, 4, 3, 1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.47. 1. Building 2. Road 3. Room 4. Town 5. District",
+        "(A) 3, 2, 1, 4,5",
+        "(B) 3, 2, 4, 2, 5",
+        "(C) 3, 1, 2, 4, 5",
+        "(D) 3, 1, 2, 5, 4",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.48.1. Heel 2. Shoulder 3. Skull 4. Neck 5. Knee 6. Chest 7. Thigh 8. Stomach 9. Mouth 10. Hand",
+        "(A) 3,4,7,9,2,5,8,10,6,1.",
+        "(B) 3,9,4,2,10,6,8,7,5,1.",
+        "(C) 2,4,7,10,1,5,8,9,6,3.",
+        "(D) 4,7,10, 1,9,6,3,2,5,8.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.49.Arrange the following in their logical order.",
+        "1. Tired 2. Night 3. Day 4. Sleep 5. Work.",
+        "(A) 1,3,5,2,4.",
+        "(B) 3,5,1,4,2.",
+        "(C) 3,5,1,2,4.",
+        "(D) 3,5,2,1,4.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.50.Which of the following option shows the proper order of the given words?",
+        "(1) Foundation",
+        "(2) Plaster",
+        "(3) Construction",
+        "(4) Paint",
+        "(A) 1 2 3 4",
+        "(B) 1 3 2 4",
+        "(C) 3 1 2 4",
+        "(D) 3 1 4 2",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.51. 1. Amoeba 2. Oyster 3. Worm 4. Cow",
+        "(A) 1, 3, 2, 4",
+        "(B) 1, 2, 3, 4",
+        "(C) 4, 3, 2, 1",
+        "(D) 3, 2, 4,1",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.52. 1. Income 2. Fame 3. Education 4. Employment",
+        "(A) 1,2,3,4",
+        "(B) 3,4,1,2",
+        "(C) 3,4,2,1",
+        "(D) 4,3,2,1",
+        " Ans .  B",
+        "Direction (53): Arrange the following words in the order of the dictionary &amp; select the option showing the proper order:",
+        ""
+    ],
+    [
+        "Q.53. 1. Counter 2. Courier 3. Courage 4. Counsel 5. Country",
+        "(A) 4,1,5,3,2",
+        "(B) 5,4,2,1,3",
+        "(C) 4,1,5,2,3",
+        "(D) 3,2,5,4,1",
+        " Ans .  A",
+        "Direction (54): Arrange the following words in the order of the dictionary &amp; select the option showing the proper order:",
+        ""
+    ],
+    [
+        "Q.54. 1. Wound 2. Writer 3. Whiter 4. Worst 5. Worked",
+        "(A) 5,3,2,1,4",
+        "(B) 1,4,3,5,2",
+        "(C) 3,5,4,1,2",
+        "(D) 2,1,3,4,5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.55. 1. Honey 2. Flower 3. Fly 4. Wax",
+        "(A) 2,1,4,3",
+        "(B) 2,3,1,4",
+        "(C) 4,3,2,1",
+        "(D) 1,3,4,2",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.56. 1. Book 2. Pulp 3. Wooding 4. Forest 5. Paper",
+        "(A) 3,2,5,1,4",
+        "(B) 2,5,1,4,",
+        "(C) 4,3,2,5,1",
+        "(D) 5,4,3,1,2",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.57. 1. Plaster 2. Painting 3. Foundation 4. Walls 5. Falls ceiling",
+        "(A) 1,2,3,4,5",
+        "(B) 3,4,1,2,5",
+        "(C) 3,4,5,1,2",
+        "(D) 5,4,3,2,1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.58. Which of the given option shows the proper order of the following words?",
+        "1. Word 2. Paragraph 3. Sentence 4. Letter.",
+        "(A) 1, 3, 4",
+        "(B) 3, 4, 1, 2",
+        "(C) 4, 1, 2, 3",
+        "(D) 4, 1, 3, 2",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.59. 1. Healing 2. Doctor 3. Disease 4. Diagnosis 5. Medicine",
+        "(A) 2,4,3,5,1",
+        "(B) 3,2,4,5,1",
+        "(C) 4,2,3,51",
+        "(D) 4,3,2,5,1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.60. 1. Leaf 2. Fruit 3. Stem 4. Root 5. Flower",
+        "(A) 4,3,1,5,2 ",
+        "(B) 3,4,5,1,2",
+        "(C) 4,1,3,5,2",
+        "(D) 4,3,1,2,5",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.61. 1. Never 2. Sometimes 3. Generally 4. Occasionally 5. Always",
+        "(A) 5,2,1,3,4",
+        "(B) 5,3,2,1,4",
+        "(C) 5,3,2,4,1",
+        "(D) 5,2,4,3,1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.62. 1. Rain 2. Monsoon 3. Rescue 4. Flood 5. Shelter 6. Relief",
+        "(A) 1,2,4,5,3,6",
+        "(B) 1,2,3,4,5,6",
+        "(C) 2,1,4,3,5,6",
+        "(D) 4,1,2,3,6,5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.63.Arrange the following words in the order of the dictionary:",
+        "(A) 3,5,1,4,2",
+        "(B) 3,5,4,1,2",
+        "(C) 5,3,4,2,1",
+        "(D) 5,3,2,1,4",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.64. 1. Dissident 2. Dissolve 3. Dissent 4. Dissolute 5. Dissolution",
+        "(A) 3,1,4,5,2",
+        "(B) 3,2,1,4,5",
+        "(C) 3,1,4,2,5",
+        "(D) 3,2,4,5,1",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.65. Arrange the following words in the order of the dictionary:",
+        "1. Inhabit 2. Ingenious 3. Inherit 4. Influence 5. Infatuation",
+        "(A) 1,2,3,4,5",
+        "(B) 5,4,1,2,3",
+        "(C) 4,5,2,1,3",
+        "(D) 5,4,2,1,3",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.66. 1. Honey 2. Flower 3. Bee 4. Wax",
+        "(A) 1,3,4,2",
+        "(B) 2,1,4,3",
+        "(C) 2,3,1,4",
+        "(D) 4,3,2,1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.67.1. Ocean 2. Rain 3. Clouds 4. River 5. Mansoon",
+        "(A) 3,2,1,5,4",
+        "(B) 5,3,2,4,1",
+        "(C) 1,3,2,5,4",
+        "(D) 2,3,4,5,1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.68. 1. Fruit 2. Flower 3. Seed 4. Pollen 5. Bud",
+        "(A) 1,2,3,4,5",
+        "(B) 4,2,5,3,1",
+        "(C) 5,2,4,3,1",
+        "(D) 5,2,4,1,3",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.69. 1. Study 2. Work 3. Examination 4. Earning 5. Appointment",
+        "(A) 1,3,5,2,4",
+        "(B) 1,2,3,4,5",
+        "(C) 1,3,2,5,4",
+        "(D) 1,3,5,4,2",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.70. Arrange the following words in the order of the dictionary:",
+        "1. Counter 2. Courier 3. Courage 4. Counsel 5. Country",
+        "(A) 5,2,3,4,1",
+        "(B) 4,1,5,3,2",
+        "(C) 1,5,4,3,2",
+        "(D) 2,5,4,3,1",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.71. 1. Plant 2. Tree 3. Soil 4. Fruit 5. Seed",
+        "(A) 3, 4, 1, 2, 5",
+        "(B) 3, 5, 1, 2, 4",
+        "(C) 3, 2, 5, 4, 1",
+        "(D) 5, 2, 1, 4, 3",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.72.Which of the following option shows the proper order of the given words?",
+        "1. Probation period 2. Selection 3. Appointment 4. Advertisement 5. Application",
+        "(A) 5,6,4,2,3,1",
+        "(B) 5,6,3,2,4,1",
+        "(C) 5,6,2,3,4,1",
+        "(D) 6,5,4,2,3,1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.73. 1. Rain 2. Monsoon 3. Rescue 4. Flood 5. Shelter 6. Relief",
+        "(A) 1,2,4,5,3,6",
+        "(B) 1,2,3,4,5,6",
+        "(C) 2,1,4,3,5,6",
+        "(D) 4,1,2,3,6,5",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.74. 1. Diagnosis 2. Doctor 3. Sick 4. Cure 5. Recruital",
+        "(A) 2,1,3,4,5",
+        "(B) 4,5,1,3,2",
+        "(C) 1,2,3,4,5",
+        "(D) 3,2,1,4,5",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.75. 1.Brook 2. Bandit 3. Boisterous 4. Baffle 5. Bright",
+        "(A) 2, 4, 3, 1, 5",
+        "(B) 2, 4, 3, 5, 1",
+        "(C) 4, 2, 3, 1, 5",
+        "(D) 4, 2, 3, 5, 1",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.76. 1. Preach 2. Praise 3. Precinct 4. Precept 5. Precede",
+        "(A) 2, 1, 5, 4, 3",
+        "(B) 2, 1, 3, 4, 5",
+        "(C) 1, 2, 5, 4, 3",
+        "(D) 2, 5, 1, 4, 3",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.77. 1. Select 2. Seldom 3. Send 4. Selfish 5. Seller",
+        "(A) 1, 2, 4, 5, 3",
+        "(B) 2, 1, 5, 4, 3",
+        "(C) 2, 1, 4, 5, 3",
+        "(D) 2, 5, 4, 1, 3",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.78. 1. Page 2. Page 3. Palisade 4. Pageant 5. Palate",
+        "(A) 1, 4, 2, 3, 5",
+        "(B) 2, 4, 1, 3, 5",
+        "(C) 1, 4, 2, 5, 3",
+        "(D) 2, 1, 4, 5, 3",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.79. 1. Wrinkle 2. Wriggle 3. Writhe 4. Wretch 5. Wrath",
+        "(A) 4, 5, 1, 2, 3",
+        "(B) 5, 4, 2, 1, 3",
+        "(C) 4, 2, 5, 1, 3",
+        "(D) 5, 2, 1, 3, 4",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.80. 1. Repoint 2. Reptile 3. Repent 4. Repute 5. Report",
+        "(A) 3, 1, 5, 2, 4",
+        "(B) 3, 5, 1, 2, 4",
+        "(C) 5, 1, 4, 3, 2",
+        "(D) 5, 4, 1, 3, 2",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.81. 1. Spruce 2. Spume 3. Spree 4. Spurt 5. Sprawl",
+        "(A) 5, 3, 1, 2, 4",
+        "(B) 1, 2, 3, 4, 5",
+        "(C) 3, 5, 1, 4, 2",
+        "(D) 5, 4, 3, 2, 1",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.82. 1. Credential 2. Creed 3. Crease 4. Cremate 5. Credible",
+        "(A) 1, 2, 3, 4, 5",
+        "(B) 1, 5, 3, 4, 2",
+        "(C) 5, 1, 2, 3, 4",
+        "(D) 3, 1, 5, 2, 4",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.83. 1. Protein 2. Problem 3. Proverb 4. Property 5. Project",
+        "(A) 1, 2, 3, 4, 5",
+        "(B) 2, 1, 4, 3, 5",
+        "(C) 2, 5, 4, 1, 3",
+        "(D) 3, 4, 5, 2, 1",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.84. 1. Pestle 2. Pestilence 3. Pester 4. Pest 5. Pessimist",
+        "(A) 5, 4, 3, 2, 1",
+        "(B) 4, 3, 1, 5, 2",
+        "(C) 3, 4, 2, 5, 1",
+        "(D) 4, 5, 1, 2, 3",
+        " Ans .  A  "
+    ]
+]

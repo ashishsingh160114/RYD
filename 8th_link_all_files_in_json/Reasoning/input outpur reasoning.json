@@ -1,0 +1,324 @@
+[
+    [
+        "Q.1.   Direction (1-5) : The xyz Ltd. Company has organised an exhibition of machine tools. The exhibition was open for people during all days. The visitors were given the entry passes having certain signs. The signs of entry passes were being changed after every hour. The rules followed to change the signs are shown below. The first batch could enter at 9.00 am &amp; the last batch could enter at 7.00 pm. The lunch hour during the exhibition for all batches was 1.00 pm  2.00 pm.",
+        "",
+        "If the passcode for 2ndbatch was for the life is good change got, then which batch would have the passcode as got change good is life the for?",
+        "(A) IV",
+        "(B) III",
+        "(C) V",
+        "(D) VI",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.2. If the pass code for batch IV is do how will the you job now, then what would be the pass code for batch II ?",
+        "(A) job will now the do you how",
+        "(B) job now will the do you how",
+        "(C) job will how the do you now",
+        "(D) job will the now do you how",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.3. If the batch entering at 12.00 noon had a pass code as she the girl is clever very good, then what would be the code for the batch entering at 3.00 pm?",
+        "(A) clever good is the very she girl",
+        "(B) clever good the is she very girl",
+        "(C) clever good the very is she girl",
+        "(D) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4.If the code for pass of batch III is pin to the point is sharp not, then what would be the code for batch V?",
+        "(A) is not to sharp point pin the",
+        "(B) is not to point sharp pin the",
+        "(C) not is to sharp point pin the",
+        "(D) not is to point sharp",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.5. Which of the following batch would have the same code as the batch III had?",
+        "(A) VI",
+        "(B) VII",
+        "(C) VIII",
+        "(D) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.6. In Step V, which word/number would be 6th from left?",
+        "(A) 25",
+        "(B) stop",
+        "(C) jam",
+        "(D) all",
+        "(E) road",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.7. Which of the following would be Step III?",
+        "(A) hut for bus all 25 jam road 15 stop 38 96 73 52 46",
+        "(B) for bus all 25 jam road 15 hut 38 stop 96 46 73 52",
+        "(C) hut for bus all jam road 15 stop 38 96 73 52 46 25",
+        "(D) for bus all 25 jam road 15 hut stop 38 46 96 73 52",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.8. Which word/number would be 8th from right in Step IV?",
+        "(A) 15",
+        "(B) road",
+        "(C) hut",
+        "(D) jam",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.9. Which of the following would be step VII?",
+        "(A) stop road jam hut for bus all 15 96 73 52 46 38 25",
+        "(B) road jam hut for all stop 15 25 38 46 52 73 96",
+        "(C) stop road jam hut for bus all 96 73 52 46 38 25 15",
+        "(D) jam hut for bus all 25 road stop 15 96 735246 38",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.10. Which step would be the following output? Bus all for 52 25 jam road 15 hut stop 38 46 96 73",
+        "(A) There will not be such step.",
+        "(B) III",
+        "(C) II",
+        "(D) VI",
+        "(E) V",
+        " Ans .  C",
+        "Direction (11-17): Study the following information carefully &amp; answer the given question.",
+        ""
+    ],
+    [
+        "Q.11. The step for an input is ",
+        "(A) Three",
+        "(B) Five",
+        "(C) Four",
+        "(D) Two",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.12. Input  slow wheel 32 57 high lake 12 46.",
+        "(A) Five",
+        "(B) Six",
+        "(C) Seven",
+        "(D) Eight",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.13. Input  20 ask never 35 62 84 tall grass.",
+        "(A) V",
+        "(B) VI",
+        "(C) IV",
+        "(D) VII",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.14. Input  49 box stores 84 63 on door 37.",
+        "(A) store 37 on 49 door 63 box",
+        "(B) store 37 on 49 door box 84 63",
+        "(C) store 37 on 49 box 84 63 door",
+        "(D) There is no step like",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.15. Input  bag full 32 84 27 coin new 56.",
+        "(A) Seven",
+        "(B) Eight",
+        "(C) Five",
+        "(D) Six",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.16. Step II of an input is ",
+        "(A) victory 63 window 14 52 24 task for",
+        "(B) 63 victory windows 14 52 24 task for",
+        "(C) victory 63 window 52 14 24 task for",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.17. Step IV of an input i ",
+        "(A) IX",
+        "(B) VIII",
+        "(C) VII",
+        "(D) VI",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.18. How many steps will be required to complete the rearrangement?",
+        "(A) IV",
+        "(B) V",
+        "(C) VI",
+        "(D) VII",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.19. Which would be the step for the following output?",
+        "(A) III",
+        "(B) II",
+        "(C) VII",
+        "(D) IV",
+        "(E) No step like this is possible",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.20. which of the following would be Step I?",
+        "(A) aim 49 can zen 16 yet vast 33 54 87 82",
+        "(B) vast last can aim zen 16 yet 33 87 82 54 49",
+        "(C) zen 49 last zen 16 82 yet can vast 33 aim 54 87",
+        "(D) aim 49 last zen 82 yet can vast 33 87 54 16",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.21. Which of the following term will be 6th from right in step V?",
+        "(A) 87",
+        "(B) 16",
+        "(C) 33",
+        "(D) zen",
+        "(E) aim",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.22. Which of the following would be the last situation?",
+        "(A) zen yet vast last can aim 16 33 49 54 82 87",
+        "(B) aim can last vast yet zen 16 33 49 54 82 87",
+        "(C) aim can last vast yet zen 87 82 54 49 33 16",
+        "(D) zen yet vast last can aim 87 82 54 49 33 16",
+        "(E) None of these",
+        " Ans .  D",
+        "Directions (Q. 23-27): Study the given information and answer the following questions:",
+        ""
+    ],
+    [
+        "Q.23. Which of the following would be at the 7th position from the left in Step III?",
+        "(A)31",
+        "(B)Fabricate",
+        "(C)52",
+        "(D)Playing",
+        "(E)None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.24. If in the last step all the words get rearranged in alphabetical order, which of the following words would retain its original position?",
+        "(A)Fabricate",
+        "(B)Extra",
+        "(C)Playing",
+        "(D)Number",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.25. In Step IV, if extra is related to 94 and number is related to 77 then 23 is related to which of the following, if the same pattern is followed?",
+        "(A)52",
+        "(B)66",
+        "(C)Fabricate",
+        "(D)31",
+        "(E)None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.26. Which step number would be the following output? extra number playing torcher 23 technology 31 fabricate 52 66 77 94",
+        "(A)Step III",
+        "(B)Step IV",
+        "(C)Step V",
+        "(D)There will be no such step.",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.27. Which of the following would be the last step of the rearrangement?",
+        "(A)IV",
+        "(B)V",
+        "(C)VI",
+        "(D)VII",
+        "(E)None of these",
+        " Ans .  C",
+        "Directions ("
+    ],
+    [
+        "Q.28-32): Study the following information carefully and answer the given questions.",
+        "Q.28. How many numbers are there between environment and notes in step-IV?",
+        "(A)Six",
+        "(B)Four",
+        "(C)Five",
+        "(D)Three",
+        "(E)None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.29. Which word/number is third to the right of eighth element from right end in step-III?",
+        "(A)57",
+        "(B)Notes",
+        "(C)Prepare",
+        "(D)85",
+        "(E)None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.30. How many steps are required to complete the given arrangement?",
+        "(A)Four",
+        "(B)Five",
+        "(C)Six",
+        "(D)Seven",
+        "(E)More than seven",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.31. If in certain way index is related to notes in step-II and computer is related to 46 in step-V, then in the same way 85 is related to what in step-VI?",
+        "(A)57",
+        "(B)Computer",
+        "(C)Notes",
+        "(D)65",
+        "(E)None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.32. Which of following is correct with respect to the position of 65 in step-V?",
+        "(A)Seventh from the left end",
+        "(B)Seventh from the right end",
+        "(C)Third to the right of 85",
+        "(D)Immediate right of 57",
+        "(E)None is correct.",
+        " Ans .  B  "
+    ]
+]

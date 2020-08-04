@@ -1,0 +1,205 @@
+[
+    [
+        "Q.1. Directions(1-5): Study the following information carefully and answerthe questions given below:Three ladies and four men are a group of friends, ie R, M, T, S, L, W and Z. Each one has a different profession, ie Lawyer, Travel Agent, Air-hostess, Doctor, Professor, Consultant and Jeweller and each one owns a different car, ie Alto, Corolla, Santro, Lancer, Ikon, Scorpio and Esteem, not necessarily in that order. None of the ladies is a Consultant or a Lawyer. T is an Air-hostess and she owns an Ikon car. R owns a Scorpio. M is not a Doctor. L is a Jeweller and he owns Corolla. W is a Lawyer and does not own Alto. Z is a Consultant and owns Santro. The Doctor owns Esteem car whereas the Professor owns Scorpio. The Travel Agent owns an Alto. None of the ladies own a Scorpio. ",
+        "",
+        "",
+        "",
+        "What car does S own?(A) Alto(B) Santro(C) Lancer(D) Esteem(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.2. Who owns the car Lancer?(A) Z(B) M(C) W(D) Data Inadequate(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.3. What is the profession of R?(A) Professor(B) Travel Agent(C) Doctor(D) Data inadequate(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.4. Who is the Doctor?(A) R(B) S(C) L(D) Data inadequate(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.5. Who are the three ladies in the group?(A) T, R, L(B) T, M, S(C) W, T, M(D) Data inadequate(E) None of these",
+        " Ans .  B",
+        "Directions(6-10): Study the following information carefully and answer the questions given below:Seven people N, K, T, B, M, W and R have their weekly offs on different days of the week, ie Sunday, Monday, Tuesday, Wednesday, Thursday, Friday and Saturday, not necessarily in that order. Each of them has a liking for different cuisine, ie Indian, Italian, Mexican, Chinese, Spanish, Continental and Thai, not necessarily in that order. K likes Thai food and gets his weekly off on Thursday. B likes Italian food and does not have off on Sunday. M has weekly off on Saturday and R has his weekly off on Tuesday. W likes continental food whereas the one who has weekly off on Monday likes Mexican cuisine. T does not like Spanish cuisine and has weekly off on Wednesday. The one who likes Indian food does not have a weekly off on Tuesday or Wednesday. [PNB Management Trainee Exam2005]Questions:",
+        ""
+    ],
+    [
+        "Q.6. Who has a weekly off on Friday?(A) T(B) R(C) W(D) Data inadequate(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.7. What cuisine does R like?(A) Continental(B) Indian(C) Italian(D) Spanish(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.8. On which day does N have weekly off?(A) Tuesday(B) Friday(C) Monday(D) Sunday(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.9. Who likes Chinese cuisine?(A) T(B) B(C) R(D) N(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10. On which day does W have weekly off?(A) Monday(B) Sunday(C) Wednesday(D) Data inadequate(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.11.  Directions(11-14): Study the following information carefully and answerthe questions given below:(i) P, Q, R, S and T finished a work, working from Monday to Saturday, one of the days being a holiday, each working overtime only on one of the days.(ii) R or T did not work overtime on the first day.(iii) Q worked overtime the next day after the holiday.(iv) The overtime work done on the previous day of the holiday was by R.(v) There was a two days gap between the days on which P and Q worked over time.(vi) P worked overtime the next day of the overtime day of S.",
+        "",
+        "Which of the following is the correct statement?(A) P worked overtime last among them.(B) P worked overtime earlier than S.(C) The holiday was on Friday.(D) S worked overtime earlier than Q.(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.12. On which day did R work overtime?(A) Monday(B) Tuesday(C) Thursday(D) Friday(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.13. How many days gap was there between the days on which P and T workedovertime?(A) Three(B) Two(C) One(D) Cannot be determined(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.14. When did T work overtime?(A) On the day previous to that on which S worked overtime(B) On the next day of the day on which Q worked overtime(C) Two days after the day on which S worked overtime(D) Cannot be determined(E) None of these",
+        " Ans .  B",
+        "Directions(15-19): Study the following information carefully and answerthe questions given below:Seven friends P, F, R, T, Q, N and D are studying different specialisations IT, Civil, HRM, Marketing, Finance, Journalism and Pharmacy, not necessarily in the same order. Each one of them has a liking for a different colourred, blue, green, yellow, pink, orange and greynot necessarily in the same order. Three of them are girls. P likes yellow colour but does not study IT or HR. The one who studies Civil likes grey colour and is a girl. Q, who is the sister of N, studies Marketing and likes pink colour. Ds specialisation is in Pharmacyand likes red colour. N, the wife of R, studies HR and likes green. F likes greyand R likes orange. The one who likes blue studies Finance."
+    ],
+    [
+        "Q.15. Who is studying Civil Engineering?(A) P(B) T(C) F(D) Cannot be determined(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.16. Which of the following is the group of girls?(A) F, D, N(B) F, Q, N(C) Q, N, P(D) Cannot be determined(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.17. Which subject is studied by R?(A) Civil(B) Finance(C) Journalism(D) Cannot be determined(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.18. Who is studying Journalism?(A) P(B) Q(C) R(D) Cannot be determined(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.19. Which of the following combinations of person  colour  subject is correct?(A) BlueTMarketing(B) PinkNHR(C) OranceRCivil(D) BlueTFinance(E) None of these",
+        " Ans .  D",
+        "Directions(20-24): Study the following information carefully and answer the questions given below:",
+        ""
+    ],
+    [
+        "Q.20. Whose weekly off is on Sunday?",
+        "(A) L",
+        "(B) M",
+        "(C) N",
+        "(D) Q",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.21. Which of the following group of officers works in shift I?",
+        "(A) L, N, S",
+        "(B) L, S",
+        "(C) N, S",
+        "(D) L, P, Q",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.22. On which day is Qs weekly off ?",
+        "(A) Tuesday",
+        "(B) Wednesday",
+        "(C) Sunday",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.23. Which of the following combinations of shift, person and weekly off is definitely correct?",
+        "(A) II, M, Sunday",
+        "(B) III, N, Sunday",
+        "(C) II, P, Sunday",
+        "(D) I, L, Tuesday",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.24. Whose weekly off falls on Thursday?",
+        "(A) L",
+        "(B) N",
+        "(C) Q",
+        "(D) Cant be determined",
+        "(E) None of these",
+        " Ans .  E",
+        "Directions(25-29): Study the following information carefully and answer the questions given below:",
+        ""
+    ],
+    [
+        "Q.25. Which of the following groups of persons travels in car I?",
+        "(A) D, F, G",
+        "(B) D, E, G",
+        "(C) D, G, H",
+        "(D) D, F, H",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.26. Which car has only two members travelling in it?",
+        "(A) I",
+        "(B) II",
+        "(C) III",
+        "(D) II or III",
+        "(E) Cannot be determined",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.27. Which of the following members of families Y and Z travel in different cars?",
+        "(A) F, G",
+        "(B) C, G",
+        "(C) F, H",
+        "(D) C, F",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.28. Which of the following groups of persons is a group of all females?",
+        "(A) B, D, G",
+        "(B) A, B, C",
+        "(C) B, E, F",
+        "(D) D, E, F",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.29. Which of the following members of families X and Y travel in the same car?",
+        "(A) C, F",
+        "(B) D, F",
+        "(C) C, D",
+        "(D) F, E",
+        "(E) None of these",
+        " Ans .  B  "
+    ]
+]

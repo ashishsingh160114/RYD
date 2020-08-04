@@ -1,0 +1,745 @@
+[
+    [
+        "Q.1 As mother is the only daughter of Bs father. How is Bs husband related to A?",
+        "(A) Uncle",
+        "(B) Brother",
+        "(C) Father",
+        "(D) Grandfather",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.2 A is brother of B, B is the son of C, D is Cs father then what is A of D?",
+        "(A) Brother",
+        "(B) Son",
+        "(C) Grandson",
+        "(D) Grandfather",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.3 A is the father of C and D is son of B. E is brother of A. If C is sister of D, how is B related to E?",
+        "(A) Brother",
+        "(B) Sister",
+        "(C) Brother-in-law",
+        "(D) Sister-in-law",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.4 A and B are brothers. C and D are sisters. As son is Ds brother. How is B related to C?",
+        "(A) Father",
+        "(B) Brother",
+        "(C) Grandfather",
+        "(D) Uncle",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.5 A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
+        "(A) Nephew",
+        "(B) Uncle",
+        "(C) Son",
+        "(D) Cousin",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.6 A man said to a lady, Your mothers husbands sister is my aunt. How is that lady related to that man?",
+        "(A) Daughter",
+        "(B) Grand-daughter",
+        "(C) Mother",
+        "(D) Sister",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.7 If X is brother of the son of Ys son, how is X related to Y?",
+        "(A) Son",
+        "(B) Brother",
+        "(C) Cousin",
+        "(D) Grand-Son",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.8 If B says that his mother is the only daughter of As mother, how is A related to B?",
+        "(A) Son",
+        "(B) Grandfather",
+        "(C) Uncle",
+        "(D) Brother",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.9 A is Bs wife and C is As sister. D is the father of C, while E is Ds son. What is the relation of E to B?",
+        "(A) Brother",
+        "(B) Brother-in-law",
+        "(C) Cousin",
+        "(D) Father-in-law",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.10 Pointing to a photograph, a man said, I have no brother or sister but that mans father is my fathers son. Whose photograph was it?",
+        "(A) His sons",
+        "(B) His father's",
+        "(C) His nephews",
+        "(D) His own",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.11 K is the brother of X, Z is the son of X, P, the daughter of K, is married to N, G and X are sisters to one another. Then state how is G related to Z?",
+        "(A) Sister",
+        "(B) Aunt",
+        "(C) Mother",
+        "(D) Mother-in-law",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.12 A is mother of B and C. If D is husband of C, then what is A for D?",
+        "(A) Aunty",
+        "(B) Mother",
+        "(C) Sister",
+        "(D) Mother-in-law",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.13 If F is brother of A, C is daughter of A, K is sister of F and J is brother of C, then who is uncle of J?",
+        "(A) F",
+        "(B) C",
+        "(C) K",
+        "(D) A",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.14 Kalyani is mother-in-law of Veena, who is sister-in-law of Ashok. Dheeraj is father of Sundeep, the only brother of Ashok. How is Kalyani related to Ashok?",
+        "(A) Mother-in-law",
+        "(B) Aunt",
+        "(C) Mother",
+        "(D) Wife",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.15 Pointing to Manju in the photograph, Rajesh said, She is the daughter of my grandfathers only son. How is Manju related to Rajesh?",
+        "(A) Sister",
+        "(B) Brother-in-law",
+        "(C) Son",
+        "(D) Mother",
+        " Ans . A",
+        "Direction (Question: 16 to 20)",
+        ""
+    ],
+    [
+        "Q.16 How F is related to E?",
+        "(A) Daughter",
+        "(B) Husband",
+        "(C) Son",
+        "(D) Uncle",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.17 Who is Es husband?",
+        "(A) A",
+        "(B) B",
+        "(C) C",
+        "(D) F",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.18 Who is the mother?",
+        "(A) A",
+        "(B) B",
+        "(C) D",
+        "(D) E",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.19 How many male members are there in the group?",
+        "(A) 1",
+        "(B) 2",
+        "(C) 3",
+        "(D) 4",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.20 Which of the following is group of brothers?",
+        "(A) ABD",
+        "(B) ABF",
+        "(C) BDF",
+        "(D) BFC",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.21 Introducing a man, a woman said, His wife is the only daughter of my mother. How is the woman related to the man?",
+        "(A) Sister-in-law",
+        "(B) Wife",
+        "(C) Mother-in-law",
+        "(D) Aunt",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.22 If As mother is Bs mothers daughter then how is Bs mother related to A.",
+        "(A) Mother",
+        "(B) Aunt",
+        "(C) Niece",
+        "(D) Grandmother",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.23 There are three women in the family. If two of them are mothers and two are daughters then how is the youngest related to the eldest?",
+        "(A) Daughter",
+        "(B) Mother",
+        "(C) Grand-daughter",
+        "(D) Grand-mother",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.24 Pointing to a boy a woman says, His father is father-in-law of that person whose father is father-in-law of mine. Then how boy is related to the woman?",
+        "(A) Son",
+        "(B) Brother",
+        "(C) Son-in-law",
+        "(D) Brother-in-law",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.25. What is the relation of mine with the daughter of the son of my fathers sisters father ?",
+        "(A) Aunt",
+        "(B) Sister",
+        "(C) Daughter",
+        "(D) Niece",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.26. A man pointed a woman &amp; said: Son of her only brother is my wifes brother. What is the relation of the man with woman?",
+        "(A) Mother-in-law",
+        "(B) Father-in-laws sister",
+        "(C) Aunt (Mami)",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.27. Savita introduced a boy &amp; said: He is the son of only daughter of my Mamas Father. Who is the boy to Savita?",
+        "(A) Brother",
+        "(B) Son",
+        "(C) Nephew",
+        "(D) Son-in-law",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.28. Study the following information:",
+        "(A) Wife",
+        "(B) Son",
+        "(C) Sister",
+        "(D) Daughter",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.29. Ganga loves the most Ram &amp; Rekha among her children. Rekha is a mother of Sharat, who is the most favourite of his maternal uncle Mithun. Ramlal is the head of the family, whose inheritors are his sons Gopal &amp; Mohan. Gopal &amp; Ganga are married since 35 yeas &amp; they have three kids. What is the relation of Mithun with Mohan?",
+        "(A) Paternal uncle",
+        "(B) Son",
+        "(C) Nephew",
+        "(D) No relation",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.30. A man looked at the photograph &amp; said: I have no brother or sister but father of this man is my fathers son. Whose photograph was he looking at?",
+        "(A) his sons",
+        "(B) his nephews",
+        "(C) his fathers",
+        "(D) his own",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.31. B is Ds mother &amp; C is Ds brother. H is Es daughter, while D is Es wife. What is the relation between E &amp; C?",
+        "(A) Father-in-law",
+        "(B) Brother-in-law",
+        "(C) Paternal Uncle",
+        "(D) Brother",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.32. Vikas pointed to a photograph &amp; said:  She is the daughter of my grandfathers only son. What is the relation of Vikash with the girl in the photograph?",
+        "(A) Father",
+        "(B) Brother",
+        "(C) Sister",
+        "(D) Mother",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.33. A is Bs daughter. B is Cs mother. D is Cs brother. What is the relation of D with A?",
+        "(A) Father",
+        "(B) Brother",
+        "(C) Grand father",
+        "(D) Son",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.34. A &amp; B are brother &amp; sister respectively. C is As father, D is Cs sister &amp; is Ds mother. Who is B to E?",
+        "(A) Grand Daughter",
+        "(B) Great Grand Daughter",
+        "(C) Bua",
+        "(D) Daughter",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.35. A woman showing the picture said:  This persons sons sister is my mother-in-law. What is the relation of this womans husband with that lady?",
+        "(A) Son",
+        "(B) Son in law",
+        "(C) Grandson",
+        "(D) Nephew",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.36. Rakesh pointed a woman &amp; said: She has no sister or daughter but her mother is my mothers only daughter. Who is that lady to Rakesh?",
+        "(A) Daughter-in-law",
+        "(B) Niece",
+        "(C) Sister",
+        "(D) Mother-in-law",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.37. A woman showed a man &amp; said: His maternal grandmothers only daughter is the grandmother of my daughter. How that man is related to the woman?",
+        "(A) Father",
+        "(B) Husband",
+        "(C) Father-in-law",
+        "(D) Maternal Grandfather",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.38. A,B,C,D,E,F are six me members in a family. There are two married couples in the family. F is As father. B is Cs mother. D is Cs grandmother. E is Fs father. Which one of the following is a married couple?",
+        "(A) FB",
+        "(B) FA",
+        "(C) CF",
+        "(D) FD",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.39. Malar showed a woman &amp; said: Her only sister is the mother of my daughters mother. What is Malars relation with that lady?",
+        "(A) Mother",
+        "(B) Sister",
+        "(C) Aunt (Mousi)",
+        "(D) Grandmother (maternal)",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.40. Raghu &amp; Babu are twins. Rima is Babus sister. Rajan is Rimas husband. Laxmi is Ragus mother. Laxmis husband is Rajesh. What is Rajeshs relation with Rajan?",
+        "(A) Father-in-law",
+        "(B) Cousin Brother",
+        "(C) Uncle",
+        "(D) Son-in-law",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.41.A is a mother of B, C is a son of A, D is a brother of E, E is a daughter of B, B is a brother of F, then D is a grandmother of ",
+        "(A) A",
+        "(B) B",
+        "(C) C",
+        "(D) E",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.42. E is a sister of B, A is father of C, B is a son of C, then what is the relation of A with E?",
+        "(A) Grandfather",
+        "(B) Granddaughter",
+        "(C) Father",
+        "(D) Great Grandfather",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.43. A is a son of B, B &amp; C are sisters, E is a mother of C, If D is a son of E, then which of the following statements is true?",
+        "(A) D is an uncle (mama) of A",
+        "(B) E is a brother of B",
+        "(C) D is a maternal cousin of A",
+        "(D) B &amp; D are brothers",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.44. Mihir shows a picture &amp; says:  His/her sister is a mother of my brothers son Tushar. How Mihir is related to Tushar?",
+        "(A) Brother",
+        "(B) Uncle",
+        "(C) Nephew",
+        "(D) Brother-in-law",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.45. Ravi pointed a picture of a girl &amp; said: Her mothers brother is the only son of my mothers father. What is the relation of girls mother with Ravi?",
+        "(A) Mother",
+        "(B) Aunt",
+        "(C) Mother/Aunt",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.46. If Ranis fathers uncle is the grandson of Anups Father &amp; Anup is the only son of his father, then what is the relation of Rani with Anup?",
+        "(A) Grandfather",
+        "(B) Uncle(chacha)",
+        "(C) Uncle (Mama)",
+        "(D) Great Grandfather",
+        " Ans .  D",
+        "Direction (47-50) : Six children  Anuj, Shiva, Krishna, Deva, Vinod &amp; Bharti are playing football. Anuj &amp; Vinod are brothers. Bharti is Vinods sister. Krishna is the only son of Anjus uncle. Shiva &amp; Deva re the daughters of the only brother of Krishnas father.",
+        ""
+    ],
+    [
+        "Q.47. What is the relation of Krishna with Bharati?",
+        "(A) Cousin Brother",
+        "(B) Son",
+        "(C) Brother",
+        "(D) Uncle",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.48. How many players are male ?",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.49. How many players ae female?",
+        "(A) Two",
+        "(B) Three",
+        "(C) Four",
+        "(D) None",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.50. What is the relation of Deva with Anuj?",
+        "(A) Uncle",
+        "(B) Niece",
+        "(C) Cousin brother",
+        "(D) Sisters",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.51. Amar introduced Sunita &amp; said: She is the wife of my mothers only son. What is the relation of Sunita with Amar?",
+        "(A) Wife",
+        "(B) Sister",
+        "(C) Sister in law",
+        "(D) Data Inadequate",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.52. Q is a son of P, X is a daughter of Q, R is a Bua of X, L is brother of R. then who is L to P?",
+        "(A) Grandson",
+        "(B) Grand daughter",
+        "(C) Daughter",
+        "(D) Son",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.53. Gopal pointed Govind &amp; said: His father is the only son of my father. What is the relation of Gopal with Govind?",
+        "(A) Grandfather",
+        "(B) Grandson",
+        "(C) Son",
+        "(D) Father",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.54. A &amp; B are sister. R &amp; S are brother. As daughter is Rs sister. What is the relation of B with S?",
+        "(A) Mother",
+        "(B) Grandmother",
+        "(C) Sister",
+        "(D) Aunt",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.55. A is a mother of B. C is a son of A. D is a brother of E, E is a daughter of B. Who is the grandmother of D?",
+        "(A) A",
+        "(B) B",
+        "(C) C",
+        "(D) D",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.56. Vinod introduced Vishal as the son of the only brother of his fathers wife. How Vinod is related to Vishal?",
+        "(A) Cousin Brother (Mamera)",
+        "(B) Cousin Brother (Fufera)",
+        "(C) Son",
+        "(D) Maternal Uncle",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.57. Seema is Sudhirs daughter-in-law &amp; Ramesh-s sister-in-law. Mohan is Sudhirs son &amp; is the only brother of Ramesh. Find the relation between Seema &amp; Mohan.",
+        "(A) Sister-in-law",
+        "(B) Aunt",
+        "(C) Cousin Sister",
+        "(D) Wife",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.58. C is Bs wife, E is Cs son, A is Bs brother &amp; Ds father. What is the relation of E with D?",
+        "(A) Mother",
+        "(B) Sister",
+        "(C) Brother",
+        "(D) Cousin Brother",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.59. P is Qs brother, R is Qs mother, S is Rs father, T is Ss mother. What is the relation of P with T?",
+        "(A) Grand Daughter",
+        "(B) Great Grandson",
+        "(C) Grandson",
+        "(D) Grandmother",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.60. P is Qs brother, R is Qs mother, S is Rs father, T is Ss mother. What is the relation of P with T?",
+        "(A) Grand Daughter",
+        "(B) Great Grandson",
+        "(C) Grandson",
+        "(D) Grandmother",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.61. If A is Bs mother, C is As son, D is E brother, E is Bs daughter, then who is the grandmother of D?",
+        "(A) A",
+        "(B) B",
+        "(C) C",
+        "(D) D",
+        " Ans .  A",
+        "Direction: (62-66) : Study the given information carefully:",
+        ""
+    ],
+    [
+        "Q.62. How F is related to A?",
+        "(A) Sister-in-law (Nanad)",
+        "(B) Sister",
+        "(C) Mother-in-law",
+        "(D) Mother",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.63. How E is Related to C?",
+        "(A) Sister",
+        "(B) Aunt",
+        "(C) Mother -in-law",
+        "(D) Mother",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.64. How B is related to C?",
+        "(A) Sister-in-law (Bhabhi)",
+        "(B) Sister",
+        "(C) Niece",
+        "(D) Daughter-in-law",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.65. How many women are in the family?",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.66. How C is related to F?",
+        "(A) Son-in-law",
+        "(B) Brother-in-law",
+        "(C) Nephew",
+        "(D) Son",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.67. A woman showed a persons photograph &amp; said: This persons wife is my mother-in-laws only daughter-in-law. What is the relation of the woman &amp; that person?",
+        "(A) Husband-Wife",
+        "(B) Father-Daughter",
+        "(C) Brother-Sister",
+        "(D) Mother-Son",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.68. Abhishek pointed a girl &amp; said: She is the daughter of my fathers only child. How Abhisheks wife is related to that girl?",
+        "(A) Mother",
+        "(B) Sister",
+        "(C) Aunt",
+        "(D) Daughter",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.69. Amit is Rahuls son. Rahuls sister Sarika has a son Sonu &amp; a daughter Rita. Raja is Sonus mama. How Rita is related to raja?",
+        "(A) Sister",
+        "(B) Niece",
+        "(C) Daughter",
+        "(D) Mother",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.70. K &amp; L are two brother. P &amp; O are a married couple. N is Ks daughter. L is Qs husband &amp; Ps father. If M &amp; K are mother &amp; son, O is a son-in-law of L, then what is the relation between P &amp; M?",
+        "(A) Grand daughter &amp; Grandmother",
+        "(B) Grand daughter &amp; Grandmother ( maternal)",
+        "(C) Mother-Son",
+        "(D) Grandson-Grandmother (paternal)",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.71. A boy introduced a girl as a daughter of his aunt (chachi)s mothers son. Who is the girl to the boy?",
+        "(A) Sister",
+        "(B) Cousin Sister",
+        "(C) Sister-in-law",
+        "(D) Aunt",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.72. Shyama says that Rajivs fathers father is my father. So, what is Shyamas relation with Rajiv?",
+        "(A) Sister",
+        "(B) Mother",
+        "(C) Bua",
+        "(D) Niece",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.73. A &amp; B are sisters, R &amp; S are brothers, daughter of A is a sister of R, then what is the relation of B with S?",
+        "(A) Mother",
+        "(B) Grandmother",
+        "(C) Sister",
+        "(D) Aunt",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.74. A is brother of B, C is a father of D, E is mother of B, A &amp; D are brothers, then what is the relation of E with C?",
+        "(A) Sister",
+        "(B) Sister-in-law",
+        "(C) Niece",
+        "(D) Wife",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.75. Vinod pointed Archana &amp; told: Her father is son of my mothers sister. What is the relation of Archana with Vinod?",
+        "(A) Niece",
+        "(B) Brother",
+        "(C) Cousin",
+        "(D) Grandfather",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.76. A man introduced a woman &amp; told: Her mothers husbands sister is my aunt (mousi). What is the relation of that woman with the man?",
+        "(A) Aunt (Chachi)",
+        "(B) Mother",
+        "(C) Paternal Cousin Sister",
+        "(D) Maternal Cousin Sister",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.77. A person introduced a lady &amp; said: She is samadhan of the mother-in-law of the only daughter-in-law of the only daughter-in-law of my sons grandmother. How that person is related to the lady?",
+        "(A) Son",
+        "(B) Son-in-law",
+        "(C) Brother",
+        "(D) Husband",
+        " Ans .  B",
+        "Direction (Question 78 to 81): Read the following information carefully and answer the question given below:",
+        "\u2018A+B\u2019 means \u2018A\u2019 is the son of B\u2019; \u2018A-B\u2019 means \u2018A is the wife of B\u2019;  \u2018A\u00d7B\u2019 means \u2018A is the brother of B; \u2018A \u00f7 B\u2019 means \u2018A is the mother of B\u2019 is the mother of B\u2019 and \u2018A = B\u2019 means \u2018A\u2019 is the sister of B\u2019.",
+        ""
+    ],
+    [
+        "Q.78. What is does P + R  Q mean?",
+        "(A) Q is the father of P.",
+        "(B) Q is the son of P.",
+        "(C) Q is the uncle of P.",
+        "(D) Q is the brother of P.",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.79. What does PRQ mean?",
+        "(A) P is the brother of Q.",
+        "(B) P is the father of Q.",
+        "(C) P is the uncle of Q.",
+        "(D) P is the nephew of Q.",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.80. What does P = R + Q means?",
+        "(A) P is the aunt of Q.",
+        "(B) P is the daughter of Q.",
+        "(C) P is the niece of Q.",
+        "(D) P is the sister of Q.",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.81. What does P = R Q means?",
+        "(A) P is the aunt of Q.",
+        "(B) P is the sister of Q.",
+        "(C) Q is the niece of P.",
+        "(D) Q is the daughter of P.",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.82. If P $ Q means P is father of Q; P # Q means 'P is mother of Q; P * Q means P is sister of Q, then how is D related to N in N # A $ B * D ?",
+        "(A) Nephew",
+        "(B) Grandson",
+        "(C) Grand daughter",
+        "(D) Data inadequate",
+        "(E) None of these",
+        " Ans . D  "
+    ]
+]

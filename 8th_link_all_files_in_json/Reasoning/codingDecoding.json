@@ -1,0 +1,290 @@
+[
+    [
+        "Q.1.In a code language, if BAD is obtained from YZW, then what will be obtained from ZXY?",
+        "(A) BAG        ",
+        "(B) EYE        ",
+        "(C) AGE        ",
+        "(D) ACB",
+        "Ans (D) : Here the coding is done in the reverse sequence of the alphabet. So:",
+        ""
+    ],
+    [
+        "Q.2. If in a code language, PEN = 11  22  13, then which word is indicated by the code 10  6  18  24  16?",
+        "(A) KFRXP              ",
+        "(B) QUIXP              ",
+        "(C) JFRXP              ",
+        "(D) QUICK",
+        "Ans (D) : Here, the codes for the given words are the reverse ordered sequence number of the letters of the alphabet.",
+        ""
+    ],
+    [
+        "Q.3. In a code language, TATA is written as 400, then what should we write for PAPA in the same language?",
+        "(A) 32          ",
+        "(B) 1616                ",
+        "C) 800         ",
+        "(D) 256",
+        "Ans (D) : T    A       T     A",
+        ""
+    ],
+    [
+        "Q.4. In a code language, PEN is written as 1517461315, then what should be written for COPY in the same code language?",
+        "(A) 23141516172526   (B) 23141615172526   (C) 23411615172425   (D) 2414161572426 Solution",
+        "Ans (D) :  16  5    14",
+        ""
+    ],
+    [
+        "Q.5. In a code language, Elephant is told as Jackal, Jackal is told as Monkey, Monkey is told as Dog, Dog is told as Lion, Lion is told as Goat, Goat is told as Mouse, then who will be the king of jungle?",
+        "(A) Mouse     ",
+        "(B) Goat       ",
+        "(C) Lion        ",
+        "(D) Jackal",
+        "Ans (B) : The king of jungle is a goat because a lion is told as goat in the code language.",
+        ""
+    ],
+    [
+        "Q.6. If an orange is called ink, ink is called soap, soap is called butter, butter is called honey, then what will be used to wash the clothes?",
+        "(A) ink         ",
+        "(B) honey             ",
+        "(C) butter              ",
+        "(D) soap",
+        "Ans (C) :Butter will be used to wash the clothes.",
+        ""
+    ],
+    [
+        "Q.7. If sun is called Moon, Moon is called Sky, Sky is called cloud, cloud is called Rain, the where the birds will fly?",
+        "(A) Moon      ",
+        "(B) Sky        ",
+        "(C) Cloud              ",
+        "(D) Rain",
+        "Ans (C) : Birds will fly in the clouds because the sky is called the cloud.",
+        ""
+    ],
+    [
+        "Q.8. If Mumbai is called Jaipur, Jaipur is called Delhi &amp; Delhi called Lucknow, then what will be called the capital of India?",
+        "(A) Jaipur      ",
+        "(B) Delhi       ",
+        "(C) Mumbai           ",
+        "(D) Lucknow",
+        "Ans (D) : Capital of India is Delhi &amp; Delhi is coded with Lucknow.",
+        ""
+    ],
+    [
+        "Q.9. In a code language; BOY is written as $ * &amp; HOUR is written as @ * 0, then what should be written for RUBY in the same code language?",
+        "(A) 0  $              ",
+        "(B) 0 $               ",
+        "(C)  $  0             ",
+        "(D) None of these.",
+        "Ans (A) : ",
+        ""
+    ],
+    [
+        "Q.10. In a specific code; BEND is written as 5 % 3 # &amp; NIGHT is written as 3@64. How DEBT will be written in this code?",
+        "(A) #%4              ",
+        "(B) #@54               ",
+        "(C) #%34      ",
+        "(D) #%54       ",
+        "(E) None of these",
+        "Ans (D) :   B E N D      N I G H T",
+        ""
+    ],
+    [
+        "Q.11. If FISH is written as EHRG in certain code, how would JUNGLE be written in that code?",
+        "(A) ITMFKD",
+        "(B) ITNFKD",
+        "(C) KVOHMF",
+        "(D) TIMFKD",
+        ""
+    ],
+    [
+        "Q.12. If in a certain language, MADARAS is coded as NBESBT, how is BOMBAY coded in that language?",
+        "(A) CPNCBX",
+        "(B) CPNCBZ",
+        "(C) CPOCBZ",
+        "(D) CQOCBZ",
+        "(E) None of these",
+        ""
+    ],
+    [
+        "Q.13. In a certain code, TWINKLE is written as SVHOJKD, then how would FILTERS be written in the same code?",
+        "(A) EHKSDQR",
+        "(B) EHKUDQR",
+        "(C) EGKUDQR",
+        "(D) GJMSFST",
+        "(E) None of these",
+        ""
+    ],
+    [
+        "Q.14. If in a certain code, LUTE is written as MUTE and FATE is written as GATE, then how will BLUE be written in that code?",
+        "(A) CLUE",
+        "(B) GLUE",
+        "(C) FLUE",
+        "(D) SLUE",
+        ""
+    ],
+    [
+        "Q.15. In a certain language, OPERATION is written NODQBUJPO. How is INVISIBLE written in that code?",
+        "(A) JOWJTJCMF",
+        "(B) JOWJTHAKD",
+        "(C) HMUHTJCF",
+        "(D) HMUHTHAKD",
+        "(E) None of these",
+        ""
+    ],
+    [
+        "Q.16. If MADRAS can be written as ARSARS, how can ARKONAM be written in that code?",
+        "(A) ROAAKNM",
+        "(B) ROAKANM",
+        "(C) ROAKNNM",
+        "(D) ROAKNAM",
+        "(E) ROKANAM",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.17. If TRUTH is coded as SUQSTVSUGI, then the code for FALSE will be?",
+        "(A) EGZBKMRDE",
+        "(B) EGZKMRTDF",
+        "(C) EGZBKMRTDF",
+        "(D) FGZBKNRTDF",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.18. If POND is coded as RSTL, how is HEAR written in that code?",
+        "(A) GHIJ",
+        "(B) GHIZ",
+        "(C) JIGZ",
+        "(D) JCLZ",
+        "(E) None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.19. In a certain code, SPRING is written as UNUFRC. How will the word MOBILE be written in that code language?",
+        "(A) KQEFPA",
+        "(B) OMDGNC",
+        "(C) OMDGPA",
+        "(D) OMEFPA",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.20. In a certain code, TELEPHONE is written as ENOHPELET. How is ALIGATOR written in that code?(A) ROTAGILA",
+        "(B) ROTAGAIL",
+        "(C) ROTAGILE",
+        "(D) ROTEGILA",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.21. If BE QUICK is code as ZC OSGAI, then the code of the last letter of the third word in the sentence I LOVE MY COUNTRY is",
+        "(A) A",
+        "(B) T",
+        "(C) U",
+        "(D) W",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.22. In a certain code, INACTIVE is written as VITCANIE. How is COMPUTER written in the same code ?",
+        "(A) PMOCRETU",
+        "(B) ETUPMOCR",
+        "(C) UTEPMOCR",
+        "(D) MOCPETUR",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.23. If DELHI can be coded as CCIDD, how would you code BOMBAY?",
+        "(A) AJMTVT ",
+        "(B) AMJXVS",
+        "(C) MJXVSU",
+        "(D) WXYZAX",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.24. In a certain code, CAT is written as SATC and DEAR is written as SEARD. How would SING be written in that code?",
+        "(A) BGINS",
+        "(B) SGNIS",
+        "(C) SINGS",
+        "(D) GNISS",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.25. If GOLD is coded as HOME, COME is coded as DONE and CORD is coded as DOSE, how would you code SONS?",
+        "(A) TPOT",
+        "(B) TOOT",
+        "(C) TOOS",
+        "(D) TONT",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.26. If SYSTEM is coded as SYSMET and NEARER as AENRER, then FRACTION will be coded as",
+        "(A) CARFNOIT",
+        "(B) NOITFRAC",
+        "(C) FRACNOIT",
+        "(D) CARFTION",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.27. In a certain code, POETRY is written as QONDSQX and OVER is written as PNUDQ. How is MORE written in that code language?",
+        "(A) LNNQD",
+        "(B) NNNQD",
+        "(C) NLNQD",
+        "(D) NLPQD",
+        "(E) None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.28. In a certain code, KAVERI is written as VAKIRE. How is MYSORE written in that code?",
+        "(A) EROSYM",
+        "(B) SYMROE",
+        "(C) SYMEOR",
+        "(E) None of these",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.29. In a certain code language, BORN is written as APQON and LACK is written as KBBLK. How will the word GRID be written in that code language?",
+        "(A) FSHCD",
+        "(B) HSJED",
+        "(C) FOHCD",
+        "(D) FSHED",
+        "(E) None of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.30. In a certain code language, THANKS is written as SKNTHA. How is STUPID written in that code language?",
+        "(A) DIPUTS",
+        "(B) DISPUT",
+        "(C) DIPUST",
+        "(D) DPISTU",
+        "(E) None of these",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.31. If BOMBAY is written as MYMYMY, how will TAMIL NADU be written in that code?",
+        "(A) TIATIATIA",
+        "(B) MNUMNUMNU",
+        "(C) IATIATIAT ",
+        "(D) ALDALDALD",
+        "(E) None of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.32. If SPIDER is written as PSDIRE in a certain code, how would COMMON be written in that code",
+        "(A) OCOMMO",
+        "(B) OCMMNO",
+        "(C) OCMOMN",
+        "(D) OCMMON",
+        "Ans :   B    "
+    ]
+]

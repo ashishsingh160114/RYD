@@ -1,0 +1,669 @@
+[
+    [
+        "Q.1. Which letter is seventh from left of 16th from right in English alphabet?",
+        "(A) D",
+        "(B) W",
+        "(C) R",
+        "(D) E",
+        " Ans .  A",
+        "Direction: If English alphabet is written in reverse order then-",
+        ""
+    ],
+    [
+        "Q.2. Which letter is 5th at right of 12 from right?",
+        "(A) Q",
+        "(B) P",
+        "(C) G",
+        "(D) R",
+        " Ans .  C",
+        "Direction: If English alphabet is written in reverse order then-",
+        ""
+    ],
+    [
+        "Q.3. If the 2nd half of an English alphabet is written in reverse order, which letter will be the 5th at left from 21st letter from left?",
+        "(A) L",
+        "(B) X",
+        "(C) M",
+        "(D) Q",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.4. If the 2nd half of an English alphabet is written in the reverse sequence, which will be the 6th letter at right from the 18th letter from left?",
+        "(A) X",
+        "(B) P",
+        "(C) O",
+        "(D) N",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.5. If the letters of an English alphabet are written in the reverse order, which will be the 4th letter at right from the 13th letter from left?",
+        "(A) J",
+        "(B) L",
+        "(C) K",
+        "(D) M",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.6. Which word is at last after arranging the following according to dictionary?",
+        "(A) Satin",
+        "(B) Satire",
+        "(C) Saturn",
+        "(D) Satiate",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.7. Arrange the following in the order of the dictionary.",
+        " 1. Scenery 2. Science 3. Scandal 4. School 5. Scatter",
+        "(A) 3,5,1,4,2",
+        "(B) 3,5,4,1,2",
+        "(C) 5,3,4,2,1",
+        "(D) 5,3,2,1,4",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.8. Which will be the 2nd word from the following in the telephone dictionary?",
+        "(A) SAJEWET",
+        "(B) SAJEWAT",
+        "(C) SEGVAN",
+        "(D) SALWAR",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9. Arrange the following words according to the dictionary.",
+        "1. Critical 2. Criterion 3. Crisis 4. Crisp",
+        "(A) 3,4,2,1",
+        "(B) 1,3,4,2",
+        "(C) 3,4,1,2",
+        "(D) 4,3,1,2",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10. Arrange the following words according to the dictionary.",
+        "1. Intricate 2. Interview 3. Intransigent 4. Interrogation 5. Intravenous",
+        "(A) 2,4,5,3,1",
+        "(B) 5,3,1,2,4",
+        "(C) 4,2,3,5,1",
+        "(D) 3,5,2,1,4",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.11. Arrange the following in the order of the dictionary.",
+        "1. TORTOISE 2. TORONTO 3. TORPED 4. TORUS 5. TORSEL",
+        "(A) B, E, C, A, D",
+        "(B) B, E, C, D, A",
+        "(C) B, C, E, A, D",
+        "(D) B, C, E, D, A",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.12. How many can meaningful words be obtained using the letters of the word IDET, where each letter should be used only once in a word?",
+        "(A) Not any",
+        "(B) One",
+        "(C) Two",
+        "(D) More then two",
+        " Ans .  D",
+        "Direction: Select the words form the following options, which can be formed by the given word.",
+        ""
+    ],
+    [
+        "Q.13. COMMISSION",
+        "(A) OSMOSIS",
+        "(B) CONICS",
+        "(C) MOAN",
+        "(D) COMMON",
+        " Ans .  D",
+        "Direction: Select the words form the following options, which can be formed by the given word.",
+        ""
+    ],
+    [
+        "Q.14. BLANDISHMENT",
+        "(A) BOARD",
+        "(B) METAL",
+        "(C) SHAPE",
+        "(D) CRASH",
+        " Ans .  B",
+        "Direction: Select the words form the following options, which can be formed by the given word.",
+        ""
+    ],
+    [
+        "Q.15. CLASSIFICATION",
+        "(A) FICTION",
+        "(B) CLASSIFIED",
+        "(C) CLASE",
+        "(D) SALE",
+        " Ans .  A",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.16. EXEMPLIFICATION",
+        "(A) FIXATION",
+        "(B) EXAMPLE",
+        "(C) AXE",
+        "(D) EXTRA",
+        " Ans .  D",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.17. GERMINATION:",
+        "(A) ORNAMENT",
+        "(B) IGNITE",
+        "(C) NITER",
+        "(D) NATIONAL",
+        " Ans .  D",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.18. INTELLIGENCE",
+        "(A) TINGLE",
+        "(B) GENTLE",
+        "(C) NEGLECT",
+        "(D) TILLAGE",
+        " Ans .  D",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.19. EXAMINATION:",
+        "(A) EXAMINE",
+        "(B) NATION",
+        "(C) NOTE",
+        "(D) TONE",
+        " Ans .  A",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.20. ARCHITECTURE",
+        "(A) TACT",
+        "(B) CHAT",
+        "(C) TORCH",
+        "(D) RICH",
+        " Ans .  C",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.21. QUINTESSENCE",
+        "(A) Essence",
+        "(B) Entice",
+        "(C) Sequin",
+        "(D) Question",
+        " Ans .  D",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.22. ESTRANGE",
+        "(A) GENERATE",
+        "(B) SERGEANT",
+        "(C) REAGENTS",
+        "(D) GREAT",
+        " Ans .  A",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.23. PERMANENT",
+        "(A) REMNANT",
+        "(B) TRAMP",
+        "(C) MENTOR",
+        "(D) AMPERE",
+        " Ans .  C",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.24. CATERING",
+        "(A) ARGENTIC",
+        "(B) CREATING",
+        "(C) RETIRING",
+        "(D) REACTING",
+        " Ans .  C",
+        "Direction: Some letters are given in the following question, which are marked with digits. Arrange them in a sequence to get a meaningful word.",
+        ""
+    ],
+    [
+        "Q.25. O B L U R A",
+        "(A) 231465",
+        "(B) 645231",
+        "(C) 362145",
+        "(D) 326154",
+        " Ans .  C",
+        "Direction: Some letters are given in the following question, which are marked with digits. Arrange them in a sequence to get a meaningful word.",
+        ""
+    ],
+    [
+        "Q.26. O R E H S",
+        "(A) 41253",
+        "(B) 25314",
+        "(C) 12543",
+        "(D) 34521",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.27. If only one English word is possible from the 2nd , 5th , 6th &amp; 10th letters of the word STREAMLINE, then which one from the following would be the 3rd letter of that word ? If such a word is not possible, then answer X &amp; if more than one such words are possible, then answer Y.",
+        "(A) E",
+        "(B) A",
+        "(C) M",
+        "(D) X",
+        "(E) Y",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.28. How many meaningful English words can be made using the letters used in URLE; using each letter once only?",
+        "(A) None",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        "(E) More than tree",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29. Only one meaningful word can be obtained from the haphazardly written word. Find that word.",
+        "(A) METAMORPHIC",
+        "(B) PHILANTHROPIST",
+        "(C) HIPPOCAMPUS",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.30. A group of letters is given &amp; each letter is coded with a digit. Arrange these letters to get a meaningful word &amp; code the letters of that word. Select that code as your answer.",
+        "(A) 51234",
+        "(B) 54213",
+        "(C) 53214",
+        "(D) 53214",
+        " Ans .  C",
+        "Direction: Study the following arrangement carefully &amp; answer the following questions:",
+        ""
+    ],
+    [
+        "Q.31. If the last 10 digits of the given series are arranged in the reverse sequence, then which will be the 12th digits from the left?",
+        "(A) 6",
+        "(B) 5",
+        "(C) 8",
+        "(D) 7",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.32. How many even number in the above series are preceded &amp; followed by the even numbers?",
+        "(A) 1",
+        "(B) 2",
+        "(C) 3",
+        "(D) 4",
+        " Ans .  A",
+        "Direction: Study the following arrangement carefully &amp; answer the following questions:",
+        ""
+    ],
+    [
+        "Q.33. How many even numbers in the series are preceded by the odd numbers?",
+        "(A) 8",
+        "(B) 7",
+        "(C) 6",
+        "(D) 5",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.34. Which letter is 9th from right of 8th from left in English alphabet?",
+        "(A) L",
+        "(B) Q",
+        "(C) M",
+        "(D) R",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.35. Which letter is seventh from left of 16th from right in English alphabet?",
+        "(A) D",
+        "(B) W",
+        "(C) R",
+        "(D) E",
+        " Ans .  A",
+        "Direction: If English alphabet is written in reverse order then-",
+        ""
+    ],
+    [
+        "Q.36. Which letter is 7th at right of eight from left?",
+        "(A) L",
+        "(B) J",
+        "(C) M",
+        "(D) T",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.37. Which letter is 6th from left of 19th from left?",
+        "(A) T",
+        "(B) P",
+        "(C) Q",
+        "(D) R",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.38. In English alphabet, which letter will be 4th at right from 9th at left from 7th from right?",
+        "(A) O",
+        "(B) R",
+        "(C) S",
+        "(D) P",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.39. If the 2nd half of an English alphabet is written in the reverse sequence, which will be the 4th letter at left from the 12th letter from right?",
+        "(A) L",
+        "(B) J",
+        "(C) K",
+        "(D) M",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.40. Which word is in the middle after arranging the following according to dictionary?",
+        "(A) MORLAIST",
+        "(B) MORAINE",
+        "(C) MORALE",
+        "(D) none of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.41. Which word is 3rd after arranging the following according to dictionary?",
+        "(A) CRADLE",
+        "(B) CRACKLE",
+        "(C) CRACKNEL",
+        "(D) CRAMP",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.42. What will be the respective sequence of the following words after arranging them in the order of the dictionary?",
+        "1. SOUND 2. SOCKS 3. SHOCKS 4. SHARP 5. SNOOKER",
+        "(A) 54312",
+        "(B) 43512",
+        "(C) 34512",
+        "(D) 43251",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.43. Arrange the following words in the order of the alphabet &amp; find which will come exactly in the middle?",
+        "(A) Plane",
+        "(B) Plain",
+        "(C) Plenty",
+        "(D) Player",
+        "(D) Place",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.44. Arrange the following words according to the dictionary?",
+        "1. Matter 2. Motive 3. Mockery 4. Mange 5. Movies",
+        "(A) 4, 1,2,5,3",
+        "(B) 4,2,3,5,1",
+        "(C) 3,2,1,4,5",
+        "(D) 4,1,3,2,5",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.45. Arrange the following words according to the dictionary.",
+        "1. Inventory 2. Involuntary 3. Invisible 4. Invariable 5. Investigate",
+        "(A) 4,2,5,3,1",
+        "(B) 4,5,1,3,2",
+        "(C) 2,5,4,1,3",
+        "(D) 4,1,5,3,2",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.46. Arrange the following words according to the dictionary.",
+        "1. Exploit 2. Explosive 3. Exponent 4. Exposition 5. Explore",
+        "(A) 1,3,4,5,2",
+        "(B) 1,5,2,3,4",
+        "(C) 1,5,3,2,4",
+        "(D) 1,2,5,3,4",
+        " Ans .  B",
+        "Direction: Select the words form the following options, which can be formed by the given word.",
+        ""
+    ],
+    [
+        "Q.47. NEWSPAPER",
+        "(A) SWEET",
+        "(B) REPEAT",
+        "(C) SOUR",
+        "(D) WASP",
+        " Ans .  D",
+        "Direction: Select the words form the following options, which can be formed by the given word.",
+        ""
+    ],
+    [
+        "Q.48. POLITICIZATION",
+        "(A) POLITICS",
+        "(B) NATION",
+        "(C) ACTION",
+        "(D) LITIGATION",
+        " Ans .  C",
+        "Direction: Select the words form the following options, which can be formed by the given word.",
+        ""
+    ],
+    [
+        "Q.49. PERSONIFICATION:",
+        "(A) CAPTION",
+        "(B) FASHION",
+        "(C) TAILOR",
+        "(D) ROSHNI",
+        " Ans .  A",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.50. PARTICIPATION:",
+        "(A) PARTICIPANT",
+        "(B) NOTICE",
+        "(C) PART",
+        "(D) PARTITION",
+        " Ans .  B",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.51. RECOMMENDATION:",
+        "(A) NATION",
+        "(B) COMMENT",
+        "(C) COMMAN",
+        "(D) RECOMMENDS",
+        " Ans .  D",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.52. PHOTOSYNTHETIC:",
+        "(A) THOSE",
+        "(B) PRONE",
+        "(C) SCENT",
+        "(D) COTTON",
+        " Ans .  B",
+        "Direction: A word is given in each of the following questions. Then four options are given below each word. One of the options is a word which cannot be made using the letters of the given word. Identify that option.",
+        ""
+    ],
+    [
+        "Q.53. LEDMENTNOWGEACK:",
+        "(A) KNOWLEDGE",
+        "(B) GENTLE",
+        "(C) AGENCY",
+        "(D) LODGE",
+        " Ans .  C",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.54. IMPASSIONABLE",
+        "(A) IMPASSABLE",
+        "(B) IMPOSSIBLE",
+        "(C) IMPASSIVE",
+        "(D) IMPASSION",
+        " Ans .  C",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.55. QUINTESSENCE",
+        "(A) Essence",
+        "(B) Entice",
+        "(C) Sequin",
+        "(D) Question",
+        " Ans .  D",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.56. REPUBLICAN:",
+        "(A) CLIP",
+        "(B) PURE",
+        "(C) ANKLE",
+        "(D) BANE",
+        " Ans .  C",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.57. ESTRANGE",
+        "(A) GENERATE",
+        "(B) SERGEANT",
+        "(C) REAGENTS",
+        "(D) GREAT",
+        " Ans .  A",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.58. IRREGULARITES",
+        "(A) REGULAR",
+        "(B) TIRED",
+        "(C) TRAILER",
+        "(D) IRRIGATE",
+        " Ans .  B",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.59. INDETERMINATE",
+        "(A) DETERMINE",
+        "(B) RETINUE",
+        "(C) REMINDE",
+        "(D) RETINA",
+        " Ans .  B",
+        "Direction: Select a word from the options given below; which cannot be formed using the letters of the given word.",
+        ""
+    ],
+    [
+        "Q.60. STCTRUIQNMISCON",
+        "(A) STRICT",
+        "(B) CONSTRUCTION",
+        "(C) STATION",
+        "(D) MOTION",
+        " Ans .  C",
+        "Direction: Some letters are given in the following question, which are marked with digits. Arrange them in a sequence to get a meaningful word.",
+        ""
+    ],
+    [
+        "Q.61. O D E G L N",
+        "(A) 524163",
+        "(B) 153624",
+        "(C) 415236",
+        "(D) 142563",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.62. How many meaningful words can be obtained using the letters LGEU, where each letter should be used only once in a word?",
+        "(A) 1",
+        "(B) 2",
+        "(C) 3",
+        "(D) More then 3",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.63. If only one English word is possible from the 3rd, 5th , &amp; 8th letter of the word APARTMENT. Which one from the following will be the 1st letter of that word? If such a word is not possible, then answer X &amp; if more than one such words are possible, then answer M.",
+        "(A) A",
+        "(B) T",
+        "(C) X",
+        "(D) M",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.64. How many meaningful English words can be made using the letters used in ADER using each letter once only?",
+        "(A) None",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        "(E) Four",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.65. When we arrange the letters BNMANDOTI, well get the name of a sport. Which will be the 7th letter from left in such word?",
+        "(A) I",
+        "(B) T",
+        "(C) N",
+        "(D) M",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.66. Make a meaningful word by arranging the letters of the given word.",
+        "(A) Lamination",
+        "(B) Realignment",
+        "(C) Parliamentary",
+        "(D) Replacement",
+        " Ans .  C",
+        "Direction: Study the following arrangement carefully &amp; answer the following questions:",
+        ""
+    ],
+    [
+        "Q.67. Which digit will be the 7th at right from the 10th from left in this series?",
+        "(A) 1",
+        "(B) 2",
+        "(C) 3",
+        "(D) 4",
+        " Ans .  C",
+        "Direction: Study the following arrangement carefully &amp; answer the following questions:",
+        ""
+    ],
+    [
+        "Q.68. If the 1st half of the series is reversed, then which will be the 6th number at the right from 10th number from the left?",
+        "(A) 6",
+        "(B) 3",
+        "(C) 8",
+        "(D) 4",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.69. Four words after a word are given in this question, from which one word cannot be made using the letters used in the given word. Find that word.",
+        "(A) HECTARE",
+        "(B) MOTHER",
+        "(C) THEATRE",
+        "(D) RAPED",
+        " Ans .  D  "
+    ]
+]

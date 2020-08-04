@@ -1,0 +1,104 @@
+[
+    [
+        "Q.1. A is daughter of B. B is a mother of C. D is brother of C. What is the relation of D with A ?",
+        "(A) Father",
+        "(B) Grandfather",
+        "(C) Brother",
+        "(D) Son",
+        "Ans: C",
+        ""
+    ],
+    [
+        "Q.2. X is a sister of Y &amp; Y is a brother of Z. Z is a husband of P &amp; O is a father of Y. How P is related to O?",
+        "(A) Daughter-in-law",
+        "(B) Sister",
+        "(C) Uncle (chacha)",
+        "(D) Daughter",
+        "Ans: A",
+        ""
+    ],
+    [
+        "Q.3. A woman introduced a man &amp; told: His mother is the only daughter of my father. How that man is man is related to the woman?",
+        "(A) Brother",
+        "(B) Son",
+        "(C) Father",
+        "(D) Uncle (Chacha)",
+        "Ans: B",
+        ""
+    ],
+    [
+        "Q.4. Anjali says: He is the only son of the father of my sisters brother. How that person is related to Anjali?",
+        "(A) Unlce (Chacha)",
+        "(B) Cousin",
+        "(C) Brother",
+        "(D) Father",
+        "Ans: C",
+        ""
+    ],
+    [
+        "Q.5. P is son of Q, while Q &amp; R are sister of each other. T is Rs mother. If S is Ts son, then, which of the following statement is true?",
+        "(A) T is Qs brother",
+        "(B) S is Ps cousin.",
+        "(C) Q &amp; S are sisters.",
+        "(D) S is Ps uncle (mama)",
+        "Ans: D",
+        ""
+    ],
+    [
+        "Q.6.Arun is Rohits father. Rohit is Malas brother. Mala is Dilips wife. What is the relation of Dilip with Rohit?",
+        "(A) Father",
+        "(B) Uncle (Chacha)",
+        "(C) Son",
+        "(D) Brother-in-law (Jija)",
+        "Ans: D",
+        ""
+    ],
+    [
+        "Q.7. A man shows a photo &amp; says: The woman in the photo is the grandmother of my nephew (bhanja) &amp; her son is the brother-in-law (devar/jeth) of my sister. If he has no other sister, then what is the relation of the woman in photo with the sister of that man?",
+        "(A) Mother",
+        "(B) Mother-in-law",
+        "(C) Cousin",
+        "(D) None",
+        "Ans: B",
+        ""
+    ],
+    [
+        "Q.8. Sonu told Monu: The person playing the cricket is the husband of the only daughter of the son of my grandfathers son. Who is that person to Sonu?",
+        "(A) Brother-in-law (sala)",
+        "(B) Brother-in-law (Behnoi)",
+        "(C) Brother",
+        "(D) Nephew (Bhanja)",
+        "Ans: B",
+        ""
+    ],
+    [
+        "Q.9. Akka showed a picture to Kakka &amp; said that she is the only daughter of the only son of the father-in-law of the mother of your fathers daughter. What is the relation of Kakka with that picture?",
+        "(A) Brother",
+        "(B) Sister",
+        "(C) Daughter",
+        "(D) None",
+        "Ans: A",
+        ""
+    ],
+    [
+        "Q.10. PQ means P is Qs wife.",
+        "\t  P+Q\u2019 means P is Qs son.",
+        "",
+        "            \u2018P\u00f7Q\u2019 means P is Q\u2019s mother.",
+        "",
+        "             \u2018P-Q\u2019 means P is Q\u2019s sister.",
+        "",
+        "(1) What is the relation of M with B in \u2018B\u00f7H+M\u2019?",
+        "(A) Wife",
+        "(B) Husband",
+        "(C) Sister",
+        "(D) Mother",
+        "Ans: B",
+        "(2) What of the following expression shown that T is a son-in-law of H?",
+        "(A) H-LT",
+        "(B) HF+LT",
+        "(C) HRT",
+        "(D) HR+T",
+        "Ans: C  "
+    ]
+]

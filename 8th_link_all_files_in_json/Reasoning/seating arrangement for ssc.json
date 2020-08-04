@@ -1,0 +1,105 @@
+[
+    [
+        "Q.1. Six persons A, B, C, D, E &amp; F are standing in a circle. B is between D &amp; C. A is between E &amp; C. F is at the right of D. Who is between A &amp; F?",
+        "(A) E",
+        "(B) C",
+        "(C) D",
+        "(D) None of these.",
+        ""
+    ],
+    [
+        "Q.2. A, B, C, D, E, F &amp; G are sitting in a circular region &amp; playing cards. F is 2nd to the right of G. B is neighbour of F but not of C. E is a neighbour of C &amp; is siting 4th at the right of G. D is between E &amp; A.",
+       
+"(i) Who is fourth at left of G ?",
+        "(A) D",
+        "(B) E",
+        "(C) C",
+        "(D) B",
+       
+ "(ii) Who is at left of G ?",
+        "(A) A",
+        "(B) C",
+        "(C) B",
+        "(D) F",
+        
+"(iii) Who is the neighbour of F ?",
+        "(A) E and C",
+        "(B) F and B",
+        "(C) A and B",
+        "(D) C and B",
+        "Ans: (1) C, (2) A, (3)D",
+        ""
+    ],
+    [
+        "Q.3. Eight friends  P, Q, R, S, T, U, V &amp; W are sitting around a circle facing the center. V is third to the right of Q &amp; second to the left of R. Q is second to the left of T &amp; immediate right of S. U is between Q &amp; T. P is not at the left of R.",
+        
+"(i) Who is exactly at left of S ?",
+        "(A) Q",
+        "(B) P",
+        "(C) U",
+        "(D) V",
+        
+"(ii) Who is second to right of T ?",
+        "(A) R",
+        "(B) P",
+        "(C) W",
+        "(D) V",
+        
+"(iii) In which of the following pairs first person sits exactly at right of second persons?",
+        "(A) UT",
+        "(B) WR",
+        "(C) WT",
+        "(D) VT",
+        
+"(iv) What is the exact position of W?",
+        "(A) Just left of V",
+        "(B) Just right of V",
+        "(C) In between U and V",
+        "(D) Immediate right to R",
+        
+"(v) Who is second at right of S?",
+        "(A) U",
+        "(B) R",
+        "(C) T",
+        "(D) P",
+        "Ans : (1) B, (2)C, (3) D ,(4) B, (5) A",
+        ""
+    ],
+    [
+        "Q.4. (A) P, Q,R,S,T,U &amp; V are sitting around a circle facing the center.",
+        "(B) P is between V and S.",
+        "(C) R, who is second to right of S, is between Q and U.",
+        "(D) Q is no the neighbour of T.",
+        
+"(i) Which of the following statement is true?",
+        "(A) V is between P and S.",
+        "(B) S is second to the left of V",
+        "(C) R is third to the left of P",
+        "(D) P is at immediate left of S",
+        
+"(ii) What is the position of T?",
+        "(A) between R and V",
+        "(B) just left of V",
+        "(C) second to the left of R.",
+        "(D)second to the right of P",
+        
+"(iii) Who is between R and U?",
+        "(A) none",
+        "(B) S",
+        "(C) V",
+        "(D) Q",
+        
+"(iv) Which of the following statement is wrong?",
+        "(A) R is at immediate right of U.",
+        "(B) Q is at immediate left of R.",
+        "(C) T is third to the right of Q.",
+        "(D) U is third to the right of T.",
+        
+"(v) In which of the following pairs, the second member is at the immediate right of the first member?",
+        "(A) QS",
+        "(B) PV",
+        "(C) RU",
+        "(D) VT",
+        "Ans : (1) D, (2) B, (3) A, (4) A, (5) C   "
+    ]
+]

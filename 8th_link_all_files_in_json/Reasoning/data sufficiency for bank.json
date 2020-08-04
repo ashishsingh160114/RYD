@@ -1,0 +1,645 @@
+[
+    [
+        "Q.1.  Direction:(1-5): In each of the following questions, a question &amp; then two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        "",
+        "",
+        "How many students are in the class?",
+        "",
+        "I. Nishas rank in the class from the top is 10th &amp; from the bottom is 23rd.",
+        "II. Nandita is 10 rank above Roopa, who is 18th form the top.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.2. Who is the tallest among P, T, J, L, &amp; F having different heights?",
+        "",
+        "I. P is taller than only J &amp; F.",
+        "II. T is not the tallest one.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.3. In which direction is village P with respect to village Q?",
+        "",
+        "I. Village H is in the East of P &amp; in the South of Q.",
+        "II. Village F is in the North of P &amp; in the west of Q.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.4. How many sons does X have?",
+        "",
+        "I. D is a brother of A, who is a son of X.",
+        "II. Ds sister is Ms wife.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.5. What is the code of Tail in the code language?",
+        "",
+        "I. Delay is written as 57382 in the code language.",
+        "II. TIDE is written as 6457 in the code language.",
+        " Ans .  E",
+        "Direction:(6-10): In each of the following questions, a question &amp; two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        ""
+    ],
+    [
+        "Q.6. What is Niteshs rank in the class?",
+        "",
+        "I. Madhur is two ranks ahead of Nitesh, who is in the first 15% of the class.",
+        "2. Samir is six ranks below Nitesh &amp; 25th form the bottom.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.7. Which is the day of the week of Sudhas birthdate?",
+        "",
+        "I. The day on her birthdate is at least after two days from Wednesday.",
+        "II. She celebrated her birthday in 2006 after five days from the Independence Day of India.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.8. What is the relation of X with Y?",
+        "",
+        "I. X is the only son of Ys mother-in-law.",
+        "II. The only daughter of X has only brother, who is Ys son.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9. In which direction is Rahul facing?",
+        "",
+        "I. He turned to the left for twice respectively from to the starting point P.",
+        "II. He started to walk in the North from the point P.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.10. Who among P, Q, R &amp; T is the most heaviest?",
+        "",
+        "I. Q is lighter than T only, While P is lighter than R.",
+        "II. T is weight is 20 times of Rs weight, while 35 times of Rs weight.",
+        " Ans .  A",
+        "Direction:(11-15): In each of the following questions, a question &amp; two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        ""
+    ],
+    [
+        "Q.11. In which direction is Neha walking?",
+        "",
+        "I. Neha walked 15 km. from the starting point &amp; turned to the left.",
+        "II. She was walking towards the North before turning to the left.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.12. What is Rameshs relation with Lata?",
+        "",
+        "I. Yogendra is Latas father.",
+        "II. Rameshs mothers only sister is married to Yogendra.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.13. How many marbles Sanjay has?",
+        "",
+        "I. Sanjay has 3 times of marble compared to Ahmed.",
+        "II. Ahmed has one-third marble compared to Suresh, who has as equal as marbles as Sanjay has.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.14. Which was the day on 15th of the month?",
+        "",
+        "I. The first Sunday of the month was on 6th.",
+        "II. The last day of the month was on 31st.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.15. If in a code language, word peace is important is written as ni pe la so, then what is the code for peace?",
+        "",
+        "I.  an important map is written as ka so ba.",
+        "II. This is world map is written as de la ni ru.",
+        " Ans .  E",
+        "Direction:(16-20): In each of the following questions, a question &amp; two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        ""
+    ],
+    [
+        "Q.16. How food will be written in a code language?",
+        "",
+        "I. In that code language, always eat good food is written as ha na pa ta.",
+        "II. In that code language, enjoy eating good food is written as ni ha ja pa.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.17. How the word never will be written in a code language?",
+        "",
+        "I. In that code language, never ever go there is written as na ja ji ho.",
+        "II. In that code language, go there and come back is written as ma ho sa ni ho.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.18. What is Nilimas birthday?",
+        "",
+        "I. Sharmila strongly remembers that Nilimas birthday is after 13th but before 17th.",
+        "II. Rahul strongly remembers that Nilimas birthday is after 15th but before 19th.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.19. What is the relation of M with F?",
+        "",
+        "I. F is Ns sister, who is Rs mother.",
+        "II. M has two brothers, one of them R.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.20. In which direction is village F; with respect to village K?",
+        "",
+        "I. D is sitting between M &amp; R.",
+        "II. K is not at the immediate right of R.",
+        " Ans .  C",
+        "Direction:(21-23)",
+        ""
+    ],
+    [
+        "Q.21. What is the code for rope in the code language?",
+        "",
+        "I. In a code language, use the rope is written as nik ta re.",
+        "II. In a code language, rope is straight is written as pe da ta",
+        "(A) I &amp; II or II &amp; III",
+        "(B) I &amp; III",
+        "(C) II &amp; III",
+        "(D) I, II &amp; III  all",
+        "(E) Inadequate.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.22. How many children are in the class?",
+        "",
+        "I. If the number are arranged in the ascending order, then Saurabh is 5th from the top.",
+        "II. Sulabha is 10 ranks below Saurabh &amp; 25th from the bottom.",
+        "(A) I &amp; III",
+        "(B) II &amp; III",
+        "(C) I &amp; II",
+        "(D) Any two of three",
+        "(E) None of the above.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.23. On which day Suresh went to Chennai if the week started on Monday?",
+        "",
+        "I. Suresh was on leave on Wednesday.",
+        "II. Suresh went to Chennai on the next day of his mother came to his house.",
+        "(A) Only II &amp; III",
+        "(B) Only I &amp; II",
+        "(C) Only I &amp; III",
+        "(D) I, II &amp; III- all are required to answer the question.",
+        "(E) I, II &amp; III  all together also are not enough to answer the question.",
+        " Ans .  E",
+        "Direction:(24-28): In each of the following questions, two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        ""
+    ],
+    [
+        "Q.24. What is the relation of D with M?",
+        "",
+        "I. K &amp; N are two sisters of D.",
+        "II. Ks father is Ms brother.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.25. On which day of the week was Mukesh born?",
+        "",
+        "I. Mukeshs birthday was after one day of his sisters birthday.",
+        "II. Mukesh was born on the third day of week.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.26. M, P, D, K &amp; R are sitting around a circle facing the center. Who is at the immediate right of P?",
+        "",
+        "I. D is sitting between M &amp; R.",
+        "II. K is not at immediate left of R.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.27. What is Rohits rank from the top in a class of 40 students?",
+        "",
+        "I. Nikhil is five ranks below Rohit &amp; is 10th from the bottom.",
+        "II. Suresh is six ranks above Rohit &amp; is 22nd from the top.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.28. How go is written in a code language?",
+        "",
+        "I. go home now is written as ja ho na in that language.",
+        "II. Come home later is written as pa ta ho in that language.",
+        " Ans .  D",
+        "Direction:(29-33): In each of the following questions, a question &amp; two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        ""
+    ],
+    [
+        "Q.29. What is Nehas rank in a class of 40 students?",
+        "",
+        "I. Neha is four rank ahead of Sudha, who is 10 ranks below Nita. Nitas rank in the class is 18.",
+        "II. 10% boys in the class are ahead of Nayna, who is four ranks below Neha in the class.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.30. Who is the eldest among P, Q, R, S &amp; T?",
+        "",
+        "I. Though S is elder than P &amp; Q, but not the eldest one.",
+        "II. P, who is elder than Q &amp; R, is not as old as S, who is the second eldest among them.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.31. What is the relation of Rohan with Kamal?",
+        "",
+        "I. Rohit is Rohans father &amp; Kailash is Kamals paternal cousin.",
+        "II. Wife of Rohans brother is Kamals paternal aunt.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.32. What is the meaning of Ni in the code language?",
+        "",
+        "I. In that code language, Ni La Pe Sa means Many Bananas And Apples &amp; Vi Pi Ni Se means Apples Are Sweet Fruits.",
+        "II. In that code language, Pe Ba Lo Ni &amp; Costly Apples and Mangoes means  Ba Pe Lo Se Vi &amp; Pomegranate Are Costly",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.33. Who among A, B, C, D &amp; E is the tallest?",
+        "",
+        "I. C is the second tallest but not shorter than A.",
+        "II. D is not as tall much as C, but taller than B.",
+        " Ans .  E",
+        "Direction:(34-38): In each of the following questions, a question &amp; two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        ""
+    ],
+    [
+        "Q.34. What is the relation of Kailash with Nila?",
+        "",
+        "I. Rima is the sister of Kailashs father.",
+        "II. Sohans aunt is Nilas sister &amp; Sohans brother is Kailashs father.",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.35. What is Nileshs rank in a class of 40?",
+        "",
+        "I. Shobha is 11 rank ahead of Nilesh, who is 7th from the last student of the class.",
+        "II. Ramesh is at 6th rank &amp; is 3 ranks ahead of Amit, who is 5 ranks below Nilesh in the class.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.36. Age of each of A, B, C, D &amp; E is different. Who is the youngest one?",
+        "",
+        "I. D is the second eldest &amp; elder than A.",
+        "II. B is not as old as C &amp; A, but not the youngest one.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.37. What is the meaning of Pe in the code language?",
+        "",
+        "I. In that code language, Lo Ne Pe means They Were Angry &amp; Ti Ne Pe means They Were Happy",
+        "II. In that code language, Ni Wa Se Pe means They Are Coming Here &amp; To Wa Se Ni means ARE WE COMING HERE.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.38. Height G, H, I, J, &amp; K are different. who among them is the shortest one?",
+        "",
+        "I. I is the taller than K, but not the tallest one.",
+        "II. K is not as much tall as H, but not the shortest one.",
+        " Ans .  E",
+        "Direction:(39-43): In each of the following questions, a question &amp; then three statements  I, II &amp; III are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statements to answer the question.",
+        ""
+    ],
+    [
+        "Q.39. How many daughters W has?",
+        "",
+        "I. B &amp; D are Ms sisters.",
+        "II. Ms father T is Ws husband.",
+        "(A) Only I &amp; III.",
+        "(B) I, II &amp; III  all are required to answer the question.",
+        "(C) Only II &amp; III.",
+        "(D) I, II &amp; III  all to gather also are not enough to answer the question.",
+        "(E) Only I &amp; II.",
+        " Ans .  B",
+        " "
+    ],
+    [
+        "Q.40. Who among A, B, C, D, E &amp; F is the tallest one, if their heights are different?",
+        "",
+        "I. B is taller than A, but shorter than E.",
+        "II. Only two of them are shorter than C.",
+        "(A) Only I &amp; II",
+        "(B) Only I &amp; III",
+        "(C) Only II &amp; III",
+        "(D) I, II &amp; III  all are required to answer the question.",
+        "(E) I, II &amp; III  all together also are not enough to answer the question. ",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.41. How go will be written in the code language?",
+        "",
+        "I. In that code language, now or never again is written as tom ka na sa.",
+        "II. In that code language, you come again now is written as tom ka na sa.",
+        "(A) Only I &amp; III",
+        "(B) Only II &amp; III",
+        "(C) Only I &amp; II",
+        "(D) I, II &amp; III  all are required to answer the question.",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.42. In which direction is village J from village W?",
+        "",
+        "I. Village R is in the West of W &amp; in the North of T.",
+        "II. Village Z is in the East of J &amp; in the South of T.",
+        "(A) Only III",
+        "(B) Only II &amp; III",
+        "(C) I, II &amp; III  all are required to answer the question.",
+        "(D) I, II &amp; III  all together also are not enough to answer the question.",
+        "(E) None of these.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.43. On which day of the week Suresh went to Chennai, if the week was started on Monday?",
+        "",
+        "I. Suresh was on leave on Wednesday.",
+        "II. Suresh went to Chennai on the next day of his mother came to his house.",
+        "(A) Only II &amp; III",
+        "(B) Only I &amp; II",
+        "(C) Only I &amp; III",
+        "(D) I, II &amp; III  all are required to answer the question.",
+        "(E) I, II &amp; III  all together also are not enough to answer the question.",
+        " Ans .  D",
+        "Direction:(44-50): In each of the following questions, a question &amp; two statements  I &amp; II are given. You have to determine that the data provided in these statements is enough to answer the question or not. Study both the statement:",
+        ""
+    ],
+    [
+        "Q.44. M, P, D, K &amp; R are sitting around a circle facing the center. Who is at the immediate right of P?",
+        "",
+        "I. D is sitting between M &amp; R.",
+        "II. K is not at the immediate right of R.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.45. If any two persons did not reach simultaneously to the station, then who among L, M, J, T &amp; R reached first?",
+        "",
+        "I. M reached after J &amp; T only.",
+        "II. L reached before R.",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.46. Who among five boys- Samar, Ramesh, Karan &amp; Vishwas  is the tallest one?",
+        "",
+        "I. Rakesh is taller than Karan &amp; Ramesh, but not as much tall as Samar.",
+        "II. Samar is not the tallest one.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.47. Who among M, T, P, K, R is the shorter than the tallest one?",
+        "",
+        "I. T is shorter than T, but not the shortest one.",
+        "II. R is taller than M, but shorter than P.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.48. How many brothers H has?",
+        "",
+        "I. H is sister of K, who is the son of T.",
+        "II. T is a sister of K, who is the brother of H.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.49. How many employees are in the organization?",
+        "",
+        "I. If they are listed in the descending order according to their seniority, then Jadhav comes 10th from the top &amp; four ranks ahead of Shri Karnik, who is 25th form the bottom.",
+        "II. If they are listed in the descending order according to their annual incomes, then Madhe is 15th from the top &amp; six ranks below Mr. Mane, who is 30th from the bottom.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.50. How many children are in the row facing the North?",
+        "",
+        "I. Vasudha, which is the fifth from the left, who is the seventh from right and eighteenth from left.",
+        "II. Rahul is 5th to the left of Nita, who is 7th form the right end &amp; 18th from. the left end.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.51. Currently, there are 40 cars in each row of the lot at a car dealership. If the parking spaces are to be widened and lengthened so that only 30 cars fit in each row and fewer rows fit in the lot, how many cars will then fit in the entire lot?",
+        "(1) There will be 3 fewer rows of cars.",
+        "(2) Currently there are 10 rows of cars.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.52. Is William taller than Jane?",
+        "(1) William is taller than Anna.",
+        "(2) Anna is not as tall as Jane.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.53. How many years old will Fred be y years from now?",
+        "(1) Doris is 12 years older than Fred.",
+        "(2) The sum of the ages of Doris and Fred is y years.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.54.  What was the final score in a game between Team X and Team Y?",
+        "(1) Team X scored 14 more points during the second half of the game than it scored during the first half.",
+        "(2) At the end of the first half of the game, the score was tied, but team Y won the game by 4 points.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufcient to answer the question asked, and additional data needed.",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.55. In parallelogram ABCD above, what is the measure of angle ADC?",
+        "(1) The measure of angle ADC is greater than 90 degrees.",
+        "(2) The measure of angle BCD is 70 degrees.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.56. Is the area of circle X greater than the area of circle Y?",
+        "(1) The circumference of circle X is greater than the circumference of circle Z, and the circumference of circle Z is less than the circumference of circle Y.",
+        "(2) The radius of circle X is greater than the radius of circle Y.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked;",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.57. Maria wants to send a package overseas. She can either pay shipping company A an amount dependent on the distance of the delivery, or pay shipping company B an amount dependent on the weight of the package. Which option is less expensive?",
+        "(1) Company A charges $3.00 plus $0.01 per mile of shipment, and company B charges $5.00 plus $8.50 per pound.",
+        "(2) The person who will receive the packages lives 3,900 miles away from Maria.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.58. A stenographer is tasked with typing a certain letter.  How many words long is the letter?",
+        "(1) It will take two minutes less time to type the letter at an average speed of 80 words per minute than at an average speed of 60 words per minute.",
+        "(2) It will take 6 minutes to type the first half of the letter at an average speed of 40 words per minute.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.59.  A certain jewellery store sells gold necklaces in 18-inch and 28-inch lengths, and all necklaces of the same length sell for the same price per necklace regardless of the number of necklaces purchased. What is the price of a 28-inch necklace at this jewellery store?",
+        "(1) The total price of an 18-inch and a 28-inch gold necklace is $68.",
+        "(2) The total price of two 18-inch necklaces and one 28-inch necklace is $96.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.60.  Is x &gt; y?",
+        "(1) x = y + 2",
+        "(2) x /2= y  1",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.61. Is the average (arithmetic mean) of a and b less than 40?",
+        "(1) The average (arithmetic mean) of 3a and 3b is 117.",
+        "(2) b = 5a",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.62. Penny does consult work part-time and is paid on an hourly basis. During week W, how much was the total amount of money Penny earned for her work with companies X and Y?",
+        "(1) During week W, Penny was paid $36 per hour for work performed for company X, and $29 per hour for work performed for company Y.",
+        "(2) During week W, Penny worked for a total of 60 hours.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.63. Is x a positive number?",
+        "(1) 5x  3 &gt; -2x",
+        "(2) x2 is positive.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.64.  Julie runs a small art museum. How many paintings does her museum have?",
+        "(1) Her next acquisition of 4 Monet paintings will increase the number of paintings in the museums collection by 10%.",
+        "(2) The museum currently exhibits 3 impressionist paintings for every 2 no impressionist paintings.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.65. If n is an integer, then n is divisible by how many positive integers?",
+        "(1) n is the product of a prime number and a non-prime positive integer.",
+        "(2) n and 20 are each divisible by the same number of positive integers.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.66.  If production on line A increased 5% from 2006 to 2007, and if production on line B increased 10% in the same period, how many units did line A produce in 2006?",
+        "(1) The two lines combined produced 100,000 units in 2006.",
+        "(2) The two lines combined produced 107,500 units total in 2007.",
+        "(A) Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient to answer the question asked",
+        "(B) Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient to answer the question asked",
+        "(C) BOTH statements (1) and (2) TOGETHER are sufficient to answer the question asked, but NEITHER statement ALONE is sufficient",
+        "(D) EACH statement ALONE is sufficient to answer the question asked",
+        "(E) Statements (1) and (2) TOGETHER are NOT sufficient to answer the question asked, and additional data are needed",
+        " Ans . C  "
+    ]
+]

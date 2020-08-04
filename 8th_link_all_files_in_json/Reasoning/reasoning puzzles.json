@@ -1,0 +1,466 @@
+[
+    [
+        "Q.1. Direction (1-7) : Study the following information carefully to answer the given question.",
+        "",
+        "Which of the following is the last lecture organized?",
+        "(A) Statistics",
+        "(B) Research Methods",
+        "(C) Psychology",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.2. If Wednesday is the holiday, then the code will be 2  4. If Thursday is a holiday, then the code will be 3-3. Which of the following codes is corrects on the basis of the holiday?",
+        "(A) 2-4",
+        "(B) 3-3",
+        "(C) 4-2",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.3. Which lecture will be conducted on Friday?",
+        "(A) Economics",
+        "(B) Psychology",
+        "(C) Computer Science",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.4. How many lectures were organized between Economics &amp; Psychology?",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.5. On which day the Computer Science was organized?",
+        "(A) Monday",
+        "(B) Wednesday",
+        "(C) Thursday",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.6. Which day is a holiday?",
+        "(A) Tuesday",
+        "(B) Wednesday",
+        "(C) Friday",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.7. If somebody wants to attend any two lectures from Psychology, Research Methods &amp; Computer Science; &amp; wish that both days should come one after other than which of the following combinations of the lectures should be selected?",
+        "(A) Research Methods, Computer Science",
+        "(B) Phycology, Computer Science",
+        "(C) Psychology, Research Methods",
+        "(D) Any two out of three are possible",
+        "(E) It is not possible with the condition on the day after day",
+        " Ans .  A",
+        "Direction (8-12): - S, R, N, L, M, T, O, &amp; P are eight persons sitting in a circle facing the center. Their different occupations are-reporter, doctor, cricketer, teacher, accountant, shopkeeper, painter &amp; Supervisor, but not necessarily in the same order as given.",
+        ""
+    ],
+    [
+        "Q.8. Who form the following is a reporter?",
+        "(A) O",
+        "(B) L",
+        "(C) N",
+        "(D) R",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.9. What is the position of S regarding R?",
+        "(A) Third to the right",
+        "(B) Second to the right",
+        "(C) Third to the left",
+        "(D) Second to the left",
+        "(E) Fourth to the right.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.10. If we count in the anti-clockwise direction starting from N; then how many persons are sitting between P &amp; N?",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.11. As pe the position mentioned above; four of the following pairs are alike &amp; so they form their group. Which one does not belong to this group?",
+        "(A) Teacher-Painter",
+        "(B) Supervisor  Shopkeeper",
+        "(C) Cricketer  Reporter",
+        "(D) Doctor  Accountant",
+        "(E) Shopkeeper  Doctor",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.12. Which of the following statement is false regarding the above-mentioned arrangement?",
+        "(A) N is at the immediate right of supervisor.",
+        "(B) Cricketer is third to the right of shopkeeper.",
+        "(C) Doctor is sitting exactly between supervisor &amp; accountant",
+        "(D) L is neither a teacher nor a supervisor.",
+        "(E) Only three persons are between S &amp; N.",
+        " Ans .  C",
+        "Direction (13-17) : A , B , C, D &amp; E are friend &amp; they have different cars- Zen, Opal Astra, Centro, Indica &amp; Maruti gypsy. Colours of these cars are  blue, white, black, red &amp; green, but not necessarily in the same order.",
+        ""
+    ],
+    [
+        "Q.13. Who has opal Astra?",
+        "(A) E",
+        "(B) C",
+        "(C) F",
+        "(D) cannot be determined",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.14. What is the colour of Gypsy?",
+        "(A) Green",
+        "(B) Red",
+        "(C) Blue",
+        "(D) White",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.15. Which car does E have?",
+        "(A) Astra",
+        "(B) Centro",
+        "(C) Gypsy",
+        "(D) Zen",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.16. What is the colour of Indica?",
+        "(A) White",
+        "(B) Red",
+        "(C) Green",
+        "(D) Black",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.17.Which car does A have?",
+        "(A) Gypsy",
+        "(B) Zen",
+        "(C) Indica",
+        "(D) Centro",
+        " Ans .  A",
+        "Direction (18-22):- There are eight flats- A, B, C, D, E, F, G &amp; H on the same floor of a building. These flats are in two rows  each row has 4 flats. One row is facing the North &amp; the other is facing the South. F is facing the North &amp; D is exactly in front of it. None of A &amp; C are South facing. A is not at any end &amp; is second to the left of F. E is exactly in front of the South facing B. G is third to the right of D.",
+        ""
+    ],
+    [
+        "Q.18. Which of the following is a pair of the South facing flats at ends?",
+        "(A) GD",
+        "(B) GH",
+        "(C) BH",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.19. Which North facing flat is exactly in front of flat H?",
+        "(A) E",
+        "(B) A",
+        "(C) C",
+        "(D) Insufficient data",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.20. Which of the following is a pair of the flats at the ends?",
+        "(A) BGCF",
+        "(B) BGHA",
+        "(C) EACF",
+        "(D) GHDC",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.21. Which of the following is a pair of the North facing flats at the ends?",
+        "(A) EA",
+        "(B) EC",
+        "(C) CF",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.22. Which flat is exactly in front of flat C?",
+        "(A) H",
+        "(B) D",
+        "(C) B",
+        "(D) G",
+        "(E) None of these",
+        " Ans .  D",
+        "Direction (23-27):",
+        ""
+    ],
+    [
+        "Q.23. How N is related to M?",
+        "(A) Brother",
+        "(B) Sister",
+        "(C) Sister or Brother",
+        "(D) Insufficient data",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.24. In which office is K working?",
+        "(A) Y",
+        "(B) Z",
+        "(C) V",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.25. Which of the following is a definite pair of males?",
+        "(A) NP",
+        "(B) NK",
+        "(C) KP",
+        "(D) NO",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.26. Who is working in office Y?",
+        "(A) K",
+        "(B) L",
+        "(C) M",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.27. At least how many males are among them?",
+        "(A) Two",
+        "(B) One",
+        "(C) Three",
+        "(D) Four",
+        "(E) None of these",
+        " Ans .  A",
+        "Direction (28-32) Answer the following question based on the given information.",
+        ""
+    ],
+    [
+        "Q.28.Which of the following pair show journalists?",
+        "(A) P Q",
+        "(B) S T",
+        "(C) R S",
+        "(D) T U",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.29. Which of the following pairs shows the engineers?",
+        "(A) R S",
+        "(B) P Q",
+        "(C) T U",
+        "(D) Q U",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.30. Which of the following is the married couple?",
+        "(A) Q U",
+        "(B) P Q",
+        "(C) Q R",
+        "(D) R U",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.31. What is the relation of R with U?",
+        "(A) Uncle",
+        "(B) Sister",
+        "(C) Brother",
+        "(D) Cannot say",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.32. Which of the following pairs shows the husband?",
+        "(A) R Q",
+        "(B) R S",
+        "(C) T U",
+        "(D) Not sure",
+        " Ans .  D",
+        "Direction (33-37)",
+        ""
+    ],
+    [
+        "Q.33. Which play was staged on Monday?",
+        "(A) B",
+        "(B) C",
+        "(C) D",
+        "(D) A",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.34. Which is the correct sequence for staging the plays?",
+        "(A) C, D, B, Y (Rest) A",
+        "(B) A (Rest) Y, B, D, C",
+        "(C) Cannot be determined",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.35.How many days interval is between A &amp; D?",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.36. Which was the Rest day?",
+        "(A) Tuesday",
+        "(B) Friday",
+        "(C) Wednesday",
+        "(D) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.37. On which day was C staged?",
+        "(A) Friday",
+        "(B) Wednesday",
+        "(C) Thursday",
+        "(D) Saturday",
+        " Ans .  D",
+        "Direction (38-42) Study the following information carefully to answer these questions:",
+        "Seven friends A, B, C , D, E, F and G perform in stage shows on a different day from Monday to Sunday, not necessarily in the same order. Each one performs a different item, viz. Music, Dance, Mimicry, Play, Debate, Speech and Monologue, not necessarily in the same order.",
+        "B performs \u2018Play\u2019 on Thursday and E performs \u2018Music\u2019 on Sunday. G performs \u2018Mimicry\u2019 but not on Tuesday or Saturday. C\u2019s performance is on the next day of G\u2019s performance. D performs on Monday but not \u2018Dance\u2019 or \u2018Debate\u2019. A performs \u2018Monologue\u2019 which is on the next day of \u2018Speech\u2019. \u2018Dance\u2019 is not performed on Saturday.",
+        "",
+        ""
+    ],
+    [
+        "Q.38.Who performs Dance?",
+        "(A) C",
+        "(B) F",
+        "(C) D",
+        "(D) C or D",
+        "(E) None of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.39. Which item is performed by D and on what day?",
+        "(A) Mimicry -Monday",
+        "(B) Music-Today",
+        "(C) Play-Wednesday",
+        "(D) Speech-Monday",
+        "(E) None of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.40. A performs on which day of the week?",
+        "(A) Tuesday",
+        "(B) Wednesday",
+        "(C) Friday",
+        "(D) Saturday",
+        "(E) None of these",
+        " Ans . A",
+     ],
+    [   "Q.Q 41. G performs on which day of the week?",
+        "(A) Wednesday",
+        "(B) Saturday",
+        "(C) Tuesday",
+        "(D) Cannot determined",
+        "(E) None of these",
+        " Ans . E",
+    ],
+    [
+        "Q.42. Who performs in Debate?",
+        "(A) B",
+        "(B) D",
+        "(C) F",
+        "(D) C",
+        "(E) None of these",
+        " Ans . D",
+        "Direction (Q 43-47) Study the following information carefully to answer these questions.",
+        ""
+    ],
+    [
+        "Q.43.For which of the following companies does C work?",
+        "(A) Y",
+        "(B) X",
+        "(C) Z",
+        "(D) Data inadequate",
+        "(E) None of these",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.44. Which of the following represents the pair working in the same company?",
+        "(A) D and C",
+        "(B) A and B",
+        "(C) A and E",
+        "(D) H and F",
+        "(E) None of these",
+        " Ans . E",
+        ""
+    ],
+    [
+        "Q.45. Which of the following combinations is correct?",
+        "(A) C-Z-Engineer",
+        "(B) E-X-Engineer",
+        "(C) H-X-HR",
+        "(D) C-Y-Engineer",
+        "(E) None of these",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.46. Who amongst friends is a doctor?",
+        "(A) H",
+        "(B) E",
+        "(C) C",
+        "(D) Either E or C",
+        "(E) None of these",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.47. Which of the following pairs represents the two ladies in the group?",
+        "(A) A and D",
+        "(B) B and D",
+        "(C) D and G",
+        "(D) Data inadequate",
+        "(E) None of these",
+        " Ans . D   "
+    ]
+]

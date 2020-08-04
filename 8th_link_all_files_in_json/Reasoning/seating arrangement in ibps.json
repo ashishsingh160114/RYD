@@ -1,0 +1,438 @@
+[
+    [
+        "Q.1)  Direction (1-5) Eight friends  P, Q, R, S, T, U, V &amp; W are sitting around a circle facing the center. V is third to the right of Q &amp; second to the left of R. Q is second to the left of T &amp; immediate right of S. U is between Q &amp; T. P is not at the left of R.",
+        "",
+        "Who is exactly at left of S?",
+        "(A) Q",
+        "(B) P",
+        "(C) U",
+        "(D) V",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.2) Who is second to right of T?",
+        "(A) R",
+        "(B) P",
+        "(C) W",
+        "(D)V",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.3) In which of the following pairs the first person sits exactly at the right of second person?",
+        "(A) UT",
+        "(B) WR",
+        "(C) WT",
+        "(D) VT",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.4) What is the exact position of W?",
+        "(A) Just left of V",
+        "(B) Just right of V",
+        "(C) In between U and V",
+        "(D) Immediate right to R",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.5) Who is second at right of S?",
+        "(A) U",
+        "(B) R",
+        "(C) T",
+        "(D) P",
+        " Ans .  A",
+        "Direction (6-10) Eight executives - H, I, J, K, L, M, N &amp; P are sitting around a circular table. M . M is third to the right of J &amp; second to the left of K. H is at immediate left of I. P is at immediate right of K. L is third to the left of N.",
+        ""
+    ],
+    [
+        "Q.6) Which of the following pair of persons shows the nearest neighbour of M?",
+        "(A) K, I",
+        "(B) L, I",
+        "(C) H, I",
+        "(D) H, L",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.7) In which of the following pairs, second person is second to the right of first person?",
+        "(A) LI",
+        "(B) NL",
+        "(C) PJ",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.8) Which of the following is definitely correct?",
+        "(A) K is at immediate right to P",
+        "(B) P is second to the right of J",
+        "(C) H is at immediate left of J",
+        "(D) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.9) Who is at immediate right of J?",
+        "(A) L",
+        "(B) I",
+        "(C) N",
+        "(D) H",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.10) Who is second to the left of M?",
+        "(A) H",
+        "(B) P",
+        "(C) J",
+        "(D) K",
+        " Ans .  A",
+        "Direction (11-15) J, K, H, R, F, N &amp; Q are sitting around a circular table facing the center. H is third to the left of L, who is at the immediate right of K. R is third to the left of N, but not the neighbour of H or L. J is second to the right of Q.",
+        ""
+    ],
+    [
+        "Q.11) Who is second to the left of N?",
+        "(A) Q",
+        "(B) K",
+        "(C) J",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.12) In which of the following group of persons, the first person is sitting between the next two persons?",
+        "(A) LKN",
+        "(B) QFL",
+        "(C) JHR",
+        "(D) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.13) Who is at the immediate left of R?",
+        "(A) Q",
+        "(B) K",
+        "(C) F",
+        "(D) N",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.14) Which of the following is a right place of J with respect to K?",
+        "(A) third to the left",
+        "(B) third to the right",
+        "(C) second to the left",
+        "(D) second to the right",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.15) As per the sitting arrangement, four of the following five are alike in a certain way &amp; so, they form their group. Which one is not included in this group?",
+        "(A) RQ",
+        "(B) LK",
+        "(C) JR",
+        "(D) FQ",
+        " Ans .  D",
+        "Direction (16-20) : Five persons are sitting in a row facing the North. Two of them are sitting at the ends of row. One of them is intelligent &amp; the other is fool. A fat person is sitting at the right side of a Weak person. A tall person is sitting at the left side of the fool person. Weak person is sitting between intelligent &amp; fat persons.",
+        ""
+    ],
+    [
+        "Q.16. What is the position of tall person from right?",
+        "(A) First",
+        "(B) Second",
+        "(C) Third",
+        "(D) Fourth",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.17. The person sitting at the left side of a weak person is ",
+        "(A) Intelligent",
+        "(B) Fat",
+        "(C) Fool",
+        "(D) Tall",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.18. Which of the following persons sits exactly in the middle?",
+        "(A) Intelligent",
+        "(B) Fat",
+        "(C) Fool",
+        "(D) Tall",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.19. Fat persons is sitting at the left side of whom?",
+        "(A) Intelligent",
+        "(B) Fool",
+        "(C) Weak",
+        "(D) Tall",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.20. If the intelligent &amp; the fool persons interchange their position with each other, &amp; similarly, the tall &amp; the weak persons do the same, then who will be sitting at the left side of the weak persons?",
+        "(A) Fat",
+        "(B) Weak",
+        "(C) Intelligent",
+        "(D) Fool",
+        " Ans .  D",
+        "Direction (21-25) : A, B, C, X, Y &amp; Z are sitting in a straight line facing the North. C is at third at the right of Z. B is second to the left of C. X is next to A at the right.",
+        ""
+    ],
+    [
+        "Q.21. Which of the following pairs is in the middle of the line?",
+        "(A) X B",
+        "(B) Z B",
+        "(C) B X",
+        "(D) X C",
+        "(E) X Y",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.22. What is the position of X with respect to Z?",
+        "(A) Next to Z at the right",
+        "(B) second to left",
+        "(C) third to right",
+        "(D) second to right",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.23. As per the given sitting arrangement, four of the following five are alike in a certain way &amp; so, they form their group. Which one of them is not included in this group?",
+        "(A) ZA",
+        "(B) XC",
+        "(C) CY",
+        "(D) YB",
+        "(E) XA",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.24. How many people are sitting between A and C?",
+        "(A) One",
+        "(B) Two",
+        "(C) Three",
+        "(D) Four",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.25. If A : X and Z : A, then Y ",
+        "(A) Y",
+        "(B) B",
+        "(C) A",
+        "(D) X",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.26. How many of these are between H and C?",
+        "(A) Two",
+        "(B) Three",
+        "(C) Two or Three",
+        "(D) insufficient data",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.27. Who is exactly at the left of A?",
+        "(A) H",
+        "(B) E",
+        "(C) G",
+        "(D) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.28. In which of the following pairs, the first person is sitting at the immediate left of the second person?",
+        "(A) CD",
+        "(B) BG",
+        "(C) EA",
+        "(D) FC",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29. Who is fourth to the right of B?",
+        "(A) E",
+        "(B) C",
+        "(C) A",
+        "(D) insufficient data",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.30. What is the position of E with respect to G?",
+        "(A) second to the right",
+        "(B) third to the left",
+        "(C) third to the right",
+        "(D) second to the left",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.31. Who is fourth to the left of F?",
+        "(A) E",
+        "(B) C",
+        "(C) A",
+        "(D) insufficient data",
+        "(E) None of these",
+        " Ans .  B",
+        ""
+    ],
+    [
+        "Q.32. Who is second to the right of G?",
+        "(A) F",
+        "(B) E",
+        "(C) C",
+        "(D) Insufficient data",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.33. What is the position of C with respect to E?",
+        "(A) Only (1)",
+        "(B) Only (4)",
+        "(C) Only (1) and (2)",
+        "(D) Only (2) and (3)",
+        "(E) None of these",
+        " Ans .  D",
+        ""
+    ],
+    [
+        "Q.34. Who is fourth to the left of G?",
+        "(A) B",
+        "(B) H",
+        "(C) I",
+        "(D) E",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.35. In which of the following pairs, the first person is sitting at the immediate right of the second person?",
+        "(A) DF",
+        "(B) FE",
+        "(C) GD",
+        "(D) AG",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.36. Who is at the immediate left of E?",
+        "(A) D",
+        "(B) F",
+        "(C) C",
+        "(D) insufficient data",
+        "(E) None of these",
+        " Ans .  B",
+        "Direction (37-41): A, B,C ,D ,E, F, G, &amp; H are eight friends. They are sitting on the circumference of a circular ground. Some of them are facing the center &amp; some are facing outside. The person facing the center, who is second to the left of B is A &amp; is third to the left of H. H, F, G &amp; E are not facing the center. D is at the left of H &amp; second to the right of C. G is not the neighbour of B &amp; F. E is second to the left of G, who is second to the left of F ?",
+        ""
+    ],
+    [
+        "Q.37. Who is third to the right of G?",
+        "(A) C",
+        "(B) A",
+        "(C) B",
+        "(D) H",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.38. Who is at the immediate left of E?",
+        "(A) C",
+        "(B) A",
+        "(C) B",
+        "(D) E",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.39. Who is third to the right of F?",
+        "(A) E",
+        "(B) H",
+        "(C) A",
+        "(D) C",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.40. How many people are sitting between F and A?",
+        "(A) 2",
+        "(B) 5",
+        "(C) 6",
+        "(D) 3",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.41. Who is fourth to the left of D?",
+        "(A) B",
+        "(B) C",
+        "(C) F",
+        "(D) A",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.42. Who is second to the left of N?",
+        "(A) Q",
+        "(B) K",
+        "(C) J",
+        "(D) F or J",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.43. In which of the following group of persons, the first person is sitting between the next two persons?",
+        "(A) LKN",
+        "(B) QFL",
+        "(C) JHR",
+        "(D) JHF",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.44. Who is at the immediate left of R?",
+        "(A) Q",
+        "(B) K",
+        "(C) F",
+        "(D) N",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.45. Which of the following is a positing of J with respect to K?",
+        "(A) third at left",
+        "(B) third at right",
+        "(C) second at left",
+        "(D) second at right",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.46. Four of the following five are alike in a certain way according to the given sitting arrangement &amp; so, they form their group. Which one of them is not included in this group?",
+        "(A) KFL",
+        "(B) QJR",
+        "(C) HRN",
+        "(D) NLK",
+        "(E) HRJ",
+        " Ans .  E "
+    ]
+]

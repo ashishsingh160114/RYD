@@ -1,0 +1,91 @@
+[
+    [
+        "Q.1. If it was Wednesday on 2 March, then which day would come on 26 March ?",
+        "(A) Friday      ",
+        "(B) Saturday    ",
+        "(C) Sunday    ",
+        "(D) Tuesday",
+        "B",
+        ""
+    ],
+    [
+        "Q.2. If it is Friday on 10 March 2003, then which day would come on 25 June, 2003 ?",
+        "(A) Monday    ",
+        "(B) Tuesday    ",
+        "(C) Sunday     ",
+        "(D) Wednesday",
+        "C",
+        ""
+    ],
+    [
+        "Q.3. If it is Wednesday on 17 March, 2005, then which day would come on 12 September, 2005?",
+        "(A) Monday   ",
+        "(B) Friday       ",
+        "(C) Sunday     ",
+        "(D) Saturday.",
+        "C",
+        ""
+    ],
+    [
+        "Q.4. Which day would come on 5 July, 1999 if it was Sunday on 20 November, 1999?",
+        "(A) Thursday   ",
+        "(B) Monday    ",
+        "(C) Tuesday     ",
+        "(D) Wednesday",
+        "C",
+        ""
+    ],
+    [
+        "Q.5. If it is Friday on 25 July, 2007; then which was the day on 2 February, 2007?",
+        "(A) Tuesday    ",
+        "(B) Sunday    ",
+        "(C) Monday    ",
+        "(D) Wednesday.",
+        "B",
+        ""
+    ],
+    [
+        "Q.6. If it is Friday on 12 April, 2002, then which day would come on 12 April, 2003 ?",
+        "(A) Sunday     ",
+        "(B) Saturday   ",
+        "(C) Thursday    ",
+        "(D) None of these.",
+        "B",
+        ""
+    ],
+    [
+        "Q.7. Pramila was born on 12 January, 1996, Friday. On which day she would celebrate her next birthday?",
+        "(A) Monday    ",
+        "(B) Saturday   ",
+        "(C) Sunday     ",
+        "(D) Friday",
+        "C",
+        ""
+    ],
+    [
+        "Q.8. 2 days before the yesterday, it was Tuesday, then which would be the day on the day after 2 days from tomorrow?",
+        "(A) Wednesday        ",
+        "(B) Tuesday           ",
+        "(C) Monday           ",
+        "(D) Sunday",
+        "B",
+        ""
+    ],
+    [
+        "Q.9. Suman remembers that her brothers birthday comes after 15 February, but before 18 February, whereas her sister remembers that her brothers birthday comes after 16 January but before 19 February. On which date Sumans brothers birthday comes?",
+        "(A) 17          ",
+        "(B) 18          ",
+        "(C) 16          ",
+        "(D) 19",
+        "A",
+        ""
+    ],
+    [
+        "Q.10. If a number is larger than 5 but smaller than 9 &amp; larger than 7 but smaller than 11, then find that number.",
+        "(A) 5           ",
+        "(B) 6           ",
+        "(C) 7           ",
+        "(D) 8",
+        "D   "
+    ]
+]

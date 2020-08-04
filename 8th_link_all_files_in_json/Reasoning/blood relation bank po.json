@@ -1,0 +1,281 @@
+[
+    [
+        "Q.1. P is Qs brother, R is Qs mother, S is Rs father, T is Ss mother. What is the relation of P with T?",
+        "(A) Granddaughter",
+        "(B) Great Grandson",
+        "(C) Grandson",
+        "(D) Grandmother",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.2. A is a mother of B, C is a son of A, D is a brother of E, E is a daughter of B, B is a brother of F, then D is a grandmother of ",
+        "(A) A",
+        "(B) B",
+        "(C) C",
+        "(D) D",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.3. X is Ys brother, Y is Zs wife, Z is Ws son, W is Vs wife. What is the relation of V with Y ?",
+        "(A) Mother-in-law",
+        "(B) Brother-in-law",
+        "(C) Father-in-law",
+        "(D) Son-in-law",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.4. A &amp; B are sister, R &amp; S are brothers, daughter of A is sister of R, then what is the relation of B with S?",
+        "(A) Mother",
+        "(B) Grandmother",
+        "(C) Sister",
+        "(D) Aunt",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.5. A said to B: C is my fathers nephew. D is my uncle' child, but not Cs brother. What is the relation of D with C?",
+        "(A) Mother",
+        "(B) Sister",
+        "(C) Brother",
+        "(D) Father",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.6. E is a sister of B, A is a father of C, B is a son of C, then what is the relation of A with E?",
+        "(A) Grandfather",
+        "(B) Granddaughter",
+        "(C) Father",
+        "(D) Great Grandfather",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.7. A man pointed a photograph &amp; said to his friend: She is the daughter of the only son of my fathers wife. How the girl in the photograph is related to that person?",
+        "(A) Daughter",
+        "(B) Cousin Sister",
+        "(C) Mother",
+        "(D) Sister",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.8. A is a brother of B, C is father of D, E is a mother of B, A &amp; D are brother, then what is the relation of E with C?",
+        "(A) Sister",
+        "(B) Sister-in-law",
+        "(C) Nieces",
+        "(D) Wife",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.9. A is a brother of B &amp; C. D is mother of C. E is father of A, then which of the following is definitely not true?",
+        "(A) B is Es son",
+        "(B) E is Bs father",
+        "(C) E is Ds husband",
+        "(D) A is Ds son.",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.10. A is son of B, B &amp; C are sisters, E is a mother of C, If D is a son of E, then which of the following statements is true?",
+        "(A) D is an uncle (mama) of A",
+        "(B) E is a brother of B",
+        "(C) D is a maternal cousin of A",
+        "(D) B &amp; D are brothers",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.11. A woman introduced a boy &amp; said: His uncle (mama) &amp; my uncle(mama) are brother of each other. What is the relation of the woman with that boy?",
+        "(A) Aunt (Chachi)",
+        "(B) Mother",
+        "(C) Grandmother",
+        "(D) Sister-in-law (Bhabhi)",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.12. Vinod pointed Archana &amp; told: Her father is a son of my mothers sister. What is the relation of Archana with Vinod?",
+        "(A) Niece",
+        "(B) Brother",
+        "(C) Cousin",
+        "(D) Grandfather",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.13. C is nephew of As father. D is As cousin, but not Cs brother. How D is related to C?",
+        "(A) Father",
+        "(B) Sister",
+        "(C) Mother",
+        "(D) Aunt (chachi)",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.14. Mihir shows a picture &amp; says: His/her sister is a mother of my brothers son Tushar. How Mihir is related to Tushar?",
+        "(A) Brother",
+        "(B) Uncle",
+        "(C) Nephew",
+        "(D) Brother-in-law",
+        " Ans . B",
+        ""
+    ],
+    [
+        "Q.15. Juhi pointed Sanjay &amp; said: He is the husband of the only sister of my fathers wifes son. How Juhi is related to Sanjay?",
+        "(A) Wife",
+        "(B) Mother",
+        "(C) Aunt (Mousi)",
+        "(D) Sister-in-law",
+        " Ans . A",
+        ""
+    ],
+    [
+        "Q.16. A man introduced a woman &amp; told : Her mothers husbands sister is my aunt (mousi). What is the relation of that woman with the man?",
+        "(A) Aunt (Chachi)",
+        "(B) Mother",
+        "(C) Paternal Cousin Sister",
+        "(D) Maternal Cousin Sister",
+        " Ans . D",
+        ""
+    ],
+    [
+        "Q.17. My mother showed me a photograph &amp; said: This beautiful ladys husband is a son of your mother. If I have not any brother, then what is my relation with the lady in photograph?",
+        "(A) Brother-Sister",
+        "(B) Jija-Sali",
+        "(C) Husband",
+        "(D) Devar-Bhabhi",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.18. Ravi pointed a picture of a girl &amp; said: Her mothers brother is the only son of my mothers father. What is the relation of girls mother with Ravi?",
+        "(A) Mother",
+        "(B) Aunt",
+        "(C) Mother/Aunt",
+        "(D) None of these",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.19. A is Bs daughter, B is Cs mother, D is Cs brother. What is the relation of D with A?",
+        "(A) Father",
+        "(B) Grandfather",
+        "(C) Brother",
+        "(D) Son",
+        " Ans . C",
+        ""
+    ],
+    [
+        "Q.20. A person introduced a lady &amp; said: She is samdhan of the mother-in-law of the only daughter-in-law of my sons grandmother. How that person is related to the lady?",
+        "(A) Son",
+        "(B) Son-in-law",
+        "(C) Brother",
+        "(D) Husband",
+        " Ans . B",
+        "Direction (21-24): Read the following information carefully and answer the questions given below:",
+        ""
+    ],
+    [
+        "Q.21. What is the surname of Rashmi?",
+        "(A) Sharma",
+        "(B) Roy",
+        "(C) Arora",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.22. How is Sammer related to Monikas father?",
+        "(A) Grandson",
+        "(B) Son",
+        "(C) Cousin",
+        "(D) Son-in-law",
+        "(E) None of these",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.23. What is the Surname of Sammer?",
+        "(A) Roy",
+        "(B) Sharma",
+        "(C) Arora",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.24. How is Mrs. Roy is Related to Ashish?",
+        "(A) Aunt",
+        "(B) Mother-in-law",
+        "(C) Mother",
+        "(D) Sister-in-law",
+        "(E) None of these",
+        " Ans .  B",
+        "Direction (25-27): Study the information given below and answer the questions that follow",
+        ""
+    ],
+    [
+        "Q.25. If P+Q  R, which of the following is true?",
+        "(A) R is the mother of P.",
+        "(B) R is the sister-in-law of P.",
+        "(C) R is the aunt of P.",
+        "(D) R is the mother-in-law of P.",
+        " Ans .  A",
+        ""
+    ],
+    [
+        "Q.26. If P  Q + R, which of the following is true?",
+        "(A) P is the brother of R.",
+        "(B) P is the uncle of R.",
+        "(C) P is the son of R.",
+        "(D) P is the father of R.",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.27. If P+Q+R, which of the following is true?",
+        "(A) P is the niece of R.",
+        "(B) P is the daughter of R.",
+        "(C) P is the cousin of R.",
+        "(D) P is the daughter-in-law of R.",
+        " Ans .  A",
+        "Directions (28-30): Following questions are based on the information given below:",
+        ""
+    ],
+    [
+        "Q.28. In the expression B+DMN, how is M related to B?",
+        "(A) Granddaughter",
+        "(B) Son",
+        "(C) Grandson",
+        "(D) Granddaughter or Grandson",
+        "(E) None of these",
+        " Ans .  C",
+        ""
+    ],
+    [
+        "Q.29. Which of the following represents J is son of F?",
+        "(A) J  R  T  F",
+        "(B) J + R  T  F",
+        "(C) J + M  N F",
+        "(D) Cannot be determined",
+        "(E) None of these",
+        " Ans .  E",
+        ""
+    ],
+    [
+        "Q.30. Which of the following represents R is nice of M?",
+        "(A) M  K  T  R",
+        "(B) M  J + R  N",
+        "(C) R  M  T  W",
+        "(D) cannot be determined",
+        "(E) none of these",
+        " Ans . "
+    ]
+]

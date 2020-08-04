@@ -1,0 +1,114 @@
+[
+    [
+        "Q.1 ",
+        "",
+        "conditions : (A) There are six members in a family  A, B, C, D, E &amp; F, including two married couples.",
+        "(B) Two of them are doctors, one is a teacher, one is a clerk &amp; two are the artists. Both the doctors are of same gender.",
+        "(C) A &amp; C are in the same profession.",
+        "(D) Teacher is married to a doctor &amp; an artist is married to clerk.",
+        "(E) A is an artist &amp; E is male doctor. Both are unmarried.",
+        "",
+       
+
+ "What is the profession of B?",
+        "(A) Clerk",
+        "(B) Teacher",
+        "(C) Doctor",
+        "(D) Artist",
+        "Ans. (B)",
+        ""
+    ],
+    [
+        "Q.2 To whom the teacher is married?",
+        "(A) D",
+        "(B) F",
+        "(C) C",
+        "(D) A",
+        "Ans. (B)",
+        ""
+    ],
+    [
+        "Q.3 Who is a clerk?",
+        "(A) A",
+        "(B) B",
+        "(C) C",
+        "(D) D",
+        "Ans. (D)",
+        ""
+    ],
+    [
+        "Q.4 The married couples from the following are-",
+        "(A) CD and BE",
+        "(B) CD and FB",
+        "(C) FD and EB",
+        "(D) CF and BE",
+        "Ans. (B)",
+        ""
+    ],
+    [
+        "Q.5 Which of the information is required from the above?",
+        "(A) I",
+        "(B) II",
+        "(C) III",
+        "(D) All are necessary",
+        ""
+    ],
+    [
+        "Q.6    Six lectures \u2013 A, B, C, D, E, & F are to be held from Sunday to Saturday. Only one lecture per day will be conducted according to the following conditions:",
+        "conditions  (A) A will not be conducted on Thursday.",
+        "(B) C will be conducted immediately after F.",
+        "(C) Two days leave should be provided between E &amp; D.",
+        "(D) Except for Friday, there will be no lecture on one day &amp; lecture D will be conducted exactly before the leave.",
+        "(E) Lecture B will be conducted on Tuesday &amp; lecture D will not be conducted exactly after B.",
+        "",
+        "",
+        "",
+        "How many lectures will be conducted between C &amp; D?",
+        "(A) None",
+        "(B) One",
+        "(C) Two",
+        "(D) Three",
+        ""
+    ],
+    [
+        "Q.7 Which of the following lectures will be on the last day?",
+        "(A) A",
+        "(B) C",
+        "(C) B",
+        "(D) F",
+        ""
+    ],
+    [
+        "Q.8 Which information is required to organize the lectures?",
+        "(A) Only A",
+        "(B) Only B",
+        "(C) Only E",
+        "(D) All are necessary",
+        ""
+    ],
+    [
+        "Q.9 On which day lecture F will be conducted?",
+        "(A) Friday",
+        "(B) Saturday",
+        "(C) Sunday",
+        "(D) Thursday",
+        ""
+    ],
+    [
+        "Q.10 On which day there will not be any lecture?",
+        "(A) Sunday",
+        "(B) Friday",
+        "(C) Saturday",
+        "(D) Monday",
+        "",
+        ""
+    ],
+    [
+        "Q.11.  P, Q, R, S, T, U are 6 family members, including two married couples. Teacher T is married to a doctor, who is a mother of R & U. Lawyer Q is married to P. P has a son & a grandson. One of the married two women is a housewife. There is a Student & a male engineer in the family. Which of the following is TRUE about the family\u2019s granddaughter?",
+        "(A) She is a lawyer",
+        "(B) She is an engineer",
+        "(C) She is a student",
+        "(D) She is a doctor",
+        " ans : C     "
+    ]
+]
